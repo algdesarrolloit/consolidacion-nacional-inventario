@@ -1,0 +1,46 @@
+﻿{
+    "ultima_actualizacion":  "03/09/2026 10:02:08",
+    "almacenes":  [
+                      {
+                          "almacen":  "BARQUISIMETO",
+                          "cajas":  596,
+                          "codigo":  "BTO"
+                      },
+                      {
+                          "almacen":  "CAGUA",
+                          "cajas":  30491,
+                          "codigo":  "CAG"
+                      },
+                      {
+                          "almacen":  "CAPITAL",
+                          "cajas":  654,
+                          "codigo":  "CAP"
+                      },
+                      {
+                          "almacen":  "ANDES",
+                          "cajas":  433,
+                          "codigo":  "AND"
+                      },
+                      {
+                          "almacen":  "MARGARITA",
+                          "cajas":  991,
+                          "codigo":  "MAR"
+                      },
+                      {
+                          "almacen":  "ZULIA",
+                          "cajas":  1377,
+                          "codigo":  "ZUL"
+                      },
+                      {
+                          "almacen":  "BARCELONA",
+                          "cajas":  676,
+                          "codigo":  "BAR"
+                      },
+                      {
+                          "almacen":  "BOLIVAR",
+                          "cajas":  578,
+                          "codigo":  "BOL"
+                      }
+                  ],
+    "total_general_cajas":  35796
+}
