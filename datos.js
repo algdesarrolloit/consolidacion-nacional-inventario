@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  926
+                          "cajas":  1360
                       },
                       {
                           "almacen":  "CAGUA",
@@ -282,7 +282,7 @@
                           "barcelona":  0,
                           "cagua":  420,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  180,
                           "bolivar":  70
                       },
                       {
@@ -295,7 +295,7 @@
                           "barcelona":  16,
                           "cagua":  681,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  21,
+                          "barquisimeto":  41,
                           "bolivar":  0
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  0,
                           "cagua":  833,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                          "barquisimeto":  7,
+                          "barquisimeto":  22,
                           "bolivar":  8
                       },
                       {
@@ -555,7 +555,7 @@
                           "barcelona":  4,
                           "cagua":  557,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  3,
+                          "barquisimeto":  18,
                           "bolivar":  8
                       },
                       {
@@ -581,7 +581,7 @@
                           "barcelona":  5,
                           "cagua":  53,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
-                          "barquisimeto":  0,
+                          "barquisimeto":  5,
                           "bolivar":  0
                       },
                       {
@@ -607,7 +607,7 @@
                           "barcelona":  0,
                           "cagua":  88,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  15,
                           "bolivar":  11
                       },
                       {
@@ -620,7 +620,7 @@
                           "barcelona":  1,
                           "cagua":  2461,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  120,
                           "bolivar":  55
                       },
                       {
@@ -698,7 +698,7 @@
                           "barcelona":  0,
                           "cagua":  79,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  0,
+                          "barquisimeto":  24,
                           "bolivar":  0
                       },
                       {
@@ -724,7 +724,7 @@
                           "barcelona":  16,
                           "cagua":  1062,
                           "descripcion":  "VINAGRE 24 X 500ML",
-                          "barquisimeto":  29,
+                          "barquisimeto":  69,
                           "bolivar":  5
                       },
                       {
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/09/2026 16:11:24",
-    "total_general_cajas":  36526
+    "ultima_actualizacion":  "07/09/2026 16:16:23",
+    "total_general_cajas":  36960
 };
