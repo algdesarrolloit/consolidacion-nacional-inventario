@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  45843,
-                                                              "bidones":  833.51
+                                                              "kg":  60693,
+                                                              "bidones":  1103.51
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  596
+                          "cajas":  926
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  99045.9,
-                          "cajas":  30368
+                          "kg":  113895.9,
+                          "cajas":  30788
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -179,7 +179,7 @@
                           "cajas":  736
                       }
                   ],
-    "total_general_kg":  99045.9,
+    "total_general_kg":  113895.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -243,7 +243,7 @@
                           "barcelona":  11,
                           "cagua":  219,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  6,
+                          "barquisimeto":  36,
                           "bolivar":  4
                       },
                       {
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  420,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  0,
                           "bolivar":  70
@@ -373,7 +373,7 @@
                           "barcelona":  0,
                           "cagua":  3992,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  26,
+                          "barquisimeto":  86,
                           "bolivar":  27
                       },
                       {
@@ -386,7 +386,7 @@
                           "barcelona":  5,
                           "cagua":  737,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  18,
+                          "barquisimeto":  48,
                           "bolivar":  22
                       },
                       {
@@ -425,7 +425,7 @@
                           "barcelona":  0,
                           "cagua":  1849,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  11,
+                          "barquisimeto":  71,
                           "bolivar":  35
                       },
                       {
@@ -438,7 +438,7 @@
                           "barcelona":  0,
                           "cagua":  1105,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  21,
+                          "barquisimeto":  81,
                           "bolivar":  30
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  4,
                           "cagua":  368,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  5,
+                          "barquisimeto":  35,
                           "bolivar":  5
                       },
                       {
@@ -711,7 +711,7 @@
                           "barcelona":  14,
                           "cagua":  1554,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  56,
+                          "barquisimeto":  116,
                           "bolivar":  29
                       },
                       {
@@ -761,7 +761,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  45843,
+                          "cagua":  60693,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/09/2026 14:56:26",
-    "total_general_cajas":  35776
+    "ultima_actualizacion":  "07/09/2026 15:41:25",
+    "total_general_cajas":  36526
 };
