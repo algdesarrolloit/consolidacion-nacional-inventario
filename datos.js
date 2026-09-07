@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/09/2026 16:51:23",
+    "ultima_actualizacion":  "07/09/2026 16:56:23",
     "total_general_cajas":  36679
 };
