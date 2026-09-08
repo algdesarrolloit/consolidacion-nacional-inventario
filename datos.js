@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  878
+                          "cajas":  881
                       },
                       {
                           "almacen":  "CAGUA",
@@ -282,7 +282,7 @@
                           "barcelona":  0,
                           "cagua":  2449,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  2,
                           "bolivar":  54
                       },
                       {
@@ -425,7 +425,7 @@
                           "barcelona":  0,
                           "cagua":  1843,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  66,
+                          "barquisimeto":  67,
                           "bolivar":  23
                       },
                       {
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 16:30:46",
-    "total_general_cajas":  37905
+    "ultima_actualizacion":  "08/09/2026 16:40:46",
+    "total_general_cajas":  37908
 };
