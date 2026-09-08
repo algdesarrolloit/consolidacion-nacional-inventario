@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32351
+                          "cajas":  32171
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1859,
+                          "cagua":  1849,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  83,
                           "bolivar":  70
@@ -371,7 +371,7 @@
                           "margarita":  9,
                           "capital":  12,
                           "barcelona":  11,
-                          "cagua":  658,
+                          "cagua":  652,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  25
@@ -384,7 +384,7 @@
                           "margarita":  28,
                           "capital":  5,
                           "barcelona":  0,
-                          "cagua":  3991,
+                          "cagua":  3986,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  83,
                           "bolivar":  27
@@ -397,7 +397,7 @@
                           "margarita":  21,
                           "capital":  15,
                           "barcelona":  5,
-                          "cagua":  736,
+                          "cagua":  731,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  43,
                           "bolivar":  22
@@ -436,7 +436,7 @@
                           "margarita":  27,
                           "capital":  31,
                           "barcelona":  0,
-                          "cagua":  1849,
+                          "cagua":  1843,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  66,
                           "bolivar":  35
@@ -449,7 +449,7 @@
                           "margarita":  34,
                           "capital":  21,
                           "barcelona":  0,
-                          "cagua":  1104,
+                          "cagua":  1101,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  78,
                           "bolivar":  30
@@ -462,7 +462,7 @@
                           "margarita":  21,
                           "capital":  2,
                           "barcelona":  0,
-                          "cagua":  35,
+                          "cagua":  20,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  4,
                           "bolivar":  5
@@ -475,7 +475,7 @@
                           "margarita":  37,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  925,
+                          "cagua":  915,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  21,
                           "bolivar":  37
@@ -488,7 +488,7 @@
                           "margarita":  13,
                           "capital":  28,
                           "barcelona":  0,
-                          "cagua":  300,
+                          "cagua":  297,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  15,
                           "bolivar":  29
@@ -527,7 +527,7 @@
                           "margarita":  1,
                           "capital":  21,
                           "barcelona":  0,
-                          "cagua":  185,
+                          "cagua":  135,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  8,
                           "bolivar":  10
@@ -566,7 +566,7 @@
                           "margarita":  51,
                           "capital":  20,
                           "barcelona":  4,
-                          "cagua":  554,
+                          "cagua":  544,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  12,
                           "bolivar":  8
@@ -618,7 +618,7 @@
                           "margarita":  28,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  88,
+                          "cagua":  85,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                           "barquisimeto":  11,
                           "bolivar":  11
@@ -631,7 +631,7 @@
                           "margarita":  142,
                           "capital":  28,
                           "barcelona":  1,
-                          "cagua":  2461,
+                          "cagua":  2413,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  49,
                           "bolivar":  55
@@ -722,7 +722,7 @@
                           "margarita":  63,
                           "capital":  0,
                           "barcelona":  14,
-                          "cagua":  1539,
+                          "cagua":  1533,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  100,
                           "bolivar":  29
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 08:38:00",
-    "total_general_cajas":  38030
+    "ultima_actualizacion":  "08/09/2026 08:40:47",
+    "total_general_cajas":  37850
 };
