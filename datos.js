@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32465
+                          "cajas":  32367
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  1374
+                          "cajas":  1162
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -234,14 +234,14 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  26,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  21,
                           "capital":  25,
                           "barcelona":  11,
-                          "cagua":  219,
+                          "cagua":  217,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  36,
                           "bolivar":  4
@@ -267,20 +267,20 @@
                           "margarita":  28,
                           "capital":  47,
                           "barcelona":  0,
-                          "cagua":  159,
+                          "cagua":  154,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  2,
                           "bolivar":  38
                       },
                       {
-                          "zulia":  101,
+                          "zulia":  30,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  53,
                           "margarita":  148,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1920,
+                          "cagua":  1860,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  83,
                           "bolivar":  70
@@ -293,7 +293,7 @@
                           "margarita":  9,
                           "capital":  46,
                           "barcelona":  16,
-                          "cagua":  681,
+                          "cagua":  678,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  41,
                           "bolivar":  0
@@ -338,7 +338,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  75,
+                          "zulia":  74,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  0,
@@ -377,7 +377,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  0,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  0,
@@ -390,7 +390,7 @@
                           "bolivar":  27
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  0,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  0,
@@ -403,7 +403,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  21,
+                          "zulia":  19,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  63,
@@ -416,7 +416,7 @@
                           "bolivar":  16
                       },
                       {
-                          "zulia":  8,
+                          "zulia":  7,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  66,
@@ -429,7 +429,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  13,
+                          "zulia":  0,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  0,
@@ -442,7 +442,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  35,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
@@ -455,7 +455,7 @@
                           "bolivar":  30
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  60,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  0,
@@ -468,7 +468,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  14,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -481,7 +481,7 @@
                           "bolivar":  37
                       },
                       {
-                          "zulia":  41,
+                          "zulia":  37,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  36,
@@ -533,20 +533,20 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  30,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
                           "capital":  48,
                           "barcelona":  0,
-                          "cagua":  833,
+                          "cagua":  831,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  22,
                           "bolivar":  8
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  46,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  0,
@@ -559,14 +559,14 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  2,
+                          "zulia":  0,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  51,
                           "capital":  20,
                           "barcelona":  4,
-                          "cagua":  557,
+                          "cagua":  554,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  12,
                           "bolivar":  8
@@ -598,7 +598,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  27,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
                           "andes":  15,
@@ -611,7 +611,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  25,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  0,
@@ -624,7 +624,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  304,
+                          "zulia":  302,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  85,
@@ -676,7 +676,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  7,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  0,
@@ -689,14 +689,14 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  9,
+                          "zulia":  0,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  15,
                           "capital":  18,
                           "barcelona":  10,
-                          "cagua":  609,
+                          "cagua":  606,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  33,
                           "bolivar":  64
@@ -709,33 +709,33 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  184,
+                          "cagua":  179,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  24,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  12,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  63,
                           "capital":  0,
                           "barcelona":  14,
-                          "cagua":  1554,
+                          "cagua":  1544,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  100,
                           "bolivar":  29
                       },
                       {
-                          "zulia":  69,
+                          "zulia":  55,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  37,
                           "capital":  25,
                           "barcelona":  16,
-                          "cagua":  1062,
+                          "cagua":  1057,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  53,
                           "bolivar":  5
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 07:56:26",
-    "total_general_cajas":  38356
+    "ultima_actualizacion":  "08/09/2026 08:30:48",
+    "total_general_cajas":  38046
 };
