@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32255
+                          "cajas":  32252
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -527,7 +527,7 @@
                           "margarita":  9,
                           "capital":  36,
                           "barcelona":  0,
-                          "cagua":  831,
+                          "cagua":  829,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  14,
                           "bolivar":  6
@@ -566,7 +566,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  0,
+                          "cagua":  1,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  1,
                           "bolivar":  1
@@ -605,7 +605,7 @@
                           "margarita":  28,
                           "capital":  7,
                           "barcelona":  0,
-                          "cagua":  75,
+                          "cagua":  73,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                           "barquisimeto":  11,
                           "bolivar":  3
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 16:40:46",
-    "total_general_cajas":  37908
+    "ultima_actualizacion":  "08/09/2026 16:50:46",
+    "total_general_cajas":  37905
 };
