@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  30788
+                          "cajas":  32465
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  420,
+                          "cagua":  1920,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  83,
                           "bolivar":  70
@@ -313,13 +313,26 @@
                       },
                       {
                           "zulia":  0,
+                          "codigo":  "4MMA003",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  5,
+                          "descripcion":  "MAYONESA 24 X 175GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  0,
+                          "cagua":  67,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -696,7 +709,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  79,
+                          "cagua":  184,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  24,
                           "bolivar":  0
@@ -780,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/09/2026 17:05:39",
-    "total_general_cajas":  36679
+    "ultima_actualizacion":  "08/09/2026 07:52:34",
+    "total_general_cajas":  38356
 };
