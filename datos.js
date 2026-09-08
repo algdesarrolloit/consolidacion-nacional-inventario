@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1413
+                          "cajas":  1343
                       },
                       {
                           "almacen":  "ANDES",
@@ -278,7 +278,7 @@
                           "um":  "CJ",
                           "andes":  53,
                           "margarita":  148,
-                          "capital":  120,
+                          "capital":  119,
                           "barcelona":  0,
                           "cagua":  1729,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  67,
+                          "capital":  0,
                           "barcelona":  2,
                           "cagua":  0,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  21,
-                          "capital":  2,
+                          "capital":  1,
                           "barcelona":  0,
                           "cagua":  20,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -733,7 +733,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  37,
-                          "capital":  60,
+                          "capital":  59,
                           "barcelona":  16,
                           "cagua":  1022,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 11:00:46",
-    "total_general_cajas":  37750
+    "ultima_actualizacion":  "08/09/2026 11:10:46",
+    "total_general_cajas":  37680
 };
