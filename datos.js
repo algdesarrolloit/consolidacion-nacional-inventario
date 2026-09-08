@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1079
+                          "cajas":  1071
                       },
                       {
                           "almacen":  "CAGUA",
@@ -698,7 +698,7 @@
                           "barcelona":  0,
                           "cagua":  179,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  24,
+                          "barquisimeto":  16,
                           "bolivar":  0
                       },
                       {
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 11:30:46",
-    "total_general_cajas":  37571
+    "ultima_actualizacion":  "08/09/2026 11:40:46",
+    "total_general_cajas":  37563
 };
