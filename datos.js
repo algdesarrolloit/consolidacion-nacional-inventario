@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32171
+                          "cajas":  32071
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -501,7 +501,7 @@
                           "margarita":  1,
                           "capital":  10,
                           "barcelona":  0,
-                          "cagua":  432,
+                          "cagua":  421,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  30,
                           "bolivar":  22
@@ -514,7 +514,7 @@
                           "margarita":  1,
                           "capital":  17,
                           "barcelona":  0,
-                          "cagua":  349,
+                          "cagua":  313,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  12,
                           "bolivar":  21
@@ -592,7 +592,7 @@
                           "margarita":  5,
                           "capital":  30,
                           "barcelona":  5,
-                          "cagua":  53,
+                          "cagua":  0,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  5,
                           "bolivar":  0
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 08:41:06",
-    "total_general_cajas":  37850
+    "ultima_actualizacion":  "08/09/2026 08:50:47",
+    "total_general_cajas":  37750
 };
