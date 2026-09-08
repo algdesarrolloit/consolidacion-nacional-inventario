@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32352
+                          "cajas":  32351
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -449,7 +449,7 @@
                           "margarita":  34,
                           "capital":  21,
                           "barcelona":  0,
-                          "cagua":  1105,
+                          "cagua":  1104,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  78,
                           "bolivar":  30
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/09/2026 08:34:10",
-    "total_general_cajas":  38031
+    "ultima_actualizacion":  "08/09/2026 08:38:00",
+    "total_general_cajas":  38030
 };
