@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1088
+                          "cajas":  1087
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -669,7 +669,7 @@
                           "andes":  0,
                           "margarita":  28,
                           "capital":  18,
-                          "barcelona":  21,
+                          "barcelona":  20,
                           "cagua":  1007,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  8,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 13:10:46",
-    "total_general_cajas":  40976
+    "ultima_actualizacion":  "09/09/2026 13:20:46",
+    "total_general_cajas":  40975
 };
