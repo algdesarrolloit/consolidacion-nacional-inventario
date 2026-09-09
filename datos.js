@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  34127
+                          "cajas":  32796
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,10 +189,10 @@
                           "margarita":  0,
                           "capital":  222,
                           "barcelona":  0,
-                          "cagua":  1331,
+                          "cagua":  0,
                           "descripcion":  "UVAS PASAS 1 X 10KG",
                           "barquisimeto":  0,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  1,
@@ -556,7 +556,7 @@
                           "cagua":  444,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  8,
-                          "bolivar":  20
+                          "bolivar":  21
                       },
                       {
                           "zulia":  1,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 14:30:46",
-    "total_general_cajas":  40974
+    "ultima_actualizacion":  "09/09/2026 14:40:46",
+    "total_general_cajas":  39643
 };
