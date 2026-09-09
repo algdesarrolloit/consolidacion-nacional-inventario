@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  1162
+                          "cajas":  1161
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1181
+                          "cajas":  1080
                       }
                   ],
     "total_general_kg":  113895.9,
@@ -244,7 +244,7 @@
                           "cagua":  172,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  29,
-                          "bolivar":  30
+                          "bolivar":  17
                       },
                       {
                           "zulia":  51,
@@ -296,7 +296,7 @@
                           "cagua":  648,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  37,
-                          "bolivar":  30
+                          "bolivar":  29
                       },
                       {
                           "zulia":  17,
@@ -322,7 +322,7 @@
                           "cagua":  1150,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
-                          "bolivar":  200
+                          "bolivar":  143
                       },
                       {
                           "zulia":  74,
@@ -390,7 +390,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  18,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  63,
@@ -504,7 +504,7 @@
                           "cagua":  273,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  10,
-                          "bolivar":  15
+                          "bolivar":  14
                       },
                       {
                           "zulia":  0,
@@ -556,7 +556,7 @@
                           "cagua":  444,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  8,
-                          "bolivar":  40
+                          "bolivar":  32
                       },
                       {
                           "zulia":  1,
@@ -673,7 +673,7 @@
                           "cagua":  1007,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  8,
-                          "bolivar":  30
+                          "bolivar":  23
                       },
                       {
                           "zulia":  0,
@@ -699,7 +699,7 @@
                           "cagua":  142,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  0,
-                          "bolivar":  15
+                          "bolivar":  7
                       },
                       {
                           "zulia":  12,
@@ -725,7 +725,7 @@
                           "cagua":  932,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  43,
-                          "bolivar":  60
+                          "bolivar":  54
                       },
                       {
                           "zulia":  0,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 11:10:46",
-    "total_general_cajas":  41745
+    "ultima_actualizacion":  "09/09/2026 11:20:46",
+    "total_general_cajas":  41643
 };
