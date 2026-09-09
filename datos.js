@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32796
+                          "cajas":  32652
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  886
+                          "cajas":  1006
                       }
                   ],
     "total_general_kg":  113895.9,
@@ -280,10 +280,10 @@
                           "margarita":  148,
                           "capital":  104,
                           "barcelona":  85,
-                          "cagua":  4429,
+                          "cagua":  4309,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  2,
-                          "bolivar":  50
+                          "bolivar":  170
                       },
                       {
                           "zulia":  45,
@@ -306,7 +306,7 @@
                           "margarita":  6,
                           "capital":  11,
                           "barcelona":  11,
-                          "cagua":  321,
+                          "cagua":  320,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  6,
                           "bolivar":  10
@@ -488,7 +488,7 @@
                           "margarita":  13,
                           "capital":  5,
                           "barcelona":  5,
-                          "cagua":  399,
+                          "cagua":  389,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  20
@@ -501,7 +501,7 @@
                           "margarita":  16,
                           "capital":  17,
                           "barcelona":  10,
-                          "cagua":  273,
+                          "cagua":  263,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  10,
                           "bolivar":  14
@@ -592,7 +592,7 @@
                           "margarita":  37,
                           "capital":  42,
                           "barcelona":  76,
-                          "cagua":  854,
+                          "cagua":  851,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  55,
                           "bolivar":  13
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 14:50:46",
-    "total_general_cajas":  39643
+    "ultima_actualizacion":  "09/09/2026 15:00:46",
+    "total_general_cajas":  39619
 };
