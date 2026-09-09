@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1087
+                          "cajas":  1091
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -383,7 +383,7 @@
                           "andes":  0,
                           "margarita":  32,
                           "capital":  22,
-                          "barcelona":  30,
+                          "barcelona":  32,
                           "cagua":  674,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  43,
@@ -617,7 +617,7 @@
                           "andes":  85,
                           "margarita":  142,
                           "capital":  58,
-                          "barcelona":  59,
+                          "barcelona":  61,
                           "cagua":  2143,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  39,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 15:10:46",
-    "total_general_cajas":  39750
+    "ultima_actualizacion":  "09/09/2026 15:20:46",
+    "total_general_cajas":  39754
 };
