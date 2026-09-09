@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  34635
+                          "cajas":  34616
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -696,7 +696,7 @@
                           "margarita":  15,
                           "capital":  37,
                           "barcelona":  19,
-                          "cagua":  566,
+                          "cagua":  558,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  28,
                           "bolivar":  59
@@ -722,7 +722,7 @@
                           "margarita":  63,
                           "capital":  35,
                           "barcelona":  32,
-                          "cagua":  1403,
+                          "cagua":  1392,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  100,
                           "bolivar":  69
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/09/2026 16:20:46",
-    "total_general_cajas":  41618
+    "ultima_actualizacion":  "09/09/2026 16:30:46",
+    "total_general_cajas":  41599
 };
