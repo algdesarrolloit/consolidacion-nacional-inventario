@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1186
+                          "cajas":  1036
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  222,
+                          "capital":  72,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "UVAS PASAS 1 X 10KG",
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 11:50:46",
-    "total_general_cajas":  40987
+    "ultima_actualizacion":  "10/09/2026 12:00:46",
+    "total_general_cajas":  40837
 };
