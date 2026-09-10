@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2447
+                          "cajas":  2337
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -260,7 +260,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  9,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  50,
@@ -312,7 +312,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  105,
+                          "zulia":  0,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  0,
@@ -546,7 +546,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  23,
+                          "zulia":  21,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  0,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 16:40:46",
-    "total_general_cajas":  39865
+    "ultima_actualizacion":  "10/09/2026 16:50:46",
+    "total_general_cajas":  39755
 };
