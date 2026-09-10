@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2511
+                          "cajas":  2510
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -312,7 +312,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  4,
+                          "zulia":  3,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  0,
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 10:00:46",
-    "total_general_cajas":  40748
+    "ultima_actualizacion":  "10/09/2026 10:10:46",
+    "total_general_cajas":  40747
 };
