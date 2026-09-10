@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  32427
+                          "cajas":  32478
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1006
+                          "cajas":  1130
                       }
                   ],
     "total_general_kg":  113895.9,
@@ -244,7 +244,7 @@
                           "cagua":  163,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  29,
-                          "bolivar":  7
+                          "bolivar":  9
                       },
                       {
                           "zulia":  51,
@@ -332,10 +332,10 @@
                           "margarita":  130,
                           "capital":  67,
                           "barcelona":  202,
-                          "cagua":  2594,
+                          "cagua":  2645,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
-                          "bolivar":  81
+                          "bolivar":  200
                       },
                       {
                           "zulia":  74,
@@ -491,7 +491,7 @@
                           "cagua":  276,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  14,
-                          "bolivar":  20
+                          "bolivar":  21
                       },
                       {
                           "zulia":  21,
@@ -569,7 +569,7 @@
                           "cagua":  376,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  8,
-                          "bolivar":  21
+                          "bolivar":  23
                       },
                       {
                           "zulia":  1,
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 11:00:46",
-    "total_general_cajas":  40879
+    "ultima_actualizacion":  "10/09/2026 11:10:46",
+    "total_general_cajas":  41054
 };
