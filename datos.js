@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  29766
+                          "cajas":  31854
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  137,
-                          "cagua":  588,
+                          "cagua":  2478,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  84
@@ -527,7 +527,7 @@
                           "margarita":  18,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  259,
+                          "cagua":  457,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  6,
                           "bolivar":  13
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 15:00:46",
-    "total_general_cajas":  37944
+    "ultima_actualizacion":  "10/09/2026 15:10:46",
+    "total_general_cajas":  40032
 };
