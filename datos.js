@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  60693,
-                                                              "bidones":  1103.51
+                                                              "kg":  60418,
+                                                              "bidones":  1098.51
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  113895.9,
+                          "kg":  113620.9,
                           "cajas":  29817
                       },
                       {
@@ -169,17 +169,17 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1156
+                          "cajas":  1146
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1130
+                          "cajas":  1045
                       }
                   ],
-    "total_general_kg":  113895.9,
+    "total_general_kg":  113620.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -331,11 +331,11 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  0,
-                          "barcelona":  202,
+                          "barcelona":  192,
                           "cagua":  639,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
-                          "bolivar":  200
+                          "bolivar":  115
                       },
                       {
                           "zulia":  74,
@@ -774,7 +774,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  60693,
+                          "cagua":  60418,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 14:00:46",
-    "total_general_cajas":  38176
+    "ultima_actualizacion":  "10/09/2026 14:10:46",
+    "total_general_cajas":  38081
 };
