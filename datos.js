@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  881
+                          "cajas":  882
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  31854
+                          "cajas":  31749
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2342
+                          "cajas":  2447
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -295,7 +295,7 @@
                           "barcelona":  16,
                           "cagua":  648,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  37,
+                          "barquisimeto":  38,
                           "bolivar":  27
                       },
                       {
@@ -312,14 +312,14 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  105,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  137,
-                          "cagua":  2478,
+                          "cagua":  2373,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  84
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 16:30:46",
-    "total_general_cajas":  39864
+    "ultima_actualizacion":  "10/09/2026 16:40:46",
+    "total_general_cajas":  39865
 };
