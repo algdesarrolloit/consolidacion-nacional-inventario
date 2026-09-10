@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1253
+                          "cajas":  1186
                       },
                       {
                           "almacen":  "ANDES",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  130,
-                          "capital":  67,
+                          "capital":  0,
                           "barcelona":  202,
                           "cagua":  2645,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 11:40:46",
-    "total_general_cajas":  41054
+    "ultima_actualizacion":  "10/09/2026 11:50:46",
+    "total_general_cajas":  40987
 };
