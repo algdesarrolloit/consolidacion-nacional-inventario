@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  34616
+                          "cajas":  35290
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  104,
                           "barcelona":  85,
-                          "cagua":  4302,
+                          "cagua":  4780,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  2,
                           "bolivar":  170
@@ -527,7 +527,7 @@
                           "margarita":  18,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  113,
+                          "cagua":  309,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  6,
                           "bolivar":  13
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 07:30:46",
-    "total_general_cajas":  41599
+    "ultima_actualizacion":  "10/09/2026 07:40:46",
+    "total_general_cajas":  42273
 };
