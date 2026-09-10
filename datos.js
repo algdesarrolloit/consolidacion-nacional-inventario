@@ -169,14 +169,14 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1146
+                          "cajas":  1091
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1045
+                          "cajas":  1014
                       }
                   ],
     "total_general_kg":  113620.9,
@@ -331,11 +331,11 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  0,
-                          "barcelona":  192,
+                          "barcelona":  137,
                           "cagua":  639,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
-                          "bolivar":  115
+                          "bolivar":  84
                       },
                       {
                           "zulia":  74,
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 14:10:46",
-    "total_general_cajas":  38081
+    "ultima_actualizacion":  "10/09/2026 14:20:46",
+    "total_general_cajas":  37995
 };
