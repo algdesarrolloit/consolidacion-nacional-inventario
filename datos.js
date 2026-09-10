@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2510
+                          "cajas":  2506
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -260,7 +260,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  19,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  50,
@@ -310,19 +310,6 @@
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  6,
                           "bolivar":  10
-                      },
-                      {
-                          "zulia":  3,
-                          "codigo":  "4MMA003",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  0,
-                          "bolivar":  0
                       },
                       {
                           "zulia":  0,
@@ -793,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 16:00:46",
-    "total_general_cajas":  40032
+    "ultima_actualizacion":  "10/09/2026 16:10:46",
+    "total_general_cajas":  40028
 };
