@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113895.9,
-                          "cajas":  29967
+                          "cajas":  29817
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -241,7 +241,7 @@
                           "margarita":  21,
                           "capital":  10,
                           "barcelona":  18,
-                          "cagua":  113,
+                          "cagua":  103,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  29,
                           "bolivar":  9
@@ -410,7 +410,7 @@
                           "margarita":  16,
                           "capital":  19,
                           "barcelona":  196,
-                          "cagua":  4291,
+                          "cagua":  4286,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  12,
                           "bolivar":  13
@@ -423,7 +423,7 @@
                           "margarita":  34,
                           "capital":  48,
                           "barcelona":  21,
-                          "cagua":  733,
+                          "cagua":  713,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  50,
                           "bolivar":  11
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  5,
                           "barcelona":  5,
-                          "cagua":  389,
+                          "cagua":  354,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  20
@@ -514,7 +514,7 @@
                           "margarita":  16,
                           "capital":  17,
                           "barcelona":  10,
-                          "cagua":  263,
+                          "cagua":  228,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  10,
                           "bolivar":  14
@@ -527,7 +527,7 @@
                           "margarita":  18,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  294,
+                          "cagua":  259,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  6,
                           "bolivar":  13
@@ -709,7 +709,7 @@
                           "margarita":  12,
                           "capital":  0,
                           "barcelona":  6,
-                          "cagua":  132,
+                          "cagua":  122,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  0,
                           "bolivar":  7
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/09/2026 13:50:46",
-    "total_general_cajas":  38326
+    "ultima_actualizacion":  "10/09/2026 14:00:46",
+    "total_general_cajas":  38176
 };
