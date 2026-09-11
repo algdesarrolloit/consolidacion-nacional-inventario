@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1092
+                          "cajas":  1090
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -383,7 +383,7 @@
                           "andes":  60,
                           "margarita":  32,
                           "capital":  22,
-                          "barcelona":  32,
+                          "barcelona":  30,
                           "cagua":  457,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  43,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 11:50:46",
-    "total_general_cajas":  40002
+    "ultima_actualizacion":  "11/09/2026 12:00:47",
+    "total_general_cajas":  40000
 };
