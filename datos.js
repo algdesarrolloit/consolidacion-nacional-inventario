@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  31749
+                          "cajas":  31945
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -501,7 +501,7 @@
                           "margarita":  16,
                           "capital":  17,
                           "barcelona":  10,
-                          "cagua":  228,
+                          "cagua":  424,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  10,
                           "bolivar":  14
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 07:20:46",
-    "total_general_cajas":  39755
+    "ultima_actualizacion":  "11/09/2026 07:30:46",
+    "total_general_cajas":  39951
 };
