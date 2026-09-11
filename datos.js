@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2271
+                          "cajas":  2275
                       },
                       {
                           "almacen":  "CAGUA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2343
+                          "cajas":  2307
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -234,7 +234,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  22,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  15,
@@ -269,11 +269,11 @@
                           "barcelona":  0,
                           "cagua":  73,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                          "barquisimeto":  10,
+                          "barquisimeto":  12,
                           "bolivar":  35
                       },
                       {
-                          "zulia":  435,
+                          "zulia":  425,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  233,
@@ -286,7 +286,7 @@
                           "bolivar":  170
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  42,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
                           "andes":  30,
@@ -360,7 +360,7 @@
                           "barcelona":  41,
                           "cagua":  395,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  60,
+                          "barquisimeto":  61,
                           "bolivar":  43
                       },
                       {
@@ -403,7 +403,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  122,
+                          "zulia":  121,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  66,
@@ -442,7 +442,7 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  58,
+                          "zulia":  56,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  0,
@@ -468,7 +468,7 @@
                           "bolivar":  24
                       },
                       {
-                          "zulia":  35,
+                          "zulia":  32,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  36,
@@ -533,7 +533,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  41,
+                          "zulia":  38,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  60,
@@ -598,7 +598,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  22,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  10,
@@ -607,11 +607,11 @@
                           "barcelona":  10,
                           "cagua":  43,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                          "barquisimeto":  11,
+                          "barquisimeto":  12,
                           "bolivar":  8
                       },
                       {
-                          "zulia":  301,
+                          "zulia":  296,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  145,
@@ -715,7 +715,7 @@
                           "bolivar":  69
                       },
                       {
-                          "zulia":  49,
+                          "zulia":  44,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  60,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 10:00:46",
-    "total_general_cajas":  39798
+    "ultima_actualizacion":  "11/09/2026 10:10:46",
+    "total_general_cajas":  39766
 };
