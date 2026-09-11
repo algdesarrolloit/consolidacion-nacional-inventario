@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  27182
+                          "cajas":  27181
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1091
+                          "cajas":  1089
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  104,
                           "barcelona":  85,
-                          "cagua":  3791,
+                          "cagua":  3790,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  540,
                           "bolivar":  170
@@ -669,7 +669,7 @@
                           "andes":  60,
                           "margarita":  28,
                           "capital":  18,
-                          "barcelona":  20,
+                          "barcelona":  19,
                           "cagua":  906,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  36,
@@ -721,7 +721,7 @@
                           "andes":  60,
                           "margarita":  37,
                           "capital":  52,
-                          "barcelona":  46,
+                          "barcelona":  45,
                           "cagua":  532,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  95,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 10:20:46",
-    "total_general_cajas":  39766
+    "ultima_actualizacion":  "11/09/2026 10:30:46",
+    "total_general_cajas":  39763
 };
