@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2275
+                          "cajas":  1994
                       },
                       {
                           "almacen":  "CAGUA",
@@ -282,7 +282,7 @@
                           "barcelona":  85,
                           "cagua":  3790,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  540,
+                          "barquisimeto":  470,
                           "bolivar":  170
                       },
                       {
@@ -321,7 +321,7 @@
                           "barcelona":  137,
                           "cagua":  12,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  210,
+                          "barquisimeto":  15,
                           "bolivar":  84
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  5,
                           "cagua":  95,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                          "barquisimeto":  15,
+                          "barquisimeto":  13,
                           "bolivar":  22
                       },
                       {
@@ -360,7 +360,7 @@
                           "barcelona":  41,
                           "cagua":  395,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  61,
+                          "barquisimeto":  56,
                           "bolivar":  43
                       },
                       {
@@ -464,7 +464,7 @@
                           "barcelona":  32,
                           "cagua":  648,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  60,
+                          "barquisimeto":  58,
                           "bolivar":  24
                       },
                       {
@@ -698,7 +698,7 @@
                           "barcelona":  6,
                           "cagua":  92,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  15,
+                          "barquisimeto":  8,
                           "bolivar":  7
                       },
                       {
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 11:20:46",
-    "total_general_cajas":  39720
+    "ultima_actualizacion":  "11/09/2026 11:30:46",
+    "total_general_cajas":  39439
 };
