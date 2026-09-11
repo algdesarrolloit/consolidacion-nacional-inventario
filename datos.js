@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1090
+                          "cajas":  1093
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -422,7 +422,7 @@
                           "andes":  60,
                           "margarita":  27,
                           "capital":  25,
-                          "barcelona":  28,
+                          "barcelona":  30,
                           "cagua":  1586,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  67,
@@ -448,7 +448,7 @@
                           "andes":  0,
                           "margarita":  21,
                           "capital":  0,
-                          "barcelona":  2,
+                          "barcelona":  3,
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 12:00:47",
-    "total_general_cajas":  40000
+    "ultima_actualizacion":  "11/09/2026 12:10:46",
+    "total_general_cajas":  40003
 };
