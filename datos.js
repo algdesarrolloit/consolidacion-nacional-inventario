@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1089
+                          "cajas":  1092
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -448,7 +448,7 @@
                           "andes":  0,
                           "margarita":  21,
                           "capital":  0,
-                          "barcelona":  0,
+                          "barcelona":  2,
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -669,7 +669,7 @@
                           "andes":  60,
                           "margarita":  28,
                           "capital":  18,
-                          "barcelona":  19,
+                          "barcelona":  20,
                           "cagua":  906,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  36,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 11:30:46",
-    "total_general_cajas":  39439
+    "ultima_actualizacion":  "11/09/2026 11:40:46",
+    "total_general_cajas":  39442
 };
