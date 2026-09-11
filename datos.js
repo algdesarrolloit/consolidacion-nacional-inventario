@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  28195
+                          "cajas":  28192
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,7 +319,7 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  137,
-                          "cagua":  113,
+                          "cagua":  112,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  84
@@ -592,7 +592,7 @@
                           "margarita":  37,
                           "capital":  42,
                           "barcelona":  76,
-                          "cagua":  798,
+                          "cagua":  797,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  55,
                           "bolivar":  13
@@ -709,7 +709,7 @@
                           "margarita":  63,
                           "capital":  35,
                           "barcelona":  32,
-                          "cagua":  912,
+                          "cagua":  911,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  100,
                           "bolivar":  69
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 09:10:46",
-    "total_general_cajas":  36201
+    "ultima_actualizacion":  "11/09/2026 09:20:46",
+    "total_general_cajas":  36198
 };
