@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  832
+                          "cajas":  826
                       },
                       {
                           "almacen":  "CAGUA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2337
+                          "cajas":  2343
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -347,7 +347,7 @@
                           "barcelona":  30,
                           "cagua":  397,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  7,
+                          "barquisimeto":  4,
                           "bolivar":  28
                       },
                       {
@@ -555,7 +555,7 @@
                           "barcelona":  34,
                           "cagua":  266,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  8,
+                          "barquisimeto":  5,
                           "bolivar":  23
                       },
                       {
@@ -663,7 +663,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  6,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  0,
@@ -715,7 +715,7 @@
                           "bolivar":  69
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  49,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  0,
@@ -780,6 +780,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/09/2026 09:40:46",
+    "ultima_actualizacion":  "11/09/2026 09:50:46",
     "total_general_cajas":  35238
 };
