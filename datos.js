@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  27433
+                          "cajas":  27957
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -722,7 +722,7 @@
                           "margarita":  63,
                           "capital":  35,
                           "barcelona":  29,
-                          "cagua":  1363,
+                          "cagua":  1887,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  80,
                           "bolivar":  68
@@ -793,6 +793,6 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/09/2026 09:20:46",
-    "total_general_cajas":  39586
+    "ultima_actualizacion":  "12/09/2026 09:30:46",
+    "total_general_cajas":  40110
 };
