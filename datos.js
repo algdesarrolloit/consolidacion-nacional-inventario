@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30690
+                          "cajas":  30688
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -358,7 +358,7 @@
                           "margarita":  23,
                           "capital":  33,
                           "barcelona":  29,
-                          "cagua":  360,
+                          "cagua":  359,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  64,
                           "bolivar":  26
@@ -683,7 +683,7 @@
                           "margarita":  28,
                           "capital":  18,
                           "barcelona":  18,
-                          "cagua":  882,
+                          "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  36,
                           "bolivar":  11
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 14:56:02",
+    "ultima_actualizacion":  "14/09/2026 15:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4956,5 +4956,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40595
+    "total_general_cajas":  40593
 };
