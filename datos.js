@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  883
+                          "cajas":  888
                       }
                   ],
     "total_general_kg":  113565.9,
@@ -296,7 +296,7 @@
                           "cagua":  617,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  36,
-                          "bolivar":  27
+                          "bolivar":  29
                       },
                       {
                           "zulia":  17,
@@ -465,7 +465,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  1
                       },
                       {
                           "zulia":  16,
@@ -686,7 +686,7 @@
                           "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  36,
-                          "bolivar":  11
+                          "bolivar":  13
                       },
                       {
                           "zulia":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 15:10:46",
+    "ultima_actualizacion":  "14/09/2026 15:15:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1524,6 +1524,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-07-2028"
+                  },
+                  {
+                      "codigo":  "4MKE009",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "17-12-2025",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1228-171225",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-12-2028"
                   },
                   {
                       "codigo":  "4MKE009",
@@ -2870,6 +2880,16 @@
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
+                      "lote":  "0628-090626",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0628-090626",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
@@ -4397,7 +4417,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  11,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
@@ -4946,5 +4966,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40591
+    "total_general_cajas":  40596
 };
