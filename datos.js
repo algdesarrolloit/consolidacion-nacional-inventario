@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30694
+                          "cajas":  30690
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -488,7 +488,7 @@
                           "margarita":  13,
                           "capital":  27,
                           "barcelona":  0,
-                          "cagua":  231,
+                          "cagua":  230,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  13,
                           "bolivar":  11
@@ -696,7 +696,7 @@
                           "margarita":  15,
                           "capital":  37,
                           "barcelona":  19,
-                          "cagua":  408,
+                          "cagua":  405,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  86,
                           "bolivar":  59
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 14:50:46",
+    "ultima_actualizacion":  "14/09/2026 14:56:02",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4956,5 +4956,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40599
+    "total_general_cajas":  40595
 };
