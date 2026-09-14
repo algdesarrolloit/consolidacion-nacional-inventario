@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30686
+                          "cajas":  31037
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,7 +319,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  351,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 17:00:47",
+    "ultima_actualizacion":  "14/09/2026 17:05:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1744,6 +1744,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-02-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  351,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-14092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-03-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -4966,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40596
+    "total_general_cajas":  40947
 };
