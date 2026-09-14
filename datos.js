@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 16:55:47",
+    "ultima_actualizacion":  "14/09/2026 17:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
