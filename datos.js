@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30688
+                          "cajas":  30686
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -384,7 +384,7 @@
                           "margarita":  28,
                           "capital":  13,
                           "barcelona":  26,
-                          "cagua":  3682,
+                          "cagua":  3681,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  83,
                           "bolivar":  7
@@ -631,7 +631,7 @@
                           "margarita":  142,
                           "capital":  58,
                           "barcelona":  56,
-                          "cagua":  2749,
+                          "cagua":  2748,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  159,
                           "bolivar":  91
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 15:00:47",
+    "ultima_actualizacion":  "14/09/2026 15:05:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4956,5 +4956,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40593
+    "total_general_cajas":  40591
 };
