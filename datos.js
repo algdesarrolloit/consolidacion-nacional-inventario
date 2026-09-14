@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1994
+                          "cajas":  1992
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113620.9,
-                          "cajas":  27957
+                          "cajas":  29336
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2063
+                          "cajas":  1457
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2269
+                          "cajas":  2271
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -230,14 +230,14 @@
                           "barcelona":  11,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                          "barquisimeto":  8,
+                          "barquisimeto":  6,
                           "bolivar":  5
                       },
                       {
                           "zulia":  21,
                           "codigo":  "4MES002",
                           "um":  "CJ",
-                          "andes":  12,
+                          "andes":  7,
                           "margarita":  21,
                           "capital":  10,
                           "barcelona":  15,
@@ -250,7 +250,7 @@
                           "zulia":  51,
                           "codigo":  "4MES003",
                           "um":  "CJ",
-                          "andes":  48,
+                          "andes":  47,
                           "margarita":  13,
                           "capital":  15,
                           "barcelona":  10,
@@ -263,7 +263,7 @@
                           "zulia":  1,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  15,
                           "margarita":  28,
                           "capital":  47,
                           "barcelona":  0,
@@ -276,7 +276,7 @@
                           "zulia":  419,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
-                          "andes":  223,
+                          "andes":  221,
                           "margarita":  148,
                           "capital":  104,
                           "barcelona":  78,
@@ -289,7 +289,7 @@
                           "zulia":  42,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  28,
                           "margarita":  9,
                           "capital":  44,
                           "barcelona":  16,
@@ -328,7 +328,7 @@
                           "zulia":  0,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  550,
+                          "andes":  0,
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  134,
@@ -390,7 +390,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  92,
+                          "zulia":  93,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -416,7 +416,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  121,
+                          "zulia":  122,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  65,
@@ -471,7 +471,7 @@
                           "zulia":  16,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  56,
+                          "andes":  55,
                           "margarita":  37,
                           "capital":  1,
                           "barcelona":  29,
@@ -484,7 +484,7 @@
                           "zulia":  32,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
-                          "andes":  36,
+                          "andes":  35,
                           "margarita":  13,
                           "capital":  27,
                           "barcelona":  0,
@@ -497,7 +497,7 @@
                           "zulia":  21,
                           "codigo":  "4MSA013",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  9,
                           "margarita":  13,
                           "capital":  5,
                           "barcelona":  5,
@@ -510,7 +510,7 @@
                           "zulia":  42,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  10,
                           "margarita":  16,
                           "capital":  17,
                           "barcelona":  10,
@@ -523,7 +523,7 @@
                           "zulia":  15,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  11,
                           "margarita":  18,
                           "capital":  16,
                           "barcelona":  0,
@@ -536,7 +536,7 @@
                           "zulia":  25,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
-                          "andes":  40,
+                          "andes":  39,
                           "margarita":  9,
                           "capital":  36,
                           "barcelona":  12,
@@ -562,7 +562,7 @@
                           "zulia":  12,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
-                          "andes":  26,
+                          "andes":  16,
                           "margarita":  51,
                           "capital":  45,
                           "barcelona":  33,
@@ -631,7 +631,7 @@
                           "margarita":  142,
                           "capital":  58,
                           "barcelona":  56,
-                          "cagua":  1422,
+                          "cagua":  2801,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  159,
                           "bolivar":  91
@@ -692,7 +692,7 @@
                           "zulia":  0,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
-                          "andes":  58,
+                          "andes":  57,
                           "margarita":  15,
                           "capital":  37,
                           "barcelona":  19,
@@ -718,7 +718,7 @@
                           "zulia":  0,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
-                          "andes":  54,
+                          "andes":  53,
                           "margarita":  63,
                           "capital":  35,
                           "barcelona":  29,
@@ -731,7 +731,7 @@
                           "zulia":  44,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
-                          "andes":  57,
+                          "andes":  56,
                           "margarita":  37,
                           "capital":  52,
                           "barcelona":  42,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 08:30:47",
+    "ultima_actualizacion":  "14/09/2026 10:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1017,7 +1017,7 @@
                   },
                   {
                       "codigo":  "4CNA096",
-                      "cantidad":  8,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "12-01-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1226-120126",
@@ -2397,7 +2397,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  92,
+                      "cantidad":  93,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-050826 NV",
@@ -2667,7 +2667,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  4,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-271125 NV",
@@ -4267,6 +4267,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  1379,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-110926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  11,
                       "fecha_fabricacion":  "29-04-2026",
                       "ubicacion":  "CAPITAL",
@@ -4996,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  38522
+    "total_general_cajas":  39295
 };
