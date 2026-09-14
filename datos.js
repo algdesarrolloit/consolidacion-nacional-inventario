@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  884
+                          "cajas":  883
                       }
                   ],
     "total_general_kg":  113565.9,
@@ -582,7 +582,7 @@
                           "cagua":  0,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  1,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  10,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/09/2026 14:35:46",
+    "ultima_actualizacion":  "14/09/2026 14:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4956,5 +4956,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40604
+    "total_general_cajas":  40603
 };
