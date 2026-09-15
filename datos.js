@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 10:55:46",
+    "ultima_actualizacion":  "15/09/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1977,7 +1977,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -2117,7 +2117,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  36,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-101225",
@@ -2257,7 +2257,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  13,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0228-20022026",
@@ -2347,7 +2347,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  22,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-050826 NV",
@@ -2507,7 +2507,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  19,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -2727,7 +2727,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  25,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "29-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-29072026",
@@ -2807,7 +2807,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-121225",
@@ -3557,7 +3557,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  28,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
