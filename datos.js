@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1775
+                          "cajas":  2045
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30075
+                          "cajas":  29805
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,9 +319,9 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  734,
+                          "cagua":  674,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  60,
                           "bolivar":  0
                       },
                       {
@@ -332,9 +332,9 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  107,
-                          "cagua":  989,
+                          "cagua":  779,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  210,
                           "bolivar":  73
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 12:00:47",
+    "ultima_actualizacion":  "15/09/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1737,7 +1737,17 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  734,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-150926-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  674,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-150926-NV",
@@ -1777,6 +1787,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  210,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-110926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  73,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -1787,7 +1807,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  989,
+                      "cantidad":  779,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-110926",
