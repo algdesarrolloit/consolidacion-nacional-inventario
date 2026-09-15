@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 11:00:46",
+    "ultima_actualizacion":  "15/09/2026 11:05:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1287,7 +1287,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  39,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-28072026",
@@ -1437,7 +1437,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  80,
+                      "cantidad":  72,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-070926",
@@ -1557,7 +1557,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-171225",
@@ -1977,16 +1977,6 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "18-06-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0628-180626",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
                       "cantidad":  30,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -2117,7 +2107,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-101225",
@@ -2257,7 +2247,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0228-20022026",
@@ -2347,7 +2337,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  19,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-050826 NV",
@@ -2507,7 +2497,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -2727,7 +2717,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  23,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "29-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-29072026",
@@ -2807,7 +2797,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-121225",
@@ -3067,7 +3057,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  13,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1227-17122025",
@@ -3557,7 +3547,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  27,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -3637,7 +3627,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  25,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-310726",
@@ -3977,7 +3967,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  34,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-12082026",
@@ -4070,16 +4060,6 @@
                       "cantidad":  40,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0628-080626",
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                       "um":  "CJ",
@@ -4537,7 +4517,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  29,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-14072026",
@@ -4727,7 +4707,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "27-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-270826",
@@ -4857,7 +4837,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-140826",
