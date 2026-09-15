@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  31872
+                          "cajas":  31072
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,7 +319,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1170,
+                          "cagua":  870,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  134,
-                          "cagua":  1915,
+                          "cagua":  1415,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  15,
                           "bolivar":  73
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 08:45:46",
+    "ultima_actualizacion":  "15/09/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4996,5 +4996,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  41782
+    "total_general_cajas":  40982
 };
