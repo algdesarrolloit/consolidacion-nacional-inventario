@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  806
+                          "cajas":  804
                       },
                       {
                           "almacen":  "ANDES",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  14,
+                          "capital":  13,
                           "barcelona":  29,
                           "cagua":  847,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -564,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  16,
                           "margarita":  51,
-                          "capital":  22,
+                          "capital":  21,
                           "barcelona":  33,
                           "cagua":  262,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 09:50:46",
+    "ultima_actualizacion":  "15/09/2026 09:55:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5006,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39882
+    "total_general_cajas":  39880
 };
