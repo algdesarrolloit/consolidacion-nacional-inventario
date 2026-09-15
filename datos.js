@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1992
+                          "cajas":  1987
                       },
                       {
                           "almacen":  "CAGUA",
@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1213
+                          "cajas":  1233
                       },
                       {
                           "almacen":  "ZULIA",
@@ -282,7 +282,7 @@
                           "barcelona":  78,
                           "cagua":  3517,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  470,
+                          "barquisimeto":  465,
                           "bolivar":  158
                       },
                       {
@@ -316,7 +316,7 @@
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  0,
+                          "margarita":  20,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  636,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 09:20:46",
+    "ultima_actualizacion":  "15/09/2026 09:25:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1757,9 +1757,19 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  819,
+                      "cantidad":  799,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0327-14092026-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "0327-14092026-NV",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
@@ -4996,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40079
+    "total_general_cajas":  40094
 };
