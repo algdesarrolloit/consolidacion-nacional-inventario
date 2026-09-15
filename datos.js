@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1460
+                          "cajas":  1458
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -328,7 +328,7 @@
                           "zulia":  0,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  1,
+                          "andes":  0,
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  107,
@@ -471,7 +471,7 @@
                           "zulia":  16,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  55,
+                          "andes":  54,
                           "margarita":  37,
                           "capital":  1,
                           "barcelona":  24,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 17:50:46",
+    "ultima_actualizacion":  "15/09/2026 18:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1754,16 +1754,6 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-02-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0327-100926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2907,7 +2897,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  55,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -4906,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39185
+    "total_general_cajas":  39183
 };
