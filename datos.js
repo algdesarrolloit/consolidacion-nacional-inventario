@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  798
+                          "cajas":  796
                       },
                       {
                           "almacen":  "ANDES",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  28,
+                          "capital":  26,
                           "barcelona":  11,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 15:20:46",
+    "ultima_actualizacion":  "15/09/2026 15:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4896,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39186
+    "total_general_cajas":  39184
 };
