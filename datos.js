@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  31037
+                          "cajas":  31872
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,7 +319,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  351,
+                          "cagua":  1170,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -527,7 +527,7 @@
                           "margarita":  18,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  407,
+                          "cagua":  423,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  26,
                           "bolivar":  13
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 07:35:46",
+    "ultima_actualizacion":  "15/09/2026 07:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1751,6 +1751,16 @@
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-14092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  819,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-14092026-NV",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-03-2027"
@@ -3467,6 +3477,16 @@
                   },
                   {
                       "codigo":  "4MSA017",
+                      "cantidad":  16,
+                      "fecha_fabricacion":  "24-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0827-24082026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
                       "cantidad":  13,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAGUA",
@@ -4976,5 +4996,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40947
+    "total_general_cajas":  41782
 };
