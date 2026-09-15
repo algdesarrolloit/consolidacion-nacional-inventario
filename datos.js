@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30399
+                          "cajas":  30404
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -423,7 +423,7 @@
                           "margarita":  34,
                           "capital":  48,
                           "barcelona":  19,
-                          "cagua":  708,
+                          "cagua":  713,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  48,
                           "bolivar":  10
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 10:35:46",
+    "ultima_actualizacion":  "15/09/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1097,7 +1097,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  86,
+                      "cantidad":  84,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-230726",
@@ -1197,7 +1197,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  715,
+                      "cantidad":  714,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-011225",
@@ -1277,7 +1277,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  63,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-28072026",
@@ -1397,7 +1397,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  85,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-070926",
@@ -1407,7 +1407,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  2460,
+                      "cantidad":  2437,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-08092026",
@@ -1537,7 +1537,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  617,
+                      "cantidad":  616,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-300726",
@@ -1747,17 +1747,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  51,
-                      "fecha_fabricacion":  "14-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0327-14092026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
-                      "cantidad":  799,
+                      "cantidad":  636,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-14092026-NV",
@@ -1807,7 +1797,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1415,
+                      "cantidad":  1289,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-110926",
@@ -2127,7 +2117,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  352,
+                      "cantidad":  332,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-05082026",
@@ -2357,7 +2347,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  384,
+                      "cantidad":  364,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-050826 NV",
@@ -2607,7 +2597,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  708,
+                      "cantidad":  713,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -2727,7 +2717,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  601,
+                      "cantidad":  581,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-13082026",
@@ -2987,7 +2977,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  636,
+                      "cantidad":  584,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-150626",
@@ -3067,7 +3057,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-17122025",
@@ -3577,7 +3567,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  246,
+                      "cantidad":  245,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-09072026",
@@ -3777,7 +3767,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  264,
+                      "cantidad":  262,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-100826",
@@ -4227,7 +4217,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  665,
+                      "cantidad":  663,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
@@ -4747,7 +4737,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  191,
+                      "cantidad":  149,
                       "fecha_fabricacion":  "28-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-280826",
@@ -4897,7 +4887,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  93,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-190826",
@@ -4976,5 +4966,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39761
+    "total_general_cajas":  39766
 };
