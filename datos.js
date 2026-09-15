@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1776
+                          "cajas":  1775
                       },
                       {
                           "almacen":  "CAGUA",
@@ -685,7 +685,7 @@
                           "barcelona":  18,
                           "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  28,
                           "bolivar":  13
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 09:40:46",
+    "ultima_actualizacion":  "15/09/2026 09:45:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1797,7 +1797,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-090926",
@@ -4027,7 +4027,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  55,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "11-09-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110925",
@@ -4447,7 +4447,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -5006,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39883
+    "total_general_cajas":  39882
 };
