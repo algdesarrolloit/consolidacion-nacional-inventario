@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  31072
+                          "cajas":  30632
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  104,
                           "barcelona":  78,
-                          "cagua":  3621,
+                          "cagua":  3521,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  470,
                           "bolivar":  158
@@ -319,7 +319,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  870,
+                          "cagua":  770,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  134,
-                          "cagua":  1415,
+                          "cagua":  1295,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  15,
                           "bolivar":  73
@@ -475,7 +475,7 @@
                           "margarita":  37,
                           "capital":  1,
                           "barcelona":  29,
-                          "cagua":  636,
+                          "cagua":  596,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  58,
                           "bolivar":  20
@@ -722,7 +722,7 @@
                           "margarita":  63,
                           "capital":  35,
                           "barcelona":  29,
-                          "cagua":  1883,
+                          "cagua":  1843,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  80,
                           "bolivar":  66
@@ -735,7 +735,7 @@
                           "margarita":  37,
                           "capital":  52,
                           "barcelona":  42,
-                          "cagua":  482,
+                          "cagua":  442,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  95,
                           "bolivar":  32
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 08:55:46",
+    "ultima_actualizacion":  "15/09/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4996,5 +4996,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40982
+    "total_general_cajas":  40542
 };
