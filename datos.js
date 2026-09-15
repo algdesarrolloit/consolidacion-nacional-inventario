@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1870
+                          "cajas":  1776
                       },
                       {
                           "almacen":  "CAGUA",
@@ -243,7 +243,7 @@
                           "barcelona":  15,
                           "cagua":  84,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  24,
+                          "barquisimeto":  23,
                           "bolivar":  5
                       },
                       {
@@ -282,7 +282,7 @@
                           "barcelona":  78,
                           "cagua":  3517,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  449,
+                          "barquisimeto":  419,
                           "bolivar":  158
                       },
                       {
@@ -295,7 +295,7 @@
                           "barcelona":  16,
                           "cagua":  616,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  34,
+                          "barquisimeto":  33,
                           "bolivar":  29
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  134,
                           "cagua":  1289,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  9,
+                          "barquisimeto":  0,
                           "bolivar":  73
                       },
                       {
@@ -347,7 +347,7 @@
                           "barcelona":  5,
                           "cagua":  75,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                          "barquisimeto":  13,
+                          "barquisimeto":  11,
                           "bolivar":  15
                       },
                       {
@@ -386,7 +386,7 @@
                           "barcelona":  26,
                           "cagua":  3681,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  75,
+                          "barquisimeto":  74,
                           "bolivar":  7
                       },
                       {
@@ -399,7 +399,7 @@
                           "barcelona":  30,
                           "cagua":  364,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  34,
+                          "barquisimeto":  33,
                           "bolivar":  3
                       },
                       {
@@ -477,7 +477,7 @@
                           "barcelona":  29,
                           "cagua":  584,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  56,
+                          "barquisimeto":  53,
                           "bolivar":  20
                       },
                       {
@@ -490,7 +490,7 @@
                           "barcelona":  0,
                           "cagua":  229,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                          "barquisimeto":  12,
+                          "barquisimeto":  11,
                           "bolivar":  11
                       },
                       {
@@ -503,7 +503,7 @@
                           "barcelona":  5,
                           "cagua":  324,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                          "barquisimeto":  28,
+                          "barquisimeto":  27,
                           "bolivar":  20
                       },
                       {
@@ -516,7 +516,7 @@
                           "barcelona":  10,
                           "cagua":  374,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                          "barquisimeto":  30,
+                          "barquisimeto":  29,
                           "bolivar":  14
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  0,
                           "cagua":  423,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                          "barquisimeto":  26,
+                          "barquisimeto":  25,
                           "bolivar":  13
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  12,
                           "cagua":  701,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  33,
                           "bolivar":  13
                       },
                       {
@@ -555,7 +555,7 @@
                           "barcelona":  19,
                           "cagua":  202,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  50,
+                          "barquisimeto":  44,
                           "bolivar":  12
                       },
                       {
@@ -568,7 +568,7 @@
                           "barcelona":  33,
                           "cagua":  262,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  29,
+                          "barquisimeto":  27,
                           "bolivar":  17
                       },
                       {
@@ -607,7 +607,7 @@
                           "barcelona":  76,
                           "cagua":  767,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
-                          "barquisimeto":  53,
+                          "barquisimeto":  52,
                           "bolivar":  11
                       },
                       {
@@ -620,7 +620,7 @@
                           "barcelona":  8,
                           "cagua":  40,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                          "barquisimeto":  10,
+                          "barquisimeto":  8,
                           "bolivar":  2
                       },
                       {
@@ -685,7 +685,7 @@
                           "barcelona":  18,
                           "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  33,
+                          "barquisimeto":  29,
                           "bolivar":  13
                       },
                       {
@@ -711,7 +711,7 @@
                           "barcelona":  6,
                           "cagua":  72,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  8,
+                          "barquisimeto":  4,
                           "bolivar":  4
                       },
                       {
@@ -724,7 +724,7 @@
                           "barcelona":  29,
                           "cagua":  1841,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  75,
+                          "barquisimeto":  60,
                           "bolivar":  66
                       },
                       {
@@ -737,7 +737,7 @@
                           "barcelona":  42,
                           "cagua":  440,
                           "descripcion":  "VINAGRE 24 X 500ML",
-                          "barquisimeto":  91,
+                          "barquisimeto":  89,
                           "bolivar":  32
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 09:35:47",
+    "ultima_actualizacion":  "15/09/2026 09:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5006,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39977
+    "total_general_cajas":  39883
 };
