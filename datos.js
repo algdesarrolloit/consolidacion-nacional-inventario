@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  950
+                          "cajas":  937
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -331,7 +331,7 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  0,
-                          "barcelona":  111,
+                          "barcelona":  107,
                           "cagua":  1289,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
@@ -435,7 +435,7 @@
                           "andes":  59,
                           "margarita":  27,
                           "capital":  21,
-                          "barcelona":  26,
+                          "barcelona":  25,
                           "cagua":  1499,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  63,
@@ -474,7 +474,7 @@
                           "andes":  55,
                           "margarita":  37,
                           "capital":  1,
-                          "barcelona":  25,
+                          "barcelona":  24,
                           "cagua":  584,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  53,
@@ -539,7 +539,7 @@
                           "andes":  39,
                           "margarita":  9,
                           "capital":  18,
-                          "barcelona":  9,
+                          "barcelona":  8,
                           "cagua":  701,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  33,
@@ -630,7 +630,7 @@
                           "andes":  140,
                           "margarita":  142,
                           "capital":  58,
-                          "barcelona":  50,
+                          "barcelona":  45,
                           "cagua":  2746,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  141,
@@ -682,7 +682,7 @@
                           "andes":  59,
                           "margarita":  28,
                           "capital":  10,
-                          "barcelona":  16,
+                          "barcelona":  15,
                           "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  28,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 10:05:46",
+    "ultima_actualizacion":  "15/09/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5006,5 +5006,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39774
+    "total_general_cajas":  39761
 };
