@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  29667
+                          "cajas":  30425
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1457
+                          "cajas":  1458
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  939
+                          "cajas":  940
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -319,7 +319,7 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  326,
+                          "cagua":  1084,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -523,7 +523,7 @@
                           "zulia":  15,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
-                          "andes":  11,
+                          "andes":  12,
                           "margarita":  18,
                           "capital":  14,
                           "barcelona":  0,
@@ -643,7 +643,7 @@
                           "andes":  0,
                           "margarita":  17,
                           "capital":  0,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  0,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
                           "barquisimeto":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 11:10:46",
+    "ultima_actualizacion":  "15/09/2026 11:15:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1107,7 +1107,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-210726",
@@ -1437,7 +1437,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  72,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-070926",
@@ -1744,6 +1744,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  758,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-150926-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-03-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -2787,7 +2797,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-121225",
@@ -3347,6 +3357,16 @@
                   },
                   {
                       "codigo":  "4MSA017",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "24-08-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0827-24082026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
                       "cantidad":  11,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "ANDES",
@@ -3727,7 +3747,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  22,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-100826",
@@ -3947,7 +3967,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  33,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-12082026",
@@ -4254,6 +4274,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-07-2028"
+                  },
+                  {
+                      "codigo":  "4MTO014",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "06-02-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0228-06022026",
+                      "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-02-2028"
                   },
                   {
                       "codigo":  "4MTO014",
@@ -4876,5 +4906,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39041
+    "total_general_cajas":  39801
 };
