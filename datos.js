@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  801
+                          "cajas":  798
                       },
                       {
                           "almacen":  "ANDES",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  9,
                           "margarita":  13,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  4,
                           "cagua":  324,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  10,
                           "margarita":  16,
-                          "capital":  8,
+                          "capital":  7,
                           "barcelona":  9,
                           "cagua":  371,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
@@ -525,7 +525,7 @@
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  18,
-                          "capital":  14,
+                          "capital":  13,
                           "barcelona":  0,
                           "cagua":  423,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 13:30:46",
+    "ultima_actualizacion":  "15/09/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3177,7 +3177,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "01-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-01072026",
@@ -3307,7 +3307,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0727-210726",
@@ -3467,7 +3467,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "27-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0727-27072026",
@@ -4916,5 +4916,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39452
+    "total_general_cajas":  39449
 };
