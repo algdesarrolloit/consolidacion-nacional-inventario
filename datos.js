@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1459
+                          "cajas":  1460
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -328,7 +328,7 @@
                           "zulia":  0,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  1,
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  107,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/09/2026 17:40:46",
+    "ultima_actualizacion":  "15/09/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1754,6 +1754,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-02-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "10-09-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0327-100926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -4896,5 +4906,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39184
+    "total_general_cajas":  39185
 };
