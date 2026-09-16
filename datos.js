@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2045
+                          "cajas":  2051
                       },
                       {
                           "almacen":  "CAGUA",
@@ -724,7 +724,7 @@
                           "barcelona":  27,
                           "cagua":  1831,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  60,
+                          "barquisimeto":  63,
                           "bolivar":  66
                       },
                       {
@@ -737,7 +737,7 @@
                           "barcelona":  37,
                           "cagua":  1035,
                           "descripcion":  "VINAGRE 24 X 500ML",
-                          "barquisimeto":  89,
+                          "barquisimeto":  92,
                           "bolivar":  32
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 16:10:47",
+    "ultima_actualizacion":  "16/09/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4597,7 +4597,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  40,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-250826",
@@ -4757,7 +4757,17 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  49,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-130826",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  51,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-140826",
@@ -4896,5 +4906,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40472
+    "total_general_cajas":  40478
 };
