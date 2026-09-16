@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  784
+                          "cajas":  782
                       }
                   ],
     "total_general_kg":  113565.9,
@@ -465,7 +465,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
-                          "bolivar":  2
+                          "bolivar":  0
                       },
                       {
                           "zulia":  15,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 15:40:46",
+    "ultima_actualizacion":  "16/09/2026 15:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2820,16 +2820,6 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0628-090626",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "09-06-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "0628-090626",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
@@ -4896,5 +4886,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40455
+    "total_general_cajas":  40453
 };
