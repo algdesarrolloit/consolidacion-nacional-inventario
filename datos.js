@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30683
+                          "cajas":  30988
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  71,
                           "barcelona":  42,
-                          "cagua":  3448,
+                          "cagua":  3329,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  419,
                           "bolivar":  148
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  0,
                           "barcelona":  107,
-                          "cagua":  759,
+                          "cagua":  602,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  210,
                           "bolivar":  73
@@ -475,7 +475,7 @@
                           "margarita":  37,
                           "capital":  1,
                           "barcelona":  24,
-                          "cagua":  584,
+                          "cagua":  576,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  53,
                           "bolivar":  13
@@ -553,7 +553,7 @@
                           "margarita":  16,
                           "capital":  19,
                           "barcelona":  18,
-                          "cagua":  202,
+                          "cagua":  201,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  44,
                           "bolivar":  12
@@ -605,7 +605,7 @@
                           "margarita":  37,
                           "capital":  32,
                           "barcelona":  74,
-                          "cagua":  767,
+                          "cagua":  766,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
                           "bolivar":  11
@@ -618,7 +618,7 @@
                           "margarita":  28,
                           "capital":  0,
                           "barcelona":  6,
-                          "cagua":  30,
+                          "cagua":  25,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                           "barquisimeto":  8,
                           "bolivar":  0
@@ -696,7 +696,7 @@
                           "margarita":  15,
                           "capital":  28,
                           "barcelona":  18,
-                          "cagua":  395,
+                          "cagua":  387,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  85,
                           "bolivar":  59
@@ -735,7 +735,7 @@
                           "margarita":  37,
                           "capital":  37,
                           "barcelona":  37,
-                          "cagua":  431,
+                          "cagua":  1035,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  89,
                           "bolivar":  32
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 14:50:47",
+    "ultima_actualizacion":  "16/09/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4857,6 +4857,26 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  304,
+                      "fecha_fabricacion":  "10-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-100926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  300,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-110926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  2,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -4916,5 +4936,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40148
+    "total_general_cajas":  40453
 };
