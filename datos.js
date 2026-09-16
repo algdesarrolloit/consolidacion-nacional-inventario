@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  29710
+                          "cajas":  30101
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -566,7 +566,7 @@
                           "margarita":  51,
                           "capital":  21,
                           "barcelona":  31,
-                          "cagua":  242,
+                          "cagua":  633,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
                           "bolivar":  17
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 09:10:46",
+    "ultima_actualizacion":  "16/09/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3747,6 +3747,16 @@
                   },
                   {
                       "codigo":  "4MSU015",
+                      "cantidad":  391,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-150926-NV",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
                       "cantidad":  21,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -4906,5 +4916,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39351
+    "total_general_cajas":  39742
 };
