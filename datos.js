@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30099
+                          "cajas":  30679
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2192
+                          "cajas":  2191
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -566,7 +566,7 @@
                           "margarita":  51,
                           "capital":  21,
                           "barcelona":  31,
-                          "cagua":  633,
+                          "cagua":  1213,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
                           "bolivar":  2
@@ -715,7 +715,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  8,
+                          "zulia":  7,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  52,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 11:40:46",
+    "ultima_actualizacion":  "16/09/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3737,6 +3737,16 @@
                   },
                   {
                       "codigo":  "4MSU015",
+                      "cantidad":  580,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-160926",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
                       "cantidad":  21,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -4757,7 +4767,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "17-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-170726",
@@ -4906,5 +4916,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39565
+    "total_general_cajas":  40144
 };
