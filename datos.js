@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 10:40:46",
+    "ultima_actualizacion":  "16/09/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1127,7 +1127,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  21,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "22-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-220726",
@@ -1316,16 +1316,6 @@
                       "fecha_vencimiento":  "28-07-2028"
                   },
                   {
-                      "codigo":  "4MKE003",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "28-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-28072026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-07-2028"
-                  },
-                  {
                       "codigo":  "4MKE004",
                       "cantidad":  4,
                       "fecha_fabricacion":  "26-06-2026",
@@ -1477,7 +1467,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  419,
+                      "cantidad":  398,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-070926",
@@ -1754,16 +1744,6 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "28-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0227-280826",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-02-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2287,7 +2267,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  102,
+                      "cantidad":  97,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -2367,7 +2347,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  93,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-050826 NV",
@@ -2527,7 +2507,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  134,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -2627,7 +2607,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-271125 NV",
@@ -2737,7 +2717,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  94,
+                      "cantidad":  83,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-30072026",
@@ -2837,7 +2817,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  138,
+                      "cantidad":  132,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-06072026",
@@ -2887,7 +2867,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  15,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0528-200526",
@@ -2997,7 +2977,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-10062026",
@@ -3577,7 +3557,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  25,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-09072026",
@@ -3797,7 +3777,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  12,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0827-100826",
@@ -4087,7 +4067,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-080626",
@@ -4257,7 +4237,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  115,
+                      "cantidad":  114,
                       "fecha_fabricacion":  "23-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-230626",
@@ -4887,7 +4867,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-140826",
