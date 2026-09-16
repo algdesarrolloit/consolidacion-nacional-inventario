@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113565.9,
-                          "cajas":  30101
+                          "cajas":  30099
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  71,
                           "barcelona":  42,
-                          "cagua":  3447,
+                          "cagua":  3445,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  419,
                           "bolivar":  148
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 11:10:46",
+    "ultima_actualizacion":  "16/09/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1417,7 +1417,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  602,
+                      "cantidad":  600,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-090926",
@@ -4896,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39558
+    "total_general_cajas":  39556
 };
