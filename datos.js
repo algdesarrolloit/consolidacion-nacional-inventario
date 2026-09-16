@@ -162,14 +162,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2184
+                          "cajas":  2192
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  937
+                          "cajas":  938
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -461,7 +461,7 @@
                           "andes":  0,
                           "margarita":  21,
                           "capital":  0,
-                          "barcelona":  2,
+                          "barcelona":  3,
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -715,7 +715,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  8,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  52,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 11:30:46",
+    "ultima_actualizacion":  "16/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1007,7 +1007,7 @@
                   },
                   {
                       "codigo":  "4CNA096",
-                      "cantidad":  11,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "12-01-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1226-120126",
@@ -2827,7 +2827,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  2,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0628-090626",
@@ -4756,6 +4756,16 @@
                       "fecha_vencimiento":  "25-08-2028"
                   },
                   {
+                      "codigo":  "4MVI002",
+                      "cantidad":  8,
+                      "fecha_fabricacion":  "17-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-170726",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-07-2028"
+                  },
+                  {
                       "codigo":  "4MVI004",
                       "cantidad":  56,
                       "fecha_fabricacion":  "19-08-2026",
@@ -4896,5 +4906,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39556
+    "total_general_cajas":  39565
 };
