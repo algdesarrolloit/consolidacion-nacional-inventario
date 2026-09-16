@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1458
+                          "cajas":  1473
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2215
+                          "cajas":  2184
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  888
+                          "cajas":  854
                       }
                   ],
     "total_general_kg":  113565.9,
@@ -234,7 +234,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  14,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  8,
@@ -263,7 +263,7 @@
                           "zulia":  0,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  30,
                           "margarita":  28,
                           "capital":  38,
                           "barcelona":  0,
@@ -377,7 +377,7 @@
                           "bolivar":  38
                       },
                       {
-                          "zulia":  98,
+                          "zulia":  97,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  60,
@@ -390,7 +390,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  89,
+                          "zulia":  79,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -403,7 +403,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  134,
+                          "zulia":  133,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  63,
@@ -416,7 +416,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  122,
+                          "zulia":  121,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  65,
@@ -429,7 +429,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  88,
+                          "zulia":  83,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  59,
@@ -442,7 +442,7 @@
                           "bolivar":  15
                       },
                       {
-                          "zulia":  133,
+                          "zulia":  132,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  59,
@@ -468,7 +468,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  15,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  54,
@@ -504,7 +504,7 @@
                           "cagua":  324,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  27,
-                          "bolivar":  20
+                          "bolivar":  0
                       },
                       {
                           "zulia":  42,
@@ -517,7 +517,7 @@
                           "cagua":  371,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
-                          "bolivar":  14
+                          "bolivar":  0
                       },
                       {
                           "zulia":  15,
@@ -559,7 +559,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  11,
+                          "zulia":  6,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  16,
@@ -611,7 +611,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  21,
+                          "zulia":  20,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  10,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 10:10:46",
+    "ultima_actualizacion":  "16/09/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1247,7 +1247,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  15,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-28072026",
@@ -4916,5 +4916,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39686
+    "total_general_cajas":  39636
 };
