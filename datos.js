@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  940
+                          "cajas":  937
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -227,7 +227,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  26,
-                          "barcelona":  11,
+                          "barcelona":  8,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                           "barquisimeto":  6,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 11:00:46",
+    "ultima_actualizacion":  "16/09/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3887,7 +3887,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "0128-210125",
@@ -4077,7 +4077,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  25,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "23-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-230626",
@@ -4607,7 +4607,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  53,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "28-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-280826",
@@ -4896,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39561
+    "total_general_cajas":  39558
 };
