@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  796
+                          "cajas":  815
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  72,
+                          "capital":  90,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "UVAS PASAS 1 X 10KG",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  21,
-                          "capital":  0,
+                          "capital":  1,
                           "barcelona":  3,
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 15:50:47",
+    "ultima_actualizacion":  "16/09/2026 16:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -877,7 +877,7 @@
                   },
                   {
                       "codigo":  "4CFS002",
-                      "cantidad":  72,
+                      "cantidad":  90,
                       "fecha_fabricacion":  "19-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1126-191125",
@@ -2820,6 +2820,16 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
+                      "lote":  "0628-090626",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "0628-090626",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
@@ -4886,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40453
+    "total_general_cajas":  40472
 };
