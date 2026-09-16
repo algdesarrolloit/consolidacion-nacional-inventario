@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  854
+                          "cajas":  782
                       }
                   ],
     "total_general_kg":  113565.9,
@@ -270,7 +270,7 @@
                           "cagua":  30,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  12,
-                          "bolivar":  26
+                          "bolivar":  21
                       },
                       {
                           "zulia":  398,
@@ -283,7 +283,7 @@
                           "cagua":  3447,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  419,
-                          "bolivar":  158
+                          "bolivar":  148
                       },
                       {
                           "zulia":  42,
@@ -348,7 +348,7 @@
                           "cagua":  55,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  11,
-                          "bolivar":  15
+                          "bolivar":  13
                       },
                       {
                           "zulia":  105,
@@ -361,7 +361,7 @@
                           "cagua":  358,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  58,
-                          "bolivar":  26
+                          "bolivar":  23
                       },
                       {
                           "zulia":  108,
@@ -374,7 +374,7 @@
                           "cagua":  332,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  50,
-                          "bolivar":  38
+                          "bolivar":  34
                       },
                       {
                           "zulia":  97,
@@ -387,7 +387,7 @@
                           "cagua":  3680,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  74,
-                          "bolivar":  7
+                          "bolivar":  5
                       },
                       {
                           "zulia":  79,
@@ -400,7 +400,7 @@
                           "cagua":  343,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
-                          "bolivar":  3
+                          "bolivar":  0
                       },
                       {
                           "zulia":  133,
@@ -439,7 +439,7 @@
                           "cagua":  1477,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  63,
-                          "bolivar":  15
+                          "bolivar":  8
                       },
                       {
                           "zulia":  132,
@@ -452,7 +452,7 @@
                           "cagua":  845,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  72,
-                          "bolivar":  17
+                          "bolivar":  10
                       },
                       {
                           "zulia":  53,
@@ -478,7 +478,7 @@
                           "cagua":  584,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  53,
-                          "bolivar":  20
+                          "bolivar":  13
                       },
                       {
                           "zulia":  32,
@@ -569,7 +569,7 @@
                           "cagua":  633,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
-                          "bolivar":  17
+                          "bolivar":  2
                       },
                       {
                           "zulia":  1,
@@ -621,7 +621,7 @@
                           "cagua":  30,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                           "barquisimeto":  8,
-                          "bolivar":  2
+                          "bolivar":  0
                       },
                       {
                           "zulia":  294,
@@ -673,7 +673,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  0,
-                          "bolivar":  4
+                          "bolivar":  1
                       },
                       {
                           "zulia":  5,
@@ -712,7 +712,7 @@
                           "cagua":  52,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  4,
-                          "bolivar":  4
+                          "bolivar":  2
                       },
                       {
                           "zulia":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 10:20:46",
+    "ultima_actualizacion":  "16/09/2026 10:31:04",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4916,5 +4916,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39636
+    "total_general_cajas":  39564
 };
