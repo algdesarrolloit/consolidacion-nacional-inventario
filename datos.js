@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1473
+                          "cajas":  1470
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -601,7 +601,7 @@
                           "zulia":  55,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
-                          "andes":  45,
+                          "andes":  44,
                           "margarita":  37,
                           "capital":  32,
                           "barcelona":  74,
@@ -627,7 +627,7 @@
                           "zulia":  294,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
-                          "andes":  140,
+                          "andes":  139,
                           "margarita":  142,
                           "capital":  58,
                           "barcelona":  45,
@@ -718,7 +718,7 @@
                           "zulia":  0,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
-                          "andes":  53,
+                          "andes":  52,
                           "margarita":  63,
                           "capital":  16,
                           "barcelona":  27,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/09/2026 10:50:46",
+    "ultima_actualizacion":  "16/09/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4896,5 +4896,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  39564
+    "total_general_cajas":  39561
 };
