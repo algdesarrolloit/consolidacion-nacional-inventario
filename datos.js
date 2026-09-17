@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113110.9,
-                          "cajas":  32466
+                          "cajas":  32462
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  148,
                           "capital":  371,
                           "barcelona":  20,
-                          "cagua":  3029,
+                          "cagua":  3026,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  420,
                           "bolivar":  143
@@ -735,7 +735,7 @@
                           "margarita":  37,
                           "capital":  37,
                           "barcelona":  24,
-                          "cagua":  1035,
+                          "cagua":  1034,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  92,
                           "bolivar":  29
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 14:50:47",
+    "ultima_actualizacion":  "17/09/2026 15:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1427,7 +1427,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  7,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-070926",
@@ -4877,7 +4877,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  42,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-190826",
@@ -4976,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  42503
+    "total_general_cajas":  42499
 };
