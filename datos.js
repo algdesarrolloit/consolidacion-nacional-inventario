@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 12:20:46",
+    "ultima_actualizacion":  "17/09/2026 12:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1297,7 +1297,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  38,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-28072026",
@@ -1807,7 +1807,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  278,
+                      "cantidad":  262,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -2987,17 +2987,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-06-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0628-10062026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  30,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-150626",
@@ -3087,7 +3077,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1227-17122025",
@@ -3567,7 +3557,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  18,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -3647,7 +3637,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  19,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-310726",
@@ -3777,7 +3767,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-100826",
@@ -4080,16 +4070,6 @@
                       "cantidad":  22,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0628-080626",
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                       "um":  "CJ",
@@ -4637,7 +4617,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  6,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "04-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-04092026",
