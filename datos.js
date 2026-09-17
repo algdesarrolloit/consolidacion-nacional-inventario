@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  757
+                          "cajas":  745
                       }
                   ],
     "total_general_kg":  113110.9,
@@ -244,7 +244,7 @@
                           "cagua":  39,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  23,
-                          "bolivar":  3
+                          "bolivar":  2
                       },
                       {
                           "zulia":  51,
@@ -283,7 +283,7 @@
                           "cagua":  3029,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  420,
-                          "bolivar":  147
+                          "bolivar":  143
                       },
                       {
                           "zulia":  42,
@@ -491,7 +491,7 @@
                           "cagua":  229,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  11,
-                          "bolivar":  10
+                          "bolivar":  9
                       },
                       {
                           "zulia":  21,
@@ -686,7 +686,7 @@
                           "cagua":  869,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  28,
-                          "bolivar":  12
+                          "bolivar":  10
                       },
                       {
                           "zulia":  0,
@@ -725,7 +725,7 @@
                           "cagua":  1831,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  63,
-                          "bolivar":  66
+                          "bolivar":  64
                       },
                       {
                           "zulia":  43,
@@ -738,7 +738,7 @@
                           "cagua":  1035,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  92,
-                          "bolivar":  31
+                          "bolivar":  29
                       },
                       {
                           "zulia":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 11:10:46",
+    "ultima_actualizacion":  "17/09/2026 11:21:01",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4986,5 +4986,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40261
+    "total_general_cajas":  40249
 };
