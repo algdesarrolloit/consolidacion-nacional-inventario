@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2053
+                          "cajas":  1940
                       },
                       {
                           "almacen":  "CAGUA",
@@ -321,7 +321,7 @@
                           "barcelona":  0,
                           "cagua":  809,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  60,
+                          "barquisimeto":  43,
                           "bolivar":  0
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  63,
                           "cagua":  2072,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  210,
+                          "barquisimeto":  154,
                           "bolivar":  61
                       },
                       {
@@ -373,7 +373,7 @@
                           "barcelona":  38,
                           "cagua":  332,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  50,
+                          "barquisimeto":  40,
                           "bolivar":  33
                       },
                       {
@@ -399,7 +399,7 @@
                           "barcelona":  28,
                           "cagua":  307,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  33,
+                          "barquisimeto":  3,
                           "bolivar":  0
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 13:50:47",
+    "ultima_actualizacion":  "17/09/2026 14:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4976,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  42619
+    "total_general_cajas":  42506
 };
