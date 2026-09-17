@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  60363,
-                                                              "bidones":  1097.51
+                                                              "kg":  60088,
+                                                              "bidones":  1092.51
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  113565.9,
+                          "kg":  113290.9,
                           "cajas":  30988
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  782
                       }
                   ],
-    "total_general_kg":  113565.9,
+    "total_general_kg":  113290.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -774,7 +774,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  60363,
+                          "cagua":  60088,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 08:10:46",
+    "ultima_actualizacion":  "17/09/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
