@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  761
+                          "cajas":  758
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -331,7 +331,7 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  259,
-                          "barcelona":  63,
+                          "barcelona":  60,
                           "cagua":  2072,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  154,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 14:10:47",
+    "ultima_actualizacion":  "17/09/2026 14:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4976,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  42506
+    "total_general_cajas":  42503
 };
