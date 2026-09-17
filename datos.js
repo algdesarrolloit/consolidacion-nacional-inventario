@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113110.9,
-                          "cajas":  30001
+                          "cajas":  32466
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -241,7 +241,7 @@
                           "margarita":  21,
                           "capital":  39,
                           "barcelona":  5,
-                          "cagua":  39,
+                          "cagua":  719,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  23,
                           "bolivar":  2
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  259,
                           "barcelona":  63,
-                          "cagua":  287,
+                          "cagua":  2072,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  210,
                           "bolivar":  61
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 13:30:47",
+    "ultima_actualizacion":  "17/09/2026 13:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1104,6 +1104,36 @@
                       "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-07-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  61,
+                      "fecha_fabricacion":  "12-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-120926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  388,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-140926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  231,
+                      "fecha_fabricacion":  "19-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-190926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-09-2028"
                   },
                   {
                       "codigo":  "4MES002",
@@ -1804,6 +1834,26 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  748,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-160926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1037,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-170926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -4966,5 +5016,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40154
+    "total_general_cajas":  42619
 };
