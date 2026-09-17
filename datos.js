@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1785
+                          "cajas":  1774
                       },
                       {
                           "almacen":  "ANDES",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  130,
-                          "capital":  315,
+                          "capital":  304,
                           "barcelona":  63,
                           "cagua":  287,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 11:50:46",
+    "ultima_actualizacion":  "17/09/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4986,5 +4986,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40249
+    "total_general_cajas":  40238
 };
