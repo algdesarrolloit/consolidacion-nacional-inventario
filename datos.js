@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2051
+                          "cajas":  2053
                       },
                       {
                           "almacen":  "CAGUA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  938
+                          "cajas":  908
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -282,7 +282,7 @@
                           "barcelona":  42,
                           "cagua":  3029,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  419,
+                          "barquisimeto":  420,
                           "bolivar":  148
                       },
                       {
@@ -331,7 +331,7 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  315,
-                          "barcelona":  107,
+                          "barcelona":  77,
                           "cagua":  287,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  210,
@@ -503,7 +503,7 @@
                           "barcelona":  4,
                           "cagua":  324,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                          "barquisimeto":  27,
+                          "barquisimeto":  28,
                           "bolivar":  0
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 10:20:46",
+    "ultima_actualizacion":  "17/09/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1367,7 +1367,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  419,
+                      "cantidad":  420,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -3137,7 +3137,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  7,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "01-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0127-01072026",
@@ -4986,5 +4986,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40461
+    "total_general_cajas":  40433
 };
