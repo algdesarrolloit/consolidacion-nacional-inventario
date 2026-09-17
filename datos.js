@@ -169,14 +169,14 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  908
+                          "cajas":  905
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  782
+                          "cajas":  777
                       }
                   ],
     "total_general_kg":  113110.9,
@@ -279,7 +279,7 @@
                           "andes":  221,
                           "margarita":  148,
                           "capital":  371,
-                          "barcelona":  42,
+                          "barcelona":  40,
                           "cagua":  3029,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  420,
@@ -335,7 +335,7 @@
                           "cagua":  287,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  210,
-                          "bolivar":  73
+                          "bolivar":  68
                       },
                       {
                           "zulia":  74,
@@ -461,7 +461,7 @@
                           "andes":  0,
                           "margarita":  21,
                           "capital":  0,
-                          "barcelona":  3,
+                          "barcelona":  2,
                           "cagua":  0,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 10:40:47",
+    "ultima_actualizacion":  "17/09/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4986,5 +4986,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40433
+    "total_general_cajas":  40425
 };
