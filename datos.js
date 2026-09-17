@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 14:30:47",
+    "ultima_actualizacion":  "17/09/2026 14:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1787,7 +1787,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  63,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0327-09092026",
