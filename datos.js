@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113110.9,
-                          "cajas":  32462
+                          "cajas":  32460
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -202,7 +202,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  3,
+                          "cagua":  2,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  9,
                           "bolivar":  1
@@ -215,7 +215,7 @@
                           "margarita":  0,
                           "capital":  3,
                           "barcelona":  2,
-                          "cagua":  33,
+                          "cagua":  32,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                           "barquisimeto":  8,
                           "bolivar":  0
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 15:00:47",
+    "ultima_actualizacion":  "17/09/2026 15:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -927,7 +927,7 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "28-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-280126",
@@ -977,7 +977,7 @@
                   },
                   {
                       "codigo":  "4CNA057",
-                      "cantidad":  33,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "31-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-310126",
@@ -4976,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  42499
+    "total_general_cajas":  42497
 };
