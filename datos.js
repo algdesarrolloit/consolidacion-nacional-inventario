@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  113110.9,
-                          "cajas":  30016
+                          "cajas":  30001
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -319,7 +319,7 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  812,
+                          "cagua":  809,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  60,
                           "bolivar":  0
@@ -397,7 +397,7 @@
                           "margarita":  32,
                           "capital":  50,
                           "barcelona":  30,
-                          "cagua":  310,
+                          "cagua":  307,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
                           "bolivar":  0
@@ -423,7 +423,7 @@
                           "margarita":  34,
                           "capital":  48,
                           "barcelona":  19,
-                          "cagua":  713,
+                          "cagua":  710,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  48,
                           "bolivar":  10
@@ -436,7 +436,7 @@
                           "margarita":  27,
                           "capital":  71,
                           "barcelona":  25,
-                          "cagua":  1427,
+                          "cagua":  1424,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  63,
                           "bolivar":  8
@@ -566,7 +566,7 @@
                           "margarita":  51,
                           "capital":  21,
                           "barcelona":  31,
-                          "cagua":  1213,
+                          "cagua":  1210,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
                           "bolivar":  2
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/09/2026 10:10:46",
+    "ultima_actualizacion":  "17/09/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4986,5 +4986,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  40476
+    "total_general_cajas":  40461
 };
