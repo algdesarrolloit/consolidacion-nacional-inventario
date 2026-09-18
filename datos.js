@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34597
+                          "cajas":  34598
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -631,7 +631,7 @@
                           "margarita":  142,
                           "capital":  55,
                           "barcelona":  22,
-                          "cagua":  3906,
+                          "cagua":  3907,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  141,
                           "bolivar":  90
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 11:50:47",
+    "ultima_actualizacion":  "18/09/2026 12:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1377,7 +1377,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  420,
+                      "cantidad":  419,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -1767,7 +1767,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  154,
+                      "cantidad":  152,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-110926",
@@ -4167,7 +4167,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  642,
+                      "cantidad":  643,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
@@ -4946,5 +4946,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44631
+    "total_general_cajas":  44632
 };
