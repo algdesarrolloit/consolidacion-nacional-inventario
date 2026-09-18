@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  52602.9,
-                                                              "bidones":  876.72
+                                                              "kg":  52542.9,
+                                                              "bidones":  875.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59796,
-                                                              "bidones":  1087.2
+                                                              "kg":  59741,
+                                                              "bidones":  1086.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  360,
-                                                              "bidones":  2
+                                                              "kg":  180,
+                                                              "bidones":  1
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  112758.9,
+                          "kg":  112463.9,
                           "cajas":  34631
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  745
                       }
                   ],
-    "total_general_kg":  112758.9,
+    "total_general_kg":  112463.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -761,7 +761,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  52602.9,
+                          "cagua":  52542.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -774,7 +774,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59796,
+                          "cagua":  59741,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -787,13 +787,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  360,
+                          "cagua":  180,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 09:40:46",
+    "ultima_actualizacion":  "18/09/2026 09:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
