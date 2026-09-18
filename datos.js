@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34598
+                          "cajas":  34626
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -215,7 +215,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  8,
-                          "cagua":  0,
+                          "cagua":  26,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                           "barquisimeto":  6,
                           "bolivar":  5
@@ -436,7 +436,7 @@
                           "margarita":  34,
                           "capital":  61,
                           "barcelona":  24,
-                          "cagua":  795,
+                          "cagua":  797,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  72,
                           "bolivar":  10
@@ -780,7 +780,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 13:40:47",
+    "ultima_actualizacion":  "18/09/2026 13:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -861,16 +861,6 @@
                       "descripcion":  "ALCAPARRAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-11-2027"
-                  },
-                  {
-                      "codigo":  "4CFS002",
-                      "cantidad":  90,
-                      "fecha_fabricacion":  "19-11-2025",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1126-191125",
-                      "descripcion":  "UVAS PASAS 1 X 10KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-11-2026"
                   },
                   {
                       "codigo":  "4CNA026",
@@ -1006,7 +996,7 @@
                       "codigo":  "4CNA096",
                       "cantidad":  26,
                       "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "CAPITAL",
+                      "ubicacion":  "CAGUA",
                       "lote":  "1226-120126",
                       "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                       "um":  "CJ",
@@ -1434,7 +1424,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  300,
+                      "cantidad":  290,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2804,7 +2794,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  795,
+                      "cantidad":  797,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -2814,7 +2804,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  50,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-06072026",
@@ -4933,5 +4923,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44504
+    "total_general_cajas":  44532
 };
