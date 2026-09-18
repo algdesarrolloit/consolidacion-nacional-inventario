@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  37348
+                          "cajas":  39861
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -182,6 +182,19 @@
     "total_general_kg":  112463.9,
     "productos":  [
                       {
+                          "zulia":  0,
+                          "codigo":  "4CNA021",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  135,
+                          "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  1,
                           "codigo":  "4CNA026",
                           "um":  "CJ",
@@ -189,7 +202,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  0,
+                          "cagua":  52,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  9,
                           "bolivar":  1
@@ -202,9 +215,22 @@
                           "margarita":  0,
                           "capital":  3,
                           "barcelona":  2,
-                          "cagua":  0,
+                          "cagua":  40,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                           "barquisimeto":  8,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CNA074",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  182,
+                          "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -761,7 +787,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1325,
+                          "cagua":  2475,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -774,7 +800,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1200,
+                          "cagua":  2154,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -819,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 15:00:47",
+    "ultima_actualizacion":  "18/09/2026 15:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -902,6 +928,16 @@
                       "fecha_vencimiento":  "23-11-2027"
                   },
                   {
+                      "codigo":  "4CNA021",
+                      "cantidad":  135,
+                      "fecha_fabricacion":  "07-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-070626",
+                      "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-06-2027"
+                  },
+                  {
                       "codigo":  "4CNA026",
                       "cantidad":  5,
                       "fecha_fabricacion":  "28-01-2026",
@@ -940,6 +976,16 @@
                       "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-10-2026"
+                  },
+                  {
+                      "codigo":  "4CNA026",
+                      "cantidad":  52,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-090626",
+                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2027"
                   },
                   {
                       "codigo":  "4CNA026",
@@ -983,6 +1029,16 @@
                   },
                   {
                       "codigo":  "4CNA057",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "05-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-050627",
+                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA057",
                       "cantidad":  3,
                       "fecha_fabricacion":  "31-01-2026",
                       "ubicacion":  "CAPITAL",
@@ -1000,6 +1056,16 @@
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
                       "fecha_vencimiento":  "31-10-2026"
+                  },
+                  {
+                      "codigo":  "4CNA074",
+                      "cantidad":  182,
+                      "fecha_fabricacion":  "08-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-080627",
+                      "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-06-2027"
                   },
                   {
                       "codigo":  "4CNA096",
@@ -4983,7 +5049,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  324,
+                      "cantidad":  1474,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5013,6 +5079,16 @@
                   },
                   {
                       "codigo":  "4PAC002",
+                      "cantidad":  954,
+                      "fecha_fabricacion":  "14-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-140426",
+                      "descripcion":  "PAN INTEGRAL 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC002",
                       "cantidad":  81,
                       "fecha_fabricacion":  "16-04-2026",
                       "ubicacion":  "CAGUA",
@@ -5022,5 +5098,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  47255
+    "total_general_cajas":  49768
 };
