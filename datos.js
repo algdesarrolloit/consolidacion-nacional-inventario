@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1690
+                          "cajas":  1562
                       },
                       {
                           "almacen":  "ANDES",
@@ -182,19 +182,6 @@
     "total_general_kg":  112463.9,
     "productos":  [
                       {
-                          "zulia":  0,
-                          "codigo":  "4CFS002",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  90,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "UVAS PASAS 1 X 10KG",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
                           "zulia":  1,
                           "codigo":  "4CNA026",
                           "um":  "CJ",
@@ -226,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  26,
+                          "capital":  0,
                           "barcelona":  8,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
@@ -278,7 +265,7 @@
                           "um":  "CJ",
                           "andes":  221,
                           "margarita":  148,
-                          "capital":  371,
+                          "capital":  361,
                           "barcelona":  20,
                           "cagua":  3026,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -447,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  63,
+                          "capital":  61,
                           "barcelona":  24,
                           "cagua":  795,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -793,7 +780,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 13:30:47",
+    "ultima_actualizacion":  "18/09/2026 13:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4946,5 +4933,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44632
+    "total_general_cajas":  44504
 };
