@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34626
+                          "cajas":  34849
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2191
+                          "cajas":  2192
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -442,6 +442,19 @@
                           "bolivar":  10
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MSA005",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  223,
+                          "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  53,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
@@ -663,7 +676,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  6,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  59,
@@ -780,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 14:00:47",
+    "ultima_actualizacion":  "18/09/2026 14:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2863,6 +2876,16 @@
                       "fecha_vencimiento":  "06-07-2028"
                   },
                   {
+                      "codigo":  "4MSA005",
+                      "cantidad":  223,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
                       "codigo":  "4MSA006",
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
@@ -4384,7 +4407,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  5,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-25082026",
@@ -4923,5 +4946,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44532
+    "total_general_cajas":  44756
 };
