@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  39861
+                          "cajas":  40273
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -722,7 +722,7 @@
                           "margarita":  15,
                           "capital":  28,
                           "barcelona":  17,
-                          "cagua":  387,
+                          "cagua":  1103,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  85,
                           "bolivar":  59
@@ -787,7 +787,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  2475,
+                          "cagua":  2323,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -800,7 +800,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  2154,
+                          "cagua":  2002,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 15:30:47",
+    "ultima_actualizacion":  "18/09/2026 15:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4599,6 +4599,16 @@
                   },
                   {
                       "codigo":  "4MTO018",
+                      "cantidad":  716,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO018",
                       "cantidad":  28,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -5098,5 +5108,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  49768
+    "total_general_cajas":  50180
 };
