@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34631
+                          "cajas":  34597
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -202,7 +202,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  2,
+                          "cagua":  0,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  9,
                           "bolivar":  1
@@ -215,7 +215,7 @@
                           "margarita":  0,
                           "capital":  3,
                           "barcelona":  2,
-                          "cagua":  32,
+                          "cagua":  0,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                           "barquisimeto":  8,
                           "bolivar":  0
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 10:30:47",
+    "ultima_actualizacion":  "18/09/2026 10:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -927,16 +927,6 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-280126",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA026",
                       "cantidad":  1,
                       "fecha_fabricacion":  "28-01-2026",
                       "ubicacion":  "ZULIA",
@@ -970,16 +960,6 @@
                       "cantidad":  8,
                       "fecha_fabricacion":  "31-01-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1026-310126",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  32,
-                      "fecha_fabricacion":  "31-01-2026",
-                      "ubicacion":  "CAGUA",
                       "lote":  "1026-310126",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
@@ -4976,5 +4956,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44668
+    "total_general_cajas":  44634
 };
