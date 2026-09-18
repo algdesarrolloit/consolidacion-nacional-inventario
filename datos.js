@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 11:20:47",
+    "ultima_actualizacion":  "18/09/2026 11:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1407,16 +1407,6 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "07-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-070926",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
                       "cantidad":  1948,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
@@ -2007,7 +1997,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  359,
+                      "cantidad":  358,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-060726",
@@ -2247,7 +2237,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1286,
+                      "cantidad":  1285,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -3077,7 +3067,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  43,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-17122025",
@@ -4177,7 +4167,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  643,
+                      "cantidad":  642,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
@@ -4387,7 +4377,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  870,
+                      "cantidad":  869,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -4517,7 +4507,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  390,
+                      "cantidad":  387,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-15072026",
