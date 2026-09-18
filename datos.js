@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34849
+                          "cajas":  37348
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -215,7 +215,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  8,
-                          "cagua":  26,
+                          "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                           "barquisimeto":  6,
                           "bolivar":  5
@@ -755,6 +755,32 @@
                       },
                       {
                           "zulia":  0,
+                          "codigo":  "4PAC001",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  1325,
+                          "descripcion":  "PAN BLANCO 10 X 390G",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4PAC002",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  1200,
+                          "descripcion":  "PAN INTEGRAL 10 X 390G",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
                           "codigo":  "1VEG001",
                           "um":  "KG",
                           "andes":  0,
@@ -793,7 +819,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 14:50:47",
+    "ultima_actualizacion":  "18/09/2026 15:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1000,16 +1026,6 @@
                       "cantidad":  5,
                       "fecha_fabricacion":  "12-01-2026",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "1226-120126",
-                      "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-12-2026"
-                  },
-                  {
-                      "codigo":  "4CNA096",
-                      "cantidad":  26,
-                      "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "CAGUA",
                       "lote":  "1226-120126",
                       "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                       "um":  "CJ",
@@ -4944,7 +4960,67 @@
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-07-2028"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  353,
+                      "fecha_fabricacion":  "09-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-090426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  243,
+                      "fecha_fabricacion":  "18-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-180426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  324,
+                      "fecha_fabricacion":  "19-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-190426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  405,
+                      "fecha_fabricacion":  "22-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-220426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC002",
+                      "cantidad":  1119,
+                      "fecha_fabricacion":  "14-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-14042026",
+                      "descripcion":  "PAN INTEGRAL 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC002",
+                      "cantidad":  81,
+                      "fecha_fabricacion":  "16-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-16042026",
+                      "descripcion":  "PAN INTEGRAL 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  44756
+    "total_general_cajas":  47255
 };
