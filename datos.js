@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59978,
-                                                              "bidones":  1090.51
+                                                              "kg":  59796,
+                                                              "bidones":  1087.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,8 +133,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  112640.9,
-                          "cajas":  32460
+                          "kg":  112458.9,
+                          "cajas":  34631
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -179,7 +179,7 @@
                           "cajas":  745
                       }
                   ],
-    "total_general_kg":  112640.9,
+    "total_general_kg":  112458.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -332,7 +332,7 @@
                           "margarita":  130,
                           "capital":  259,
                           "barcelona":  60,
-                          "cagua":  2072,
+                          "cagua":  3063,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  154,
                           "bolivar":  61
@@ -631,7 +631,7 @@
                           "margarita":  142,
                           "capital":  55,
                           "barcelona":  22,
-                          "cagua":  2726,
+                          "cagua":  3906,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  141,
                           "bolivar":  90
@@ -774,7 +774,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59978,
+                          "cagua":  59796,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 07:20:46",
+    "ultima_actualizacion":  "18/09/2026 07:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1837,7 +1837,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1037,
+                      "cantidad":  2028,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-170926",
@@ -4227,6 +4227,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  1180,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  8,
                       "fecha_fabricacion":  "29-04-2026",
                       "ubicacion":  "CAPITAL",
@@ -4966,5 +4976,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  42497
+    "total_general_cajas":  44668
 };
