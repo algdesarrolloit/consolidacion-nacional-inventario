@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1940
+                          "cajas":  1937
                       },
                       {
                           "almacen":  "CAGUA",
@@ -282,7 +282,7 @@
                           "barcelona":  20,
                           "cagua":  3026,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  420,
+                          "barquisimeto":  419,
                           "bolivar":  143
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  60,
                           "cagua":  3063,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  154,
+                          "barquisimeto":  152,
                           "bolivar":  61
                       },
                       {
@@ -793,7 +793,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/09/2026 11:40:47",
+    "ultima_actualizacion":  "18/09/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4946,5 +4946,5 @@
                       "fecha_vencimiento":  "28-07-2028"
                   }
               ],
-    "total_general_cajas":  44634
+    "total_general_cajas":  44631
 };
