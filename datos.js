@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1937
+                          "cajas":  2292
                       },
                       {
                           "almacen":  "CAGUA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  745
+                          "cajas":  1179
                       }
                   ],
     "total_general_kg":  112463.9,
@@ -295,8 +295,8 @@
                           "barcelona":  20,
                           "cagua":  2804,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  419,
-                          "bolivar":  143
+                          "barquisimeto":  539,
+                          "bolivar":  203
                       },
                       {
                           "zulia":  42,
@@ -334,8 +334,8 @@
                           "barcelona":  0,
                           "cagua":  180,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  43,
-                          "bolivar":  0
+                          "barquisimeto":  103,
+                          "bolivar":  144
                       },
                       {
                           "zulia":  0,
@@ -347,8 +347,8 @@
                           "barcelona":  60,
                           "cagua":  2365,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  152,
-                          "bolivar":  61
+                          "barquisimeto":  257,
+                          "bolivar":  181
                       },
                       {
                           "zulia":  74,
@@ -412,8 +412,8 @@
                           "barcelona":  28,
                           "cagua":  167,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  3,
-                          "bolivar":  0
+                          "barquisimeto":  43,
+                          "bolivar":  60
                       },
                       {
                           "zulia":  133,
@@ -477,7 +477,7 @@
                           "barcelona":  0,
                           "cagua":  185,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  0,
+                          "barquisimeto":  30,
                           "bolivar":  0
                       },
                       {
@@ -530,7 +530,7 @@
                           "cagua":  308,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
-                          "bolivar":  0
+                          "bolivar":  10
                       },
                       {
                           "zulia":  42,
@@ -543,7 +543,7 @@
                           "cagua":  353,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
-                          "bolivar":  1
+                          "bolivar":  11
                       },
                       {
                           "zulia":  15,
@@ -595,7 +595,7 @@
                           "cagua":  923,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
-                          "bolivar":  1
+                          "bolivar":  31
                       },
                       {
                           "zulia":  1,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 14:10:47",
+    "ultima_actualizacion":  "19/09/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1459,6 +1459,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "08-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-08092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  23,
                       "fecha_fabricacion":  "04-08-2026",
                       "ubicacion":  "BOLIVAR",
@@ -1479,7 +1489,17 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1828,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "08-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-08092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1768,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-08092026",
@@ -1789,9 +1809,19 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  43,
+                      "cantidad":  103,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-150926-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  144,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0327-150926-NV",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
@@ -1809,7 +1839,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  581,
+                      "cantidad":  437,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-150926-NV",
@@ -1849,6 +1879,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-160926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  61,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -1856,6 +1896,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0327-160926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -1869,7 +1919,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  643,
+                      "cantidad":  523,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-160926",
@@ -2419,7 +2469,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  3,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-050826 NV",
@@ -2429,7 +2479,17 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  267,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "10-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0828-050826 NV",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  207,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-050826 NV",
@@ -2959,6 +3019,16 @@
                   },
                   {
                       "codigo":  "4MSA005",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
                       "cantidad":  193,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
@@ -3239,7 +3309,17 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  127,
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "21-07-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0727-210726",
+                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-07-2027"
+                  },
+                  {
+                      "codigo":  "4MSA013",
+                      "cantidad":  117,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0727-210726",
@@ -3359,7 +3439,17 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  137,
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "24-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0827-24082026",
+                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSA015",
+                      "cantidad":  127,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-24082026",
@@ -3819,6 +3909,16 @@
                   },
                   {
                       "codigo":  "4MSU015",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0927-150926-NV",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
                       "cantidad":  239,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAGUA",
@@ -3829,7 +3929,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  391,
+                      "cantidad":  361,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-150926-NV",
@@ -5108,5 +5208,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  45848
+    "total_general_cajas":  46637
 };
