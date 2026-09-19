@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  35702
+                          "cajas":  35401
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  757
+                          "cajas":  758
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -253,8 +253,8 @@
                           "andes":  8,
                           "margarita":  21,
                           "capital":  39,
-                          "barcelona":  4,
-                          "cagua":  703,
+                          "barcelona":  5,
+                          "cagua":  683,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  23,
                           "bolivar":  2
@@ -293,7 +293,7 @@
                           "margarita":  148,
                           "capital":  361,
                           "barcelona":  20,
-                          "cagua":  2804,
+                          "cagua":  2684,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  539,
                           "bolivar":  203
@@ -332,7 +332,7 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  180,
+                          "cagua":  114,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  103,
                           "bolivar":  144
@@ -345,7 +345,7 @@
                           "margarita":  130,
                           "capital":  259,
                           "barcelona":  60,
-                          "cagua":  2365,
+                          "cagua":  2300,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  257,
                           "bolivar":  181
@@ -514,7 +514,7 @@
                           "margarita":  13,
                           "capital":  10,
                           "barcelona":  0,
-                          "cagua":  219,
+                          "cagua":  199,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  11,
                           "bolivar":  9
@@ -553,7 +553,7 @@
                           "margarita":  18,
                           "capital":  13,
                           "barcelona":  0,
-                          "cagua":  415,
+                          "cagua":  405,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
                           "bolivar":  13
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 15:00:46",
+    "ultima_actualizacion":  "19/09/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5208,5 +5208,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  46397
+    "total_general_cajas":  46097
 };
