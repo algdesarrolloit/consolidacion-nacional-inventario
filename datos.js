@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 11:40:47",
+    "ultima_actualizacion":  "19/09/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5069,7 +5069,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  405,
+                      "cantidad":  355,
                       "fecha_fabricacion":  "22-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-220426",
@@ -5079,7 +5079,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  1119,
+                      "cantidad":  1084,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-14042026",
