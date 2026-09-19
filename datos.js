@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  39324
+                          "cajas":  38756
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,7 +332,7 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  809,
+                          "cagua":  749,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  43,
                           "bolivar":  0
@@ -371,7 +371,7 @@
                           "margarita":  23,
                           "capital":  29,
                           "barcelona":  26,
-                          "cagua":  358,
+                          "cagua":  355,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  58,
                           "bolivar":  23
@@ -384,7 +384,7 @@
                           "margarita":  31,
                           "capital":  31,
                           "barcelona":  38,
-                          "cagua":  332,
+                          "cagua":  329,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  40,
                           "bolivar":  33
@@ -397,7 +397,7 @@
                           "margarita":  28,
                           "capital":  114,
                           "barcelona":  24,
-                          "cagua":  3575,
+                          "cagua":  3563,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  74,
                           "bolivar":  5
@@ -410,7 +410,7 @@
                           "margarita":  32,
                           "capital":  50,
                           "barcelona":  28,
-                          "cagua":  307,
+                          "cagua":  267,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  3,
                           "bolivar":  0
@@ -423,7 +423,7 @@
                           "margarita":  16,
                           "capital":  66,
                           "barcelona":  195,
-                          "cagua":  4174,
+                          "cagua":  4155,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  69,
                           "bolivar":  12
@@ -436,7 +436,7 @@
                           "margarita":  34,
                           "capital":  48,
                           "barcelona":  17,
-                          "cagua":  710,
+                          "cagua":  691,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  48,
                           "bolivar":  9
@@ -449,7 +449,7 @@
                           "margarita":  27,
                           "capital":  71,
                           "barcelona":  19,
-                          "cagua":  1424,
+                          "cagua":  1384,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  63,
                           "bolivar":  7
@@ -462,7 +462,7 @@
                           "margarita":  34,
                           "capital":  61,
                           "barcelona":  24,
-                          "cagua":  797,
+                          "cagua":  777,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  72,
                           "bolivar":  10
@@ -592,7 +592,7 @@
                           "margarita":  51,
                           "capital":  20,
                           "barcelona":  29,
-                          "cagua":  1210,
+                          "cagua":  960,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
                           "bolivar":  1
@@ -787,7 +787,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1824,
+                          "cagua":  1773,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -800,7 +800,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1552,
+                          "cagua":  1501,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 08:40:47",
+    "ultima_actualizacion":  "19/09/2026 08:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5108,5 +5108,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  49231
+    "total_general_cajas":  48663
 };
