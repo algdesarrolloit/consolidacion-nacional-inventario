@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  37843
+                          "cajas":  37622
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  132,
+                          "cagua":  130,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -254,7 +254,7 @@
                           "margarita":  21,
                           "capital":  39,
                           "barcelona":  5,
-                          "cagua":  706,
+                          "cagua":  703,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  23,
                           "bolivar":  2
@@ -267,7 +267,7 @@
                           "margarita":  13,
                           "capital":  15,
                           "barcelona":  9,
-                          "cagua":  1334,
+                          "cagua":  1332,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  45,
                           "bolivar":  32
@@ -293,7 +293,7 @@
                           "margarita":  148,
                           "capital":  361,
                           "barcelona":  20,
-                          "cagua":  2999,
+                          "cagua":  2984,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  419,
                           "bolivar":  143
@@ -306,7 +306,7 @@
                           "margarita":  9,
                           "capital":  43,
                           "barcelona":  16,
-                          "cagua":  609,
+                          "cagua":  607,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  33,
                           "bolivar":  29
@@ -332,7 +332,7 @@
                           "margarita":  30,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  644,
+                          "cagua":  634,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  43,
                           "bolivar":  0
@@ -345,7 +345,7 @@
                           "margarita":  130,
                           "capital":  259,
                           "barcelona":  60,
-                          "cagua":  2605,
+                          "cagua":  2590,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  152,
                           "bolivar":  61
@@ -358,7 +358,7 @@
                           "margarita":  16,
                           "capital":  24,
                           "barcelona":  5,
-                          "cagua":  55,
+                          "cagua":  50,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  11,
                           "bolivar":  13
@@ -475,7 +475,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  216,
+                          "cagua":  215,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  37,
                           "capital":  8,
                           "barcelona":  7,
-                          "cagua":  545,
+                          "cagua":  544,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  53,
                           "bolivar":  13
@@ -527,7 +527,7 @@
                           "margarita":  13,
                           "capital":  4,
                           "barcelona":  4,
-                          "cagua":  320,
+                          "cagua":  318,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  0
@@ -540,7 +540,7 @@
                           "margarita":  16,
                           "capital":  7,
                           "barcelona":  9,
-                          "cagua":  366,
+                          "cagua":  363,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
                           "bolivar":  1
@@ -553,7 +553,7 @@
                           "margarita":  18,
                           "capital":  13,
                           "barcelona":  0,
-                          "cagua":  418,
+                          "cagua":  415,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
                           "bolivar":  13
@@ -566,7 +566,7 @@
                           "margarita":  9,
                           "capital":  16,
                           "barcelona":  5,
-                          "cagua":  671,
+                          "cagua":  666,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  33,
                           "bolivar":  13
@@ -579,7 +579,7 @@
                           "margarita":  16,
                           "capital":  18,
                           "barcelona":  16,
-                          "cagua":  193,
+                          "cagua":  190,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  44,
                           "bolivar":  12
@@ -592,7 +592,7 @@
                           "margarita":  51,
                           "capital":  20,
                           "barcelona":  29,
-                          "cagua":  960,
+                          "cagua":  953,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  27,
                           "bolivar":  1
@@ -657,7 +657,7 @@
                           "margarita":  142,
                           "capital":  55,
                           "barcelona":  22,
-                          "cagua":  3890,
+                          "cagua":  3785,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  141,
                           "bolivar":  90
@@ -722,7 +722,7 @@
                           "margarita":  15,
                           "capital":  28,
                           "barcelona":  17,
-                          "cagua":  1089,
+                          "cagua":  1083,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  85,
                           "bolivar":  59
@@ -735,7 +735,7 @@
                           "margarita":  12,
                           "capital":  3,
                           "barcelona":  5,
-                          "cagua":  46,
+                          "cagua":  42,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  4,
                           "bolivar":  2
@@ -748,7 +748,7 @@
                           "margarita":  63,
                           "capital":  16,
                           "barcelona":  24,
-                          "cagua":  1780,
+                          "cagua":  1770,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  63,
                           "bolivar":  64
@@ -761,7 +761,7 @@
                           "margarita":  37,
                           "capital":  37,
                           "barcelona":  24,
-                          "cagua":  1001,
+                          "cagua":  984,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  92,
                           "bolivar":  29
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 09:30:47",
+    "ultima_actualizacion":  "19/09/2026 09:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5108,5 +5108,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  47750
+    "total_general_cajas":  47529
 };
