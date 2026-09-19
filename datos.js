@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  35401
+                          "cajas":  35385
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  758
+                          "cajas":  1059
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -253,7 +253,7 @@
                           "andes":  8,
                           "margarita":  21,
                           "capital":  39,
-                          "barcelona":  5,
+                          "barcelona":  25,
                           "cagua":  683,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  23,
@@ -292,7 +292,7 @@
                           "andes":  221,
                           "margarita":  148,
                           "capital":  361,
-                          "barcelona":  20,
+                          "barcelona":  140,
                           "cagua":  2684,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  539,
@@ -331,7 +331,7 @@
                           "andes":  0,
                           "margarita":  30,
                           "capital":  0,
-                          "barcelona":  0,
+                          "barcelona":  66,
                           "cagua":  114,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  103,
@@ -344,7 +344,7 @@
                           "andes":  0,
                           "margarita":  130,
                           "capital":  259,
-                          "barcelona":  60,
+                          "barcelona":  125,
                           "cagua":  2300,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  257,
@@ -513,7 +513,7 @@
                           "andes":  35,
                           "margarita":  13,
                           "capital":  10,
-                          "barcelona":  0,
+                          "barcelona":  20,
                           "cagua":  199,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  11,
@@ -552,7 +552,7 @@
                           "andes":  12,
                           "margarita":  18,
                           "capital":  13,
-                          "barcelona":  0,
+                          "barcelona":  10,
                           "cagua":  405,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
@@ -787,7 +787,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1268,
+                          "cagua":  1260,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -800,7 +800,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1055,
+                          "cagua":  1047,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/09/2026 15:10:46",
+    "ultima_actualizacion":  "19/09/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1119,7 +1119,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  5,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-230726",
@@ -1149,7 +1149,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  39,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-230726",
@@ -1449,6 +1449,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "08-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-08092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  419,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -1499,7 +1509,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1768,
+                      "cantidad":  1648,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-08092026",
@@ -1809,6 +1819,16 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  66,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0327-150926-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  103,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -1839,7 +1859,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  437,
+                      "cantidad":  371,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-150926-NV",
@@ -1866,6 +1886,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  65,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0327-160926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -1919,7 +1949,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  523,
+                      "cantidad":  458,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-160926",
@@ -3199,6 +3229,26 @@
                   },
                   {
                       "codigo":  "4MSA008",
+                      "cantidad":  8,
+                      "fecha_fabricacion":  "17-12-2025",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1227-17122025",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
+                      "cantidad":  12,
+                      "fecha_fabricacion":  "18-12-2025",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1227-18122025",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
                       "cantidad":  11,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "BARQUISIMETO",
@@ -3219,7 +3269,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  42,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-17122025",
@@ -3229,7 +3279,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  187,
+                      "cantidad":  175,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -3560,6 +3610,26 @@
                   {
                       "codigo":  "4MSA017",
                       "cantidad":  5,
+                      "fecha_fabricacion":  "26-08-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0827-26082026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "08-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0927-08092026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  5,
                       "fecha_fabricacion":  "27-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0727-27072026",
@@ -3609,7 +3679,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  13,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-26082026",
@@ -3619,7 +3689,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  196,
+                      "cantidad":  191,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-08092026",
@@ -5208,5 +5278,5 @@
                       "fecha_vencimiento":  "16-10-2026"
                   }
               ],
-    "total_general_cajas":  46097
+    "total_general_cajas":  46382
 };
