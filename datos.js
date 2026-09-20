@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/09/2026 08:40:47",
+    "ultima_actualizacion":  "20/09/2026 08:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5209,7 +5209,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  353,
+                      "cantidad":  224,
                       "fecha_fabricacion":  "09-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-090426",
@@ -5219,17 +5219,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "18-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-180426",
-                      "descripcion":  "PAN BLANCO 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC001",
-                      "cantidad":  1459,
+                      "cantidad":  1384,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5239,7 +5229,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  322,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "22-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-220426",
@@ -5249,7 +5239,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  878,
+                      "cantidad":  433,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-14042026",
