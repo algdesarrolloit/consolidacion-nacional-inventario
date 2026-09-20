@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/09/2026 09:00:47",
+    "ultima_actualizacion":  "20/09/2026 09:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1839,7 +1839,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  174,
+                      "cantidad":  114,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-150926-NV",
@@ -2119,7 +2119,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  358,
+                      "cantidad":  355,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-060726",
@@ -2249,7 +2249,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  332,
+                      "cantidad":  329,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-05082026",
@@ -2359,7 +2359,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1285,
+                      "cantidad":  1273,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -2489,7 +2489,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  207,
+                      "cantidad":  167,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-050826 NV",
@@ -2629,7 +2629,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  358,
+                      "cantidad":  339,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-021225",
@@ -2739,7 +2739,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  710,
+                      "cantidad":  691,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -2849,7 +2849,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  506,
+                      "cantidad":  466,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-13082026",
@@ -2949,7 +2949,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  797,
+                      "cantidad":  777,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -5149,17 +5149,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  223,
-                      "fecha_fabricacion":  "09-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-090426",
-                      "descripcion":  "PAN BLANCO 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC001",
-                      "cantidad":  1149,
+                      "cantidad":  1129,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5168,28 +5158,8 @@
                       "fecha_vencimiento":  "19-10-2026"
                   },
                   {
-                      "codigo":  "4PAC001",
-                      "cantidad":  16,
-                      "fecha_fabricacion":  "22-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-220426",
-                      "descripcion":  "PAN BLANCO 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2026"
-                  },
-                  {
                       "codigo":  "4PAC002",
-                      "cantidad":  221,
-                      "fecha_fabricacion":  "14-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-14042026",
-                      "descripcion":  "PAN INTEGRAL 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC002",
-                      "cantidad":  953,
+                      "cantidad":  825,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
