@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  33517
+                          "cajas":  33385
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -579,7 +579,7 @@
                           "margarita":  16,
                           "capital":  18,
                           "barcelona":  16,
-                          "cagua":  190,
+                          "cagua":  130,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  44,
                           "bolivar":  12
@@ -735,7 +735,7 @@
                           "margarita":  12,
                           "capital":  3,
                           "barcelona":  5,
-                          "cagua":  42,
+                          "cagua":  30,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  4,
                           "bolivar":  2
@@ -761,7 +761,7 @@
                           "margarita":  37,
                           "capital":  37,
                           "barcelona":  24,
-                          "cagua":  984,
+                          "cagua":  924,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  92,
                           "bolivar":  29
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/09/2026 10:40:47",
+    "ultima_actualizacion":  "20/09/2026 10:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5168,5 +5168,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  44514
+    "total_general_cajas":  44382
 };
