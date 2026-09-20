@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/09/2026 08:30:47",
+    "ultima_actualizacion":  "20/09/2026 08:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5219,7 +5219,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  243,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "18-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-180426",
@@ -5229,7 +5229,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  1474,
+                      "cantidad":  1459,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5239,7 +5239,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  355,
+                      "cantidad":  322,
                       "fecha_fabricacion":  "22-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-220426",
@@ -5249,7 +5249,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  1084,
+                      "cantidad":  878,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-14042026",
@@ -5259,23 +5259,13 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  954,
+                      "cantidad":  953,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
                       "descripcion":  "PAN INTEGRAL 10 X 390G",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC002",
-                      "cantidad":  81,
-                      "fecha_fabricacion":  "16-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-16042026",
-                      "descripcion":  "PAN INTEGRAL 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-10-2026"
                   }
               ],
     "total_general_cajas":  45915
