@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1562
+                          "cajas":  1432
                       },
                       {
                           "almacen":  "ANDES",
@@ -252,7 +252,7 @@
                           "um":  "CJ",
                           "andes":  68,
                           "margarita":  21,
-                          "capital":  39,
+                          "capital":  29,
                           "barcelona":  25,
                           "cagua":  563,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -291,7 +291,7 @@
                           "um":  "CJ",
                           "andes":  401,
                           "margarita":  148,
-                          "capital":  361,
+                          "capital":  351,
                           "barcelona":  140,
                           "cagua":  2384,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -304,7 +304,7 @@
                           "um":  "CJ",
                           "andes":  28,
                           "margarita":  9,
-                          "capital":  43,
+                          "capital":  41,
                           "barcelona":  16,
                           "cagua":  607,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -343,7 +343,7 @@
                           "um":  "CJ",
                           "andes":  525,
                           "margarita":  130,
-                          "capital":  259,
+                          "capital":  199,
                           "barcelona":  125,
                           "cagua":  1145,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  16,
-                          "capital":  66,
+                          "capital":  64,
                           "barcelona":  195,
                           "cagua":  4155,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  65,
                           "margarita":  34,
-                          "capital":  48,
+                          "capital":  46,
                           "barcelona":  17,
                           "cagua":  691,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  58,
                           "margarita":  16,
-                          "capital":  18,
+                          "capital":  8,
                           "barcelona":  16,
                           "cagua":  130,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -590,7 +590,7 @@
                           "um":  "CJ",
                           "andes":  76,
                           "margarita":  51,
-                          "capital":  20,
+                          "capital":  5,
                           "barcelona":  29,
                           "cagua":  803,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -629,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  44,
                           "margarita":  37,
-                          "capital":  32,
+                          "capital":  30,
                           "barcelona":  71,
                           "cagua":  766,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
@@ -655,7 +655,7 @@
                           "um":  "CJ",
                           "andes":  159,
                           "margarita":  142,
-                          "capital":  55,
+                          "capital":  45,
                           "barcelona":  22,
                           "cagua":  3765,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -707,7 +707,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  28,
-                          "capital":  10,
+                          "capital":  8,
                           "barcelona":  11,
                           "cagua":  809,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -720,7 +720,7 @@
                           "um":  "CJ",
                           "andes":  117,
                           "margarita":  15,
-                          "capital":  28,
+                          "capital":  23,
                           "barcelona":  17,
                           "cagua":  843,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 11:00:46",
+    "ultima_actualizacion":  "21/09/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5388,5 +5388,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45915
+    "total_general_cajas":  45785
 };
