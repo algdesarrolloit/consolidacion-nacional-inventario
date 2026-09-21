@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1812
+                          "cajas":  2325
                       },
                       {
                           "almacen":  "CAGUA",
@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1043
+                          "cajas":  1521
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2829
+                          "cajas":  2771
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  9,
                           "barcelona":  0,
                           "cagua":  106,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
@@ -195,25 +195,25 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4CNA026",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  44,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  4,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  2,
+                          "zulia":  0,
                           "codigo":  "4CNA057",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  3,
                           "barcelona":  0,
                           "cagua":  34,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
@@ -226,24 +226,11 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  13,
                           "barcelona":  0,
                           "cagua":  158,
                           "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  55,
-                          "codigo":  "4CNA096",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  11,
                           "bolivar":  0
                       },
                       {
@@ -295,7 +282,7 @@
                           "barcelona":  98,
                           "cagua":  2324,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  452,
+                          "barquisimeto":  512,
                           "bolivar":  202
                       },
                       {
@@ -347,7 +334,7 @@
                           "barcelona":  89,
                           "cagua":  935,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  130,
+                          "barquisimeto":  340,
                           "bolivar":  176
                       },
                       {
@@ -473,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  65,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -499,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  30,
-                          "capital":  0,
+                          "capital":  38,
                           "barcelona":  5,
                           "cagua":  446,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -516,7 +503,7 @@
                           "barcelona":  2,
                           "cagua":  169,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                          "barquisimeto":  9,
+                          "barquisimeto":  39,
                           "bolivar":  9
                       },
                       {
@@ -564,7 +551,7 @@
                           "um":  "CJ",
                           "andes":  39,
                           "margarita":  7,
-                          "capital":  0,
+                          "capital":  30,
                           "barcelona":  2,
                           "cagua":  636,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -577,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  58,
                           "margarita":  15,
-                          "capital":  0,
+                          "capital":  30,
                           "barcelona":  16,
                           "cagua":  1005,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -590,11 +577,11 @@
                           "um":  "CJ",
                           "andes":  76,
                           "margarita":  43,
-                          "capital":  0,
+                          "capital":  30,
                           "barcelona":  27,
                           "cagua":  713,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  23,
+                          "barquisimeto":  83,
                           "bolivar":  29
                       },
                       {
@@ -642,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  10,
                           "margarita":  27,
-                          "capital":  0,
+                          "capital":  6,
                           "barcelona":  0,
                           "cagua":  16,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
@@ -655,11 +642,11 @@
                           "um":  "CJ",
                           "andes":  159,
                           "margarita":  132,
-                          "capital":  33,
+                          "capital":  63,
                           "barcelona":  1,
                           "cagua":  3615,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  104,
+                          "barquisimeto":  224,
                           "bolivar":  85
                       },
                       {
@@ -707,7 +694,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  27,
-                          "capital":  0,
+                          "capital":  60,
                           "barcelona":  8,
                           "cagua":  749,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -720,7 +707,7 @@
                           "um":  "CJ",
                           "andes":  117,
                           "margarita":  13,
-                          "capital":  16,
+                          "capital":  76,
                           "barcelona":  15,
                           "cagua":  783,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -746,7 +733,7 @@
                           "um":  "CJ",
                           "andes":  112,
                           "margarita":  63,
-                          "capital":  0,
+                          "capital":  50,
                           "barcelona":  0,
                           "cagua":  1540,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -759,7 +746,7 @@
                           "um":  "CJ",
                           "andes":  116,
                           "margarita":  35,
-                          "capital":  37,
+                          "capital":  87,
                           "barcelona":  5,
                           "cagua":  814,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -776,7 +763,7 @@
                           "barcelona":  0,
                           "cagua":  32,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
-                          "barquisimeto":  0,
+                          "barquisimeto":  18,
                           "bolivar":  0
                       },
                       {
@@ -845,7 +832,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 16:40:46",
+    "ultima_actualizacion":  "21/09/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -948,6 +935,16 @@
                       "fecha_vencimiento":  "07-06-2027"
                   },
                   {
+                      "codigo":  "4CNA021",
+                      "cantidad":  9,
+                      "fecha_fabricacion":  "07-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0627-070626",
+                      "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-06-2027"
+                  },
+                  {
                       "codigo":  "4CNA026",
                       "cantidad":  4,
                       "fecha_fabricacion":  "09-06-2026",
@@ -969,13 +966,13 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1026-280126",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0627-090626",
                       "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
+                      "fecha_vencimiento":  "09-06-2027"
                   },
                   {
                       "codigo":  "4CNA057",
@@ -999,13 +996,23 @@
                   },
                   {
                       "codigo":  "4CNA057",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "31-01-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1026-310126",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "05-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0627-050627",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "31-10-2026"
+                      "fecha_vencimiento":  "05-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA074",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "08-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0627-080627",
+                      "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-06-2027"
                   },
                   {
                       "codigo":  "4CNA074",
@@ -1018,14 +1025,14 @@
                       "fecha_vencimiento":  "08-06-2027"
                   },
                   {
-                      "codigo":  "4CNA096",
-                      "cantidad":  55,
-                      "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1226-120126",
-                      "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
+                      "codigo":  "4CNA074",
+                      "cantidad":  13,
+                      "fecha_fabricacion":  "08-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0627-080627",
+                      "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "11-12-2026"
+                      "fecha_vencimiento":  "08-06-2027"
                   },
                   {
                       "codigo":  "4MES002",
@@ -1399,7 +1406,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  110,
+                      "cantidad":  170,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-08092026",
@@ -1846,6 +1853,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  210,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-170926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2928,6 +2945,16 @@
                       "fecha_vencimiento":  "17-09-2028"
                   },
                   {
+                      "codigo":  "4MSA005",
+                      "cantidad":  65,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
                       "codigo":  "4MSA006",
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
@@ -3029,6 +3056,16 @@
                   },
                   {
                       "codigo":  "4MSA007",
+                      "cantidad":  38,
+                      "fecha_fabricacion":  "15-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0628-150626",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
                       "cantidad":  25,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "MARGARITA",
@@ -3086,6 +3123,16 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "18-12-2025",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1227-18122025",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-12-2027"
                   },
                   {
                       "codigo":  "4MSA008",
@@ -3639,6 +3686,16 @@
                   },
                   {
                       "codigo":  "4MSU002",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "09-07-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0728-09072026",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-07-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
                       "cantidad":  9,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -3716,6 +3773,16 @@
                       "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSU005",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "31-07-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0728-310726",
+                      "descripcion":  "SALSA BARBECUE 24 X 400 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-07-2028"
                   },
                   {
                       "codigo":  "4MSU005",
@@ -3799,6 +3866,16 @@
                   },
                   {
                       "codigo":  "4MSU015",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0927-150926-NV",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
                       "cantidad":  29,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3826,6 +3903,16 @@
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0927-150926-NV",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2027"
                   },
                   {
                       "codigo":  "4MSU015",
@@ -4119,6 +4206,16 @@
                   },
                   {
                       "codigo":  "4MTO012",
+                      "cantidad":  6,
+                      "fecha_fabricacion":  "08-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0628-080626",
+                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-06-2028"
+                  },
+                  {
+                      "codigo":  "4MTO012",
                       "cantidad":  28,
                       "fecha_fabricacion":  "19-05-2026",
                       "ubicacion":  "MARGARITA",
@@ -4199,6 +4296,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "19-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-19082026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  25,
                       "fecha_fabricacion":  "30-06-2026",
                       "ubicacion":  "BOLIVAR",
@@ -4276,6 +4383,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-07-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "19-08-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0828-19082026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-08-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -4429,6 +4546,16 @@
                   },
                   {
                       "codigo":  "4MTO017",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "25-08-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0828-25082026",
+                      "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO017",
                       "cantidad":  28,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -4556,6 +4683,16 @@
                       "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-07-2028"
+                  },
+                  {
+                      "codigo":  "4MTO018",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "15-07-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0728-15072026",
+                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-07-2028"
                   },
                   {
                       "codigo":  "4MTO018",
@@ -4729,6 +4866,16 @@
                   },
                   {
                       "codigo":  "4MVI002",
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "31-08-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0828-310826",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
                       "cantidad":  15,
                       "fecha_fabricacion":  "17-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -4899,6 +5046,16 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "24-08-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0828-240826",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  37,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -4926,6 +5083,16 @@
                       "descripcion":  "VINAGRE 24 X 500ML",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  18,
+                      "fecha_fabricacion":  "20-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-200826",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-08-2028"
                   },
                   {
                       "codigo":  "4MVI006",
@@ -4978,5 +5145,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  43813
+    "total_general_cajas":  44746
 };
