@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  32609
+                          "cajas":  32661
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -728,6 +728,19 @@
                           "bolivar":  2
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MTO040",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  52,
+                          "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  87,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
@@ -832,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 16:50:46",
+    "ultima_actualizacion":  "21/09/2026 17:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4785,6 +4798,16 @@
                       "fecha_vencimiento":  "02-03-2027"
                   },
                   {
+                      "codigo":  "4MTO040",
+                      "cantidad":  52,
+                      "fecha_fabricacion":  "12-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-120826",
+                      "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-08-2028"
+                  },
+                  {
                       "codigo":  "4MVI002",
                       "cantidad":  52,
                       "fecha_fabricacion":  "28-08-2026",
@@ -5145,5 +5168,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  44746
+    "total_general_cajas":  44798
 };
