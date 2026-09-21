@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  32661
+                          "cajas":  35230
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,7 +332,7 @@
                           "margarita":  125,
                           "capital":  135,
                           "barcelona":  89,
-                          "cagua":  935,
+                          "cagua":  2412,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  340,
                           "bolivar":  176
@@ -475,7 +475,7 @@
                           "margarita":  14,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  0,
+                          "cagua":  782,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -761,7 +761,7 @@
                           "margarita":  35,
                           "capital":  87,
                           "barcelona":  5,
-                          "cagua":  814,
+                          "cagua":  1124,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  77,
                           "bolivar":  26
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 17:00:47",
+    "ultima_actualizacion":  "21/09/2026 17:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1906,6 +1906,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1477,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-180926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2976,6 +2986,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  782,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-18092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -5049,6 +5069,16 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  310,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-140926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  2,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -5168,5 +5198,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  44798
+    "total_general_cajas":  47367
 };
