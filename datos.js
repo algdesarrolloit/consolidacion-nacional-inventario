@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2292
+                          "cajas":  2252
                       },
                       {
                           "almacen":  "CAGUA",
@@ -204,7 +204,7 @@
                           "barcelona":  0,
                           "cagua":  52,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                          "barquisimeto":  9,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  0,
                           "cagua":  40,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                          "barquisimeto":  8,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -243,7 +243,7 @@
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                          "barquisimeto":  6,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  66,
                           "cagua":  0,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  103,
+                          "barquisimeto":  86,
                           "bolivar":  144
                       },
                       {
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 11:20:46",
+    "ultima_actualizacion":  "21/09/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -949,16 +949,6 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1026-280126",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA026",
                       "cantidad":  52,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
@@ -982,16 +972,6 @@
                       "cantidad":  5,
                       "fecha_fabricacion":  "31-01-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "1026-310126",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "31-01-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "1026-310126",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
@@ -1036,16 +1016,6 @@
                       "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-06-2027"
-                  },
-                  {
-                      "codigo":  "4CNA096",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1226-120126",
-                      "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-12-2026"
                   },
                   {
                       "codigo":  "4CNA096",
@@ -5338,5 +5308,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45579
+    "total_general_cajas":  45539
 };
