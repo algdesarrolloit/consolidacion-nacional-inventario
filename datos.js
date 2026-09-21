@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3553
+                          "cajas":  3526
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -325,7 +325,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  18,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  53,
@@ -338,7 +338,7 @@
                           "bolivar":  144
                       },
                       {
-                          "zulia":  558,
+                          "zulia":  537,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 13:50:46",
+    "ultima_actualizacion":  "21/09/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5298,5 +5298,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45904
+    "total_general_cajas":  45877
 };
