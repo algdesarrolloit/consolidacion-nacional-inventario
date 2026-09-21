@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3176
+                          "cajas":  3167
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1043
+                          "cajas":  1004
                       }
                   ],
     "total_general_kg":  112463.9,
@@ -296,7 +296,7 @@
                           "cagua":  2384,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  452,
-                          "bolivar":  203
+                          "bolivar":  202
                       },
                       {
                           "zulia":  42,
@@ -387,7 +387,7 @@
                           "cagua":  329,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  30,
-                          "bolivar":  33
+                          "bolivar":  29
                       },
                       {
                           "zulia":  95,
@@ -403,7 +403,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  77,
+                          "zulia":  76,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -413,7 +413,7 @@
                           "cagua":  167,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  34,
-                          "bolivar":  57
+                          "bolivar":  53
                       },
                       {
                           "zulia":  132,
@@ -439,7 +439,7 @@
                           "cagua":  691,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  45,
-                          "bolivar":  9
+                          "bolivar":  7
                       },
                       {
                           "zulia":  82,
@@ -452,10 +452,10 @@
                           "cagua":  1384,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  49,
-                          "bolivar":  7
+                          "bolivar":  2
                       },
                       {
-                          "zulia":  121,
+                          "zulia":  120,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  59,
@@ -465,10 +465,10 @@
                           "cagua":  777,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  66,
-                          "bolivar":  10
+                          "bolivar":  9
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  21,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  30,
@@ -530,7 +530,7 @@
                           "cagua":  293,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
-                          "bolivar":  9
+                          "bolivar":  7
                       },
                       {
                           "zulia":  42,
@@ -543,7 +543,7 @@
                           "cagua":  338,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
-                          "bolivar":  5
+                          "bolivar":  3
                       },
                       {
                           "zulia":  15,
@@ -556,7 +556,7 @@
                           "cagua":  390,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
-                          "bolivar":  13
+                          "bolivar":  12
                       },
                       {
                           "zulia":  19,
@@ -572,7 +572,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  88,
+                          "zulia":  85,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  58,
@@ -634,7 +634,7 @@
                           "cagua":  766,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
-                          "bolivar":  10
+                          "bolivar":  8
                       },
                       {
                           "zulia":  20,
@@ -660,7 +660,7 @@
                           "cagua":  3765,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  104,
-                          "bolivar":  86
+                          "bolivar":  85
                       },
                       {
                           "zulia":  0,
@@ -712,7 +712,7 @@
                           "cagua":  809,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  22,
-                          "bolivar":  10
+                          "bolivar":  9
                       },
                       {
                           "zulia":  99,
@@ -751,7 +751,7 @@
                           "cagua":  1590,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  40,
-                          "bolivar":  64
+                          "bolivar":  54
                       },
                       {
                           "zulia":  100,
@@ -764,7 +764,7 @@
                           "cagua":  864,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  77,
-                          "bolivar":  29
+                          "bolivar":  26
                       },
                       {
                           "zulia":  0,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 14:40:47",
+    "ultima_actualizacion":  "21/09/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1039,7 +1039,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  23,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-230726",
@@ -1079,17 +1079,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "21-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0728-210726",
-                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-07-2028"
-                  },
-                  {
-                      "codigo":  "4MES002",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-230726",
@@ -1259,7 +1249,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  12,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-28072026",
@@ -1272,16 +1262,6 @@
                       "cantidad":  21,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "0728-28072026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-07-2028"
-                  },
-                  {
-                      "codigo":  "4MKE003",
-                      "cantidad":  36,
-                      "fecha_fabricacion":  "28-07-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0728-28072026",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                       "um":  "CJ",
@@ -1369,7 +1349,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  419,
+                      "cantidad":  409,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -1379,7 +1359,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  120,
+                      "cantidad":  110,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-08092026",
@@ -1449,17 +1429,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  71,
-                      "fecha_fabricacion":  "07-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-070926",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  290,
+                      "cantidad":  226,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -1539,7 +1509,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -1589,7 +1559,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  13,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-171225",
@@ -1769,7 +1739,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  103,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-150926-NV",
@@ -1839,7 +1809,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  152,
+                      "cantidad":  83,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-110926",
@@ -1889,7 +1859,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  259,
+                      "cantidad":  199,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -2069,7 +2039,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  58,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-060726",
@@ -2199,7 +2169,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  9,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1228-101225",
@@ -2299,7 +2269,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "10-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-100226",
@@ -2439,7 +2409,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  43,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-050826 NV",
@@ -2629,7 +2599,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  66,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -2719,7 +2689,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  48,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
@@ -2799,7 +2769,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  63,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-30072026",
@@ -2899,7 +2869,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  72,
+                      "cantidad":  69,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-06072026",
@@ -2999,7 +2969,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  30,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-170926",
@@ -3109,16 +3079,6 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "15-06-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0628-150626",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
                       "cantidad":  13,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3219,7 +3179,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1227-17122025",
@@ -3749,7 +3709,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-09072026",
@@ -3789,7 +3749,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  16,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -3839,7 +3799,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  44,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-310726",
@@ -3879,7 +3839,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  18,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-310726",
@@ -3949,7 +3909,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  8,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0827-100826",
@@ -4009,7 +3969,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  20,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-100826",
@@ -4239,7 +4199,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  32,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-12082026",
@@ -4309,7 +4269,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-080626",
@@ -4399,7 +4359,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  141,
+                      "cantidad":  134,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-23072026",
@@ -4469,23 +4429,13 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  8,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "29-04-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0428-290426",
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-04-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  17,
-                      "fecha_fabricacion":  "30-06-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0628-300626",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-06-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -4649,7 +4599,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -4709,7 +4659,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "04-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-04022026",
@@ -4789,7 +4739,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  28,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-14072026",
@@ -4939,7 +4889,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  43,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-250826",
@@ -4949,7 +4899,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  20,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "27-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-270826",
@@ -5119,17 +5069,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-130826",
-                      "descripcion":  "VINAGRE 24 X 500ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI004",
-                      "cantidad":  51,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-140826",
@@ -5149,7 +5089,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-190826",
@@ -5298,5 +5238,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45260
+    "total_general_cajas":  45212
 };
