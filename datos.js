@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3417
+                          "cajas":  3407
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1173
+                          "cajas":  1167
                       }
                   ],
     "total_general_kg":  112463.9,
@@ -335,7 +335,7 @@
                           "cagua":  0,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  28,
-                          "bolivar":  144
+                          "bolivar":  138
                       },
                       {
                           "zulia":  500,
@@ -455,7 +455,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  128,
+                          "zulia":  127,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  59,
@@ -468,7 +468,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  36,
+                          "zulia":  33,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  30,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  72,
+                          "zulia":  67,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  54,
@@ -572,7 +572,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  94,
+                          "zulia":  93,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  58,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 14:20:52",
+    "ultima_actualizacion":  "21/09/2026 14:30:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5298,5 +5298,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45631
+    "total_general_cajas":  45615
 };
