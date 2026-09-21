@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1883
+                          "cajas":  1801
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  32112
+                          "cajas":  33017
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3654
+                          "cajas":  3605
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -295,7 +295,7 @@
                           "barcelona":  140,
                           "cagua":  2384,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  482,
+                          "barquisimeto":  452,
                           "bolivar":  203
                       },
                       {
@@ -325,7 +325,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  34,
+                          "zulia":  24,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  53,
@@ -338,7 +338,7 @@
                           "bolivar":  144
                       },
                       {
-                          "zulia":  630,
+                          "zulia":  610,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -386,7 +386,7 @@
                           "barcelona":  38,
                           "cagua":  329,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  35,
+                          "barquisimeto":  30,
                           "bolivar":  33
                       },
                       {
@@ -412,7 +412,7 @@
                           "barcelona":  28,
                           "cagua":  167,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  34,
                           "bolivar":  60
                       },
                       {
@@ -451,7 +451,7 @@
                           "barcelona":  19,
                           "cagua":  1384,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  54,
+                          "barquisimeto":  49,
                           "bolivar":  7
                       },
                       {
@@ -579,9 +579,9 @@
                           "margarita":  16,
                           "capital":  5,
                           "barcelona":  16,
-                          "cagua":  130,
+                          "cagua":  1035,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  41,
+                          "barquisimeto":  40,
                           "bolivar":  12
                       },
                       {
@@ -646,7 +646,7 @@
                           "barcelona":  1,
                           "cagua":  22,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                          "barquisimeto":  5,
+                          "barquisimeto":  3,
                           "bolivar":  0
                       },
                       {
@@ -659,7 +659,7 @@
                           "barcelona":  22,
                           "cagua":  3765,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  134,
+                          "barquisimeto":  104,
                           "bolivar":  90
                       },
                       {
@@ -711,11 +711,11 @@
                           "barcelona":  11,
                           "cagua":  809,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  24,
+                          "barquisimeto":  22,
                           "bolivar":  10
                       },
                       {
-                          "zulia":  148,
+                          "zulia":  139,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  117,
@@ -724,11 +724,11 @@
                           "barcelona":  17,
                           "cagua":  843,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                          "barquisimeto":  81,
+                          "barquisimeto":  79,
                           "bolivar":  59
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  1,
@@ -741,7 +741,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  127,
+                          "zulia":  118,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  112,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 12:00:51",
+    "ultima_actualizacion":  "21/09/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3869,6 +3869,16 @@
                   },
                   {
                       "codigo":  "4MSU005",
+                      "cantidad":  905,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-18092026",
+                      "descripcion":  "SALSA BARBECUE 24 X 400 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSU005",
                       "cantidad":  18,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -5278,5 +5288,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45086
+    "total_general_cajas":  45860
 };
