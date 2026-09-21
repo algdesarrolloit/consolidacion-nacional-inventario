@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2252
+                          "cajas":  2206
                       },
                       {
                           "almacen":  "CAGUA",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2743
+                          "cajas":  2733
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3725
+                          "cajas":  3715
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -198,7 +198,7 @@
                           "zulia":  1,
                           "codigo":  "4CNA026",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
@@ -211,7 +211,7 @@
                           "zulia":  2,
                           "codigo":  "4CNA057",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  3,
                           "barcelona":  0,
@@ -282,7 +282,7 @@
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  7,
                           "bolivar":  21
                       },
                       {
@@ -295,7 +295,7 @@
                           "barcelona":  140,
                           "cagua":  2384,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  539,
+                          "barquisimeto":  534,
                           "bolivar":  203
                       },
                       {
@@ -308,7 +308,7 @@
                           "barcelona":  16,
                           "cagua":  607,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  33,
+                          "barquisimeto":  32,
                           "bolivar":  29
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  66,
                           "cagua":  0,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  86,
+                          "barquisimeto":  55,
                           "bolivar":  144
                       },
                       {
@@ -347,7 +347,7 @@
                           "barcelona":  125,
                           "cagua":  1145,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  257,
+                          "barquisimeto":  255,
                           "bolivar":  181
                       },
                       {
@@ -477,7 +477,7 @@
                           "barcelona":  0,
                           "cagua":  105,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  30,
+                          "barquisimeto":  28,
                           "bolivar":  0
                       },
                       {
@@ -728,7 +728,7 @@
                           "bolivar":  59
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  2,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  1,
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 11:30:46",
+    "ultima_actualizacion":  "21/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -939,16 +939,6 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1026-280126",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA026",
                       "cantidad":  52,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
@@ -966,16 +956,6 @@
                       "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "31-01-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1026-310126",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-10-2026"
                   },
                   {
                       "codigo":  "4CNA057",
@@ -5308,5 +5288,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45539
+    "total_general_cajas":  45473
 };
