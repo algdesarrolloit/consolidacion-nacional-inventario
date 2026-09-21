@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1801
+                          "cajas":  1812
                       },
                       {
                           "almacen":  "CAGUA",
@@ -191,7 +191,7 @@
                           "barcelona":  0,
                           "cagua":  106,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  8,
                           "bolivar":  0
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  0,
                           "cagua":  34,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                          "barquisimeto":  0,
+                          "barquisimeto":  3,
                           "bolivar":  0
                       },
                       {
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 16:30:46",
+    "ultima_actualizacion":  "21/09/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -929,7 +929,17 @@
                   },
                   {
                       "codigo":  "4CNA021",
-                      "cantidad":  123,
+                      "cantidad":  8,
+                      "fecha_fabricacion":  "07-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0627-070626",
+                      "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA021",
+                      "cantidad":  106,
                       "fecha_fabricacion":  "07-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-070626",
@@ -939,7 +949,17 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  52,
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0627-090626",
+                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA026",
+                      "cantidad":  44,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-090626",
@@ -959,7 +979,17 @@
                   },
                   {
                       "codigo":  "4CNA057",
-                      "cantidad":  40,
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "05-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0627-050627",
+                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA057",
+                      "cantidad":  34,
                       "fecha_fabricacion":  "05-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-050627",
@@ -979,7 +1009,7 @@
                   },
                   {
                       "codigo":  "4CNA074",
-                      "cantidad":  182,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-080627",
@@ -1409,7 +1439,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1306,
+                      "cantidad":  1246,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-08092026",
@@ -1839,7 +1869,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1145,
+                      "cantidad":  935,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-170926",
@@ -2898,16 +2928,6 @@
                       "fecha_vencimiento":  "17-09-2028"
                   },
                   {
-                      "codigo":  "4MSA005",
-                      "cantidad":  65,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-170926",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-09-2028"
-                  },
-                  {
                       "codigo":  "4MSA006",
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
@@ -2999,7 +3019,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  484,
+                      "cantidad":  446,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-150626",
@@ -3089,7 +3109,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  175,
+                      "cantidad":  145,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -3599,7 +3619,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  210,
+                      "cantidad":  180,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-09072026",
@@ -3679,7 +3699,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  130,
+                      "cantidad":  100,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-310726",
@@ -3789,7 +3809,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  223,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-150926-NV",
@@ -4089,7 +4109,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  22,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-080626",
@@ -4199,7 +4219,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  501,
+                      "cantidad":  351,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
@@ -4399,7 +4419,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  809,
+                      "cantidad":  749,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -4509,7 +4529,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  127,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-15072026",
@@ -4679,7 +4699,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  506,
+                      "cantidad":  456,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-310826",
@@ -4829,7 +4849,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  260,
+                      "cantidad":  210,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-240826",
@@ -4909,7 +4929,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  50,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-200826",
@@ -4958,5 +4978,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  43802
+    "total_general_cajas":  43813
 };
