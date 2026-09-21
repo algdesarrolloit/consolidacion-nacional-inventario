@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1432
+                          "cajas":  1244
                       },
                       {
                           "almacen":  "ANDES",
@@ -169,14 +169,14 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1059
+                          "cajas":  1047
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1179
+                          "cajas":  1173
                       }
                   ],
     "total_general_kg":  112463.9,
@@ -201,11 +201,11 @@
                           "andes":  5,
                           "margarita":  0,
                           "capital":  0,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  52,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  9,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  2,
@@ -214,7 +214,7 @@
                           "andes":  5,
                           "margarita":  0,
                           "capital":  3,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  40,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                           "barquisimeto":  8,
@@ -240,11 +240,11 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  0,
-                          "barcelona":  8,
+                          "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                           "barquisimeto":  6,
-                          "bolivar":  5
+                          "bolivar":  0
                       },
                       {
                           "zulia":  74,
@@ -278,7 +278,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  28,
-                          "capital":  36,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -291,7 +291,7 @@
                           "um":  "CJ",
                           "andes":  401,
                           "margarita":  148,
-                          "capital":  351,
+                          "capital":  226,
                           "barcelona":  140,
                           "cagua":  2384,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -564,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  39,
                           "margarita":  9,
-                          "capital":  16,
+                          "capital":  4,
                           "barcelona":  5,
                           "cagua":  666,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  58,
                           "margarita":  16,
-                          "capital":  8,
+                          "capital":  5,
                           "barcelona":  16,
                           "cagua":  130,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -655,7 +655,7 @@
                           "um":  "CJ",
                           "andes":  159,
                           "margarita":  142,
-                          "capital":  45,
+                          "capital":  33,
                           "barcelona":  22,
                           "cagua":  3765,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 11:10:46",
+    "ultima_actualizacion":  "21/09/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -949,29 +949,9 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1026-280126",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA026",
                       "cantidad":  9,
                       "fecha_fabricacion":  "28-01-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1026-280126",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA026",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "28-01-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "1026-280126",
                       "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                       "um":  "CJ",
@@ -1002,16 +982,6 @@
                       "cantidad":  5,
                       "fecha_fabricacion":  "31-01-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "1026-310126",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-10-2026"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "31-01-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "1026-310126",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
@@ -1069,29 +1039,9 @@
                   },
                   {
                       "codigo":  "4CNA096",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1226-120126",
-                      "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-12-2026"
-                  },
-                  {
-                      "codigo":  "4CNA096",
                       "cantidad":  6,
                       "fecha_fabricacion":  "12-01-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1226-120126",
-                      "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-12-2026"
-                  },
-                  {
-                      "codigo":  "4CNA096",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "12-01-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "1226-120126",
                       "descripcion":  "COOKIES CHOCOLATE BAUDUCCO 24X60 GR",
                       "um":  "CJ",
@@ -5388,5 +5338,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45785
+    "total_general_cajas":  45579
 };
