@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  33017
+                          "cajas":  33113
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -774,7 +774,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  96,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 13:30:46",
+    "ultima_actualizacion":  "21/09/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5249,6 +5249,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  96,
+                      "fecha_fabricacion":  "20-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-200826",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  1,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -5288,5 +5298,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45860
+    "total_general_cajas":  45956
 };
