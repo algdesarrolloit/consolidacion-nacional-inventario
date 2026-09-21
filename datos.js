@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  33716
+                          "cajas":  33639
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3012
+                          "cajas":  2947
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -247,7 +247,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  69,
+                          "zulia":  67,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  68,
@@ -286,7 +286,7 @@
                           "bolivar":  21
                       },
                       {
-                          "zulia":  414,
+                          "zulia":  404,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  401,
@@ -325,7 +325,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  0,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  53,
@@ -338,7 +338,7 @@
                           "bolivar":  38
                       },
                       {
-                          "zulia":  372,
+                          "zulia":  366,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -364,53 +364,53 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  103,
+                          "zulia":  101,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  48,
                           "margarita":  21,
                           "capital":  22,
                           "barcelona":  23,
-                          "cagua":  355,
+                          "cagua":  349,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  56,
                           "bolivar":  23
                       },
                       {
-                          "zulia":  106,
+                          "zulia":  105,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  28,
                           "capital":  23,
                           "barcelona":  0,
-                          "cagua":  329,
+                          "cagua":  323,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  30,
                           "bolivar":  29
                       },
                       {
-                          "zulia":  90,
+                          "zulia":  88,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  165,
                           "margarita":  27,
                           "capital":  105,
                           "barcelona":  5,
-                          "cagua":  3458,
+                          "cagua":  3444,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  70,
                           "bolivar":  5
                       },
                       {
-                          "zulia":  73,
+                          "zulia":  71,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  29,
                           "capital":  41,
                           "barcelona":  0,
-                          "cagua":  167,
+                          "cagua":  156,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  34,
                           "bolivar":  53
@@ -423,52 +423,52 @@
                           "margarita":  16,
                           "capital":  64,
                           "barcelona":  194,
-                          "cagua":  4155,
+                          "cagua":  4149,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  66,
                           "bolivar":  12
                       },
                       {
-                          "zulia":  118,
+                          "zulia":  117,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  65,
                           "margarita":  33,
                           "capital":  46,
                           "barcelona":  15,
-                          "cagua":  691,
+                          "cagua":  682,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  45,
                           "bolivar":  7
                       },
                       {
-                          "zulia":  79,
+                          "zulia":  75,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  25,
                           "capital":  64,
                           "barcelona":  0,
-                          "cagua":  1384,
+                          "cagua":  1377,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  49,
                           "bolivar":  2
                       },
                       {
-                          "zulia":  114,
+                          "zulia":  112,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
                           "capital":  61,
                           "barcelona":  16,
-                          "cagua":  777,
+                          "cagua":  768,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  66,
                           "bolivar":  9
                       },
                       {
-                          "zulia":  8,
+                          "zulia":  7,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  30,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  55,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  54,
@@ -507,7 +507,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  31,
+                          "zulia":  30,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  35,
@@ -572,7 +572,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  79,
+                          "zulia":  76,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  58,
@@ -585,7 +585,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  50,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  76,
@@ -637,7 +637,7 @@
                           "bolivar":  8
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  15,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  10,
@@ -702,7 +702,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  63,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  59,
@@ -715,7 +715,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  80,
+                          "zulia":  78,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  117,
@@ -741,7 +741,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  108,
+                          "zulia":  100,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  112,
@@ -754,7 +754,7 @@
                           "bolivar":  54
                       },
                       {
-                          "zulia":  97,
+                          "zulia":  92,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  116,
@@ -774,7 +774,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59,
+                          "cagua":  50,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/09/2026 15:40:46",
+    "ultima_actualizacion":  "21/09/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5168,5 +5168,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  45092
+    "total_general_cajas":  44950
 };
