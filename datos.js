@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2210
+                          "cajas":  2218
                       },
                       {
                           "almacen":  "CAGUA",
@@ -320,7 +320,7 @@
                           "barcelona":  23,
                           "cagua":  346,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  55,
+                          "barquisimeto":  56,
                           "bolivar":  23
                       },
                       {
@@ -333,7 +333,7 @@
                           "barcelona":  0,
                           "cagua":  320,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  30,
                           "bolivar":  29
                       },
                       {
@@ -346,7 +346,7 @@
                           "barcelona":  5,
                           "cagua":  3440,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  69,
+                          "barquisimeto":  70,
                           "bolivar":  5
                       },
                       {
@@ -359,7 +359,7 @@
                           "barcelona":  0,
                           "cagua":  152,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  32,
+                          "barquisimeto":  33,
                           "bolivar":  53
                       },
                       {
@@ -372,7 +372,7 @@
                           "barcelona":  194,
                           "cagua":  4146,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  65,
+                          "barquisimeto":  66,
                           "bolivar":  12
                       },
                       {
@@ -398,7 +398,7 @@
                           "barcelona":  0,
                           "cagua":  1374,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  48,
+                          "barquisimeto":  49,
                           "bolivar":  2
                       },
                       {
@@ -411,7 +411,7 @@
                           "barcelona":  16,
                           "cagua":  764,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  65,
+                          "barquisimeto":  66,
                           "bolivar":  9
                       },
                       {
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 14:40:48",
+    "ultima_actualizacion":  "22/09/2026 14:50:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1346,7 +1346,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  342,
+                      "cantidad":  339,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -1356,7 +1356,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  170,
+                      "cantidad":  110,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-08092026",
@@ -1796,7 +1796,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  25,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-110926",
@@ -2146,13 +2146,23 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-05082026",
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "10-12-2025",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1228-101225",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-12-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -2366,7 +2376,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  34,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-050826 NV",
@@ -2906,7 +2916,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  25,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-170926",
@@ -3006,7 +3016,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  50,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-10062026",
@@ -3726,7 +3736,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  40,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-310726",
@@ -3836,7 +3846,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0827-100826",
@@ -4176,7 +4186,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-080626",
@@ -4506,7 +4516,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  22,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -4596,7 +4606,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  19,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "28-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0528-28052026",
@@ -4816,7 +4826,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "27-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-270826",
@@ -4976,7 +4986,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  28,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-170826",
@@ -5096,16 +5106,6 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  18,
-                      "fecha_fabricacion":  "20-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-200826",
-                      "descripcion":  "VINAGRE 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI006",
                       "cantidad":  101,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAGUA",
@@ -5155,5 +5155,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47204
+    "total_general_cajas":  47212
 };
