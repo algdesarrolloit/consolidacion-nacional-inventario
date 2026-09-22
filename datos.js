@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1521
+                          "cajas":  1530
                       },
                       {
                           "almacen":  "ANDES",
@@ -181,6 +181,19 @@
                   ],
     "total_general_kg":  112463.9,
     "productos":  [
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CFS002",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  1,
+                          "barcelona":  0,
+                          "cagua":  0,
+                          "descripcion":  "UVAS PASAS 1 X 10KG",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
                       {
                           "zulia":  0,
                           "codigo":  "4CNA021",
@@ -304,7 +317,7 @@
                           "um":  "CJ",
                           "andes":  31,
                           "margarita":  6,
-                          "capital":  5,
+                          "capital":  7,
                           "barcelona":  8,
                           "cagua":  380,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
@@ -343,7 +356,7 @@
                           "um":  "CJ",
                           "andes":  11,
                           "margarita":  16,
-                          "capital":  24,
+                          "capital":  30,
                           "barcelona":  5,
                           "cagua":  50,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
@@ -845,7 +858,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 09:10:49",
+    "ultima_actualizacion":  "22/09/2026 09:20:49",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -926,6 +939,16 @@
                       "descripcion":  "ALCAPARRAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-11-2027"
+                  },
+                  {
+                      "codigo":  "4CFS002",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "19-11-2025",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1126-191125",
+                      "descripcion":  "UVAS PASAS 1 X 10KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-11-2026"
                   },
                   {
                       "codigo":  "4CNA021",
@@ -1759,6 +1782,16 @@
                   },
                   {
                       "codigo":  "4MKE011",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "2026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
+                  },
+                  {
+                      "codigo":  "4MKE011",
                       "cantidad":  6,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -2019,7 +2052,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  10,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1126-10072026",
@@ -5198,5 +5231,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47341
+    "total_general_cajas":  47350
 };
