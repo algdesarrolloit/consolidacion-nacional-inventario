@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  35204
+                          "cajas":  34904
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -280,7 +280,7 @@
                           "margarita":  111,
                           "capital":  192,
                           "barcelona":  98,
-                          "cagua":  2324,
+                          "cagua":  2224,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  512,
                           "bolivar":  202
@@ -332,7 +332,7 @@
                           "margarita":  125,
                           "capital":  135,
                           "barcelona":  89,
-                          "cagua":  2412,
+                          "cagua":  2312,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  340,
                           "bolivar":  176
@@ -579,7 +579,7 @@
                           "margarita":  43,
                           "capital":  30,
                           "barcelona":  27,
-                          "cagua":  713,
+                          "cagua":  613,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  83,
                           "bolivar":  29
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 11:00:48",
+    "ultima_actualizacion":  "22/09/2026 11:10:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5208,5 +5208,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47338
+    "total_general_cajas":  47038
 };
