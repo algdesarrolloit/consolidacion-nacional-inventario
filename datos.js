@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  52542.9,
-                                                              "bidones":  875.72
+                                                              "kg":  51102.9,
+                                                              "bidones":  851.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,48 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59741,
-                                                              "bidones":  1086.2
-                                                          },
-                                                "barquisimeto":  {
-                                                                     "kg":  0,
-                                                                     "bidones":  0
-                                                                 },
-                                                "bolivar":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            }
-                                            }
-                        },
-                        {
-                            "factor_bidon":  180,
-                            "descripcion":  "ALCAPARRAS",
-                            "codigo":  "1VEG003",
-                            "um":  "KG",
-                            "existencias":  {
-                                                "zulia":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "capital":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            },
-                                                "andes":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "margarita":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "barcelona":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "cagua":  {
-                                                              "kg":  180,
-                                                              "bidones":  1
+                                                              "kg":  59466,
+                                                              "bidones":  1081.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -127,13 +87,13 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2212
+                          "cajas":  2210
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  112463.9,
+                          "kg":  110568.9,
                           "cajas":  35116
                       },
                       {
@@ -179,7 +139,7 @@
                           "cajas":  1004
                       }
                   ],
-    "total_general_kg":  112463.9,
+    "total_general_kg":  110568.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -763,7 +723,7 @@
                           "barcelona":  0,
                           "cagua":  101,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
-                          "barquisimeto":  2,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -800,7 +760,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  52542.9,
+                          "cagua":  51102.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -813,26 +773,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59741,
+                          "cagua":  59466,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "1VEG003",
-                          "um":  "KG",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  180,
-                          "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 11:50:48",
+    "ultima_actualizacion":  "22/09/2026 12:00:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -846,7 +793,7 @@
                   },
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  16190,
+                      "cantidad":  16000,
                       "fecha_fabricacion":  "11-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0927-111125-396",
@@ -856,7 +803,7 @@
                   },
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  4512.9,
+                      "cantidad":  3262.9,
                       "fecha_fabricacion":  "02-11-2024",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1026-021124-198",
@@ -896,23 +843,13 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  30608,
+                      "cantidad":  30333,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-11-2027"
-                  },
-                  {
-                      "codigo":  "1VEG003",
-                      "cantidad":  180,
-                      "fecha_fabricacion":  "23-01-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 1127-230126-19",
-                      "descripcion":  "ALCAPARRAS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-11-2027"
                   },
                   {
                       "codigo":  "4CNA021",
@@ -5195,5 +5132,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47154
+    "total_general_cajas":  47152
 };
