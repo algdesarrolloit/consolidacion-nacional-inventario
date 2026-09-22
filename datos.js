@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 15:40:48",
+    "ultima_actualizacion":  "22/09/2026 15:50:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1096,7 +1096,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  21,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-210726",
@@ -1216,16 +1216,6 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "25-11-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1127-251125",
-                      "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-11-2027"
-                  },
-                  {
-                      "codigo":  "4MES003",
                       "cantidad":  12,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "MARGARITA",
@@ -1276,7 +1266,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0128-20012026",
@@ -1436,33 +1426,13 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  13,
-                      "fecha_fabricacion":  "26-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0628-260626",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "26-06-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  120,
+                      "cantidad":  111,
                       "fecha_fabricacion":  "13-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-13072026",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-07-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "22-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0728-220726",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-07-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -1566,7 +1536,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-300726",
@@ -1756,7 +1726,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  30,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-14092026-NV",
@@ -1886,7 +1856,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  130,
+                      "cantidad":  125,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -2096,16 +2066,6 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "25-11-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1128-251125",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
                       "cantidad":  50,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
@@ -2206,7 +2166,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  31,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1228-101225",
@@ -2346,7 +2306,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "10-02-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0228-100226",
@@ -2426,7 +2386,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  32,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-050826 NV",
@@ -2676,7 +2636,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "25-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-251025",
@@ -2786,7 +2746,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  27,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-30072026",
@@ -2976,16 +2936,6 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "09-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0628-090626",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
                       "cantidad":  9,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
@@ -3076,7 +3026,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  12,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0628-10062026",
@@ -3176,7 +3126,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  13,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1227-17122025",
@@ -3706,7 +3656,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  9,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-09072026",
@@ -3793,16 +3743,6 @@
                       "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "31-07-2028"
-                  },
-                  {
-                      "codigo":  "4MSU005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-03-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0328-24032026",
-                      "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2028"
                   },
                   {
                       "codigo":  "4MSU005",
@@ -3926,7 +3866,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  32,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "27-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0727-270726",
@@ -3936,17 +3876,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "28-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0727-280726",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSU015",
-                      "cantidad":  17,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0827-100826",
@@ -4146,7 +4076,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0128-210125",
@@ -4226,7 +4156,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  28,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "19-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0528-190526",
@@ -4406,23 +4336,13 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  17,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "24-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0628-240626",
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "30-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0628-300626",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-06-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -4486,7 +4406,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  6,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "19-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0528-190526",
@@ -4566,7 +4486,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  28,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-25082026",
@@ -4716,7 +4636,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-14072026",
@@ -5086,7 +5006,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  37,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-170826",
