@@ -779,7 +779,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 12:00:48",
+    "ultima_actualizacion":  "22/09/2026 12:10:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1383,7 +1383,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1246,
+                      "cantidad":  1146,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-08092026",
@@ -1833,7 +1833,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  935,
+                      "cantidad":  835,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-170926",
@@ -3863,7 +3863,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  133,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-150926-NV",
