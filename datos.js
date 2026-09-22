@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  34904
+                          "cajas":  35116
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -514,7 +514,7 @@
                           "margarita":  13,
                           "capital":  4,
                           "barcelona":  4,
-                          "cagua":  283,
+                          "cagua":  478,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  7
@@ -728,19 +728,6 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  0,
-                          "codigo":  "4MTO040",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  52,
-                          "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
                           "zulia":  87,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
@@ -774,7 +761,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  32,
+                          "cagua":  101,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  18,
                           "bolivar":  0
@@ -845,7 +832,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 11:20:48",
+    "ultima_actualizacion":  "22/09/2026 11:30:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3309,6 +3296,16 @@
                   },
                   {
                       "codigo":  "4MSA013",
+                      "cantidad":  195,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-17092026",
+                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSA013",
                       "cantidad":  4,
                       "fecha_fabricacion":  "01-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -4828,16 +4825,6 @@
                       "fecha_vencimiento":  "02-03-2027"
                   },
                   {
-                      "codigo":  "4MTO040",
-                      "cantidad":  52,
-                      "fecha_fabricacion":  "12-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0828-120826",
-                      "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "12-08-2028"
-                  },
-                  {
                       "codigo":  "4MVI002",
                       "cantidad":  52,
                       "fecha_fabricacion":  "28-08-2026",
@@ -5159,7 +5146,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  32,
+                      "cantidad":  101,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-200826",
@@ -5208,5 +5195,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47055
+    "total_general_cajas":  47267
 };
