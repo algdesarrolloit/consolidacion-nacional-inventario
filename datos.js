@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2228
+                          "cajas":  2212
                       },
                       {
                           "almacen":  "CAGUA",
@@ -763,7 +763,7 @@
                           "barcelona":  0,
                           "cagua":  101,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
-                          "barquisimeto":  18,
+                          "barquisimeto":  2,
                           "bolivar":  0
                       },
                       {
@@ -832,7 +832,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 11:40:48",
+    "ultima_actualizacion":  "22/09/2026 11:50:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5195,5 +5195,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47170
+    "total_general_cajas":  47154
 };
