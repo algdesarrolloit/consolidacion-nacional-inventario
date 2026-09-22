@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2218
+                          "cajas":  2229
                       },
                       {
                           "almacen":  "CAGUA",
@@ -242,7 +242,7 @@
                           "barcelona":  98,
                           "cagua":  2224,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  449,
+                          "barquisimeto":  450,
                           "bolivar":  202
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  89,
                           "cagua":  2312,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  330,
+                          "barquisimeto":  340,
                           "bolivar":  176
                       },
                       {
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 15:10:48",
+    "ultima_actualizacion":  "22/09/2026 15:20:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1346,7 +1346,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  339,
+                      "cantidad":  340,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -1793,6 +1793,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "09-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0327-090926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -5155,5 +5165,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47212
+    "total_general_cajas":  47223
 };
