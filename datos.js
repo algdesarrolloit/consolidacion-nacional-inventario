@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  35068
+                          "cajas":  35058
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -747,7 +747,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1074,
+                          "cagua":  1069,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -760,7 +760,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  766,
+                          "cagua":  761,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 15:50:48",
+    "ultima_actualizacion":  "22/09/2026 16:00:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5085,5 +5085,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47223
+    "total_general_cajas":  47213
 };
