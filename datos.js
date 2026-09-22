@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  35230
+                          "cajas":  35228
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -384,7 +384,7 @@
                           "margarita":  27,
                           "capital":  105,
                           "barcelona":  5,
-                          "cagua":  3441,
+                          "cagua":  3440,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  70,
                           "bolivar":  5
@@ -449,7 +449,7 @@
                           "margarita":  34,
                           "capital":  61,
                           "barcelona":  16,
-                          "cagua":  765,
+                          "cagua":  764,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  66,
                           "bolivar":  9
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 08:40:49",
+    "ultima_actualizacion":  "22/09/2026 08:50:49",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5198,5 +5198,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47367
+    "total_general_cajas":  47365
 };
