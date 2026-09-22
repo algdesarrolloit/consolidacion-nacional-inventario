@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1530
+                          "cajas":  1529
                       },
                       {
                           "almacen":  "ANDES",
@@ -181,19 +181,6 @@
                   ],
     "total_general_kg":  112463.9,
     "productos":  [
-                      {
-                          "zulia":  0,
-                          "codigo":  "4CFS002",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  1,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "UVAS PASAS 1 X 10KG",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
                       {
                           "zulia":  0,
                           "codigo":  "4CNA021",
@@ -858,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 09:20:49",
+    "ultima_actualizacion":  "22/09/2026 09:30:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -939,16 +926,6 @@
                       "descripcion":  "ALCAPARRAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-11-2027"
-                  },
-                  {
-                      "codigo":  "4CFS002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "19-11-2025",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1126-191125",
-                      "descripcion":  "UVAS PASAS 1 X 10KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-11-2026"
                   },
                   {
                       "codigo":  "4CNA021",
@@ -5231,5 +5208,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47350
+    "total_general_cajas":  47349
 };
