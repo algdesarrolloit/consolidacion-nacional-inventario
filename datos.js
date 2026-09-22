@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  35168
+                          "cajas":  35068
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2733
+                          "cajas":  2833
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -385,7 +385,7 @@
                           "barcelona":  15,
                           "cagua":  679,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
-                          "barquisimeto":  44,
+                          "barquisimeto":  45,
                           "bolivar":  7
                       },
                       {
@@ -600,11 +600,11 @@
                           "zulia":  289,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
-                          "andes":  159,
+                          "andes":  259,
                           "margarita":  132,
                           "capital":  63,
                           "barcelona":  1,
-                          "cagua":  3615,
+                          "cagua":  3515,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  224,
                           "bolivar":  85
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 14:50:48",
+    "ultima_actualizacion":  "22/09/2026 15:00:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4266,7 +4266,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  20,
+                      "cantidad":  120,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-19082026",
@@ -4326,7 +4326,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  351,
+                      "cantidad":  251,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
