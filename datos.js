@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112463.9,
-                          "cajas":  35228
+                          "cajas":  35204
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -306,7 +306,7 @@
                           "margarita":  6,
                           "capital":  5,
                           "barcelona":  8,
-                          "cagua":  381,
+                          "cagua":  380,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  21,
                           "bolivar":  10
@@ -514,7 +514,7 @@
                           "margarita":  13,
                           "capital":  4,
                           "barcelona":  4,
-                          "cagua":  293,
+                          "cagua":  283,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  7
@@ -527,7 +527,7 @@
                           "margarita":  16,
                           "capital":  7,
                           "barcelona":  9,
-                          "cagua":  338,
+                          "cagua":  328,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
                           "bolivar":  3
@@ -618,7 +618,7 @@
                           "margarita":  36,
                           "capital":  23,
                           "barcelona":  66,
-                          "cagua":  766,
+                          "cagua":  763,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
                           "bolivar":  8
@@ -845,7 +845,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/09/2026 08:50:49",
+    "ultima_actualizacion":  "22/09/2026 09:00:49",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5198,5 +5198,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47365
+    "total_general_cajas":  47341
 };
