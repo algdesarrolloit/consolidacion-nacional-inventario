@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  998
+                          "cajas":  981
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -243,7 +243,7 @@
                           "cagua":  2224,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  450,
-                          "bolivar":  201
+                          "bolivar":  196
                       },
                       {
                           "zulia":  41,
@@ -516,7 +516,7 @@
                           "cagua":  636,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  31,
-                          "bolivar":  13
+                          "bolivar":  11
                       },
                       {
                           "zulia":  73,
@@ -607,7 +607,7 @@
                           "cagua":  3515,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  224,
-                          "bolivar":  85
+                          "bolivar":  75
                       },
                       {
                           "zulia":  0,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 14:30:48",
+    "ultima_actualizacion":  "23/09/2026 14:40:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5125,5 +5125,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50469
+    "total_general_cajas":  50452
 };
