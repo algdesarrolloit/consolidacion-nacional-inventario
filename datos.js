@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  35058
+                          "cajas":  38386
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -435,7 +435,7 @@
                           "margarita":  14,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  782,
+                          "cagua":  1609,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -448,7 +448,7 @@
                           "margarita":  30,
                           "capital":  38,
                           "barcelona":  5,
-                          "cagua":  446,
+                          "cagua":  1246,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  48,
                           "bolivar":  13
@@ -578,7 +578,7 @@
                           "margarita":  36,
                           "capital":  23,
                           "barcelona":  66,
-                          "cagua":  763,
+                          "cagua":  1648,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
                           "bolivar":  8
@@ -669,7 +669,7 @@
                           "margarita":  13,
                           "capital":  76,
                           "barcelona":  15,
-                          "cagua":  783,
+                          "cagua":  1599,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  77,
                           "bolivar":  58
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 07:20:48",
+    "ultima_actualizacion":  "23/09/2026 07:30:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2926,6 +2926,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  827,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  14,
                       "fecha_fabricacion":  "03-06-2026",
                       "ubicacion":  "MARGARITA",
@@ -3003,6 +3013,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  800,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-220926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -4066,6 +4086,16 @@
                   },
                   {
                       "codigo":  "4MTO011",
+                      "cantidad":  885,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-21092026",
+                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO011",
                       "cantidad":  23,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -4606,6 +4636,16 @@
                   },
                   {
                       "codigo":  "4MTO018",
+                      "cantidad":  816,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-18092026",
+                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO018",
                       "cantidad":  16,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -5085,5 +5125,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  47149
+    "total_general_cajas":  50477
 };
