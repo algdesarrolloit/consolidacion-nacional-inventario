@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  981
+                          "cajas":  832
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -230,7 +230,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  4,
-                          "bolivar":  21
+                          "bolivar":  20
                       },
                       {
                           "zulia":  394,
@@ -243,7 +243,7 @@
                           "cagua":  2224,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  450,
-                          "bolivar":  196
+                          "bolivar":  183
                       },
                       {
                           "zulia":  41,
@@ -295,7 +295,7 @@
                           "cagua":  2312,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  340,
-                          "bolivar":  174
+                          "bolivar":  145
                       },
                       {
                           "zulia":  74,
@@ -321,7 +321,7 @@
                           "cagua":  346,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  56,
-                          "bolivar":  23
+                          "bolivar":  18
                       },
                       {
                           "zulia":  105,
@@ -334,7 +334,7 @@
                           "cagua":  320,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  30,
-                          "bolivar":  28
+                          "bolivar":  13
                       },
                       {
                           "zulia":  82,
@@ -347,7 +347,7 @@
                           "cagua":  3440,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  70,
-                          "bolivar":  5
+                          "bolivar":  0
                       },
                       {
                           "zulia":  66,
@@ -360,7 +360,7 @@
                           "cagua":  152,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
-                          "bolivar":  53
+                          "bolivar":  40
                       },
                       {
                           "zulia":  126,
@@ -399,7 +399,7 @@
                           "cagua":  1374,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  49,
-                          "bolivar":  2
+                          "bolivar":  0
                       },
                       {
                           "zulia":  107,
@@ -412,7 +412,7 @@
                           "cagua":  764,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  66,
-                          "bolivar":  9
+                          "bolivar":  0
                       },
                       {
                           "zulia":  0,
@@ -451,7 +451,7 @@
                           "cagua":  1246,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  48,
-                          "bolivar":  13
+                          "bolivar":  7
                       },
                       {
                           "zulia":  28,
@@ -516,7 +516,7 @@
                           "cagua":  636,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  31,
-                          "bolivar":  11
+                          "bolivar":  9
                       },
                       {
                           "zulia":  73,
@@ -542,7 +542,7 @@
                           "cagua":  613,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  81,
-                          "bolivar":  27
+                          "bolivar":  23
                       },
                       {
                           "zulia":  1,
@@ -607,7 +607,7 @@
                           "cagua":  3515,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  224,
-                          "bolivar":  75
+                          "bolivar":  65
                       },
                       {
                           "zulia":  0,
@@ -620,7 +620,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
                           "barquisimeto":  0,
-                          "bolivar":  3
+                          "bolivar":  1
                       },
                       {
                           "zulia":  0,
@@ -659,7 +659,7 @@
                           "cagua":  749,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  21,
-                          "bolivar":  9
+                          "bolivar":  6
                       },
                       {
                           "zulia":  73,
@@ -711,7 +711,7 @@
                           "cagua":  1540,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  38,
-                          "bolivar":  54
+                          "bolivar":  41
                       },
                       {
                           "zulia":  84,
@@ -724,7 +724,7 @@
                           "cagua":  1124,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  75,
-                          "bolivar":  26
+                          "bolivar":  9
                       },
                       {
                           "zulia":  0,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 14:40:48",
+    "ultima_actualizacion":  "23/09/2026 14:50:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5125,5 +5125,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50452
+    "total_general_cajas":  50303
 };
