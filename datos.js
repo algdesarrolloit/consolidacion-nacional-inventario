@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1004
+                          "cajas":  998
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -243,7 +243,7 @@
                           "cagua":  2224,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  450,
-                          "bolivar":  202
+                          "bolivar":  201
                       },
                       {
                           "zulia":  41,
@@ -295,7 +295,7 @@
                           "cagua":  2312,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  340,
-                          "bolivar":  176
+                          "bolivar":  174
                       },
                       {
                           "zulia":  74,
@@ -334,7 +334,7 @@
                           "cagua":  320,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  30,
-                          "bolivar":  29
+                          "bolivar":  28
                       },
                       {
                           "zulia":  82,
@@ -542,7 +542,7 @@
                           "cagua":  613,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  81,
-                          "bolivar":  29
+                          "bolivar":  27
                       },
                       {
                           "zulia":  1,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 14:20:48",
+    "ultima_actualizacion":  "23/09/2026 14:30:48",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5125,5 +5125,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50475
+    "total_general_cajas":  50469
 };
