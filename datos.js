@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  736
+                          "cajas":  737
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -542,7 +542,7 @@
                           "cagua":  613,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  78,
-                          "bolivar":  20
+                          "bolivar":  21
                       },
                       {
                           "zulia":  1,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 09:50:46",
+    "ultima_actualizacion":  "24/09/2026 10:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1036,16 +1036,6 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "23-07-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "0728-230726",
-                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-07-2028"
-                  },
-                  {
-                      "codigo":  "4MES002",
                       "cantidad":  329,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
@@ -1266,7 +1256,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-28072026",
@@ -1366,17 +1356,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  22,
-                      "fecha_fabricacion":  "04-08-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "0828-04082026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "04-08-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  120,
+                      "cantidad":  112,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-070926",
@@ -1756,7 +1736,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  38,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0327-150926-NV",
@@ -1846,7 +1826,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  56,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0327-09092026",
@@ -1966,16 +1946,6 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1126-100726",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
                       "cantidad":  10,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "BOLIVAR",
@@ -2076,7 +2046,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  23,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0628-180626",
@@ -2186,16 +2156,6 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  29,
-                      "fecha_fabricacion":  "10-12-2025",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1228-101225",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-12-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
                       "cantidad":  320,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
@@ -2289,16 +2249,6 @@
                       "cantidad":  60,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0228-20022026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-02-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "20-02-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "0228-20022026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
@@ -2406,7 +2356,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  53,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-050826 NV",
@@ -2516,7 +2466,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  12,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-021225",
@@ -2656,7 +2606,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  7,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-281125",
@@ -2729,16 +2679,6 @@
                       "cantidad":  49,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0728-30072026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "30-07-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "0728-30072026",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
@@ -2829,16 +2769,6 @@
                       "cantidad":  66,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -3046,7 +2976,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  13,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0528-21052026",
@@ -3256,7 +3186,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0727-210726",
@@ -3576,7 +3506,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0827-26082026",
@@ -3706,7 +3636,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  13,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-09072026",
@@ -3796,7 +3726,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  12,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-310726",
@@ -3916,7 +3846,17 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  29,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "11-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0827-100826",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
+                      "cantidad":  20,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0927-150926-NV",
@@ -4346,17 +4286,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  25,
-                      "fecha_fabricacion":  "30-06-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "0628-300626",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  60,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-23072026",
@@ -4486,7 +4416,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "06-02-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0228-06022026",
@@ -4566,7 +4496,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  9,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
@@ -4806,7 +4736,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "02-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0327-02092026",
@@ -4896,7 +4826,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  54,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "27-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-270826",
@@ -5056,7 +4986,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  26,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "18-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-180826",
@@ -5225,5 +5155,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  52003
+    "total_general_cajas":  52004
 };
