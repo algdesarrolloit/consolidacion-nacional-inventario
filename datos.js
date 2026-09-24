@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 13:50:46",
+    "ultima_actualizacion":  "24/09/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1016,7 +1016,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-230726",
@@ -1326,7 +1326,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  81,
+                      "cantidad":  73,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-08092026",
@@ -1766,7 +1766,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  55,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0327-160926",
@@ -2016,7 +2016,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  14,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-060726",
@@ -2406,7 +2406,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  134,
+                      "cantidad":  129,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-071025",
@@ -2726,7 +2726,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-06072026",
@@ -2923,16 +2923,6 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-06-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0628-10062026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-06-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -3666,7 +3656,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  8,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-310726",
@@ -3766,7 +3756,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  26,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0827-100826",
@@ -3886,16 +3876,6 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "26-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0827-26082026",
-                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "26-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSU017",
                       "cantidad":  1,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3926,7 +3906,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-26082026",
@@ -4416,16 +4396,6 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "25-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0828-25082026",
-                      "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO017",
                       "cantidad":  21,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -4893,16 +4863,6 @@
                       "descripcion":  "VINAGRE 24 X 500ML",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI004",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "17-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0828-170826",
-                      "descripcion":  "VINAGRE 24 X 500ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-08-2028"
                   },
                   {
                       "codigo":  "4MVI004",
