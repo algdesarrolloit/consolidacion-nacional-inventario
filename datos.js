@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1889
+                          "cajas":  1877
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -275,7 +275,7 @@
                           "zulia":  0,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
-                          "andes":  12,
+                          "andes":  0,
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  0,
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 16:30:46",
+    "ultima_actualizacion":  "24/09/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -905,7 +905,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  405,
+                      "cantidad":  395,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-200126",
@@ -955,7 +955,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1972,
+                      "cantidad":  1967,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -975,7 +975,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  400,
+                      "cantidad":  350,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-190126",
@@ -1065,7 +1065,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3972,
+                      "cantidad":  3952,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -5114,5 +5114,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65141
+    "total_general_cajas":  65129
 };
