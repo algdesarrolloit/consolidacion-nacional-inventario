@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  54969
+                          "cajas":  54339
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -422,7 +422,7 @@
                           "margarita":  16,
                           "capital":  64,
                           "barcelona":  184,
-                          "cagua":  4146,
+                          "cagua":  3516,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  66,
                           "bolivar":  10
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 17:10:46",
+    "ultima_actualizacion":  "24/09/2026 17:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2585,17 +2585,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  330,
-                      "fecha_fabricacion":  "02-12-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-021225",
-                      "descripcion":  "ENCURTIDOS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-12-2028"
-                  },
-                  {
-                      "codigo":  "4MNA014",
-                      "cantidad":  940,
+                      "cantidad":  640,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -5084,5 +5074,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65129
+    "total_general_cajas":  64499
 };
