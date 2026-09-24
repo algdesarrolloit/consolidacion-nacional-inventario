@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 09:40:46",
+    "ultima_actualizacion":  "24/09/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1029,6 +1029,16 @@
                       "cantidad":  17,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0728-230726",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-07-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "23-07-2026",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0728-230726",
                       "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                       "um":  "CJ",
