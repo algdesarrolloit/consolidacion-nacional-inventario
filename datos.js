@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  41088
+                          "cajas":  55798
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2724
+                          "cajas":  2719
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -141,6 +141,58 @@
                   ],
     "total_general_kg":  110568.9,
     "productos":  [
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CNA016",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  3262,
+                          "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CNA017",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  2000,
+                          "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CNA018",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  5500,
+                          "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4CNA019",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  4000,
+                          "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
                       {
                           "zulia":  0,
                           "codigo":  "4CNA021",
@@ -285,7 +337,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  333,
+                          "zulia":  331,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -350,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  63,
+                          "zulia":  62,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -389,7 +441,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  68,
+                          "zulia":  67,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  59,
@@ -532,7 +584,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  31,
+                          "zulia":  30,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  76,
@@ -688,19 +740,6 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  0,
-                          "codigo":  "4MTO040",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  52,
-                          "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
                           "zulia":  87,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
@@ -792,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 14:30:46",
+    "ultima_actualizacion":  "24/09/2026 14:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -863,6 +902,146 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-11-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  469,
+                      "fecha_fabricacion":  "20-01-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0127-200126",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-01-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  106,
+                      "fecha_fabricacion":  "22-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-220526",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  263,
+                      "fecha_fabricacion":  "23-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-230526",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  2424,
+                      "fecha_fabricacion":  "15-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-150626",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA017",
+                      "cantidad":  2000,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  464,
+                      "fecha_fabricacion":  "19-01-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0127-190126",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-01-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  936,
+                      "fecha_fabricacion":  "20-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-200526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  1186,
+                      "fecha_fabricacion":  "21-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-210526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  894,
+                      "fecha_fabricacion":  "23-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-230526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  144,
+                      "fecha_fabricacion":  "24-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-240526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  864,
+                      "fecha_fabricacion":  "12-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-120626",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  796,
+                      "fecha_fabricacion":  "13-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-130626",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  216,
+                      "fecha_fabricacion":  "14-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-140626",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  4000,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
                   },
                   {
                       "codigo":  "4CNA021",
@@ -5075,5 +5254,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  52305
+    "total_general_cajas":  67010
 };
