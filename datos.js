@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  678
+                          "cajas":  667
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -525,7 +525,7 @@
                           "andes":  58,
                           "margarita":  15,
                           "capital":  30,
-                          "barcelona":  16,
+                          "barcelona":  12,
                           "cagua":  1005,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  37,
@@ -577,7 +577,7 @@
                           "andes":  44,
                           "margarita":  36,
                           "capital":  23,
-                          "barcelona":  66,
+                          "barcelona":  62,
                           "cagua":  1648,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
@@ -655,7 +655,7 @@
                           "andes":  59,
                           "margarita":  27,
                           "capital":  60,
-                          "barcelona":  8,
+                          "barcelona":  5,
                           "cagua":  893,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  18,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 10:50:46",
+    "ultima_actualizacion":  "24/09/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5155,5 +5155,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  52004
+    "total_general_cajas":  51993
 };
