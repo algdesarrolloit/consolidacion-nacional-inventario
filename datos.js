@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  40406
+                          "cajas":  41108
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2769
+                          "cajas":  2738
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -233,7 +233,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  394,
+                          "zulia":  389,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  386,
@@ -285,7 +285,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  356,
+                          "zulia":  336,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -350,7 +350,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  66,
+                          "zulia":  63,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -389,7 +389,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  72,
+                          "zulia":  69,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  59,
@@ -721,7 +721,7 @@
                           "margarita":  35,
                           "capital":  87,
                           "barcelona":  0,
-                          "cagua":  1124,
+                          "cagua":  1826,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  73,
                           "bolivar":  2
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 12:00:46",
+    "ultima_actualizacion":  "24/09/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5036,6 +5036,26 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  300,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-160926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  402,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-210926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  2,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -5155,5 +5175,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  51668
+    "total_general_cajas":  52339
 };
