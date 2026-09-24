@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2323
+                          "cajas":  2187
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -275,7 +275,7 @@
                           "zulia":  0,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
-                          "andes":  27,
+                          "andes":  12,
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  0,
@@ -301,7 +301,7 @@
                           "zulia":  41,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
-                          "andes":  27,
+                          "andes":  22,
                           "margarita":  6,
                           "capital":  38,
                           "barcelona":  16,
@@ -340,7 +340,7 @@
                           "zulia":  158,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  335,
+                          "andes":  260,
                           "margarita":  119,
                           "capital":  135,
                           "barcelona":  48,
@@ -496,7 +496,7 @@
                           "zulia":  40,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  48,
+                          "andes":  43,
                           "margarita":  27,
                           "capital":  0,
                           "barcelona":  0,
@@ -561,7 +561,7 @@
                           "zulia":  10,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
-                          "andes":  31,
+                          "andes":  21,
                           "margarita":  5,
                           "capital":  24,
                           "barcelona":  0,
@@ -574,7 +574,7 @@
                           "zulia":  72,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
-                          "andes":  55,
+                          "andes":  50,
                           "margarita":  14,
                           "capital":  25,
                           "barcelona":  6,
@@ -639,7 +639,7 @@
                           "zulia":  13,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
-                          "andes":  6,
+                          "andes":  3,
                           "margarita":  27,
                           "capital":  0,
                           "barcelona":  0,
@@ -704,7 +704,7 @@
                           "zulia":  59,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
-                          "andes":  57,
+                          "andes":  54,
                           "margarita":  27,
                           "capital":  57,
                           "barcelona":  0,
@@ -717,7 +717,7 @@
                           "zulia":  58,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
-                          "andes":  115,
+                          "andes":  100,
                           "margarita":  13,
                           "capital":  71,
                           "barcelona":  13,
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 16:10:46",
+    "ultima_actualizacion":  "24/09/2026 16:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5164,5 +5164,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65575
+    "total_general_cajas":  65439
 };
