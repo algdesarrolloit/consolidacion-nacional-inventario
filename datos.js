@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  897
+                          "cajas":  832
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -516,7 +516,7 @@
                           "cagua":  636,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  31,
-                          "bolivar":  13
+                          "bolivar":  9
                       },
                       {
                           "zulia":  73,
@@ -542,7 +542,7 @@
                           "cagua":  613,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  81,
-                          "bolivar":  29
+                          "bolivar":  23
                       },
                       {
                           "zulia":  1,
@@ -607,7 +607,7 @@
                           "cagua":  3515,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  224,
-                          "bolivar":  85
+                          "bolivar":  65
                       },
                       {
                           "zulia":  0,
@@ -620,7 +620,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
                           "barquisimeto":  0,
-                          "bolivar":  3
+                          "bolivar":  1
                       },
                       {
                           "zulia":  0,
@@ -659,7 +659,7 @@
                           "cagua":  749,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  21,
-                          "bolivar":  9
+                          "bolivar":  6
                       },
                       {
                           "zulia":  73,
@@ -711,7 +711,7 @@
                           "cagua":  1540,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  38,
-                          "bolivar":  54
+                          "bolivar":  41
                       },
                       {
                           "zulia":  84,
@@ -724,7 +724,7 @@
                           "cagua":  1124,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  75,
-                          "bolivar":  26
+                          "bolivar":  9
                       },
                       {
                           "zulia":  0,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 22:50:49",
+    "ultima_actualizacion":  "23/09/2026 23:00:49",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5135,5 +5135,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50369
+    "total_general_cajas":  50304
 };
