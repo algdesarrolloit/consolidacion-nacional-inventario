@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1529
+                          "cajas":  1477
                       },
                       {
                           "almacen":  "ANDES",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  0,
-                          "capital":  65,
+                          "capital":  22,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  30,
-                          "capital":  38,
+                          "capital":  33,
                           "barcelona":  0,
                           "cagua":  1246,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  39,
                           "margarita":  7,
-                          "capital":  30,
+                          "capital":  29,
                           "barcelona":  0,
                           "cagua":  636,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -589,7 +589,7 @@
                           "um":  "CJ",
                           "andes":  10,
                           "margarita":  27,
-                          "capital":  6,
+                          "capital":  5,
                           "barcelona":  0,
                           "cagua":  16,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
@@ -706,7 +706,7 @@
                           "um":  "CJ",
                           "andes":  112,
                           "margarita":  63,
-                          "capital":  50,
+                          "capital":  48,
                           "barcelona":  0,
                           "cagua":  1540,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 11:40:47",
+    "ultima_actualizacion":  "24/09/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5155,5 +5155,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  51841
+    "total_general_cajas":  51789
 };
