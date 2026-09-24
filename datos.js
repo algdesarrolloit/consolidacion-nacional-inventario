@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 16:40:46",
+    "ultima_actualizacion":  "24/09/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -905,7 +905,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  395,
+                      "cantidad":  359,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-200126",
@@ -955,7 +955,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1967,
+                      "cantidad":  1876,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -975,7 +975,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  350,
+                      "cantidad":  104,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-190126",
@@ -1065,7 +1065,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3952,
+                      "cantidad":  3898,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1315,7 +1315,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  17,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-210726",
@@ -1432,16 +1432,6 @@
                       "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "25-11-2027"
-                  },
-                  {
-                      "codigo":  "4MKE003",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "28-07-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0728-28072026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-07-2028"
                   },
                   {
                       "codigo":  "4MKE003",
@@ -1645,7 +1635,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  111,
+                      "cantidad":  99,
                       "fecha_fabricacion":  "13-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-13072026",
@@ -1755,7 +1745,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-300726",
@@ -1935,7 +1925,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  12,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-14092026-NV",
@@ -2065,7 +2055,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  125,
+                      "cantidad":  119,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -2255,7 +2245,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  21,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-060726",
@@ -2325,7 +2315,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  28,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1228-101225",
@@ -2495,7 +2485,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  29,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-050826 NV",
@@ -2805,7 +2795,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  25,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-30072026",
@@ -2985,7 +2975,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  14,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "03-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0628-03062026",
@@ -3075,7 +3065,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0628-10062026",
@@ -3715,7 +3705,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-09072026",
@@ -3805,7 +3795,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-23072026",
@@ -3935,7 +3925,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  12,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "11-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0827-100826",
@@ -4025,7 +4015,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-26082026",
@@ -4345,17 +4335,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "24-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0628-240626",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  120,
+                      "cantidad":  92,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-23072026",
@@ -5035,7 +5015,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  35,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-170826",
@@ -5075,17 +5055,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "15-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0728-150726",
-                      "descripcion":  "VINAGRE 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-07-2028"
-                  },
-                  {
-                      "codigo":  "4MVI006",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-280726",
@@ -5095,7 +5065,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  1069,
+                      "cantidad":  1061,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5105,7 +5075,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  761,
+                      "cantidad":  756,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
