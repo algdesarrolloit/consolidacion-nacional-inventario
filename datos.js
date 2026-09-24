@@ -94,14 +94,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  55089
+                          "cajas":  54969
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1540
+                          "cajas":  1660
                       },
                       {
                           "almacen":  "ANDES",
@@ -160,9 +160,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  28,
+                          "capital":  56,
                           "barcelona":  0,
-                          "cagua":  1876,
+                          "cagua":  1848,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -173,9 +173,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  64,
+                          "capital":  128,
                           "barcelona":  0,
-                          "cagua":  5140,
+                          "cagua":  5076,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -186,9 +186,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  28,
+                          "capital":  56,
                           "barcelona":  0,
-                          "cagua":  3898,
+                          "cagua":  3870,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 17:00:46",
+    "ultima_actualizacion":  "24/09/2026 17:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -955,7 +955,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1876,
+                      "cantidad":  1848,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -965,7 +965,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  28,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -975,7 +975,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  104,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-190126",
@@ -1055,7 +1055,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  64,
+                      "cantidad":  128,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-190126",
@@ -1065,7 +1065,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3898,
+                      "cantidad":  3870,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1075,7 +1075,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  28,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
