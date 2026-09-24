@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  984
+                          "cajas":  897
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -295,7 +295,7 @@
                           "cagua":  2312,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  340,
-                          "bolivar":  176
+                          "bolivar":  145
                       },
                       {
                           "zulia":  74,
@@ -321,7 +321,7 @@
                           "cagua":  346,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  56,
-                          "bolivar":  23
+                          "bolivar":  18
                       },
                       {
                           "zulia":  105,
@@ -334,7 +334,7 @@
                           "cagua":  320,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  30,
-                          "bolivar":  29
+                          "bolivar":  13
                       },
                       {
                           "zulia":  82,
@@ -347,7 +347,7 @@
                           "cagua":  3440,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  70,
-                          "bolivar":  5
+                          "bolivar":  0
                       },
                       {
                           "zulia":  66,
@@ -360,7 +360,7 @@
                           "cagua":  152,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
-                          "bolivar":  53
+                          "bolivar":  40
                       },
                       {
                           "zulia":  126,
@@ -399,7 +399,7 @@
                           "cagua":  1374,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  49,
-                          "bolivar":  2
+                          "bolivar":  0
                       },
                       {
                           "zulia":  107,
@@ -412,7 +412,7 @@
                           "cagua":  764,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  66,
-                          "bolivar":  9
+                          "bolivar":  0
                       },
                       {
                           "zulia":  0,
@@ -451,7 +451,7 @@
                           "cagua":  1246,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  48,
-                          "bolivar":  13
+                          "bolivar":  7
                       },
                       {
                           "zulia":  28,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/09/2026 22:40:49",
+    "ultima_actualizacion":  "23/09/2026 22:50:49",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5135,5 +5135,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50456
+    "total_general_cajas":  50369
 };
