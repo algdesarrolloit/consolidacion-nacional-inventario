@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2229
+                          "cajas":  2223
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  41085
+                          "cajas":  40406
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -294,7 +294,7 @@
                           "barcelona":  89,
                           "cagua":  2517,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  340,
+                          "barquisimeto":  334,
                           "bolivar":  145
                       },
                       {
@@ -383,7 +383,7 @@
                           "margarita":  33,
                           "capital":  46,
                           "barcelona":  15,
-                          "cagua":  679,
+                          "cagua":  0,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  45,
                           "bolivar":  7
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 08:40:46",
+    "ultima_actualizacion":  "24/09/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2649,16 +2649,6 @@
                       "cantidad":  7,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  679,
-                      "fecha_fabricacion":  "28-11-2025",
-                      "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
                       "descripcion":  "ENCURTIDOS 24 X 190GR",
                       "um":  "CJ",
@@ -5225,5 +5215,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  53003
+    "total_general_cajas":  52318
 };
