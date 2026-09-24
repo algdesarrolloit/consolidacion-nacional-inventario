@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  832
+                          "cajas":  816
                       }
                   ],
     "total_general_kg":  110568.9,
@@ -321,7 +321,7 @@
                           "cagua":  346,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  56,
-                          "bolivar":  18
+                          "bolivar":  17
                       },
                       {
                           "zulia":  105,
@@ -360,7 +360,7 @@
                           "cagua":  152,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
-                          "bolivar":  40
+                          "bolivar":  36
                       },
                       {
                           "zulia":  126,
@@ -477,7 +477,7 @@
                           "cagua":  478,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
-                          "bolivar":  7
+                          "bolivar":  5
                       },
                       {
                           "zulia":  42,
@@ -503,7 +503,7 @@
                           "cagua":  522,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
-                          "bolivar":  12
+                          "bolivar":  10
                       },
                       {
                           "zulia":  15,
@@ -711,7 +711,7 @@
                           "cagua":  1540,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  38,
-                          "bolivar":  41
+                          "bolivar":  39
                       },
                       {
                           "zulia":  84,
@@ -724,7 +724,7 @@
                           "cagua":  1124,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  75,
-                          "bolivar":  9
+                          "bolivar":  4
                       },
                       {
                           "zulia":  0,
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 09:00:46",
+    "ultima_actualizacion":  "24/09/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5215,5 +5215,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  52318
+    "total_general_cajas":  52302
 };
