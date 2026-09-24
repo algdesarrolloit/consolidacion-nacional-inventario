@@ -87,21 +87,21 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2004
+                          "cajas":  2010
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  55798
+                          "cajas":  55614
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1356
+                          "cajas":  1540
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2719
+                          "cajas":  2610
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -147,9 +147,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  64,
                           "barcelona":  0,
-                          "cagua":  3262,
+                          "cagua":  3198,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -160,9 +160,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  28,
                           "barcelona":  0,
-                          "cagua":  2000,
+                          "cagua":  1972,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -173,9 +173,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  64,
                           "barcelona":  0,
-                          "cagua":  5500,
+                          "cagua":  5436,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -186,9 +186,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
+                          "capital":  28,
                           "barcelona":  0,
-                          "cagua":  4000,
+                          "cagua":  3972,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -246,7 +246,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  62,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  68,
@@ -285,7 +285,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  387,
+                          "zulia":  375,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  386,
@@ -337,7 +337,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  331,
+                          "zulia":  269,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  525,
@@ -346,7 +346,7 @@
                           "barcelona":  48,
                           "cagua":  2507,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  294,
+                          "barquisimeto":  300,
                           "bolivar":  143
                       },
                       {
@@ -389,7 +389,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  82,
+                          "zulia":  80,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  165,
@@ -402,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  62,
+                          "zulia":  60,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  59,
@@ -480,7 +480,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  49,
+                          "zulia":  48,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  0,
@@ -506,7 +506,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  27,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  35,
@@ -558,7 +558,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  13,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  39,
@@ -571,7 +571,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  73,
+                          "zulia":  72,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  58,
@@ -584,7 +584,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  30,
+                          "zulia":  19,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  76,
@@ -649,7 +649,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  287,
+                          "zulia":  281,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  259,
@@ -714,7 +714,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  73,
+                          "zulia":  71,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  117,
@@ -740,7 +740,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  87,
+                          "zulia":  84,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  112,
@@ -753,7 +753,7 @@
                           "bolivar":  34
                       },
                       {
-                          "zulia":  84,
+                          "zulia":  82,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  116,
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 14:40:47",
+    "ultima_actualizacion":  "24/09/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -905,7 +905,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  469,
+                      "cantidad":  405,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-200126",
@@ -944,8 +944,18 @@
                       "fecha_vencimiento":  "15-06-2027"
                   },
                   {
+                      "codigo":  "4CNA016",
+                      "cantidad":  64,
+                      "fecha_fabricacion":  "20-01-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0127-200126",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-01-2027"
+                  },
+                  {
                       "codigo":  "4CNA017",
-                      "cantidad":  2000,
+                      "cantidad":  1972,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -954,8 +964,18 @@
                       "fecha_vencimiento":  "31-05-2027"
                   },
                   {
+                      "codigo":  "4CNA017",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
                       "codigo":  "4CNA018",
-                      "cantidad":  464,
+                      "cantidad":  400,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-190126",
@@ -1034,10 +1054,30 @@
                       "fecha_vencimiento":  "14-06-2027"
                   },
                   {
+                      "codigo":  "4CNA018",
+                      "cantidad":  64,
+                      "fecha_fabricacion":  "19-01-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0127-190126",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-01-2027"
+                  },
+                  {
                       "codigo":  "4CNA019",
-                      "cantidad":  4000,
+                      "cantidad":  3972,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
                       "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                       "um":  "CJ",
@@ -1205,7 +1245,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-230726",
@@ -1515,7 +1555,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  340,
+                      "cantidad":  270,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -1675,7 +1715,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -1905,7 +1945,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  28,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-150926-NV",
@@ -1965,17 +2005,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "11-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0327-110926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  105,
+                      "cantidad":  74,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-160926",
@@ -1992,6 +2022,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  6,
+                      "fecha_fabricacion":  "29-05-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1126-29052026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "29-11-2026"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2205,7 +2245,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  56,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-060726",
@@ -2305,26 +2345,6 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  29,
-                      "fecha_fabricacion":  "05-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-05082026",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "05-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-12-2025",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1228-101225",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-12-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
                       "cantidad":  320,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
@@ -2395,7 +2415,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  10,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "10-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-100226",
@@ -2498,16 +2518,6 @@
                       "cantidad":  59,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0828-050826 NV",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  33,
-                      "fecha_fabricacion":  "10-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-050826 NV",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
@@ -2825,7 +2835,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  49,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-30072026",
@@ -2915,7 +2925,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  66,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-06072026",
@@ -3845,7 +3855,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  39,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-310726",
@@ -3955,7 +3965,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  19,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0827-21082026",
@@ -4275,16 +4285,6 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
                       "cantidad":  16,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAGUA",
@@ -4365,7 +4365,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  104,
+                      "cantidad":  94,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-23072026",
@@ -4575,7 +4575,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  21,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -4864,16 +4864,6 @@
                       "fecha_vencimiento":  "02-03-2027"
                   },
                   {
-                      "codigo":  "4MTO040",
-                      "cantidad":  52,
-                      "fecha_fabricacion":  "12-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0828-120826",
-                      "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "12-08-2028"
-                  },
-                  {
                       "codigo":  "4MVI002",
                       "cantidad":  52,
                       "fecha_fabricacion":  "28-08-2026",
@@ -4895,7 +4885,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  36,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-250826",
@@ -5055,7 +5045,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  26,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-170826",
@@ -5254,5 +5244,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67010
+    "total_general_cajas":  66907
 };
