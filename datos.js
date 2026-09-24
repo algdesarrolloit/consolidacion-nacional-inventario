@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  38386
+                          "cajas":  39441
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -240,7 +240,7 @@
                           "margarita":  111,
                           "capital":  192,
                           "barcelona":  98,
-                          "cagua":  2224,
+                          "cagua":  3147,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  450,
                           "bolivar":  183
@@ -500,7 +500,7 @@
                           "margarita":  18,
                           "capital":  13,
                           "barcelona":  9,
-                          "cagua":  390,
+                          "cagua":  522,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
                           "bolivar":  12
@@ -792,7 +792,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/09/2026 07:10:46",
+    "ultima_actualizacion":  "24/09/2026 07:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1386,6 +1386,26 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  31,
+                      "fecha_fabricacion":  "13-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0728-13072026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-07-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  52,
+                      "fecha_fabricacion":  "21-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-21082026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-08-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  1146,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
@@ -1413,6 +1433,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  840,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -3556,6 +3586,16 @@
                   },
                   {
                       "codigo":  "4MSA017",
+                      "cantidad":  76,
+                      "fecha_fabricacion":  "25-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0827-250826",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-08-2028"
+                  },
+                  {
+                      "codigo":  "4MSA017",
                       "cantidad":  176,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
@@ -3573,6 +3613,16 @@
                       "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-110926",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-09-2028"
                   },
                   {
                       "codigo":  "4MSA017",
@@ -5135,5 +5185,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  50304
+    "total_general_cajas":  51359
 };
