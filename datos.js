@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1660
+                          "cajas":  1648
                       },
                       {
                           "almacen":  "ANDES",
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  515
+                          "cajas":  516
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  119,
-                          "capital":  135,
+                          "capital":  125,
                           "barcelona":  48,
                           "cagua":  2507,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  26,
-                          "capital":  23,
+                          "capital":  22,
                           "barcelona":  0,
                           "cagua":  320,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -407,7 +407,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  27,
-                          "capital":  41,
+                          "capital":  40,
                           "barcelona":  0,
                           "cagua":  150,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -486,7 +486,7 @@
                           "andes":  0,
                           "margarita":  11,
                           "capital":  0,
-                          "barcelona":  2,
+                          "barcelona":  3,
                           "cagua":  1609,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 14:00:46",
+    "ultima_actualizacion":  "25/09/2026 14:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2965,7 +2965,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  1,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0628-090626",
@@ -5154,5 +5154,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67547
+    "total_general_cajas":  67536
 };
