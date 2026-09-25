@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 15:30:46",
+    "ultima_actualizacion":  "25/09/2026 15:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1638,7 +1638,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  158,
+                      "cantidad":  156,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2048,7 +2048,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  71,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
