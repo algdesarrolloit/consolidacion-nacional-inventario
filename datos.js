@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  54824
+                          "cajas":  54820
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -357,7 +357,7 @@
                           "margarita":  16,
                           "capital":  30,
                           "barcelona":  5,
-                          "cagua":  50,
+                          "cagua":  46,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  11,
                           "bolivar":  10
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 08:40:46",
+    "ultima_actualizacion":  "25/09/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5084,5 +5084,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64984
+    "total_general_cajas":  64980
 };
