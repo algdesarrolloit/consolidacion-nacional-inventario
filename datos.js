@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2350
+                          "cajas":  2351
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -493,7 +493,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  41,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  43,
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 11:30:46",
+    "ultima_actualizacion":  "25/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3095,7 +3095,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  40,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-150626",
@@ -4695,7 +4695,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  58,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-15072026",
@@ -5134,5 +5134,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66144
+    "total_general_cajas":  66145
 };
