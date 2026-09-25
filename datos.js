@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  51102.9,
-                                                              "bidones":  851.72
+                                                              "kg":  51042.9,
+                                                              "bidones":  850.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59466,
-                                                              "bidones":  1081.2
+                                                              "kg":  59301,
+                                                              "bidones":  1078.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  110568.9,
+                          "kg":  110343.9,
                           "cajas":  57386
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  737
                       }
                   ],
-    "total_general_kg":  110568.9,
+    "total_general_kg":  110343.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  51102.9,
+                          "cagua":  51042.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,13 +825,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59466,
+                          "cagua":  59301,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 14:50:46",
+    "ultima_actualizacion":  "25/09/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -855,7 +855,7 @@
                   },
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  3262.9,
+                      "cantidad":  3202.9,
                       "fecha_fabricacion":  "02-11-2024",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1026-021124-198",
@@ -875,7 +875,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14795,
+                      "cantidad":  14630,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-040926-219",
@@ -1625,7 +1625,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  164,
+                      "cantidad":  159,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2055,7 +2055,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  115,
+                      "cantidad":  95,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -2485,7 +2485,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  39,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-050826 NV",
@@ -2785,7 +2785,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  12,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "29-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-29072026",
