@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  57524
+                          "cajas":  57386
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -370,7 +370,7 @@
                           "margarita":  19,
                           "capital":  22,
                           "barcelona":  11,
-                          "cagua":  346,
+                          "cagua":  208,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  53,
                           "bolivar":  9
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 13:40:46",
+    "ultima_actualizacion":  "25/09/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2235,7 +2235,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  346,
+                      "cantidad":  208,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-060726",
@@ -5154,5 +5154,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67685
+    "total_general_cajas":  67547
 };
