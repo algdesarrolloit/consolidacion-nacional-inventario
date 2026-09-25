@@ -94,14 +94,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  57386
+                          "cajas":  58377
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1601
+                          "cajas":  1586
                       },
                       {
                           "almacen":  "ANDES",
@@ -253,7 +253,7 @@
                           "margarita":  13,
                           "capital":  29,
                           "barcelona":  16,
-                          "cagua":  1239,
+                          "cagua":  2019,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  15,
                           "bolivar":  0
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  368,
                           "margarita":  99,
-                          "capital":  159,
+                          "capital":  158,
                           "barcelona":  73,
                           "cagua":  2259,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,12 +342,25 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  119,
-                          "capital":  95,
+                          "capital":  81,
                           "barcelona":  48,
                           "cagua":  2507,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  300,
                           "bolivar":  143
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4MMA011",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  211,
+                          "descripcion":  "MAYONESA 4 X 3.35 KG",
+                          "barquisimeto":  0,
+                          "bolivar":  0
                       },
                       {
                           "zulia":  60,
@@ -831,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 15:00:46",
+    "ultima_actualizacion":  "25/09/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1255,6 +1268,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  200,
+                      "fecha_fabricacion":  "12-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-120926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  329,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
@@ -1275,7 +1298,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  146,
+                      "cantidad":  409,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-160926",
@@ -1292,6 +1315,16 @@
                       "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  317,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-180926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
                   },
                   {
                       "codigo":  "4MES002",
@@ -2082,6 +2115,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA011",
+                      "cantidad":  211,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0127-23092026",
+                      "descripcion":  "MAYONESA 4 X 3.35 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-01-2027"
                   },
                   {
                       "codigo":  "4MMA014",
@@ -5154,5 +5197,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67477
+    "total_general_cajas":  68453
 };
