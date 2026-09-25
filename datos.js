@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 11:40:46",
+    "ultima_actualizacion":  "25/09/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4695,7 +4695,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  59,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-15072026",
