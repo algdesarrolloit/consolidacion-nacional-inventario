@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  55984
+                          "cajas":  56964
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  980,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  26,
                           "bolivar":  32
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 12:10:46",
+    "ultima_actualizacion":  "25/09/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1922,6 +1922,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  980,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-24092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -5134,5 +5144,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66145
+    "total_general_cajas":  67125
 };
