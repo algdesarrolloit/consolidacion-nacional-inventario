@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  51042.9,
-                                                              "bidones":  850.72
+                                                              "kg":  51102.9,
+                                                              "bidones":  851.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59301,
-                                                              "bidones":  1078.2
+                                                              "kg":  59466,
+                                                              "bidones":  1081.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,8 +93,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  110343.9,
-                          "cajas":  56393
+                          "kg":  110568.9,
+                          "cajas":  58074
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -139,7 +139,7 @@
                           "cajas":  737
                       }
                   ],
-    "total_general_kg":  110343.9,
+    "total_general_kg":  110568.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -292,7 +292,7 @@
                           "margarita":  99,
                           "capital":  156,
                           "barcelona":  73,
-                          "cagua":  2259,
+                          "cagua":  3143,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  380,
                           "bolivar":  172
@@ -500,7 +500,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  3,
-                          "cagua":  1609,
+                          "cagua":  2406,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  51042.9,
+                          "cagua":  51102.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -838,13 +838,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59301,
+                          "cagua":  59466,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 15:40:47",
+    "ultima_actualizacion":  "25/09/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1628,13 +1628,23 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1978,
+                      "cantidad":  1980,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  882,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-23092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-09-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -3005,6 +3015,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  797,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-24092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -5157,5 +5177,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66446
+    "total_general_cajas":  68127
 };
