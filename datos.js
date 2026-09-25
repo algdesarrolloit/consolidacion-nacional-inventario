@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  52542.9,
-                                                              "bidones":  875.72
+                                                              "kg":  51102.9,
+                                                              "bidones":  851.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -79,46 +79,6 @@
                                                                 "bidones":  0
                                                             }
                                             }
-                        },
-                        {
-                            "factor_bidon":  180,
-                            "descripcion":  "ALCAPARRAS",
-                            "codigo":  "1VEG003",
-                            "um":  "KG",
-                            "existencias":  {
-                                                "zulia":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "capital":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            },
-                                                "andes":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "margarita":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "barcelona":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "cagua":  {
-                                                              "kg":  180,
-                                                              "bidones":  1
-                                                          },
-                                                "barquisimeto":  {
-                                                                     "kg":  0,
-                                                                     "bidones":  0
-                                                                 },
-                                                "bolivar":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            }
-                                            }
                         }
                     ],
     "almacenes":  [
@@ -133,8 +93,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  112188.9,
-                          "cajas":  54820
+                          "kg":  110568.9,
+                          "cajas":  57225
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -179,7 +139,7 @@
                           "cajas":  737
                       }
                   ],
-    "total_general_kg":  112188.9,
+    "total_general_kg":  110568.9,
     "productos":  [
                       {
                           "zulia":  0,
@@ -514,7 +474,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  1050,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  23,
                           "bolivar":  0
@@ -644,7 +604,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  108,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  1,
                           "bolivar":  0
@@ -735,7 +695,7 @@
                           "margarita":  21,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  1189,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -774,7 +734,7 @@
                           "margarita":  12,
                           "capital":  3,
                           "barcelona":  0,
-                          "cagua":  30,
+                          "cagua":  88,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  4,
                           "bolivar":  1
@@ -852,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  52542.9,
+                          "cagua":  51102.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -869,22 +829,9 @@
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "1VEG003",
-                          "um":  "KG",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  180,
-                          "descripcion":  "ALCAPARRAS",
-                          "barquisimeto":  0,
-                          "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 09:10:46",
+    "ultima_actualizacion":  "25/09/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2987,6 +2934,26 @@
                       "fecha_vencimiento":  "17-09-2028"
                   },
                   {
+                      "codigo":  "4MSA005",
+                      "cantidad":  812,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  238,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-24092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
                       "codigo":  "4MSA006",
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
@@ -4008,6 +3975,16 @@
                   },
                   {
                       "codigo":  "4MSU017",
+                      "cantidad":  108,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-22092026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
                       "cantidad":  1,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -4468,6 +4445,16 @@
                   },
                   {
                       "codigo":  "4MTO016",
+                      "cantidad":  1189,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
                       "cantidad":  21,
                       "fecha_fabricacion":  "12-09-2025",
                       "ubicacion":  "MARGARITA",
@@ -4755,6 +4742,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "04-03-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  58,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-24092026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2702"
                   },
                   {
                       "codigo":  "4MTO033",
@@ -5137,5 +5134,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64980
+    "total_general_cajas":  67385
 };
