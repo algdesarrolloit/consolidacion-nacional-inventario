@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  54339
+                          "cajas":  54824
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  99,
                           "capital":  169,
                           "barcelona":  73,
-                          "cagua":  3140,
+                          "cagua":  3500,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  380,
                           "bolivar":  172
@@ -435,7 +435,7 @@
                           "margarita":  33,
                           "capital":  46,
                           "barcelona":  11,
-                          "cagua":  0,
+                          "cagua":  125,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  45,
                           "bolivar":  3
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 08:10:46",
+    "ultima_actualizacion":  "25/09/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1565,7 +1565,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  24,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "13-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-13072026",
@@ -1615,7 +1615,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  840,
+                      "cantidad":  1198,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
@@ -2678,6 +2678,16 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-281125",
+                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  125,
+                      "fecha_fabricacion":  "28-11-2025",
+                      "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
                       "descripcion":  "ENCURTIDOS 24 X 190GR",
                       "um":  "CJ",
@@ -5074,5 +5084,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64499
+    "total_general_cajas":  64984
 };
