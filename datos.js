@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1648
+                          "cajas":  1630
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2351
+                          "cajas":  2339
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  368,
                           "margarita":  99,
-                          "capital":  169,
+                          "capital":  164,
                           "barcelona":  73,
                           "cagua":  2259,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  119,
-                          "capital":  125,
+                          "capital":  115,
                           "barcelona":  48,
                           "cagua":  2507,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -350,7 +350,7 @@
                           "bolivar":  143
                       },
                       {
-                          "zulia":  72,
+                          "zulia":  60,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  10,
@@ -407,7 +407,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  27,
-                          "capital":  40,
+                          "capital":  39,
                           "barcelona":  0,
                           "cagua":  150,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  13,
                           "margarita":  23,
-                          "capital":  64,
+                          "capital":  62,
                           "barcelona":  0,
                           "cagua":  1372,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 14:10:46",
+    "ultima_actualizacion":  "25/09/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5154,5 +5154,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67536
+    "total_general_cajas":  67506
 };
