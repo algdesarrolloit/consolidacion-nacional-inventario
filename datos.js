@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1630
+                          "cajas":  1611
                       },
                       {
                           "almacen":  "ANDES",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  368,
                           "margarita":  99,
-                          "capital":  164,
+                          "capital":  159,
                           "barcelona":  73,
                           "cagua":  2259,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  119,
-                          "capital":  115,
+                          "capital":  105,
                           "barcelona":  48,
                           "cagua":  2507,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -407,7 +407,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  27,
-                          "capital":  39,
+                          "capital":  37,
                           "barcelona":  0,
                           "cagua":  150,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  13,
                           "margarita":  23,
-                          "capital":  62,
+                          "capital":  60,
                           "barcelona":  0,
                           "cagua":  1372,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -831,7 +831,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 14:20:46",
+    "ultima_actualizacion":  "25/09/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5154,5 +5154,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67506
+    "total_general_cajas":  67487
 };
