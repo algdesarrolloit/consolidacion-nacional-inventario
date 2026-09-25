@@ -94,14 +94,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  58377
+                          "cajas":  56393
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1583
+                          "cajas":  1564
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2339
+                          "cajas":  2338
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  368,
                           "margarita":  99,
-                          "capital":  158,
+                          "capital":  156,
                           "barcelona":  73,
                           "cagua":  2259,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,9 +342,9 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  119,
-                          "capital":  78,
+                          "capital":  61,
                           "barcelona":  48,
-                          "cagua":  2507,
+                          "cagua":  523,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  300,
                           "bolivar":  143
@@ -766,7 +766,7 @@
                           "bolivar":  34
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  55,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  97,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/09/2026 15:20:46",
+    "ultima_actualizacion":  "25/09/2026 15:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1618,27 +1618,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1146,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-08092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  478,
-                      "fecha_fabricacion":  "09-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-09092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  600,
+                      "cantidad":  203,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-090926",
@@ -1658,7 +1638,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  159,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2058,37 +2038,17 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "11-09-2026",
+                      "cantidad":  523,
+                      "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0327-110926",
+                      "lote":  "25092026",
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "11-03-2027"
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1020,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0327-170926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  1477,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0327-180926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  95,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -5138,7 +5098,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-240826",
@@ -5197,5 +5157,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68450
+    "total_general_cajas":  66446
 };
