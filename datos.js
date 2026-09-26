@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  737
+                          "cajas":  1385
                       }
                   ],
     "total_general_kg":  110343.9,
@@ -152,7 +152,7 @@
                           "cagua":  2735,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  64,
-                          "bolivar":  0
+                          "bolivar":  100
                       },
                       {
                           "zulia":  56,
@@ -165,7 +165,7 @@
                           "cagua":  1570,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  56,
-                          "bolivar":  0
+                          "bolivar":  56
                       },
                       {
                           "zulia":  64,
@@ -178,7 +178,7 @@
                           "cagua":  4657,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  64,
-                          "bolivar":  0
+                          "bolivar":  67
                       },
                       {
                           "zulia":  56,
@@ -191,7 +191,7 @@
                           "cagua":  3578,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  56,
-                          "bolivar":  0
+                          "bolivar":  56
                       },
                       {
                           "zulia":  9,
@@ -204,7 +204,7 @@
                           "cagua":  89,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
                           "barquisimeto":  8,
-                          "bolivar":  0
+                          "bolivar":  3
                       },
                       {
                           "zulia":  4,
@@ -217,7 +217,7 @@
                           "cagua":  37,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  4,
-                          "bolivar":  0
+                          "bolivar":  1
                       },
                       {
                           "zulia":  3,
@@ -230,7 +230,7 @@
                           "cagua":  28,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                           "barquisimeto":  3,
-                          "bolivar":  0
+                          "bolivar":  1
                       },
                       {
                           "zulia":  0,
@@ -256,7 +256,7 @@
                           "cagua":  1869,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  105,
-                          "bolivar":  0
+                          "bolivar":  60
                       },
                       {
                           "zulia":  51,
@@ -399,7 +399,7 @@
                           "cagua":  224,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  60,
-                          "bolivar":  0
+                          "bolivar":  10
                       },
                       {
                           "zulia":  78,
@@ -412,7 +412,7 @@
                           "cagua":  3150,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  172,
-                          "bolivar":  0
+                          "bolivar":  40
                       },
                       {
                           "zulia":  57,
@@ -464,7 +464,7 @@
                           "cagua":  1180,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  44,
-                          "bolivar":  0
+                          "bolivar":  50
                       },
                       {
                           "zulia":  105,
@@ -477,7 +477,7 @@
                           "cagua":  624,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  60,
-                          "bolivar":  0
+                          "bolivar":  40
                       },
                       {
                           "zulia":  22,
@@ -503,7 +503,7 @@
                           "cagua":  2249,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  40,
-                          "bolivar":  0
+                          "bolivar":  6
                       },
                       {
                           "zulia":  41,
@@ -698,7 +698,7 @@
                           "cagua":  686,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  80,
-                          "bolivar":  0
+                          "bolivar":  70
                       },
                       {
                           "zulia":  60,
@@ -711,7 +711,7 @@
                           "cagua":  1004,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  60,
-                          "bolivar":  0
+                          "bolivar":  20
                       },
                       {
                           "zulia":  59,
@@ -789,7 +789,7 @@
                           "cagua":  119,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  15,
-                          "bolivar":  0
+                          "bolivar":  68
                       },
                       {
                           "zulia":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 12:50:46",
+    "ultima_actualizacion":  "26/09/2026 13:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -970,7 +970,7 @@
                       "codigo":  "4CNA016",
                       "cantidad":  100,
                       "fecha_fabricacion":  "20-01-2026",
-                      "ubicacion":  "CAGUA",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0127-200126",
                       "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                       "um":  "CJ",
@@ -1058,7 +1058,17 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1626,
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA017",
+                      "cantidad":  1570,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1128,7 +1138,17 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  627,
+                      "cantidad":  67,
+                      "fecha_fabricacion":  "20-05-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0527-200526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  560,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -1248,7 +1268,17 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3634,
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  3578,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1298,7 +1328,17 @@
                   },
                   {
                       "codigo":  "4CNA021",
-                      "cantidad":  92,
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "07-06-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0627-070626",
+                      "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA021",
+                      "cantidad":  89,
                       "fecha_fabricacion":  "07-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-070626",
@@ -1348,7 +1388,17 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  38,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0627-090626",
+                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA026",
+                      "cantidad":  37,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-090626",
@@ -1398,7 +1448,17 @@
                   },
                   {
                       "codigo":  "4CNA057",
-                      "cantidad":  29,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "05-06-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0627-050627",
+                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA057",
+                      "cantidad":  28,
                       "fecha_fabricacion":  "05-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-050627",
@@ -1518,6 +1578,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-140926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  200,
                       "fecha_fabricacion":  "12-09-2026",
                       "ubicacion":  "CAGUA",
@@ -1528,7 +1598,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  239,
+                      "cantidad":  179,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-140926",
@@ -2248,7 +2318,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  640,
+                      "cantidad":  465,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-24092026",
@@ -2418,7 +2488,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  167,
+                      "cantidad":  157,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-23092026",
@@ -2668,7 +2738,17 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  234,
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "05-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0828-05082026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  224,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-05082026",
@@ -2758,7 +2838,17 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  900,
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "20-02-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0228-20022026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-02-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  860,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -3178,7 +3268,17 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  342,
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0828-13082026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  292,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-13082026",
@@ -3268,7 +3368,17 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  684,
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  644,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -3438,7 +3548,17 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  669,
+                      "cantidad":  6,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-18092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  655,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -5008,7 +5128,17 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  756,
+                      "cantidad":  70,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-230926",
+                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO015",
+                      "cantidad":  686,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5068,7 +5198,17 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  1026,
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
+                      "cantidad":  1004,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -5780,7 +5920,7 @@
                       "codigo":  "4MVI006",
                       "cantidad":  26,
                       "fecha_fabricacion":  "20-08-2026",
-                      "ubicacion":  "CAGUA",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0828-200826",
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
@@ -5788,7 +5928,17 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  166,
+                      "cantidad":  42,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-230926",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  124,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5837,5 +5987,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66036
+    "total_general_cajas":  66684
 };
