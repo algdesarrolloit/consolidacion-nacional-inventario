@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  53360
+                          "cajas":  52962
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -115,7 +115,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1011
+                          "cajas":  942
                       },
                       {
                           "almacen":  "ZULIA",
@@ -315,7 +315,7 @@
                           "codigo":  "4MKE011",
                           "um":  "CJ",
                           "andes":  24,
-                          "margarita":  6,
+                          "margarita":  1,
                           "capital":  7,
                           "barcelona":  8,
                           "cagua":  377,
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  11,
-                          "cagua":  505,
+                          "cagua":  465,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  26,
                           "bolivar":  32
@@ -341,7 +341,7 @@
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  260,
-                          "margarita":  119,
+                          "margarita":  69,
                           "capital":  61,
                           "barcelona":  48,
                           "cagua":  523,
@@ -367,7 +367,7 @@
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  10,
-                          "margarita":  16,
+                          "margarita":  11,
                           "capital":  30,
                           "barcelona":  5,
                           "cagua":  38,
@@ -461,7 +461,7 @@
                           "margarita":  23,
                           "capital":  60,
                           "barcelona":  32,
-                          "cagua":  1230,
+                          "cagua":  1210,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  44,
                           "bolivar":  0
@@ -474,7 +474,7 @@
                           "margarita":  34,
                           "capital":  61,
                           "barcelona":  9,
-                          "cagua":  664,
+                          "cagua":  644,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  60,
                           "bolivar":  0
@@ -487,7 +487,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1028,
+                          "cagua":  978,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  23,
                           "bolivar":  0
@@ -500,7 +500,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  21,
-                          "cagua":  2319,
+                          "cagua":  2279,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  40,
                           "bolivar":  0
@@ -513,7 +513,7 @@
                           "margarita":  27,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  1237,
+                          "cagua":  1207,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  48,
                           "bolivar":  5
@@ -526,7 +526,7 @@
                           "margarita":  6,
                           "capital":  10,
                           "barcelona":  6,
-                          "cagua":  165,
+                          "cagua":  157,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  39,
                           "bolivar":  9
@@ -539,7 +539,7 @@
                           "margarita":  13,
                           "capital":  4,
                           "barcelona":  5,
-                          "cagua":  474,
+                          "cagua":  454,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  28,
                           "bolivar":  5
@@ -552,7 +552,7 @@
                           "margarita":  16,
                           "capital":  7,
                           "barcelona":  19,
-                          "cagua":  318,
+                          "cagua":  298,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  29,
                           "bolivar":  3
@@ -565,7 +565,7 @@
                           "margarita":  18,
                           "capital":  13,
                           "barcelona":  20,
-                          "cagua":  511,
+                          "cagua":  471,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  25,
                           "bolivar":  10
@@ -578,7 +578,7 @@
                           "margarita":  5,
                           "capital":  24,
                           "barcelona":  20,
-                          "cagua":  586,
+                          "cagua":  571,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  31,
                           "bolivar":  9
@@ -604,7 +604,7 @@
                           "margarita":  35,
                           "capital":  24,
                           "barcelona":  20,
-                          "cagua":  553,
+                          "cagua":  503,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  78,
                           "bolivar":  21
@@ -617,7 +617,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  92,
+                          "cagua":  87,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  1,
                           "bolivar":  0
@@ -627,7 +627,7 @@
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  4,
+                          "margarita":  0,
                           "capital":  30,
                           "barcelona":  2,
                           "cagua":  0,
@@ -744,7 +744,7 @@
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  1,
-                          "margarita":  12,
+                          "margarita":  7,
                           "capital":  3,
                           "barcelona":  0,
                           "cagua":  88,
@@ -786,7 +786,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  50,
-                          "cagua":  164,
+                          "cagua":  124,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  15,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 11:20:46",
+    "ultima_actualizacion":  "26/09/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5717,5 +5717,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66194
+    "total_general_cajas":  65727
 };
