@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  52962
+                          "cajas":  52764
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  0,
                           "capital":  64,
                           "barcelona":  64,
-                          "cagua":  2740,
+                          "cagua":  2735,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  64,
                           "bolivar":  0
@@ -175,7 +175,7 @@
                           "margarita":  0,
                           "capital":  128,
                           "barcelona":  64,
-                          "cagua":  4627,
+                          "cagua":  4624,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  64,
                           "bolivar":  0
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  11,
-                          "cagua":  465,
+                          "cagua":  345,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  26,
                           "bolivar":  32
@@ -760,7 +760,7 @@
                           "margarita":  63,
                           "capital":  37,
                           "barcelona":  40,
-                          "cagua":  1830,
+                          "cagua":  1815,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  36,
                           "bolivar":  34
@@ -773,7 +773,7 @@
                           "margarita":  31,
                           "capital":  87,
                           "barcelona":  0,
-                          "cagua":  1646,
+                          "cagua":  1616,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  73,
                           "bolivar":  2
@@ -786,7 +786,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  50,
-                          "cagua":  124,
+                          "cagua":  119,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  15,
                           "bolivar":  0
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1061,
+                          "cagua":  1051,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  756,
+                          "cagua":  746,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 12:20:46",
+    "ultima_actualizacion":  "26/09/2026 12:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5717,5 +5717,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65727
+    "total_general_cajas":  65529
 };
