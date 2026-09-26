@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  52584
+                          "cajas":  52617
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2338
+                          "cajas":  2992
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -142,7 +142,7 @@
     "total_general_kg":  110343.9,
     "productos":  [
                       {
-                          "zulia":  0,
+                          "zulia":  64,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  120,
@@ -155,7 +155,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  56,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  63,
@@ -168,20 +168,20 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  64,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  157,
                           "margarita":  0,
                           "capital":  128,
                           "barcelona":  64,
-                          "cagua":  4624,
+                          "cagua":  4657,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  64,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  56,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  84,
@@ -194,7 +194,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  9,
                           "codigo":  "4CNA021",
                           "um":  "CJ",
                           "andes":  5,
@@ -207,7 +207,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  4,
                           "codigo":  "4CNA026",
                           "um":  "CJ",
                           "andes":  2,
@@ -220,7 +220,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  3,
                           "codigo":  "4CNA057",
                           "um":  "CJ",
                           "andes":  2,
@@ -324,7 +324,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  181,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  108,
@@ -480,7 +480,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  22,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  14,
@@ -597,7 +597,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  66,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  21,
@@ -688,7 +688,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  60,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  60,
@@ -701,7 +701,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  60,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  20,
@@ -779,7 +779,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  15,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  60,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 12:40:46",
+    "ultima_actualizacion":  "26/09/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1017,6 +1017,16 @@
                       "fecha_vencimiento":  "20-01-2027"
                   },
                   {
+                      "codigo":  "4CNA016",
+                      "cantidad":  64,
+                      "fecha_fabricacion":  "20-01-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0127-200126",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-01-2027"
+                  },
+                  {
                       "codigo":  "4CNA017",
                       "cantidad":  63,
                       "fecha_fabricacion":  "31-05-2026",
@@ -1061,6 +1071,16 @@
                       "cantidad":  56,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA017",
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
                       "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                       "um":  "CJ",
@@ -1187,6 +1207,16 @@
                       "fecha_vencimiento":  "19-01-2027"
                   },
                   {
+                      "codigo":  "4CNA018",
+                      "cantidad":  64,
+                      "fecha_fabricacion":  "20-05-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0527-200526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
                       "codigo":  "4CNA019",
                       "cantidad":  84,
                       "fecha_fabricacion":  "31-05-2026",
@@ -1237,6 +1267,16 @@
                       "fecha_vencimiento":  "31-05-2027"
                   },
                   {
+                      "codigo":  "4CNA019",
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
                       "codigo":  "4CNA021",
                       "cantidad":  5,
                       "fecha_fabricacion":  "07-06-2026",
@@ -1271,6 +1311,16 @@
                       "cantidad":  9,
                       "fecha_fabricacion":  "07-06-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0627-070626",
+                      "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA021",
+                      "cantidad":  9,
+                      "fecha_fabricacion":  "07-06-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0627-070626",
                       "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
                       "um":  "CJ",
@@ -1317,6 +1367,16 @@
                       "fecha_vencimiento":  "09-06-2027"
                   },
                   {
+                      "codigo":  "4CNA026",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0627-090626",
+                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2027"
+                  },
+                  {
                       "codigo":  "4CNA057",
                       "cantidad":  2,
                       "fecha_fabricacion":  "05-06-2026",
@@ -1351,6 +1411,16 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "05-06-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0627-050627",
+                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA057",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "05-06-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0627-050627",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
@@ -2068,7 +2138,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  156,
+                      "cantidad":  153,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-03082026",
@@ -2178,7 +2248,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  680,
+                      "cantidad":  640,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-24092026",
@@ -2195,6 +2265,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  181,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0327-24092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2338,7 +2418,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  175,
+                      "cantidad":  167,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-23092026",
@@ -2398,7 +2478,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  46,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1126-14072026",
@@ -3098,7 +3178,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  362,
+                      "cantidad":  342,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-13082026",
@@ -3188,7 +3268,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  704,
+                      "cantidad":  684,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -3288,9 +3368,19 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  216,
+                      "cantidad":  166,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0928-24092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  22,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0928-24092026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
@@ -3348,7 +3438,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  716,
+                      "cantidad":  669,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -3448,7 +3538,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  445,
+                      "cantidad":  407,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-150626",
@@ -3558,7 +3648,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  141,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -3658,7 +3748,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  85,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0727-210726",
@@ -3808,7 +3898,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  84,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-24082026",
@@ -4008,7 +4098,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  165,
+                      "cantidad":  125,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-08092026",
@@ -4118,7 +4208,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  130,
+                      "cantidad":  115,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-09072026",
@@ -4328,7 +4418,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  553,
+                      "cantidad":  503,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-160926",
@@ -4368,13 +4458,23 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  6,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0927-150926-NV",
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
+                      "cantidad":  27,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0927-160926",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-09-2027"
                   },
                   {
                       "codigo":  "4MSU017",
@@ -4398,7 +4498,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  92,
+                      "cantidad":  87,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-22092026",
@@ -4927,6 +5027,16 @@
                       "fecha_vencimiento":  "19-05-2028"
                   },
                   {
+                      "codigo":  "4MTO015",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0928-230926",
+                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
                       "codigo":  "4MTO016",
                       "cantidad":  20,
                       "fecha_fabricacion":  "21-09-2026",
@@ -4958,7 +5068,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  1029,
+                      "cantidad":  1026,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -4975,6 +5085,16 @@
                       "descripcion":  "SALSA NAPOLITANA 12X490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
                   },
                   {
                       "codigo":  "4MTO017",
@@ -5018,7 +5138,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  748,
+                      "cantidad":  745,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5358,7 +5478,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  386,
+                      "cantidad":  186,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-310826",
@@ -5518,7 +5638,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  180,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-240826",
@@ -5668,7 +5788,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  216,
+                      "cantidad":  166,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5685,6 +5805,16 @@
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-07-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "20-08-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0828-200826",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-08-2028"
                   },
                   {
                       "codigo":  "4PAC001",
@@ -5707,5 +5837,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65349
+    "total_general_cajas":  66036
 };
