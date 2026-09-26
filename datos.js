@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110568.9,
-                          "cajas":  54236
+                          "cajas":  53930
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  0,
-                          "cagua":  1626,
+                          "cagua":  1570,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -175,7 +175,7 @@
                           "margarita":  0,
                           "capital":  128,
                           "barcelona":  0,
-                          "cagua":  4691,
+                          "cagua":  4627,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -188,7 +188,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  0,
-                          "cagua":  3606,
+                          "cagua":  3550,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -396,7 +396,7 @@
                           "margarita":  26,
                           "capital":  22,
                           "barcelona":  0,
-                          "cagua":  284,
+                          "cagua":  224,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -656,7 +656,7 @@
                           "margarita":  27,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  13,
+                          "cagua":  3,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -708,7 +708,7 @@
                           "margarita":  21,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1069,
+                          "cagua":  1009,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 08:50:46",
+    "ultima_actualizacion":  "26/09/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5177,5 +5177,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64289
+    "total_general_cajas":  63983
 };
