@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110343.9,
-                          "cajas":  52617
+                          "cajas":  52567
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  11,
-                          "cagua":  345,
+                          "cagua":  295,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  26,
                           "bolivar":  32
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/09/2026 13:10:46",
+    "ultima_actualizacion":  "26/09/2026 13:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5987,5 +5987,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66684
+    "total_general_cajas":  66634
 };
