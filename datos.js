@@ -449,7 +449,7 @@
                           "capital":  45,
                           "barcelona":  12,
                           "cagua":  69,
-                          "descripcion":  "ENCURTIDOS 24 X 190GR",
+                          "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  43,
                           "bolivar":  3
                       },
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 16:50:46",
+    "ultima_actualizacion":  "28/09/2026 17:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3022,7 +3022,7 @@
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-281125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
                   },
@@ -3032,7 +3032,7 @@
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-271125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-11-2028"
                   },
@@ -3042,7 +3042,7 @@
                       "fecha_fabricacion":  "11-08-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-110825",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-08-2028"
                   },
@@ -3052,7 +3052,7 @@
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1128-271125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-11-2028"
                   },
@@ -3062,7 +3062,7 @@
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
                   },
@@ -3072,7 +3072,7 @@
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
                   },
@@ -3082,7 +3082,7 @@
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-11-2028"
                   },
@@ -3092,7 +3092,7 @@
                       "fecha_fabricacion":  "25-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-251025",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "25-10-2028"
                   },
@@ -3102,7 +3102,7 @@
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1128-271125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-11-2028"
                   },
@@ -3112,7 +3112,7 @@
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 190GR",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
                   },
