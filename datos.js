@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1184
+                          "cajas":  1175
                       },
                       {
                           "almacen":  "ANDES",
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  11,
                           "margarita":  19,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  11,
                           "cagua":  166,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -394,7 +394,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  26,
-                          "capital":  19,
+                          "capital":  18,
                           "barcelona":  26,
                           "cagua":  183,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -407,7 +407,7 @@
                           "um":  "CJ",
                           "andes":  156,
                           "margarita":  27,
-                          "capital":  98,
+                          "capital":  97,
                           "barcelona":  40,
                           "cagua":  3111,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  52,
                           "margarita":  27,
-                          "capital":  34,
+                          "capital":  33,
                           "barcelona":  35,
                           "cagua":  0,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -433,7 +433,7 @@
                           "um":  "CJ",
                           "andes":  33,
                           "margarita":  16,
-                          "capital":  61,
+                          "capital":  60,
                           "barcelona":  184,
                           "cagua":  3471,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  38,
                           "margarita":  33,
-                          "capital":  46,
+                          "capital":  45,
                           "barcelona":  12,
                           "cagua":  69,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  68,
                           "margarita":  23,
-                          "capital":  58,
+                          "capital":  57,
                           "barcelona":  32,
                           "cagua":  1144,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -472,7 +472,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  56,
+                          "capital":  55,
                           "barcelona":  9,
                           "cagua":  583,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -719,7 +719,7 @@
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  27,
-                          "capital":  56,
+                          "capital":  55,
                           "barcelona":  1,
                           "cagua":  870,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 16:30:46",
+    "ultima_actualizacion":  "28/09/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2558,7 +2558,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -2648,7 +2648,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  19,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1228-101225",
@@ -2778,7 +2778,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  98,
+                      "cantidad":  97,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -2858,7 +2858,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  34,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-050826 NV",
@@ -2988,7 +2988,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  61,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3078,7 +3078,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  46,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
@@ -3178,7 +3178,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "29-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-29072026",
@@ -3268,7 +3268,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  48,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-06072026",
@@ -5098,7 +5098,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -5747,5 +5747,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62051
+    "total_general_cajas":  62042
 };
