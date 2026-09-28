@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  51866
+                          "cajas":  51824
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  0,
                           "capital":  64,
                           "barcelona":  64,
-                          "cagua":  2651,
+                          "cagua":  2647,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  100
@@ -162,7 +162,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  47,
-                          "cagua":  1506,
+                          "cagua":  1501,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -175,7 +175,7 @@
                           "margarita":  0,
                           "capital":  128,
                           "barcelona":  64,
-                          "cagua":  4553,
+                          "cagua":  4549,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  67
@@ -188,7 +188,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  40,
-                          "cagua":  3492,
+                          "cagua":  3485,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -526,7 +526,7 @@
                           "margarita":  6,
                           "capital":  9,
                           "barcelona":  6,
-                          "cagua":  153,
+                          "cagua":  149,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  30,
                           "bolivar":  9
@@ -604,7 +604,7 @@
                           "margarita":  35,
                           "capital":  21,
                           "barcelona":  20,
-                          "cagua":  499,
+                          "cagua":  495,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  68,
                           "bolivar":  21
@@ -695,7 +695,7 @@
                           "margarita":  5,
                           "capital":  0,
                           "barcelona":  57,
-                          "cagua":  629,
+                          "cagua":  625,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
                           "bolivar":  70
@@ -708,7 +708,7 @@
                           "margarita":  21,
                           "capital":  0,
                           "barcelona":  20,
-                          "cagua":  967,
+                          "cagua":  961,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
                           "bolivar":  20
@@ -721,7 +721,7 @@
                           "margarita":  27,
                           "capital":  55,
                           "barcelona":  1,
-                          "cagua":  885,
+                          "cagua":  881,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  4,
                           "bolivar":  4
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 14:40:46",
+    "ultima_actualizacion":  "28/09/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2428,7 +2428,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  61,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -5648,7 +5648,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  37,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-310826",
@@ -5818,17 +5818,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "14-08-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0828-140826",
-                      "descripcion":  "VINAGRE 24 X 500ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI004",
-                      "cantidad":  35,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-170826",
@@ -5967,5 +5957,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63726
+    "total_general_cajas":  63684
 };
