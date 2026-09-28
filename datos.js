@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2539
+                          "cajas":  2415
                       },
                       {
                           "almacen":  "CAGUA",
@@ -151,7 +151,7 @@
                           "barcelona":  64,
                           "cagua":  2685,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  64,
+                          "barquisimeto":  63,
                           "bolivar":  100
                       },
                       {
@@ -164,7 +164,7 @@
                           "barcelona":  47,
                           "cagua":  1520,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  56,
+                          "barquisimeto":  55,
                           "bolivar":  56
                       },
                       {
@@ -177,7 +177,7 @@
                           "barcelona":  64,
                           "cagua":  4607,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  64,
+                          "barquisimeto":  63,
                           "bolivar":  67
                       },
                       {
@@ -190,7 +190,7 @@
                           "barcelona":  40,
                           "cagua":  3528,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  56,
+                          "barquisimeto":  55,
                           "bolivar":  56
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  72,
                           "cagua":  2883,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  375,
+                          "barquisimeto":  345,
                           "bolivar":  172
                       },
                       {
@@ -307,7 +307,7 @@
                           "barcelona":  16,
                           "cagua":  607,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  30,
+                          "barquisimeto":  28,
                           "bolivar":  29
                       },
                       {
@@ -346,7 +346,7 @@
                           "barcelona":  47,
                           "cagua":  523,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  292,
+                          "barquisimeto":  252,
                           "bolivar":  143
                       },
                       {
@@ -489,7 +489,7 @@
                           "barcelona":  0,
                           "cagua":  948,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  23,
+                          "barquisimeto":  18,
                           "bolivar":  0
                       },
                       {
@@ -515,7 +515,7 @@
                           "barcelona":  1,
                           "cagua":  1177,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  48,
+                          "barquisimeto":  43,
                           "bolivar":  5
                       },
                       {
@@ -528,7 +528,7 @@
                           "barcelona":  6,
                           "cagua":  157,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  9
                       },
                       {
@@ -593,7 +593,7 @@
                           "barcelona":  6,
                           "cagua":  1005,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  35,
+                          "barquisimeto":  32,
                           "bolivar":  11
                       },
                       {
@@ -606,7 +606,7 @@
                           "barcelona":  20,
                           "cagua":  503,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  78,
+                          "barquisimeto":  77,
                           "bolivar":  21
                       },
                       {
@@ -671,7 +671,7 @@
                           "barcelona":  80,
                           "cagua":  3435,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  169,
+                          "barquisimeto":  139,
                           "bolivar":  56
                       },
                       {
@@ -697,7 +697,7 @@
                           "barcelona":  60,
                           "cagua":  676,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  24,
+                          "barquisimeto":  23,
                           "bolivar":  70
                       },
                       {
@@ -710,7 +710,7 @@
                           "barcelona":  20,
                           "cagua":  1004,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  54,
+                          "barquisimeto":  53,
                           "bolivar":  20
                       },
                       {
@@ -723,7 +723,7 @@
                           "barcelona":  1,
                           "cagua":  889,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  18,
+                          "barquisimeto":  17,
                           "bolivar":  4
                       },
                       {
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 11:30:46",
+    "ultima_actualizacion":  "28/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5967,5 +5967,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65178
+    "total_general_cajas":  65054
 };
