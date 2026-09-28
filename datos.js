@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1873
+                          "cajas":  1762
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  52169
+                          "cajas":  52036
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -281,7 +281,7 @@
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                          "barquisimeto":  1,
+                          "barquisimeto":  0,
                           "bolivar":  20
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  72,
                           "cagua":  2873,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  300,
+                          "barquisimeto":  270,
                           "bolivar":  172
                       },
                       {
@@ -307,7 +307,7 @@
                           "barcelona":  16,
                           "cagua":  604,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  27,
+                          "barquisimeto":  24,
                           "bolivar":  29
                       },
                       {
@@ -346,7 +346,7 @@
                           "barcelona":  47,
                           "cagua":  523,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  131,
+                          "barquisimeto":  71,
                           "bolivar":  143
                       },
                       {
@@ -357,7 +357,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  9,
-                          "cagua":  87,
+                          "cagua":  72,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -528,7 +528,7 @@
                           "barcelona":  6,
                           "cagua":  157,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                          "barquisimeto":  32,
+                          "barquisimeto":  30,
                           "bolivar":  9
                       },
                       {
@@ -580,7 +580,7 @@
                           "barcelona":  20,
                           "cagua":  571,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                          "barquisimeto":  23,
+                          "barquisimeto":  22,
                           "bolivar":  9
                       },
                       {
@@ -593,7 +593,7 @@
                           "barcelona":  6,
                           "cagua":  1005,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  30,
+                          "barquisimeto":  28,
                           "bolivar":  11
                       },
                       {
@@ -606,7 +606,7 @@
                           "barcelona":  20,
                           "cagua":  503,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  71,
+                          "barquisimeto":  68,
                           "bolivar":  21
                       },
                       {
@@ -697,7 +697,7 @@
                           "barcelona":  57,
                           "cagua":  666,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  15,
+                          "barquisimeto":  12,
                           "bolivar":  70
                       },
                       {
@@ -710,7 +710,7 @@
                           "barcelona":  20,
                           "cagua":  987,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  47,
+                          "barquisimeto":  44,
                           "bolivar":  20
                       },
                       {
@@ -723,7 +723,7 @@
                           "barcelona":  1,
                           "cagua":  889,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  7,
+                          "barquisimeto":  4,
                           "bolivar":  4
                       },
                       {
@@ -786,7 +786,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  50,
-                          "cagua":  114,
+                          "cagua":  24,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  68
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1006,
+                          "cagua":  994,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  703,
+                          "cagua":  687,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 13:50:46",
+    "ultima_actualizacion":  "28/09/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5977,5 +5977,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64149
+    "total_general_cajas":  63905
 };
