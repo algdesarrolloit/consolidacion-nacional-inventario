@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2824
+                          "cajas":  2818
                       },
                       {
                           "almacen":  "CAGUA",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2438
+                          "cajas":  2330
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -246,7 +246,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  49,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  61,
@@ -285,7 +285,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  298,
+                          "zulia":  282,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  488,
@@ -298,7 +298,7 @@
                           "bolivar":  172
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  39,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
                           "andes":  22,
@@ -337,7 +337,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  80,
+                          "zulia":  68,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  260,
@@ -402,7 +402,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  78,
+                          "zulia":  75,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  159,
@@ -415,7 +415,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  55,
+                          "zulia":  51,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  57,
@@ -424,7 +424,7 @@
                           "barcelona":  35,
                           "cagua":  8,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  50,
+                          "barquisimeto":  49,
                           "bolivar":  30
                       },
                       {
@@ -454,7 +454,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  49,
+                          "zulia":  44,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  73,
@@ -493,7 +493,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  43,
+                          "zulia":  40,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  8,
@@ -506,7 +506,7 @@
                           "bolivar":  6
                       },
                       {
-                          "zulia":  36,
+                          "zulia":  30,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  43,
@@ -584,7 +584,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  61,
+                          "zulia":  56,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  50,
@@ -597,7 +597,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  36,
+                          "zulia":  23,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  21,
@@ -636,7 +636,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  48,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
                           "andes":  44,
@@ -649,7 +649,7 @@
                           "bolivar":  8
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  9,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  3,
@@ -658,11 +658,11 @@
                           "barcelona":  3,
                           "cagua":  3,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                          "barquisimeto":  10,
+                          "barquisimeto":  9,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  271,
+                          "zulia":  262,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  259,
@@ -688,7 +688,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  46,
+                          "zulia":  43,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  60,
@@ -697,7 +697,7 @@
                           "barcelona":  60,
                           "cagua":  676,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  26,
                           "bolivar":  70
                       },
                       {
@@ -710,11 +710,11 @@
                           "barcelona":  20,
                           "cagua":  1004,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  55,
+                          "barquisimeto":  54,
                           "bolivar":  20
                       },
                       {
-                          "zulia":  58,
+                          "zulia":  55,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  54,
@@ -727,7 +727,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  29,
+                          "zulia":  28,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  100,
@@ -753,7 +753,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  37,
+                          "zulia":  27,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  117,
@@ -766,7 +766,7 @@
                           "bolivar":  34
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  38,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  127,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 11:10:46",
+    "ultima_actualizacion":  "28/09/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5967,5 +5967,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65650
+    "total_general_cajas":  65536
 };
