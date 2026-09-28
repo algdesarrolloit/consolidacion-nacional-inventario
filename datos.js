@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  51146
+                          "cajas":  51119
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  0,
                           "capital":  62,
                           "barcelona":  64,
-                          "cagua":  2640,
+                          "cagua":  2639,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  100
@@ -162,7 +162,7 @@
                           "margarita":  0,
                           "capital":  15,
                           "barcelona":  47,
-                          "cagua":  1492,
+                          "cagua":  1491,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -175,7 +175,7 @@
                           "margarita":  0,
                           "capital":  90,
                           "barcelona":  64,
-                          "cagua":  4541,
+                          "cagua":  4540,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  67
@@ -188,7 +188,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  40,
-                          "cagua":  3471,
+                          "cagua":  3470,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -383,7 +383,7 @@
                           "margarita":  19,
                           "capital":  20,
                           "barcelona":  11,
-                          "cagua":  176,
+                          "cagua":  171,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  30,
                           "bolivar":  9
@@ -396,7 +396,7 @@
                           "margarita":  26,
                           "capital":  19,
                           "barcelona":  26,
-                          "cagua":  193,
+                          "cagua":  188,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
                           "bolivar":  10
@@ -422,7 +422,7 @@
                           "margarita":  27,
                           "capital":  34,
                           "barcelona":  35,
-                          "cagua":  8,
+                          "cagua":  4,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  3,
                           "bolivar":  30
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  61,
                           "barcelona":  184,
-                          "cagua":  3481,
+                          "cagua":  3476,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  64,
                           "bolivar":  10
@@ -448,7 +448,7 @@
                           "margarita":  33,
                           "capital":  46,
                           "barcelona":  12,
-                          "cagua":  79,
+                          "cagua":  74,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  43,
                           "bolivar":  3
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  887,
+                          "cagua":  886,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  581,
+                          "cagua":  583,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 15:40:46",
+    "ultima_actualizacion":  "28/09/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1068,7 +1068,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1208,7 +1208,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  115,
+                      "cantidad":  100,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-190126",
@@ -1278,7 +1278,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  8,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -5797,5 +5797,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62358
+    "total_general_cajas":  62331
 };
