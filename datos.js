@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1203
+                          "cajas":  1202
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -291,7 +291,7 @@
                           "andes":  488,
                           "margarita":  89,
                           "capital":  156,
-                          "barcelona":  73,
+                          "barcelona":  72,
                           "cagua":  2883,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  500,
@@ -343,7 +343,7 @@
                           "andes":  260,
                           "margarita":  69,
                           "capital":  61,
-                          "barcelona":  48,
+                          "barcelona":  47,
                           "cagua":  523,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  300,
@@ -447,7 +447,7 @@
                           "andes":  45,
                           "margarita":  33,
                           "capital":  46,
-                          "barcelona":  11,
+                          "barcelona":  12,
                           "cagua":  110,
                           "descripcion":  "ENCURTIDOS 24 X 190GR",
                           "barquisimeto":  45,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 09:20:46",
+    "ultima_actualizacion":  "28/09/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1868,7 +1868,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  73,
+                      "cantidad":  72,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-08092026",
@@ -2348,7 +2348,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  48,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0327-160926",
@@ -3138,7 +3138,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  11,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-271125 NV",
@@ -5967,5 +5967,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66261
+    "total_general_cajas":  66260
 };
