@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1938
+                          "cajas":  1926
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  51802
+                          "cajas":  51721
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  89,
                           "capital":  106,
                           "barcelona":  72,
-                          "cagua":  2883,
+                          "cagua":  2873,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  305,
                           "bolivar":  172
@@ -305,7 +305,7 @@
                           "margarita":  6,
                           "capital":  26,
                           "barcelona":  16,
-                          "cagua":  607,
+                          "cagua":  604,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  27,
                           "bolivar":  29
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  11,
-                          "cagua":  80,
+                          "cagua":  30,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  2,
                           "bolivar":  32
@@ -385,7 +385,7 @@
                           "barcelona":  11,
                           "cagua":  208,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  32,
+                          "barquisimeto":  30,
                           "bolivar":  9
                       },
                       {
@@ -398,7 +398,7 @@
                           "barcelona":  26,
                           "cagua":  224,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  7,
+                          "barquisimeto":  5,
                           "bolivar":  10
                       },
                       {
@@ -411,7 +411,7 @@
                           "barcelona":  40,
                           "cagua":  3150,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  165,
+                          "barquisimeto":  163,
                           "bolivar":  40
                       },
                       {
@@ -424,7 +424,7 @@
                           "barcelona":  35,
                           "cagua":  8,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  5,
+                          "barquisimeto":  3,
                           "bolivar":  30
                       },
                       {
@@ -437,7 +437,7 @@
                           "barcelona":  184,
                           "cagua":  3511,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  66,
+                          "barquisimeto":  64,
                           "bolivar":  10
                       },
                       {
@@ -476,7 +476,7 @@
                           "barcelona":  9,
                           "cagua":  624,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  37,
                           "bolivar":  40
                       },
                       {
@@ -695,7 +695,7 @@
                           "margarita":  5,
                           "capital":  0,
                           "barcelona":  57,
-                          "cagua":  671,
+                          "cagua":  666,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  17,
                           "bolivar":  70
@@ -734,7 +734,7 @@
                           "margarita":  3,
                           "capital":  71,
                           "barcelona":  13,
-                          "cagua":  1599,
+                          "cagua":  1594,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  72,
                           "bolivar":  58
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1019,
+                          "cagua":  1015,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  718,
+                          "cagua":  714,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 13:20:46",
+    "ultima_actualizacion":  "28/09/2026 13:41:01",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5967,5 +5967,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63847
+    "total_general_cajas":  63754
 };
