@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 16:00:46",
+    "ultima_actualizacion":  "28/09/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4988,7 +4988,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  666,
+                      "cantidad":  664,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
