@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  51907
+                          "cajas":  51894
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3101
+                          "cajas":  3092
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -149,7 +149,7 @@
                           "margarita":  0,
                           "capital":  64,
                           "barcelona":  64,
-                          "cagua":  2655,
+                          "cagua":  2654,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  100
@@ -162,7 +162,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  47,
-                          "cagua":  1510,
+                          "cagua":  1509,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -175,7 +175,7 @@
                           "margarita":  0,
                           "capital":  128,
                           "barcelona":  64,
-                          "cagua":  4557,
+                          "cagua":  4556,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  67
@@ -188,7 +188,7 @@
                           "margarita":  0,
                           "capital":  56,
                           "barcelona":  40,
-                          "cagua":  3498,
+                          "cagua":  3496,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -314,7 +314,7 @@
                           "zulia":  17,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
-                          "andes":  24,
+                          "andes":  15,
                           "margarita":  1,
                           "capital":  7,
                           "barcelona":  8,
@@ -526,7 +526,7 @@
                           "margarita":  6,
                           "capital":  9,
                           "barcelona":  6,
-                          "cagua":  157,
+                          "cagua":  156,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  30,
                           "bolivar":  9
@@ -604,7 +604,7 @@
                           "margarita":  35,
                           "capital":  21,
                           "barcelona":  20,
-                          "cagua":  503,
+                          "cagua":  502,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  68,
                           "bolivar":  21
@@ -695,7 +695,7 @@
                           "margarita":  5,
                           "capital":  0,
                           "barcelona":  57,
-                          "cagua":  633,
+                          "cagua":  632,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
                           "bolivar":  70
@@ -708,7 +708,7 @@
                           "margarita":  21,
                           "capital":  0,
                           "barcelona":  20,
-                          "cagua":  971,
+                          "cagua":  970,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
                           "bolivar":  20
@@ -721,7 +721,7 @@
                           "margarita":  27,
                           "capital":  55,
                           "barcelona":  1,
-                          "cagua":  889,
+                          "cagua":  888,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  4,
                           "bolivar":  4
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  994,
+                          "cagua":  992,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  687,
+                          "cagua":  686,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 14:20:46",
+    "ultima_actualizacion":  "28/09/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5958,7 +5958,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  1015,
+                      "cantidad":  992,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5968,7 +5968,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  714,
+                      "cantidad":  686,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
@@ -5977,5 +5977,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63776
+    "total_general_cajas":  63754
 };
