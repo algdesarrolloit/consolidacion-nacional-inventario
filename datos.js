@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2992
+                          "cajas":  2975
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -142,7 +142,7 @@
     "total_general_kg":  110343.9,
     "productos":  [
                       {
-                          "zulia":  64,
+                          "zulia":  62,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  120,
@@ -168,7 +168,7 @@
                           "bolivar":  56
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  61,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  157,
@@ -688,7 +688,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  54,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  60,
@@ -701,7 +701,7 @@
                           "bolivar":  70
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  57,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  20,
@@ -779,7 +779,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  12,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  60,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 10:30:46",
+    "ultima_actualizacion":  "28/09/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5967,5 +5967,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66260
+    "total_general_cajas":  66243
 };
