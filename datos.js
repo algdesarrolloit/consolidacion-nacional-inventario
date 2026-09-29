@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  47501
+                          "cajas":  48100
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  23,
                           "barcelona":  0,
-                          "cagua":  412,
+                          "cagua":  1031,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  19
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  851,
+                          "cagua":  841,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  520,
+                          "cagua":  510,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 12:10:46",
+    "ultima_actualizacion":  "29/09/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2238,7 +2238,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  412,
+                      "cantidad":  1031,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-240926",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59204
+    "total_general_cajas":  59803
 };
