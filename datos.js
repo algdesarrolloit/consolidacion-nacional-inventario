@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1717
+                          "cajas":  1741
                       },
                       {
                           "almacen":  "ANDES",
@@ -129,14 +129,14 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1185
+                          "cajas":  1141
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1180
+                          "cajas":  1130
                       }
                   ],
     "total_general_kg":  110178.9,
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  24,
-                          "capital":  43,
+                          "capital":  67,
                           "barcelona":  47,
                           "cagua":  1439,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -256,7 +256,7 @@
                           "cagua":  1853,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  99,
-                          "bolivar":  55
+                          "bolivar":  46
                       },
                       {
                           "zulia":  51,
@@ -464,7 +464,7 @@
                           "cagua":  1144,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  17,
-                          "bolivar":  45
+                          "bolivar":  31
                       },
                       {
                           "zulia":  104,
@@ -499,11 +499,11 @@
                           "andes":  0,
                           "margarita":  31,
                           "capital":  120,
-                          "barcelona":  21,
+                          "barcelona":  1,
                           "cagua":  1206,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
-                          "bolivar":  4
+                          "bolivar":  2
                       },
                       {
                           "zulia":  48,
@@ -694,11 +694,11 @@
                           "andes":  57,
                           "margarita":  5,
                           "capital":  40,
-                          "barcelona":  54,
+                          "barcelona":  45,
                           "cagua":  568,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
-                          "bolivar":  31
+                          "bolivar":  24
                       },
                       {
                           "zulia":  47,
@@ -707,11 +707,11 @@
                           "andes":  17,
                           "margarita":  21,
                           "capital":  30,
-                          "barcelona":  20,
+                          "barcelona":  18,
                           "cagua":  922,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
-                          "bolivar":  18
+                          "bolivar":  16
                       },
                       {
                           "zulia":  52,
@@ -785,11 +785,11 @@
                           "andes":  48,
                           "margarita":  9,
                           "capital":  0,
-                          "barcelona":  43,
+                          "barcelona":  30,
                           "cagua":  22,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
-                          "bolivar":  19
+                          "bolivar":  3
                       },
                       {
                           "zulia":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 11:30:46",
+    "ultima_actualizacion":  "29/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1068,7 +1068,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  43,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59606
+    "total_general_cajas":  59536
 };
