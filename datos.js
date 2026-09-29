@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1197
+                          "cajas":  1194
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -356,7 +356,7 @@
                           "andes":  22,
                           "margarita":  0,
                           "capital":  0,
-                          "barcelona":  8,
+                          "barcelona":  5,
                           "cagua":  42,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 10:50:46",
+    "ultima_actualizacion":  "29/09/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59706
+    "total_general_cajas":  59703
 };
