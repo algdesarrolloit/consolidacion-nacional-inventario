@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1238
+                          "cajas":  1717
                       },
                       {
                           "almacen":  "ANDES",
@@ -115,7 +115,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  866
+                          "cajas":  1109
                       },
                       {
                           "almacen":  "ZULIA",
@@ -146,7 +146,7 @@
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  120,
-                          "margarita":  0,
+                          "margarita":  44,
                           "capital":  62,
                           "barcelona":  64,
                           "cagua":  2595,
@@ -159,8 +159,8 @@
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  63,
-                          "margarita":  0,
-                          "capital":  15,
+                          "margarita":  24,
+                          "capital":  43,
                           "barcelona":  47,
                           "cagua":  1439,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -172,7 +172,7 @@
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  157,
-                          "margarita":  0,
+                          "margarita":  63,
                           "capital":  90,
                           "barcelona":  64,
                           "cagua":  4477,
@@ -185,8 +185,8 @@
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  84,
-                          "margarita":  0,
-                          "capital":  0,
+                          "margarita":  35,
+                          "capital":  56,
                           "barcelona":  40,
                           "cagua":  3379,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -250,7 +250,7 @@
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  56,
-                          "margarita":  0,
+                          "margarita":  15,
                           "capital":  28,
                           "barcelona":  16,
                           "cagua":  1853,
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  415,
                           "margarita":  89,
-                          "capital":  106,
+                          "capital":  226,
                           "barcelona":  72,
                           "cagua":  2658,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -484,8 +484,8 @@
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  3,
-                          "margarita":  0,
-                          "capital":  0,
+                          "margarita":  40,
+                          "capital":  72,
                           "barcelona":  0,
                           "cagua":  92,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -497,8 +497,8 @@
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  11,
-                          "capital":  0,
+                          "margarita":  31,
+                          "capital":  120,
                           "barcelona":  21,
                           "cagua":  1236,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -510,8 +510,8 @@
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  39,
-                          "margarita":  27,
-                          "capital":  0,
+                          "margarita":  29,
+                          "capital":  38,
                           "barcelona":  1,
                           "cagua":  394,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -576,7 +576,7 @@
                           "um":  "CJ",
                           "andes":  51,
                           "margarita":  5,
-                          "capital":  17,
+                          "capital":  32,
                           "barcelona":  20,
                           "cagua":  555,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -706,7 +706,7 @@
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  21,
-                          "capital":  0,
+                          "capital":  30,
                           "barcelona":  20,
                           "cagua":  922,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 09:00:46",
+    "ultima_actualizacion":  "29/09/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1008,6 +1008,16 @@
                   },
                   {
                       "codigo":  "4CNA016",
+                      "cantidad":  44,
+                      "fecha_fabricacion":  "23-05-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0527-230526",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
                       "cantidad":  61,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ZULIA",
@@ -1068,9 +1078,19 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  15,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA017",
+                      "cantidad":  24,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
                       "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                       "um":  "CJ",
@@ -1218,6 +1238,16 @@
                   },
                   {
                       "codigo":  "4CNA018",
+                      "cantidad":  63,
+                      "fecha_fabricacion":  "20-05-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0527-200526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
                       "cantidad":  60,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
@@ -1271,6 +1301,26 @@
                       "cantidad":  3379,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  35,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
                       "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                       "um":  "CJ",
@@ -1628,6 +1678,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0928-140926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  47,
                       "fecha_fabricacion":  "12-09-2026",
                       "ubicacion":  "ZULIA",
@@ -1935,6 +1995,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -2388,7 +2458,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  77,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-23092026",
@@ -3357,6 +3427,26 @@
                       "fecha_vencimiento":  "22-09-2028"
                   },
                   {
+                      "codigo":  "4MSA005",
+                      "cantidad":  72,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
                       "codigo":  "4MSA006",
                       "cantidad":  2,
                       "fecha_fabricacion":  "09-06-2026",
@@ -3428,6 +3518,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  11,
                       "fecha_fabricacion":  "03-06-2026",
                       "ubicacion":  "MARGARITA",
@@ -3435,6 +3535,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "03-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -3498,6 +3608,16 @@
                   },
                   {
                       "codigo":  "4MSA007",
+                      "cantidad":  38,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-220926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
                       "cantidad":  25,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "MARGARITA",
@@ -3515,6 +3635,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "0928-220926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -4168,7 +4298,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  17,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -4998,6 +5128,16 @@
                   },
                   {
                       "codigo":  "4MTO016",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
                       "cantidad":  21,
                       "fecha_fabricacion":  "12-09-2025",
                       "ubicacion":  "MARGARITA",
@@ -5678,7 +5818,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  112,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5727,5 +5867,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59041
+    "total_general_cajas":  59763
 };
