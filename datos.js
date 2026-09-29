@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 15:10:46",
+    "ultima_actualizacion":  "29/09/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2238,7 +2238,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  1028,
+                      "cantidad":  593,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-240926",
@@ -2308,7 +2308,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  518,
+                      "cantidad":  193,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
                       "lote":  "25092026",
@@ -2841,16 +2841,6 @@
                       "cantidad":  27,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
-                      "lote":  "0828-050826 NV",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  48,
-                      "fecha_fabricacion":  "10-08-2026",
-                      "ubicacion":  "ZULIA",
                       "lote":  "0828-050826 NV",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
@@ -5608,7 +5598,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  830,
+                      "cantidad":  816,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5618,7 +5608,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  500,
+                      "cantidad":  493,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
