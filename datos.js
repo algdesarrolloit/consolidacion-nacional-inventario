@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  48100
+                          "cajas":  48098
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -175,7 +175,7 @@
                           "margarita":  63,
                           "capital":  90,
                           "barcelona":  64,
-                          "cagua":  4477,
+                          "cagua":  4476,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  67
@@ -188,7 +188,7 @@
                           "margarita":  35,
                           "capital":  56,
                           "barcelona":  40,
-                          "cagua":  3379,
+                          "cagua":  3378,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 12:30:46",
+    "ultima_actualizacion":  "29/09/2026 12:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1208,7 +1208,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  216,
+                      "cantidad":  215,
                       "fecha_fabricacion":  "14-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-140626",
@@ -1288,7 +1288,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3379,
+                      "cantidad":  3378,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59803
+    "total_general_cajas":  59801
 };
