@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  50931
+                          "cajas":  48771
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -487,7 +487,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  924,
+                          "cagua":  204,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -500,7 +500,7 @@
                           "margarita":  11,
                           "capital":  0,
                           "barcelona":  21,
-                          "cagua":  2096,
+                          "cagua":  1376,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
                           "bolivar":  6
@@ -513,7 +513,7 @@
                           "margarita":  27,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  1154,
+                          "cagua":  434,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  34,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 07:50:47",
+    "ultima_actualizacion":  "29/09/2026 08:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2318,16 +2318,6 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  840,
-                      "fecha_fabricacion":  "28-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0327-28092026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
                       "cantidad":  523,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
@@ -3068,7 +3058,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  385,
+                      "cantidad":  69,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -3348,23 +3338,13 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  812,
+                      "cantidad":  204,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  112,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-24092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -3418,17 +3398,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  472,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-18092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  827,
+                      "cantidad":  579,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -3508,33 +3478,13 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  354,
-                      "fecha_fabricacion":  "15-06-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0628-150626",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  800,
+                      "cantidad":  434,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  808,
-                      "fecha_fabricacion":  "25-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-25092026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -5757,5 +5707,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61923
+    "total_general_cajas":  59763
 };
