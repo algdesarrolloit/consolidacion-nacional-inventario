@@ -129,14 +129,14 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1194
+                          "cajas":  1185
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1212
+                          "cajas":  1180
                       }
                   ],
     "total_general_kg":  110178.9,
@@ -503,7 +503,7 @@
                           "cagua":  1206,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
-                          "bolivar":  6
+                          "bolivar":  4
                       },
                       {
                           "zulia":  48,
@@ -694,11 +694,11 @@
                           "andes":  57,
                           "margarita":  5,
                           "capital":  40,
-                          "barcelona":  56,
+                          "barcelona":  54,
                           "cagua":  568,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
-                          "bolivar":  49
+                          "bolivar":  31
                       },
                       {
                           "zulia":  47,
@@ -785,11 +785,11 @@
                           "andes":  48,
                           "margarita":  9,
                           "capital":  0,
-                          "barcelona":  50,
+                          "barcelona":  43,
                           "cagua":  22,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
-                          "bolivar":  31
+                          "bolivar":  19
                       },
                       {
                           "zulia":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 11:20:46",
+    "ultima_actualizacion":  "29/09/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59647
+    "total_general_cajas":  59606
 };
