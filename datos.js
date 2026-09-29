@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 06:20:46",
+    "ultima_actualizacion":  "29/09/2026 06:30:59",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2328,6 +2328,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  840,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-28092026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  523,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
@@ -3068,7 +3078,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  69,
+                      "cantidad":  385,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -3525,6 +3535,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  808,
+                      "fecha_fabricacion":  "25-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-25092026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
