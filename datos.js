@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  47269
+                          "cajas":  47160
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2633
+                          "cajas":  2647
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -344,7 +344,7 @@
                           "margarita":  69,
                           "capital":  1,
                           "barcelona":  5,
-                          "cagua":  193,
+                          "cagua":  92,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  71,
                           "bolivar":  109
@@ -376,7 +376,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  100,
+                          "zulia":  101,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  11,
@@ -396,7 +396,7 @@
                           "margarita":  26,
                           "capital":  18,
                           "barcelona":  0,
-                          "cagua":  183,
+                          "cagua":  181,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
                           "bolivar":  0
@@ -428,7 +428,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  125,
+                          "zulia":  127,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  33,
@@ -584,7 +584,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  54,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  43,
@@ -604,7 +604,7 @@
                           "margarita":  43,
                           "capital":  21,
                           "barcelona":  13,
-                          "cagua":  449,
+                          "cagua":  444,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  68,
                           "bolivar":  4
@@ -766,7 +766,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  93,
+                          "zulia":  102,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  120,
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  493,
+                          "cagua":  492,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 15:40:46",
+    "ultima_actualizacion":  "29/09/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2587,6 +2587,16 @@
                       "fecha_vencimiento":  "06-07-2028"
                   },
                   {
+                      "codigo":  "4MNA008",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "10-11-2025",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1128-101125",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-11-2028"
+                  },
+                  {
                       "codigo":  "4MNA009",
                       "cantidad":  1,
                       "fecha_fabricacion":  "05-08-2026",
@@ -2968,7 +2978,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  125,
+                      "cantidad":  127,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -4248,7 +4258,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  52,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-310726",
@@ -5528,6 +5538,16 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  9,
+                      "fecha_fabricacion":  "14-08-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0828-140826",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  33,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ZULIA",
@@ -5617,5 +5637,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58516
+    "total_general_cajas":  58421
 };
