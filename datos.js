@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1051
+                          "cajas":  995
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -395,7 +395,7 @@
                           "andes":  1,
                           "margarita":  26,
                           "capital":  18,
-                          "barcelona":  21,
+                          "barcelona":  12,
                           "cagua":  183,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
@@ -421,7 +421,7 @@
                           "andes":  52,
                           "margarita":  27,
                           "capital":  33,
-                          "barcelona":  20,
+                          "barcelona":  10,
                           "cagua":  0,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  3,
@@ -460,7 +460,7 @@
                           "andes":  68,
                           "margarita":  23,
                           "capital":  57,
-                          "barcelona":  22,
+                          "barcelona":  14,
                           "cagua":  1144,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  17,
@@ -473,7 +473,7 @@
                           "andes":  59,
                           "margarita":  34,
                           "capital":  55,
-                          "barcelona":  9,
+                          "barcelona":  5,
                           "cagua":  583,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  35,
@@ -525,7 +525,7 @@
                           "andes":  35,
                           "margarita":  5,
                           "capital":  9,
-                          "barcelona":  4,
+                          "barcelona":  0,
                           "cagua":  134,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  30,
@@ -577,7 +577,7 @@
                           "andes":  51,
                           "margarita":  5,
                           "capital":  32,
-                          "barcelona":  20,
+                          "barcelona":  12,
                           "cagua":  523,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  22,
@@ -694,7 +694,7 @@
                           "andes":  57,
                           "margarita":  5,
                           "capital":  40,
-                          "barcelona":  33,
+                          "barcelona":  29,
                           "cagua":  568,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
@@ -707,7 +707,7 @@
                           "andes":  17,
                           "margarita":  21,
                           "capital":  30,
-                          "barcelona":  11,
+                          "barcelona":  8,
                           "cagua":  922,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
@@ -759,7 +759,7 @@
                           "andes":  107,
                           "margarita":  63,
                           "capital":  12,
-                          "barcelona":  30,
+                          "barcelona":  26,
                           "cagua":  1744,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  18,
@@ -785,7 +785,7 @@
                           "andes":  48,
                           "margarita":  9,
                           "capital":  0,
-                          "barcelona":  18,
+                          "barcelona":  16,
                           "cagua":  22,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 13:40:46",
+    "ultima_actualizacion":  "29/09/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59801
+    "total_general_cajas":  59745
 };
