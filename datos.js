@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59318,
-                                                              "bidones":  1078.51
+                                                              "kg":  59136,
+                                                              "bidones":  1075.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  110360.9,
+                          "kg":  110178.9,
                           "cajas":  51036
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  1385
                       }
                   ],
-    "total_general_kg":  110360.9,
+    "total_general_kg":  110178.9,
     "productos":  [
                       {
                           "zulia":  61,
@@ -838,13 +838,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59318,
+                          "cagua":  59136,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 22:30:46",
+    "ultima_actualizacion":  "28/09/2026 22:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
