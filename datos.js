@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1713
+                          "cajas":  1662
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  51021
+                          "cajas":  50931
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -736,7 +736,7 @@
                           "barcelona":  13,
                           "cagua":  1590,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                          "barquisimeto":  77,
+                          "barquisimeto":  71,
                           "bolivar":  58
                       },
                       {
@@ -749,7 +749,7 @@
                           "barcelona":  0,
                           "cagua":  88,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  4,
+                          "barquisimeto":  3,
                           "bolivar":  1
                       },
                       {
@@ -762,7 +762,7 @@
                           "barcelona":  40,
                           "cagua":  1804,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  36,
+                          "barquisimeto":  18,
                           "bolivar":  34
                       },
                       {
@@ -775,7 +775,7 @@
                           "barcelona":  0,
                           "cagua":  1606,
                           "descripcion":  "VINAGRE 24 X 500ML",
-                          "barquisimeto":  73,
+                          "barquisimeto":  62,
                           "bolivar":  2
                       },
                       {
@@ -786,9 +786,9 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  50,
-                          "cagua":  112,
+                          "cagua":  22,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
-                          "barquisimeto":  15,
+                          "barquisimeto":  0,
                           "bolivar":  68
                       },
                       {
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/09/2026 23:20:46",
+    "ultima_actualizacion":  "28/09/2026 23:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5747,5 +5747,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62183
+    "total_general_cajas":  62042
 };
