@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  48832
+                          "cajas":  48833
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  23,
                           "barcelona":  0,
-                          "cagua":  591,
+                          "cagua":  592,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  19
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 16:50:46",
+    "ultima_actualizacion":  "29/09/2026 17:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1858,17 +1858,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  60,
-                      "fecha_fabricacion":  "07-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0928-070926",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  110,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-08092026",
@@ -2225,6 +2215,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "14-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-14092026-NV",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-03-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -5447,5 +5447,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59992
+    "total_general_cajas":  59993
 };
