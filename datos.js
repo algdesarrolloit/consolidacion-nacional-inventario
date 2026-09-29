@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1175
+                          "cajas":  1238
                       },
                       {
                           "almacen":  "ANDES",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  101,
                           "margarita":  6,
-                          "capital":  0,
+                          "capital":  23,
                           "barcelona":  11,
                           "cagua":  445,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -693,7 +693,7 @@
                           "um":  "CJ",
                           "andes":  57,
                           "margarita":  5,
-                          "capital":  0,
+                          "capital":  40,
                           "barcelona":  57,
                           "cagua":  568,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 08:50:46",
+    "ultima_actualizacion":  "29/09/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -978,7 +978,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  216,
+                      "cantidad":  172,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1058,7 +1058,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1491,
+                      "cantidad":  1439,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1138,7 +1138,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  440,
+                      "cantidad":  377,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -1268,7 +1268,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3470,
+                      "cantidad":  3379,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1558,7 +1558,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  178,
+                      "cantidad":  163,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-140926",
@@ -1908,7 +1908,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1853,
+                      "cantidad":  1733,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
@@ -2228,9 +2228,19 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  468,
+                      "cantidad":  445,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0327-240926",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  23,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "0327-240926",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
@@ -3338,7 +3348,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  204,
+                      "cantidad":  92,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
@@ -3398,7 +3408,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  579,
+                      "cantidad":  439,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -3478,7 +3488,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  434,
+                      "cantidad":  394,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -4138,7 +4148,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  114,
+                      "cantidad":  99,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-09072026",
@@ -4898,9 +4908,19 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  608,
+                      "cantidad":  568,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0928-230926",
+                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO015",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "0928-230926",
                       "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                       "um":  "CJ",
@@ -4968,7 +4988,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  952,
+                      "cantidad":  922,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -5707,5 +5727,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58978
+    "total_general_cajas":  59041
 };
