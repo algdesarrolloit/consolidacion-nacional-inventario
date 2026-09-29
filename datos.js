@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  777
+                          "cajas":  745
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -252,7 +252,7 @@
                           "andes":  56,
                           "margarita":  15,
                           "capital":  28,
-                          "barcelona":  14,
+                          "barcelona":  12,
                           "cagua":  1853,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  99,
@@ -265,7 +265,7 @@
                           "andes":  41,
                           "margarita":  12,
                           "capital":  15,
-                          "barcelona":  6,
+                          "barcelona":  5,
                           "cagua":  1332,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  45,
@@ -291,7 +291,7 @@
                           "andes":  415,
                           "margarita":  89,
                           "capital":  226,
-                          "barcelona":  67,
+                          "barcelona":  63,
                           "cagua":  2596,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  170,
@@ -343,7 +343,7 @@
                           "andes":  0,
                           "margarita":  69,
                           "capital":  1,
-                          "barcelona":  45,
+                          "barcelona":  34,
                           "cagua":  196,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  71,
@@ -369,7 +369,7 @@
                           "andes":  6,
                           "margarita":  11,
                           "capital":  30,
-                          "barcelona":  5,
+                          "barcelona":  4,
                           "cagua":  38,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  8,
@@ -577,7 +577,7 @@
                           "andes":  51,
                           "margarita":  5,
                           "capital":  32,
-                          "barcelona":  7,
+                          "barcelona":  6,
                           "cagua":  522,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  22,
@@ -603,7 +603,7 @@
                           "andes":  17,
                           "margarita":  43,
                           "capital":  21,
-                          "barcelona":  19,
+                          "barcelona":  17,
                           "cagua":  450,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  68,
@@ -642,7 +642,7 @@
                           "andes":  44,
                           "margarita":  36,
                           "capital":  21,
-                          "barcelona":  60,
+                          "barcelona":  59,
                           "cagua":  1638,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  51,
@@ -668,7 +668,7 @@
                           "andes":  237,
                           "margarita":  42,
                           "capital":  23,
-                          "barcelona":  5,
+                          "barcelona":  0,
                           "cagua":  3432,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  110,
@@ -707,7 +707,7 @@
                           "andes":  17,
                           "margarita":  21,
                           "capital":  30,
-                          "barcelona":  7,
+                          "barcelona":  6,
                           "cagua":  922,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
@@ -759,7 +759,7 @@
                           "andes":  107,
                           "margarita":  63,
                           "capital":  12,
-                          "barcelona":  18,
+                          "barcelona":  15,
                           "cagua":  1744,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  18,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 14:20:46",
+    "ultima_actualizacion":  "29/09/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58715
+    "total_general_cajas":  58683
 };
