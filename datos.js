@@ -94,14 +94,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  46849
+                          "cajas":  46868
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1741
+                          "cajas":  1740
                       },
                       {
                           "almacen":  "ANDES",
@@ -344,7 +344,7 @@
                           "margarita":  69,
                           "capital":  1,
                           "barcelona":  5,
-                          "cagua":  29,
+                          "cagua":  48,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  71,
                           "bolivar":  109
@@ -706,7 +706,7 @@
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  21,
-                          "capital":  30,
+                          "capital":  29,
                           "barcelona":  4,
                           "cagua":  916,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 16:10:46",
+    "ultima_actualizacion":  "29/09/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2305,6 +2305,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  19,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-280926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -4938,7 +4948,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -5637,5 +5647,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58110
+    "total_general_cajas":  58128
 };
