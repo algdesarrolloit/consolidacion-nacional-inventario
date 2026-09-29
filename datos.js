@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 09:20:46",
+    "ultima_actualizacion":  "29/09/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1898,7 +1898,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  270,
+                      "cantidad":  245,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -2348,7 +2348,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  74,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0327-160926",
@@ -2688,7 +2688,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  60,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-05082026",
@@ -2908,7 +2908,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  50,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-050826 NV",
@@ -4258,7 +4258,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  31,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-09072026",
@@ -4338,7 +4338,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  37,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-310726",
@@ -4778,16 +4778,6 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
                       "cantidad":  27,
                       "fecha_fabricacion":  "19-05-2026",
                       "ubicacion":  "MARGARITA",
@@ -4858,7 +4848,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  94,
+                      "cantidad":  69,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-23072026",
@@ -5018,7 +5008,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  80,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-230926",
@@ -5098,7 +5088,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  60,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-210926",
