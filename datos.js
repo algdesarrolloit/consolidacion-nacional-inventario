@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1223
+                          "cajas":  1212
                       }
                   ],
     "total_general_kg":  110178.9,
@@ -698,7 +698,7 @@
                           "cagua":  568,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  12,
-                          "bolivar":  55
+                          "bolivar":  49
                       },
                       {
                           "zulia":  47,
@@ -789,7 +789,7 @@
                           "cagua":  22,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
-                          "bolivar":  36
+                          "bolivar":  31
                       },
                       {
                           "zulia":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 11:10:46",
+    "ultima_actualizacion":  "29/09/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5757,5 +5757,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59658
+    "total_general_cajas":  59647
 };
