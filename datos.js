@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/09/2026 16:30:46",
+    "ultima_actualizacion":  "29/09/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -968,7 +968,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  172,
+                      "cantidad":  167,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1058,7 +1058,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1439,
+                      "cantidad":  1434,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1148,7 +1148,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  377,
+                      "cantidad":  372,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -1288,7 +1288,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3378,
+                      "cantidad":  3373,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1358,7 +1358,7 @@
                   },
                   {
                       "codigo":  "4CNA021",
-                      "cantidad":  86,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "07-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-070626",
@@ -1598,7 +1598,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  163,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-140926",
@@ -1748,7 +1748,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  699,
+                      "cantidad":  697,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-011225",
@@ -1908,7 +1908,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1670,
+                      "cantidad":  1662,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
@@ -2038,7 +2038,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  599,
+                      "cantidad":  598,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-300726",
@@ -2218,16 +2218,6 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  11,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0327-24092026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
                       "cantidad":  19,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -2238,7 +2228,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  593,
+                      "cantidad":  591,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-240926",
@@ -2328,7 +2318,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  145,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
                       "lote":  "25092026",
@@ -2378,7 +2368,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  9,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0127-23092026",
@@ -2558,7 +2548,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  165,
+                      "cantidad":  163,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-060726",
@@ -2628,7 +2618,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  26,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-05082026",
@@ -2648,7 +2638,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  180,
+                      "cantidad":  178,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-05082026",
@@ -2738,7 +2728,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  820,
+                      "cantidad":  819,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -2828,7 +2818,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  35,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-050826 NV",
@@ -2958,7 +2948,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  595,
+                      "cantidad":  594,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -3048,7 +3038,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  383,
+                      "cantidad":  382,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -3108,7 +3098,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  32,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-13082026",
@@ -3138,7 +3128,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  225,
+                      "cantidad":  220,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-13082026",
@@ -3238,7 +3228,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  582,
+                      "cantidad":  580,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -3318,7 +3308,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  63,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-22092026",
@@ -3358,7 +3348,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0628-090626",
@@ -3368,27 +3358,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  18,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-18092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "2026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  405,
+                      "cantidad":  401,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -3488,7 +3458,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  372,
+                      "cantidad":  341,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -3578,7 +3548,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-18122025",
@@ -3608,7 +3578,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  24,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-17122025",
@@ -3618,7 +3588,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  109,
+                      "cantidad":  108,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -4158,7 +4128,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  66,
+                      "cantidad":  65,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-09072026",
@@ -4248,7 +4218,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  94,
+                      "cantidad":  91,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-310726",
@@ -4348,7 +4318,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  444,
+                      "cantidad":  442,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-160926",
@@ -4558,7 +4528,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  753,
+                      "cantidad":  750,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-12082026",
@@ -4631,16 +4601,6 @@
                       "cantidad":  1,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0628-080626",
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                       "um":  "CJ",
@@ -4738,7 +4698,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  160,
+                      "cantidad":  150,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-19082026",
@@ -4848,7 +4808,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  57,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -4878,7 +4838,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  565,
+                      "cantidad":  563,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -4928,7 +4888,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  20,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -4958,7 +4918,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  919,
+                      "cantidad":  916,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -5028,7 +4988,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  726,
+                      "cantidad":  725,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5148,7 +5108,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  712,
+                      "cantidad":  707,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -5318,7 +5278,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  40,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-310826",
@@ -5348,7 +5308,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  95,
+                      "cantidad":  93,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-310826",
@@ -5488,7 +5448,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  229,
+                      "cantidad":  226,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-100926",
@@ -5608,7 +5568,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  50,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -5618,7 +5578,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  22,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
