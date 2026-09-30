@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  50646
+                          "cajas":  50642
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "margarita":  24,
                           "capital":  67,
                           "barcelona":  47,
-                          "cagua":  1436,
+                          "cagua":  1435,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -188,7 +188,7 @@
                           "margarita":  35,
                           "capital":  56,
                           "barcelona":  40,
-                          "cagua":  3376,
+                          "cagua":  3374,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -708,7 +708,7 @@
                           "margarita":  21,
                           "capital":  29,
                           "barcelona":  4,
-                          "cagua":  918,
+                          "cagua":  917,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  44,
                           "bolivar":  14
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 08:40:46",
+    "ultima_actualizacion":  "30/09/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -968,7 +968,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  168,
+                      "cantidad":  169,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1058,7 +1058,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1436,
+                      "cantidad":  1437,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1148,7 +1148,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  373,
+                      "cantidad":  374,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -1288,7 +1288,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3376,
+                      "cantidad":  3377,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1818,7 +1818,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  106,
+                      "cantidad":  103,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-070926",
@@ -2198,7 +2198,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  99,
+                      "cantidad":  98,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-24092026",
@@ -2788,7 +2788,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  49,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-050826 NV",
@@ -3068,7 +3068,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  67,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-13082026",
@@ -3258,16 +3258,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-170926",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  16,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
@@ -3378,7 +3368,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -3518,7 +3508,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  109,
+                      "cantidad":  110,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -4138,7 +4128,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-150926-NV",
@@ -4188,7 +4178,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  443,
+                      "cantidad":  444,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-160926",
@@ -4348,7 +4338,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "0128-210125",
@@ -4698,7 +4688,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  564,
+                      "cantidad":  565,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -4778,7 +4768,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  918,
+                      "cantidad":  919,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -4838,7 +4828,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  726,
+                      "cantidad":  727,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5118,7 +5108,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "28-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-280826",
@@ -5288,7 +5278,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-190826",
@@ -5497,5 +5487,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61763
+    "total_general_cajas":  61759
 };
