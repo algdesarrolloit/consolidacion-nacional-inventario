@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  50222
+                          "cajas":  52875
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1839
+                          "cajas":  1819
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -249,7 +249,7 @@
                           "zulia":  47,
                           "codigo":  "4MES002",
                           "um":  "CJ",
-                          "andes":  40,
+                          "andes":  30,
                           "margarita":  11,
                           "capital":  28,
                           "barcelona":  5,
@@ -279,7 +279,7 @@
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  1080,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  0,
                           "bolivar":  16
@@ -353,7 +353,7 @@
                           "zulia":  20,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
-                          "andes":  16,
+                          "andes":  6,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
@@ -487,7 +487,7 @@
                           "margarita":  0,
                           "capital":  72,
                           "barcelona":  0,
-                          "cagua":  16,
+                          "cagua":  1389,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -786,7 +786,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  2,
+                          "cagua":  202,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 13:20:46",
+    "ultima_actualizacion":  "30/09/2026 13:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -968,7 +968,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  167,
+                      "cantidad":  161,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1058,7 +1058,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1433,
+                      "cantidad":  1428,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1148,7 +1148,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  372,
+                      "cantidad":  356,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -1288,7 +1288,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3373,
+                      "cantidad":  3368,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1538,7 +1538,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  40,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-140926",
@@ -1748,7 +1748,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  697,
+                      "cantidad":  692,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-011225",
@@ -1795,6 +1795,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-07-2028"
+                  },
+                  {
+                      "codigo":  "4MKE003",
+                      "cantidad":  1080,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-300926",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "29-09-2028"
                   },
                   {
                       "codigo":  "4MKE003",
@@ -2138,7 +2148,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  153,
+                      "cantidad":  148,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-03082026",
@@ -2208,7 +2218,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  82,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-24092026",
@@ -2378,7 +2388,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  16,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-23092026",
@@ -2388,7 +2398,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  42,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-23092026",
@@ -2798,7 +2808,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-050826 NV",
@@ -2938,7 +2948,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  894,
+                      "cantidad":  874,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -3278,6 +3288,26 @@
                   },
                   {
                       "codigo":  "4MSA005",
+                      "cantidad":  1317,
+                      "fecha_fabricacion":  "29-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-29092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "29-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  56,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-300926",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
                       "cantidad":  72,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -3398,7 +3428,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  341,
+                      "cantidad":  331,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -3598,7 +3628,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  62,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0727-210726",
@@ -3718,7 +3748,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  64,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-24082026",
@@ -4178,7 +4208,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  442,
+                      "cantidad":  432,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-160926",
@@ -4258,7 +4288,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  87,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-22092026",
@@ -4648,7 +4678,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  47,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-230926",
@@ -4688,7 +4718,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  563,
+                      "cantidad":  548,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -4728,7 +4758,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  9,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -4768,7 +4798,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  916,
+                      "cantidad":  906,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -4958,7 +4988,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  707,
+                      "cantidad":  692,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -5058,7 +5088,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  23,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "04-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-04092026",
@@ -5148,7 +5178,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  93,
+                      "cantidad":  73,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-310826",
@@ -5298,7 +5328,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  226,
+                      "cantidad":  206,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-100926",
@@ -5408,7 +5438,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  30,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-200826",
@@ -5418,13 +5448,23 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  17,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  200,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-300926",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MVI006",
@@ -5448,7 +5488,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  788,
+                      "cantidad":  773,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5458,7 +5498,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  468,
+                      "cantidad":  455,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
@@ -5467,5 +5507,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60511
+    "total_general_cajas":  63144
 };
