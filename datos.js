@@ -108,14 +108,14 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2057
+                          "cajas":  1999
                       },
                       {
                           "almacen":  "MARGARITA",
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  991
+                          "cajas":  972
                       },
                       {
                           "almacen":  "ZULIA",
@@ -250,7 +250,7 @@
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  40,
-                          "margarita":  15,
+                          "margarita":  11,
                           "capital":  28,
                           "barcelona":  5,
                           "cagua":  1848,
@@ -289,7 +289,7 @@
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  307,
-                          "margarita":  89,
+                          "margarita":  88,
                           "capital":  226,
                           "barcelona":  45,
                           "cagua":  2555,
@@ -509,7 +509,7 @@
                           "zulia":  48,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  13,
                           "margarita":  0,
                           "capital":  38,
                           "barcelona":  0,
@@ -665,8 +665,8 @@
                           "zulia":  258,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
-                          "andes":  228,
-                          "margarita":  42,
+                          "andes":  203,
+                          "margarita":  32,
                           "capital":  23,
                           "barcelona":  0,
                           "cagua":  3414,
@@ -756,7 +756,7 @@
                           "zulia":  81,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
-                          "andes":  39,
+                          "andes":  24,
                           "margarita":  63,
                           "capital":  12,
                           "barcelona":  5,
@@ -769,8 +769,8 @@
                           "zulia":  102,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
-                          "andes":  87,
-                          "margarita":  31,
+                          "andes":  72,
+                          "margarita":  27,
                           "capital":  77,
                           "barcelona":  0,
                           "cagua":  1518,
@@ -782,7 +782,7 @@
                           "zulia":  11,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
-                          "andes":  34,
+                          "andes":  33,
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 10:00:46",
+    "ultima_actualizacion":  "30/09/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1538,7 +1538,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  43,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-140926",
@@ -1688,7 +1688,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  39,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "25-11-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1127-251125",
@@ -2668,7 +2668,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  137,
+                      "cantidad":  132,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0228-20022026",
@@ -2788,7 +2788,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  17,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-050826 NV",
@@ -3068,7 +3068,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  36,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-13082026",
@@ -3158,7 +3158,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  33,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-06072026",
@@ -3368,7 +3368,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -3468,7 +3468,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1227-17122025",
@@ -4478,7 +4478,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  51,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "30-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-300626",
@@ -5088,7 +5088,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  39,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-310826",
@@ -5248,7 +5248,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  87,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-240826",
@@ -5388,7 +5388,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  35,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-200826",
@@ -5447,5 +5447,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60753
+    "total_general_cajas":  60676
 };
