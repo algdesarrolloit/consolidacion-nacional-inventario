@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1411
+                          "cajas":  1322
                       },
                       {
                           "almacen":  "ANDES",
@@ -277,7 +277,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  26,
-                          "capital":  22,
+                          "capital":  17,
                           "barcelona":  20,
                           "cagua":  1199,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  82,
                           "margarita":  6,
-                          "capital":  26,
+                          "capital":  16,
                           "barcelona":  49,
                           "cagua":  246,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  63,
-                          "capital":  44,
+                          "capital":  6,
                           "barcelona":  65,
                           "cagua":  554,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  30,
+                          "capital":  19,
                           "barcelona":  30,
                           "cagua":  1070,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  30,
+                          "capital":  20,
                           "barcelona":  39,
                           "cagua":  960,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  30,
+                          "capital":  22,
                           "barcelona":  13,
                           "cagua":  1024,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -758,7 +758,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  51,
-                          "capital":  120,
+                          "capital":  113,
                           "barcelona":  10,
                           "cagua":  2530,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 17:40:46",
+    "ultima_actualizacion":  "30/09/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1248,7 +1248,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-200526",
@@ -1868,7 +1868,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  22,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2268,7 +2268,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  90,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-240926",
@@ -2308,7 +2308,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  26,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-240926",
@@ -2398,27 +2398,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "11-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0327-110926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
                       "cantidad":  6,
-                      "fecha_fabricacion":  "28-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0327-28092026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  40,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-280926",
@@ -3388,7 +3368,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  30,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-29092026",
@@ -3468,7 +3448,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  30,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -3568,17 +3548,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "15-06-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0628-150626",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  29,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -5398,7 +5368,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  120,
+                      "cantidad":  113,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -5707,5 +5677,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59790
+    "total_general_cajas":  59701
 };
