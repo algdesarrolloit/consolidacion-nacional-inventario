@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  52875
+                          "cajas":  52874
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1449
+                          "cajas":  1448
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -145,7 +145,7 @@
                           "zulia":  61,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
-                          "andes":  120,
+                          "andes":  119,
                           "margarita":  44,
                           "capital":  61,
                           "barcelona":  64,
@@ -175,7 +175,7 @@
                           "margarita":  63,
                           "capital":  89,
                           "barcelona":  64,
-                          "cagua":  4455,
+                          "cagua":  4454,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  67
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 14:20:46",
+    "ultima_actualizacion":  "30/09/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5407,5 +5407,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62288
+    "total_general_cajas":  62286
 };
