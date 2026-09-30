@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1322
+                          "cajas":  1296
                       },
                       {
                           "almacen":  "ANDES",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  63,
-                          "capital":  6,
+                          "capital":  0,
                           "barcelona":  65,
                           "cagua":  554,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  19,
+                          "capital":  15,
                           "barcelona":  30,
                           "cagua":  1070,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  20,
+                          "capital":  16,
                           "barcelona":  39,
                           "cagua":  960,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  22,
+                          "capital":  16,
                           "barcelona":  13,
                           "cagua":  1024,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -758,7 +758,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  51,
-                          "capital":  113,
+                          "capital":  107,
                           "barcelona":  10,
                           "cagua":  2530,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 17:50:46",
+    "ultima_actualizacion":  "30/09/2026 18:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2398,16 +2398,6 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "28-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0327-280926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
                       "cantidad":  69,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -3368,7 +3358,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  19,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-29092026",
@@ -3448,7 +3438,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  20,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -3548,7 +3538,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  22,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -5368,7 +5358,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  113,
+                      "cantidad":  107,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -5677,5 +5667,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59701
+    "total_general_cajas":  59675
 };
