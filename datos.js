@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 10:30:46",
+    "ultima_actualizacion":  "30/09/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2198,7 +2198,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  85,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-24092026",
