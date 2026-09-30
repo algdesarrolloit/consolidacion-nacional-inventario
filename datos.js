@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1946
+                          "cajas":  1839
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -327,7 +327,7 @@
                           "zulia":  33,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  82,
+                          "andes":  4,
                           "margarita":  6,
                           "capital":  23,
                           "barcelona":  0,
@@ -418,7 +418,7 @@
                           "zulia":  0,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
-                          "andes":  10,
+                          "andes":  9,
                           "margarita":  23,
                           "capital":  33,
                           "barcelona":  0,
@@ -691,7 +691,7 @@
                           "zulia":  40,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
-                          "andes":  47,
+                          "andes":  37,
                           "margarita":  5,
                           "capital":  40,
                           "barcelona":  21,
@@ -704,7 +704,7 @@
                           "zulia":  47,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
-                          "andes":  9,
+                          "andes":  6,
                           "margarita":  21,
                           "capital":  29,
                           "barcelona":  4,
@@ -782,7 +782,7 @@
                           "zulia":  11,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  15,
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 13:10:46",
+    "ultima_actualizacion":  "30/09/2026 13:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5467,5 +5467,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60618
+    "total_general_cajas":  60511
 };
