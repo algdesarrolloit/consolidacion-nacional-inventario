@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1741
+                          "cajas":  1735
                       },
                       {
                           "almacen":  "ANDES",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  44,
-                          "capital":  62,
+                          "capital":  61,
                           "barcelona":  64,
                           "cagua":  2584,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  24,
-                          "capital":  67,
+                          "capital":  65,
                           "barcelona":  47,
                           "cagua":  1428,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  157,
                           "margarita":  63,
-                          "capital":  90,
+                          "capital":  89,
                           "barcelona":  64,
                           "cagua":  4455,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  84,
                           "margarita":  35,
-                          "capital":  56,
+                          "capital":  54,
                           "barcelona":  40,
                           "cagua":  3368,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 11:30:46",
+    "ultima_actualizacion":  "30/09/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -988,7 +988,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  62,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-200126",
@@ -1068,7 +1068,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  67,
+                      "cantidad":  65,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1218,7 +1218,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  90,
+                      "cantidad":  89,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-190126",
@@ -1298,7 +1298,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  56,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1818,7 +1818,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-070926",
@@ -2678,7 +2678,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  130,
+                      "cantidad":  129,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0228-20022026",
@@ -2798,7 +2798,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-050826 NV",
@@ -3078,7 +3078,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  29,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-13082026",
@@ -3168,7 +3168,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  28,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-06072026",
@@ -5108,7 +5108,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-310826",
@@ -5268,7 +5268,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  65,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-240826",
@@ -5467,5 +5467,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60624
+    "total_general_cajas":  60618
 };
