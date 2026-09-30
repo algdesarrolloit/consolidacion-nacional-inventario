@@ -108,14 +108,14 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1819
+                          "cajas":  1815
                       },
                       {
                           "almacen":  "MARGARITA",
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  972
+                          "cajas":  925
                       },
                       {
                           "almacen":  "ZULIA",
@@ -327,7 +327,7 @@
                           "zulia":  33,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  4,
+                          "andes":  0,
                           "margarita":  6,
                           "capital":  23,
                           "barcelona":  0,
@@ -393,7 +393,7 @@
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  23,
+                          "margarita":  20,
                           "capital":  18,
                           "barcelona":  0,
                           "cagua":  178,
@@ -406,7 +406,7 @@
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  129,
-                          "margarita":  27,
+                          "margarita":  21,
                           "capital":  97,
                           "barcelona":  20,
                           "cagua":  3109,
@@ -419,7 +419,7 @@
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  9,
-                          "margarita":  23,
+                          "margarita":  17,
                           "capital":  33,
                           "barcelona":  0,
                           "cagua":  0,
@@ -458,7 +458,7 @@
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  28,
-                          "margarita":  18,
+                          "margarita":  15,
                           "capital":  57,
                           "barcelona":  0,
                           "cagua":  1138,
@@ -471,7 +471,7 @@
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  27,
-                          "margarita":  34,
+                          "margarita":  31,
                           "capital":  55,
                           "barcelona":  0,
                           "cagua":  580,
@@ -523,7 +523,7 @@
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  28,
-                          "margarita":  5,
+                          "margarita":  0,
                           "capital":  9,
                           "barcelona":  0,
                           "cagua":  112,
@@ -588,7 +588,7 @@
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  38,
-                          "margarita":  14,
+                          "margarita":  8,
                           "capital":  19,
                           "barcelona":  3,
                           "cagua":  996,
@@ -679,7 +679,7 @@
                           "codigo":  "4MTO014",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  17,
+                          "margarita":  14,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
@@ -757,7 +757,7 @@
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  15,
-                          "margarita":  63,
+                          "margarita":  51,
                           "capital":  12,
                           "barcelona":  5,
                           "cagua":  2679,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 13:30:46",
+    "ultima_actualizacion":  "30/09/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2215,16 +2215,6 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-02-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0327-24092026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -5507,5 +5497,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63144
+    "total_general_cajas":  63093
 };
