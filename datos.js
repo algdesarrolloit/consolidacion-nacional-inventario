@@ -101,14 +101,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1457
+                          "cajas":  1411
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3038
+                          "cajas":  2080
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2343
+                          "cajas":  2339
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -168,7 +168,7 @@
                           "bolivar":  56
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  26,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  315,
@@ -277,7 +277,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  26,
-                          "capital":  31,
+                          "capital":  22,
                           "barcelona":  20,
                           "cagua":  1199,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -327,9 +327,9 @@
                           "zulia":  76,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  90,
+                          "andes":  82,
                           "margarita":  6,
-                          "capital":  30,
+                          "capital":  26,
                           "barcelona":  49,
                           "cagua":  246,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -337,12 +337,12 @@
                           "bolivar":  19
                       },
                       {
-                          "zulia":  215,
+                          "zulia":  212,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  950,
+                          "andes":  0,
                           "margarita":  63,
-                          "capital":  77,
+                          "capital":  44,
                           "barcelona":  65,
                           "cagua":  554,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 17:30:46",
+    "ultima_actualizacion":  "30/09/2026 17:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1868,7 +1868,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  31,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2308,7 +2308,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  30,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-240926",
@@ -2335,16 +2335,6 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  1200,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "ANDES",
-                      "lote":  "30092026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2408,7 +2398,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  11,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-110926",
@@ -2428,7 +2418,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  60,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-280926",
@@ -2458,7 +2448,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  264,
+                      "cantidad":  261,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0327-28092026",
@@ -5717,5 +5707,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60798
+    "total_general_cajas":  59790
 };
