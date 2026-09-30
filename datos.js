@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  50633
+                          "cajas":  50495
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2453
+                          "cajas":  2446
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -288,7 +288,7 @@
                           "zulia":  332,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
-                          "andes":  383,
+                          "andes":  381,
                           "margarita":  89,
                           "capital":  226,
                           "barcelona":  45,
@@ -344,7 +344,7 @@
                           "margarita":  69,
                           "capital":  1,
                           "barcelona":  5,
-                          "cagua":  765,
+                          "cagua":  655,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  71,
                           "bolivar":  109
@@ -470,7 +470,7 @@
                           "zulia":  104,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
-                          "andes":  56,
+                          "andes":  55,
                           "margarita":  34,
                           "capital":  55,
                           "barcelona":  0,
@@ -509,7 +509,7 @@
                           "zulia":  48,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  33,
+                          "andes":  32,
                           "margarita":  29,
                           "capital":  38,
                           "barcelona":  0,
@@ -548,7 +548,7 @@
                           "zulia":  42,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
-                          "andes":  22,
+                          "andes":  20,
                           "margarita":  16,
                           "capital":  7,
                           "barcelona":  0,
@@ -600,7 +600,7 @@
                           "zulia":  48,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
-                          "andes":  11,
+                          "andes":  10,
                           "margarita":  43,
                           "capital":  21,
                           "barcelona":  13,
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  814,
+                          "cagua":  800,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  492,
+                          "cagua":  478,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 09:00:46",
+    "ultima_actualizacion":  "30/09/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1818,7 +1818,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  83,
+                      "cantidad":  81,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-070926",
@@ -3158,7 +3158,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-06072026",
@@ -3368,7 +3368,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  33,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -3678,7 +3678,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-01092026",
@@ -4128,7 +4128,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-150926-NV",
@@ -5477,5 +5477,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61675
+    "total_general_cajas":  61530
 };
