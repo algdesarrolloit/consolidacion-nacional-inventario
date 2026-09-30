@@ -87,28 +87,28 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1562
+                          "cajas":  1543
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  52874
+                          "cajas":  52354
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1735
+                          "cajas":  1728
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  1448
+                          "cajas":  1449
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2208
+                          "cajas":  2161
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -149,7 +149,7 @@
                           "margarita":  44,
                           "capital":  61,
                           "barcelona":  64,
-                          "cagua":  2584,
+                          "cagua":  2585,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  61,
                           "bolivar":  100
@@ -171,7 +171,7 @@
                           "zulia":  60,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  157,
+                          "andes":  158,
                           "margarita":  63,
                           "capital":  89,
                           "barcelona":  64,
@@ -279,13 +279,13 @@
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1080,
+                          "cagua":  979,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  0,
                           "bolivar":  16
                       },
                       {
-                          "zulia":  332,
+                          "zulia":  327,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  205,
@@ -294,7 +294,7 @@
                           "barcelona":  45,
                           "cagua":  2555,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  70,
+                          "barquisimeto":  69,
                           "bolivar":  155
                       },
                       {
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  6,
-                          "capital":  23,
+                          "capital":  17,
                           "barcelona":  0,
                           "cagua":  593,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -346,7 +346,7 @@
                           "barcelona":  5,
                           "cagua":  655,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  71,
+                          "barquisimeto":  68,
                           "bolivar":  108
                       },
                       {
@@ -376,7 +376,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  101,
+                          "zulia":  99,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  4,
@@ -389,7 +389,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  103,
+                          "zulia":  101,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  0,
@@ -402,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  14,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  121,
@@ -428,14 +428,14 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  117,
+                          "zulia":  114,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  32,
                           "margarita":  16,
                           "capital":  60,
                           "barcelona":  184,
-                          "cagua":  3870,
+                          "cagua":  3450,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  64,
                           "bolivar":  3
@@ -467,7 +467,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  55,
+                          "zulia":  48,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  20,
@@ -493,7 +493,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  63,
+                          "zulia":  60,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  0,
@@ -506,7 +506,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  35,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -515,7 +515,7 @@
                           "barcelona":  0,
                           "cagua":  1139,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  34,
+                          "barquisimeto":  28,
                           "bolivar":  0
                       },
                       {
@@ -571,7 +571,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  30,
+                          "zulia":  27,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  34,
@@ -584,7 +584,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  41,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  25,
@@ -593,7 +593,7 @@
                           "barcelona":  3,
                           "cagua":  996,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  28,
+                          "barquisimeto":  22,
                           "bolivar":  8
                       },
                       {
@@ -697,7 +697,7 @@
                           "barcelona":  21,
                           "cagua":  548,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  11,
                           "bolivar":  15
                       },
                       {
@@ -706,15 +706,15 @@
                           "um":  "CJ",
                           "andes":  6,
                           "margarita":  21,
-                          "capital":  29,
+                          "capital":  28,
                           "barcelona":  4,
                           "cagua":  906,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  44,
+                          "barquisimeto":  43,
                           "bolivar":  14
                       },
                       {
-                          "zulia":  42,
+                          "zulia":  40,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  43,
@@ -723,11 +723,11 @@
                           "barcelona":  0,
                           "cagua":  1218,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  4,
+                          "barquisimeto":  3,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  74,
+                          "zulia":  71,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  41,
@@ -753,7 +753,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  49,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  0,
@@ -766,7 +766,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  82,
+                          "zulia":  77,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  28,
@@ -779,7 +779,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  9,
+                          "zulia":  7,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 14:30:46",
+    "ultima_actualizacion":  "30/09/2026 14:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -918,7 +918,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  120,
+                      "cantidad":  119,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-200126",
@@ -961,6 +961,16 @@
                       "cantidad":  100,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "BOLIVAR",
+                      "lote":  "0127-200126",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-01-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "20-01-2026",
+                      "ubicacion":  "CAGUA",
                       "lote":  "0127-200126",
                       "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                       "um":  "CJ",
@@ -1108,7 +1118,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  117,
+                      "cantidad":  118,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-200526",
@@ -1148,7 +1158,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  356,
+                      "cantidad":  355,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-200526",
@@ -2228,7 +2238,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-240926",
@@ -2868,7 +2878,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  350,
+                      "cantidad":  236,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -2902,16 +2912,6 @@
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
-                      "descripcion":  "ENCURTIDOS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "12-12-2028"
-                  },
-                  {
-                      "codigo":  "4MNA014",
-                      "cantidad":  306,
-                      "fecha_fabricacion":  "12-12-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1228-12122025 NV",
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-12-2028"
@@ -5407,5 +5407,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62286
+    "total_general_cajas":  61694
 };
