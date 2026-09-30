@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  50226
+                          "cajas":  50225
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "margarita":  24,
                           "capital":  67,
                           "barcelona":  47,
-                          "cagua":  1429,
+                          "cagua":  1428,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/09/2026 11:00:46",
+    "ultima_actualizacion":  "30/09/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5447,5 +5447,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60632
+    "total_general_cajas":  60631
 };
