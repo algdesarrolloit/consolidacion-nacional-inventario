@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  49279
+                          "cajas":  49225
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -279,7 +279,7 @@
                           "margarita":  26,
                           "capital":  17,
                           "barcelona":  20,
-                          "cagua":  1199,
+                          "cagua":  1149,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  23,
                           "bolivar":  21
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  753,
+                          "cagua":  751,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  436,
+                          "cagua":  434,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 06:50:46",
+    "ultima_actualizacion":  "01/10/2026 07:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5667,5 +5667,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59675
+    "total_general_cajas":  59621
 };
