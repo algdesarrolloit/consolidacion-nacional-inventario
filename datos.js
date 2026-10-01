@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110123.9,
-                          "cajas":  46567
+                          "cajas":  45935
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  59,
                           "barcelona":  183,
-                          "cagua":  3430,
+                          "cagua":  2798,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  48,
                           "bolivar":  1
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 16:10:46",
+    "ultima_actualizacion":  "01/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2718,7 +2718,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  236,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -2738,7 +2738,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  122,
+                      "cantidad":  120,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-021225",
@@ -2748,7 +2748,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  852,
+                      "cantidad":  300,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -5057,5 +5057,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  55543
+    "total_general_cajas":  54911
 };
