@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110123.9,
-                          "cajas":  46677
+                          "cajas":  46637
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  44,
                           "capital":  57,
                           "barcelona":  64,
-                          "cagua":  2438,
+                          "cagua":  2437,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  60,
                           "bolivar":  100
@@ -162,7 +162,7 @@
                           "margarita":  24,
                           "capital":  65,
                           "barcelona":  47,
-                          "cagua":  1358,
+                          "cagua":  1357,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  53,
                           "bolivar":  56
@@ -175,7 +175,7 @@
                           "margarita":  63,
                           "capital":  64,
                           "barcelona":  64,
-                          "cagua":  4270,
+                          "cagua":  4269,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  59,
                           "bolivar":  67
@@ -188,7 +188,7 @@
                           "margarita":  35,
                           "capital":  19,
                           "barcelona":  40,
-                          "cagua":  3277,
+                          "cagua":  3276,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  52,
                           "bolivar":  56
@@ -292,7 +292,7 @@
                           "margarita":  88,
                           "capital":  177,
                           "barcelona":  112,
-                          "cagua":  1575,
+                          "cagua":  1570,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  0,
                           "bolivar":  112
@@ -331,7 +331,7 @@
                           "margarita":  6,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  73,
+                          "cagua":  68,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  7
@@ -344,7 +344,7 @@
                           "margarita":  63,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  37,
+                          "cagua":  27,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  90
@@ -448,7 +448,7 @@
                           "margarita":  33,
                           "capital":  43,
                           "barcelona":  10,
-                          "cagua":  356,
+                          "cagua":  355,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  33,
                           "bolivar":  0
@@ -461,7 +461,7 @@
                           "margarita":  15,
                           "capital":  30,
                           "barcelona":  13,
-                          "cagua":  863,
+                          "cagua":  862,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  7,
                           "bolivar":  14
@@ -487,7 +487,7 @@
                           "margarita":  0,
                           "capital":  15,
                           "barcelona":  5,
-                          "cagua":  1006,
+                          "cagua":  1005,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  25
@@ -500,7 +500,7 @@
                           "margarita":  0,
                           "capital":  16,
                           "barcelona":  12,
-                          "cagua":  923,
+                          "cagua":  922,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
                           "bolivar":  17
@@ -513,7 +513,7 @@
                           "margarita":  0,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  986,
+                          "cagua":  985,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  7,
                           "bolivar":  18
@@ -578,7 +578,7 @@
                           "margarita":  5,
                           "capital":  32,
                           "barcelona":  1,
-                          "cagua":  470,
+                          "cagua":  468,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  12,
                           "bolivar":  1
@@ -643,7 +643,7 @@
                           "margarita":  36,
                           "capital":  17,
                           "barcelona":  57,
-                          "cagua":  1619,
+                          "cagua":  1618,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  37,
                           "bolivar":  2
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  726,
+                          "cagua":  723,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  413,
+                          "cagua":  408,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 10:10:46",
+    "ultima_actualizacion":  "01/10/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1918,7 +1918,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  43,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-08092026",
@@ -2308,17 +2308,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "16-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0327-160926",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  60,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0327-280926",
@@ -2588,7 +2578,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  9,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-05082026",
@@ -3038,7 +3028,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  24,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-13082026",
@@ -3118,7 +3108,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-06072026",
@@ -3208,7 +3198,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  30,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-29092026",
@@ -3278,7 +3268,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  39,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -3368,7 +3358,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  13,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-220926",
@@ -3488,7 +3478,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-17122025",
@@ -3561,16 +3551,6 @@
                       "cantidad":  20,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0727-210726",
-                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA013",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "21-07-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0727-210726",
                       "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                       "um":  "CJ",
@@ -3708,16 +3688,6 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "24-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0827-24082026",
-                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSA015",
                       "cantidad":  19,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3851,16 +3821,6 @@
                       "cantidad":  15,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0927-08092026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0927-08092026",
                       "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                       "um":  "CJ",
@@ -4508,7 +4468,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  92,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-19082026",
@@ -4778,7 +4738,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-25082026",
@@ -5238,7 +5198,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  15,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-100926",
@@ -5448,7 +5408,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  728,
+                      "cantidad":  726,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5467,5 +5427,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  55653
+    "total_general_cajas":  55613
 };
