@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 10:00:46",
+    "ultima_actualizacion":  "01/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2698,7 +2698,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  709,
+                      "cantidad":  707,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -3148,7 +3148,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  475,
+                      "cantidad":  474,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -5448,7 +5448,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  729,
+                      "cantidad":  728,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
