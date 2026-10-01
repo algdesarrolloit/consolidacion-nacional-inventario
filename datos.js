@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59136,
-                                                              "bidones":  1075.2
+                                                              "kg":  59081,
+                                                              "bidones":  1074.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -87,13 +87,13 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1238
+                          "cajas":  1226
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  110178.9,
+                          "kg":  110123.9,
                           "cajas":  46683
                       },
                       {
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  826
+                          "cajas":  801
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -139,7 +139,7 @@
                           "cajas":  905
                       }
                   ],
-    "total_general_kg":  110178.9,
+    "total_general_kg":  110123.9,
     "productos":  [
                       {
                           "zulia":  35,
@@ -330,7 +330,7 @@
                           "andes":  82,
                           "margarita":  6,
                           "capital":  16,
-                          "barcelona":  17,
+                          "barcelona":  0,
                           "cagua":  73,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  28,
@@ -343,10 +343,10 @@
                           "andes":  0,
                           "margarita":  63,
                           "capital":  0,
-                          "barcelona":  3,
+                          "barcelona":  0,
                           "cagua":  37,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  67,
+                          "barquisimeto":  60,
                           "bolivar":  90
                       },
                       {
@@ -398,7 +398,7 @@
                           "barcelona":  0,
                           "cagua":  76,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  2,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -486,10 +486,10 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  15,
-                          "barcelona":  13,
+                          "barcelona":  8,
                           "cagua":  1006,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  1,
+                          "barquisimeto":  0,
                           "bolivar":  25
                       },
                       {
@@ -762,7 +762,7 @@
                           "barcelona":  0,
                           "cagua":  2479,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  2,
+                          "barquisimeto":  0,
                           "bolivar":  16
                       },
                       {
@@ -838,13 +838,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59136,
+                          "cagua":  59081,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 09:20:46",
+    "ultima_actualizacion":  "01/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5687,5 +5687,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  55892
+    "total_general_cajas":  55855
 };
