@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 11:20:46",
+    "ultima_actualizacion":  "01/10/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1898,7 +1898,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  60,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-070926",
@@ -2035,16 +2035,6 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MKE009",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "17-12-2025",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1228-171225",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-12-2028"
                   },
                   {
                       "codigo":  "4MKE009",
@@ -2258,7 +2248,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  100,
+                      "cantidad":  90,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0327-160926",
@@ -2428,16 +2418,6 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
                       "cantidad":  23,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -2568,7 +2548,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  30,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0228-20022026",
@@ -2998,7 +2978,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  17,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-06072026",
@@ -3078,7 +3058,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  30,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-29092026",
@@ -3148,7 +3128,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  22,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-210926",
@@ -3238,7 +3218,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  23,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-220926",
@@ -3808,7 +3788,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-09072026",
@@ -3978,7 +3958,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  26,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0927-160926",
@@ -4308,7 +4288,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  36,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-23072026",
@@ -4318,7 +4298,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  587,
+                      "cantidad":  557,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-20082026",
@@ -4428,7 +4408,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-230926",
@@ -4568,7 +4548,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  14,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
