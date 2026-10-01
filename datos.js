@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  953
+                          "cajas":  843
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -252,7 +252,7 @@
                           "andes":  10,
                           "margarita":  11,
                           "capital":  28,
-                          "barcelona":  31,
+                          "barcelona":  29,
                           "cagua":  1693,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  88,
@@ -291,7 +291,7 @@
                           "andes":  204,
                           "margarita":  88,
                           "capital":  177,
-                          "barcelona":  132,
+                          "barcelona":  112,
                           "cagua":  1575,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  39,
@@ -304,7 +304,7 @@
                           "andes":  15,
                           "margarita":  6,
                           "capital":  21,
-                          "barcelona":  13,
+                          "barcelona":  12,
                           "cagua":  590,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  18,
@@ -330,7 +330,7 @@
                           "andes":  82,
                           "margarita":  6,
                           "capital":  16,
-                          "barcelona":  48,
+                          "barcelona":  30,
                           "cagua":  73,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  28,
@@ -343,7 +343,7 @@
                           "andes":  0,
                           "margarita":  63,
                           "capital":  0,
-                          "barcelona":  26,
+                          "barcelona":  3,
                           "cagua":  37,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  67,
@@ -395,7 +395,7 @@
                           "andes":  0,
                           "margarita":  20,
                           "capital":  21,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  76,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  2,
@@ -460,7 +460,7 @@
                           "andes":  13,
                           "margarita":  15,
                           "capital":  30,
-                          "barcelona":  14,
+                          "barcelona":  13,
                           "cagua":  863,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  7,
@@ -486,7 +486,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  15,
-                          "barcelona":  19,
+                          "barcelona":  17,
                           "cagua":  1006,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  1,
@@ -499,7 +499,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  16,
-                          "barcelona":  15,
+                          "barcelona":  12,
                           "cagua":  923,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  5,
@@ -512,7 +512,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  16,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  986,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  12,
@@ -577,7 +577,7 @@
                           "andes":  64,
                           "margarita":  5,
                           "capital":  32,
-                          "barcelona":  2,
+                          "barcelona":  1,
                           "cagua":  470,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  12,
@@ -590,7 +590,7 @@
                           "andes":  25,
                           "margarita":  8,
                           "capital":  13,
-                          "barcelona":  2,
+                          "barcelona":  1,
                           "cagua":  980,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  13,
@@ -668,7 +668,7 @@
                           "andes":  195,
                           "margarita":  32,
                           "capital":  12,
-                          "barcelona":  47,
+                          "barcelona":  22,
                           "cagua":  3146,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  19,
@@ -759,7 +759,7 @@
                           "andes":  0,
                           "margarita":  51,
                           "capital":  107,
-                          "barcelona":  4,
+                          "barcelona":  0,
                           "cagua":  2479,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  2,
@@ -772,7 +772,7 @@
                           "andes":  28,
                           "margarita":  27,
                           "capital":  70,
-                          "barcelona":  4,
+                          "barcelona":  0,
                           "cagua":  1375,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  36,
@@ -785,7 +785,7 @@
                           "andes":  15,
                           "margarita":  9,
                           "capital":  0,
-                          "barcelona":  1,
+                          "barcelona":  0,
                           "cagua":  94,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 09:00:46",
+    "ultima_actualizacion":  "01/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1888,7 +1888,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  87,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -2337,16 +2337,6 @@
                       "fecha_vencimiento":  "14-03-2027"
                   },
                   {
-                      "codigo":  "4MMA003",
-                      "cantidad":  76,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0327-240926",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2027"
-                  },
-                  {
                       "codigo":  "4MMA006",
                       "cantidad":  5,
                       "fecha_fabricacion":  "16-09-2026",
@@ -2425,16 +2415,6 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  212,
-                      "fecha_fabricacion":  "28-09-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0327-28092026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-03-2027"
                   },
                   {
                       "codigo":  "4MMA011",
@@ -2878,7 +2858,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3228,7 +3208,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  58,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-13082026",
@@ -3408,17 +3388,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "22-09-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0928-22092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  45,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -4228,7 +4198,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  25,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-09072026",
@@ -5707,5 +5677,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  56114
+    "total_general_cajas":  56004
 };
