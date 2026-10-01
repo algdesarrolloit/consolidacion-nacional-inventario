@@ -122,21 +122,21 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2335
+                          "cajas":  2288
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1203
+                          "cajas":  1191
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1463
+                          "cajas":  1455
                       }
                   ],
     "total_general_kg":  110178.9,
@@ -272,7 +272,7 @@
                           "bolivar":  29
                       },
                       {
-                          "zulia":  84,
+                          "zulia":  57,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  0,
@@ -324,7 +324,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  76,
+                          "zulia":  58,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  82,
@@ -480,7 +480,7 @@
                           "bolivar":  75
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  49,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  0,
@@ -490,7 +490,7 @@
                           "cagua":  1037,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
-                          "bolivar":  60
+                          "bolivar":  57
                       },
                       {
                           "zulia":  53,
@@ -499,7 +499,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  16,
-                          "barcelona":  39,
+                          "barcelona":  38,
                           "cagua":  943,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  0,
@@ -512,7 +512,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  16,
-                          "barcelona":  13,
+                          "barcelona":  12,
                           "cagua":  1001,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  12,
@@ -668,7 +668,7 @@
                           "andes":  195,
                           "margarita":  32,
                           "capital":  12,
-                          "barcelona":  92,
+                          "barcelona":  82,
                           "cagua":  3146,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  19,
@@ -724,7 +724,7 @@
                           "cagua":  1159,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  16,
-                          "bolivar":  20
+                          "bolivar":  17
                       },
                       {
                           "zulia":  52,
@@ -776,7 +776,7 @@
                           "cagua":  1375,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  36,
-                          "bolivar":  60
+                          "bolivar":  58
                       },
                       {
                           "zulia":  5,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 08:10:46",
+    "ultima_actualizacion":  "01/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5617,5 +5617,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  57465
+    "total_general_cajas":  57398
 };
