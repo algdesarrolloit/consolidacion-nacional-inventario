@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110178.9,
-                          "cajas":  46778
+                          "cajas":  46683
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  843
+                          "cajas":  826
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -330,7 +330,7 @@
                           "andes":  82,
                           "margarita":  6,
                           "capital":  16,
-                          "barcelona":  30,
+                          "barcelona":  17,
                           "cagua":  73,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  28,
@@ -383,7 +383,7 @@
                           "margarita":  19,
                           "capital":  23,
                           "barcelona":  6,
-                          "cagua":  95,
+                          "cagua":  0,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  13,
                           "bolivar":  0
@@ -486,7 +486,7 @@
                           "andes":  0,
                           "margarita":  0,
                           "capital":  15,
-                          "barcelona":  17,
+                          "barcelona":  13,
                           "cagua":  1006,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  1,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "01/10/2026 09:10:46",
+    "ultima_actualizacion":  "01/10/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2605,6 +2605,16 @@
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  75,
+                      "fecha_fabricacion":  "18-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0628-180626",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
                   },
                   {
                       "codigo":  "4MNA008",
@@ -5677,5 +5687,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  56004
+    "total_general_cajas":  55892
 };
