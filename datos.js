@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110123.9,
-                          "cajas":  45738
+                          "cajas":  45934
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -370,7 +370,7 @@
                           "margarita":  11,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  14,
+                          "cagua":  25,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  59,
                           "barcelona":  183,
-                          "cagua":  2745,
+                          "cagua":  2798,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  48,
                           "bolivar":  1
@@ -513,7 +513,7 @@
                           "margarita":  0,
                           "capital":  16,
                           "barcelona":  0,
-                          "cagua":  928,
+                          "cagua":  983,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  7,
                           "bolivar":  18
@@ -565,7 +565,7 @@
                           "margarita":  18,
                           "capital":  13,
                           "barcelona":  0,
-                          "cagua":  426,
+                          "cagua":  455,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  2,
                           "bolivar":  5
@@ -578,7 +578,7 @@
                           "margarita":  5,
                           "capital":  32,
                           "barcelona":  1,
-                          "cagua":  450,
+                          "cagua":  465,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  12,
                           "bolivar":  1
@@ -591,7 +591,7 @@
                           "margarita":  8,
                           "capital":  13,
                           "barcelona":  1,
-                          "cagua":  947,
+                          "cagua":  980,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  13,
                           "bolivar":  7
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "02/10/2026 08:10:46",
+    "ultima_actualizacion":  "02/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2328,7 +2328,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  14,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1126-14072026",
@@ -2718,7 +2718,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  105,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -3188,7 +3188,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  120,
+                      "cantidad":  175,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -3608,7 +3608,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  80,
+                      "cantidad":  109,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-08092026",
@@ -3718,7 +3718,17 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  450,
+                      "cantidad":  9,
+                      "fecha_fabricacion":  "09-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0728-09072026",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-07-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
+                      "cantidad":  456,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-280726",
@@ -3798,7 +3808,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  42,
+                      "cantidad":  75,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-310726",
@@ -5047,5 +5057,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  54714
+    "total_general_cajas":  54910
 };
