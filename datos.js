@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "02/10/2026 09:30:46",
+    "ultima_actualizacion":  "02/10/2026 09:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2259,12 +2259,12 @@
                   {
                       "codigo":  "4MMA006",
                       "cantidad":  22,
-                      "fecha_fabricacion":  "01-01-1900",
+                      "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "30092026",
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
+                      "fecha_vencimiento":  "30-03-2027"
                   },
                   {
                       "codigo":  "4MMA006",
