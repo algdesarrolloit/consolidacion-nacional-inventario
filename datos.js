@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110123.9,
-                          "cajas":  45219
+                          "cajas":  45224
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -175,7 +175,7 @@
                           "margarita":  63,
                           "capital":  64,
                           "barcelona":  64,
-                          "cagua":  4268,
+                          "cagua":  4273,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  59,
                           "bolivar":  67
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/10/2026 16:20:46",
+    "ultima_actualizacion":  "06/10/2026 16:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1108,7 +1108,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  40,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-190126",
@@ -1155,6 +1155,16 @@
                       "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "19-01-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0127-190126",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-01-2027"
                   },
                   {
                       "codigo":  "4CNA018",
@@ -5057,5 +5067,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  54187
+    "total_general_cajas":  54192
 };
