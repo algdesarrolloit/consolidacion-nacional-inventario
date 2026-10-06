@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  51042.9,
-                                                              "bidones":  850.72
+                                                              "kg":  47622.9,
+                                                              "bidones":  793.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  110123.9,
+                          "kg":  106703.9,
                           "cajas":  45237
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  905
                       }
                   ],
-    "total_general_kg":  110123.9,
+    "total_general_kg":  106703.9,
     "productos":  [
                       {
                           "zulia":  35,
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  51042.9,
+                          "cagua":  47622.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/10/2026 17:20:47",
+    "ultima_actualizacion":  "06/10/2026 17:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
