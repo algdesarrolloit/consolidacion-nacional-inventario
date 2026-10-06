@@ -454,7 +454,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  39,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  13,
@@ -727,7 +727,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  53,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  41,
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/10/2026 15:30:46",
+    "ultima_actualizacion":  "06/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2938,7 +2938,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  40,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-13082026",
@@ -4668,7 +4668,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  50,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-15072026",
