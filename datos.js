@@ -844,11 +844,11 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/10/2026 17:50:47",
+    "ultima_actualizacion":  "06/10/2026 18:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  16000,
+                      "cantidad":  12580,
                       "fecha_fabricacion":  "13-09-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0627-130925-231",
