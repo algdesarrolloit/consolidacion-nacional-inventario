@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  110123.9,
-                          "cajas":  45224
+                          "cajas":  45237
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -370,7 +370,7 @@
                           "margarita":  11,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  25,
+                          "cagua":  30,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  713,
+                          "cagua":  721,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/10/2026 16:40:47",
+    "ultima_actualizacion":  "06/10/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2338,7 +2338,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  25,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1126-14072026",
@@ -5048,7 +5048,17 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  713,
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "09-04-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1026-090426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  716,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -5067,5 +5077,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  54192
+    "total_general_cajas":  54205
 };
