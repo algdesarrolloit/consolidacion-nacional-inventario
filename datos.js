@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3398
+                          "cajas":  3400
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -366,7 +366,7 @@
                           "zulia":  24,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
-                          "andes":  6,
+                          "andes":  7,
                           "margarita":  11,
                           "capital":  29,
                           "barcelona":  0,
@@ -782,7 +782,7 @@
                           "zulia":  182,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
-                          "andes":  148,
+                          "andes":  149,
                           "margarita":  37,
                           "capital":  100,
                           "barcelona":  20,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 14:30:46",
+    "ultima_actualizacion":  "07/10/2026 14:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2741,7 +2741,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  6,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1126-14072026",
@@ -6031,6 +6031,16 @@
                   },
                   {
                       "codigo":  "4MVI004",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "19-08-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0828-190826",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
                       "cantidad":  28,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
@@ -6340,5 +6350,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61548
+    "total_general_cajas":  61550
 };
