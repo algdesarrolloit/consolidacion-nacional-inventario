@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3396
+                          "cajas":  3398
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -717,7 +717,7 @@
                           "zulia":  45,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
-                          "andes":  27,
+                          "andes":  29,
                           "margarita":  21,
                           "capital":  30,
                           "barcelona":  14,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 14:20:46",
+    "ultima_actualizacion":  "07/10/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1321,7 +1321,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  74,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-190126",
@@ -1421,7 +1421,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  43,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -5401,7 +5401,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  27,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -6340,5 +6340,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61546
+    "total_general_cajas":  61548
 };
