@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2610
+                          "cajas":  2608
                       },
                       {
                           "almacen":  "CAGUA",
@@ -606,7 +606,7 @@
                           "barcelona":  21,
                           "cagua":  773,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  73,
+                          "barquisimeto":  72,
                           "bolivar":  27
                       },
                       {
@@ -723,7 +723,7 @@
                           "barcelona":  14,
                           "cagua":  822,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  28,
                           "bolivar":  25
                       },
                       {
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 15:00:46",
+    "ultima_actualizacion":  "07/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1711,7 +1711,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  88,
+                      "cantidad":  87,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-140926",
@@ -2111,7 +2111,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  300,
+                      "cantidad":  299,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-22092026",
@@ -2561,7 +2561,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  315,
+                      "cantidad":  314,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-021026",
@@ -3881,7 +3881,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  7,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-10062026",
@@ -4691,7 +4691,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-310726",
@@ -5421,7 +5421,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  29,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-210926",
@@ -6350,5 +6350,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61545
+    "total_general_cajas":  61543
 };
