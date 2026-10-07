@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  40624
+                          "cajas":  40535
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -370,7 +370,7 @@
                           "margarita":  11,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  30,
+                          "cagua":  25,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -799,7 +799,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  721,
+                          "cagua":  637,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 10:00:46",
+    "ultima_actualizacion":  "07/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6277,5 +6277,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  57930
+    "total_general_cajas":  57841
 };
