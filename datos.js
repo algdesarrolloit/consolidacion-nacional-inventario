@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  40535
+                          "cajas":  41855
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -532,6 +532,19 @@
                           "bolivar":  2
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MSA009",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  1320,
+                          "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  17,
                           "codigo":  "4MSA013",
                           "um":  "CJ",
@@ -844,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 10:10:46",
+    "ultima_actualizacion":  "07/10/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2728,7 +2741,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  30,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1126-14072026",
@@ -3975,6 +3988,16 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  1320,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
                   },
                   {
                       "codigo":  "4MSA013",
@@ -6248,17 +6271,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "09-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-090426",
-                      "descripcion":  "PAN BLANCO 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC001",
-                      "cantidad":  716,
+                      "cantidad":  637,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -6277,5 +6290,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  57841
+    "total_general_cajas":  59161
 };
