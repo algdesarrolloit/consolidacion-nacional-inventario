@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  44202
+                          "cajas":  44201
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3250
+                          "cajas":  3165
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -376,7 +376,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  92,
+                          "zulia":  7,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  4,
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  415,
+                          "cagua":  414,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 16:30:46",
+    "ultima_actualizacion":  "07/10/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2891,23 +2891,13 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  41,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-180626",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
                   },
                   {
                       "codigo":  "4MNA008",
@@ -6340,5 +6330,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61215
+    "total_general_cajas":  61129
 };
