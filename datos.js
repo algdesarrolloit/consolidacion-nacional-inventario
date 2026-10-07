@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  45237
+                          "cajas":  51447
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -344,7 +344,7 @@
                           "margarita":  63,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  22,
+                          "cagua":  5427,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  90
@@ -760,7 +760,7 @@
                           "margarita":  51,
                           "capital":  107,
                           "barcelona":  0,
-                          "cagua":  2479,
+                          "cagua":  3284,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  0,
                           "bolivar":  16
@@ -844,7 +844,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 08:10:46",
+    "ultima_actualizacion":  "07/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2265,6 +2265,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  5405,
+                      "fecha_fabricacion":  "02-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-021026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "02-04-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -4808,6 +4818,26 @@
                   },
                   {
                       "codigo":  "4MVI002",
+                      "cantidad":  404,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-280926",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
+                      "cantidad":  401,
+                      "fecha_fabricacion":  "29-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-290926",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "29-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
                       "cantidad":  107,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -5077,5 +5107,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  54205
+    "total_general_cajas":  60415
 };
