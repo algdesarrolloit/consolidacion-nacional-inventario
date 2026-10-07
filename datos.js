@@ -101,14 +101,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2328
+                          "cajas":  2308
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3395
+                          "cajas":  3396
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  310,
                           "margarita":  95,
-                          "capital":  106,
+                          "capital":  96,
                           "barcelona":  96,
                           "cagua":  3985,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  49,
-                          "capital":  43,
+                          "capital":  33,
                           "barcelona":  54,
                           "cagua":  3150,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -717,7 +717,7 @@
                           "zulia":  45,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
-                          "andes":  26,
+                          "andes":  27,
                           "margarita":  21,
                           "capital":  30,
                           "barcelona":  14,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 14:10:46",
+    "ultima_actualizacion":  "07/10/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5401,7 +5401,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  26,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -6340,5 +6340,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61565
+    "total_general_cajas":  61546
 };
