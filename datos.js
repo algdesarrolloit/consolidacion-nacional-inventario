@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  44185
+                          "cajas":  44203
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3550
+                          "cajas":  3586
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -162,7 +162,7 @@
                           "margarita":  38,
                           "capital":  79,
                           "barcelona":  61,
-                          "cagua":  1230,
+                          "cagua":  1232,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  81,
                           "bolivar":  84
@@ -181,14 +181,14 @@
                           "bolivar":  131
                       },
                       {
-                          "zulia":  78,
+                          "zulia":  79,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  49,
                           "capital":  33,
                           "barcelona":  54,
-                          "cagua":  3149,
+                          "cagua":  3150,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  80,
                           "bolivar":  84
@@ -246,7 +246,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  79,
+                          "zulia":  99,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  50,
@@ -324,7 +324,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  82,
@@ -363,7 +363,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  22,
+                          "zulia":  24,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  6,
@@ -454,7 +454,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  89,
+                          "zulia":  97,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  63,
@@ -493,7 +493,7 @@
                           "bolivar":  50
                       },
                       {
-                          "zulia":  93,
+                          "zulia":  94,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  40,
@@ -701,7 +701,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  65,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  68,
@@ -714,7 +714,7 @@
                           "bolivar":  19
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  45,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  26,
@@ -792,7 +792,7 @@
                           "bolivar":  107
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  6,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  35,
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  637,
+                          "cagua":  645,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  408,
+                          "cagua":  415,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 12:00:46",
+    "ultima_actualizacion":  "07/10/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1141,7 +1141,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1230,
+                      "cantidad":  1232,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1411,7 +1411,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3149,
+                      "cantidad":  3150,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1441,7 +1441,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  78,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -1841,7 +1841,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  19,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "12-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-120926",
@@ -2530,6 +2530,16 @@
                       "fecha_vencimiento":  "24-03-2027"
                   },
                   {
+                      "codigo":  "4MMA003",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0327-24092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
+                  },
+                  {
                       "codigo":  "4MMA006",
                       "cantidad":  315,
                       "fecha_fabricacion":  "02-10-2026",
@@ -2801,7 +2811,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  22,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1126-10072026",
@@ -3501,6 +3511,16 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  8,
+                      "fecha_fabricacion":  "30-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-30072026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  39,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ZULIA",
@@ -3821,7 +3841,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  23,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-090626",
@@ -5371,7 +5391,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  64,
+                      "cantidad":  65,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-230926",
@@ -5451,7 +5471,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  44,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-210926",
@@ -6291,7 +6311,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  5,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-200826",
@@ -6301,7 +6321,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  637,
+                      "cantidad":  645,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -6311,7 +6331,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  408,
+                      "cantidad":  415,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
@@ -6320,5 +6340,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61491
+    "total_general_cajas":  61545
 };
