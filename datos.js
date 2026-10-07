@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106703.9,
-                          "cajas":  43115
+                          "cajas":  44185
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  59,
                           "barcelona":  183,
-                          "cagua":  2698,
+                          "cagua":  3218,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  78,
                           "bolivar":  41
@@ -500,7 +500,7 @@
                           "margarita":  22,
                           "capital":  56,
                           "barcelona":  32,
-                          "cagua":  693,
+                          "cagua":  1243,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  40,
                           "bolivar":  42
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 11:50:46",
+    "ultima_actualizacion":  "07/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3181,7 +3181,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  58,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -3201,7 +3201,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  120,
+                      "cantidad":  332,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-021225",
@@ -3215,6 +3215,16 @@
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
+                      "descripcion":  "ENCURTIDOS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-12-2028"
+                  },
+                  {
+                      "codigo":  "4MNA014",
+                      "cantidad":  306,
+                      "fecha_fabricacion":  "12-12-2025",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1228-12122025 NV",
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-12-2028"
@@ -3768,6 +3778,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  550,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-30092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -6300,5 +6320,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60421
+    "total_general_cajas":  61491
 };
