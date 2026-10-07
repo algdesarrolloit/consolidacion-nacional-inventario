@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59081,
-                                                              "bidones":  1074.2
+                                                              "kg":  54516,
+                                                              "bidones":  991.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  106703.9,
+                          "kg":  102138.9,
                           "cajas":  44201
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  2289
                       }
                   ],
-    "total_general_kg":  106703.9,
+    "total_general_kg":  102138.9,
     "productos":  [
                       {
                           "zulia":  99,
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59081,
+                          "cagua":  54516,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 16:40:46",
+    "ultima_actualizacion":  "07/10/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6321,7 +6321,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  415,
+                      "cantidad":  414,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
