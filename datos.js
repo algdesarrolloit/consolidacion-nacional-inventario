@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2614
+                          "cajas":  2610
                       },
                       {
                           "almacen":  "CAGUA",
@@ -255,7 +255,7 @@
                           "barcelona":  49,
                           "cagua":  1508,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  88,
+                          "barquisimeto":  87,
                           "bolivar":  49
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  142,
                           "cagua":  787,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  300,
+                          "barquisimeto":  299,
                           "bolivar":  232
                       },
                       {
@@ -346,7 +346,7 @@
                           "barcelona":  105,
                           "cagua":  1702,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  315,
+                          "barquisimeto":  314,
                           "bolivar":  300
                       },
                       {
@@ -515,7 +515,7 @@
                           "barcelona":  20,
                           "cagua":  756,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  47,
+                          "barquisimeto":  46,
                           "bolivar":  43
                       },
                       {
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 14:50:46",
+    "ultima_actualizacion":  "07/10/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6350,5 +6350,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61549
+    "total_general_cajas":  61545
 };
