@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1423
+                          "cajas":  1426
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -369,7 +369,7 @@
                           "andes":  7,
                           "margarita":  11,
                           "capital":  29,
-                          "barcelona":  0,
+                          "barcelona":  2,
                           "cagua":  25,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
@@ -499,7 +499,7 @@
                           "andes":  40,
                           "margarita":  22,
                           "capital":  56,
-                          "barcelona":  32,
+                          "barcelona":  33,
                           "cagua":  1243,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  40,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "07/10/2026 16:10:46",
+    "ultima_actualizacion":  "07/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2761,6 +2761,16 @@
                   },
                   {
                       "codigo":  "4MMA014",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "10-07-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1126-100726",
+                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-11-2026"
+                  },
+                  {
+                      "codigo":  "4MMA014",
                       "cantidad":  1,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3748,6 +3758,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0628-090626",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -6320,5 +6340,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61212
+    "total_general_cajas":  61215
 };
