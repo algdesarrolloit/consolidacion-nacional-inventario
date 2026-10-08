@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 15:40:46",
+    "ultima_actualizacion":  "08/10/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1061,7 +1061,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  33,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0127-200126",
@@ -1071,7 +1071,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  13,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-230526",
@@ -1351,7 +1351,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  88,
+                      "cantidad":  81,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-200526",
@@ -1431,7 +1431,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  78,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -1831,7 +1831,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  39,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "12-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-120926",
@@ -2051,7 +2051,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  76,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -2211,17 +2211,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  54,
-                      "fecha_fabricacion":  "07-09-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0928-070926",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  119,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-08092026",
@@ -2321,7 +2311,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  39,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-300726",
@@ -2650,16 +2640,6 @@
                       "fecha_vencimiento":  "02-04-2027"
                   },
                   {
-                      "codigo":  "4MMA006",
-                      "cantidad":  155,
-                      "fecha_fabricacion":  "02-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0427-021026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-04-2027"
-                  },
-                  {
                       "codigo":  "4MMA011",
                       "cantidad":  29,
                       "fecha_fabricacion":  "29-09-2026",
@@ -2791,7 +2771,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  25,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1126-10072026",
@@ -2841,23 +2821,13 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-180626",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-11-2025",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1128-101125",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -2881,7 +2851,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "11-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-111125-NV",
@@ -3021,7 +2991,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  169,
+                      "cantidad":  157,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3181,7 +3151,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  55,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3301,7 +3271,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  54,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
@@ -3401,17 +3371,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "30-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-30072026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  50,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-14082026",
@@ -3491,7 +3451,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  33,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-06072026",
@@ -3581,23 +3541,13 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-29092026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  19,
-                      "fecha_fabricacion":  "30-09-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0928-300926",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -3721,7 +3671,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  24,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-090626",
@@ -3841,7 +3791,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  48,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-220926",
@@ -3901,7 +3851,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  24,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1227-17122025",
@@ -3954,16 +3904,6 @@
                       "cantidad":  103,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "MARGARITA",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  25,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "ZULIA",
                       "lote":  "0628-150626",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
@@ -4501,7 +4441,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  32,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-280726",
@@ -4631,7 +4571,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  58,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-310726",
@@ -4911,7 +4851,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "11-09-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-110925",
@@ -4928,16 +4868,6 @@
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "19-05-2028"
-                  },
-                  {
-                      "codigo":  "4MTO012",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "08-06-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0628-080626",
-                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-06-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -5091,7 +5021,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  61,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "23-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-230626",
@@ -5111,7 +5041,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  14,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-23072026",
@@ -5211,7 +5141,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  59,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-230926",
@@ -5291,7 +5221,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  39,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-210926",
@@ -5401,7 +5331,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  64,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-25082026",
@@ -5561,17 +5491,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  31,
-                      "fecha_fabricacion":  "15-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-15072026",
-                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-07-2028"
-                  },
-                  {
-                      "codigo":  "4MTO018",
-                      "cantidad":  120,
+                      "cantidad":  113,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-170926",
@@ -5611,7 +5531,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "04-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0327-04092026",
@@ -5791,17 +5711,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "31-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0828-310826",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
-                      "cantidad":  120,
+                      "cantidad":  116,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-010926",
@@ -5981,17 +5891,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "14-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0828-140826",
-                      "descripcion":  "VINAGRE 24 X 500ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI004",
-                      "cantidad":  117,
+                      "cantidad":  107,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-100926",
