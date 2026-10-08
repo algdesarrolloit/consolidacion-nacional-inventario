@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  49163
+                          "cajas":  49048
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  76,
                           "capital":  89,
                           "barcelona":  96,
-                          "cagua":  2146,
+                          "cagua":  2140,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  124,
                           "bolivar":  164
@@ -162,7 +162,7 @@
                           "margarita":  38,
                           "capital":  79,
                           "barcelona":  61,
-                          "cagua":  1230,
+                          "cagua":  1228,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  81,
                           "bolivar":  84
@@ -175,7 +175,7 @@
                           "margarita":  95,
                           "capital":  96,
                           "barcelona":  96,
-                          "cagua":  3983,
+                          "cagua":  3975,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  123,
                           "bolivar":  131
@@ -188,7 +188,7 @@
                           "margarita":  49,
                           "capital":  33,
                           "barcelona":  54,
-                          "cagua":  3148,
+                          "cagua":  3145,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  80,
                           "bolivar":  84
@@ -396,7 +396,7 @@
                           "margarita":  20,
                           "capital":  21,
                           "barcelona":  0,
-                          "cagua":  66,
+                          "cagua":  54,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -409,7 +409,7 @@
                           "margarita":  81,
                           "capital":  100,
                           "barcelona":  38,
-                          "cagua":  2457,
+                          "cagua":  2451,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  143,
                           "bolivar":  132
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  59,
                           "barcelona":  183,
-                          "cagua":  3218,
+                          "cagua":  3215,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  78,
                           "bolivar":  41
@@ -461,7 +461,7 @@
                           "margarita":  63,
                           "capital":  30,
                           "barcelona":  37,
-                          "cagua":  599,
+                          "cagua":  590,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  47,
                           "bolivar":  54
@@ -474,7 +474,7 @@
                           "margarita":  40,
                           "capital":  29,
                           "barcelona":  35,
-                          "cagua":  305,
+                          "cagua":  300,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  50,
                           "bolivar":  43
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  644,
+                          "cagua":  604,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  414,
+                          "cagua":  393,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 08:50:46",
+    "ultima_actualizacion":  "08/10/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6440,5 +6440,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66718
+    "total_general_cajas":  66603
 };
