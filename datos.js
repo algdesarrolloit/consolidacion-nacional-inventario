@@ -87,21 +87,21 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2613
+                          "cajas":  2733
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  102138.9,
-                          "cajas":  49951
+                          "cajas":  49431
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2308
+                          "cajas":  2428
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,21 +122,21 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3165
+                          "cajas":  3290
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1424
+                          "cajas":  1464
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2289
+                          "cajas":  2409
                       }
                   ],
     "total_general_kg":  102138.9,
@@ -298,7 +298,7 @@
                           "bolivar":  232
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  39,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
                           "andes":  75,
@@ -363,7 +363,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  25,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  7,
@@ -532,17 +532,17 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  120,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  1320,
+                          "capital":  120,
+                          "barcelona":  40,
+                          "cagua":  800,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  0,
-                          "bolivar":  0
+                          "barquisimeto":  120,
+                          "bolivar":  120
                       },
                       {
                           "zulia":  17,
@@ -584,7 +584,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  40,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  64,
@@ -779,7 +779,7 @@
                           "bolivar":  76
                       },
                       {
-                          "zulia":  182,
+                          "zulia":  183,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  149,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 08:00:46",
+    "ultima_actualizacion":  "08/10/2026 08:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2321,7 +2321,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  38,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-300726",
@@ -2611,7 +2611,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  3642,
+                      "cantidad":  442,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-021026",
@@ -2841,7 +2841,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  24,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1126-10072026",
@@ -4081,9 +4081,59 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1320,
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  800,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0628-150626",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
@@ -4681,6 +4731,16 @@
                   },
                   {
                       "codigo":  "4MSU002",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "09-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-09072026",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-07-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
                       "cantidad":  38,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "ZULIA",
@@ -4811,7 +4871,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  62,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-310726",
@@ -4971,7 +5031,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "10-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0327-10062026",
@@ -6241,7 +6301,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  116,
+                      "cantidad":  117,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-100926",
@@ -6370,5 +6430,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66877
+    "total_general_cajas":  66882
 };
