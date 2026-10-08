@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  47622.9,
-                                                              "bidones":  793.72
+                                                              "kg":  46902.9,
+                                                              "bidones":  781.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  54516,
-                                                              "bidones":  991.2
+                                                              "kg":  54131,
+                                                              "bidones":  984.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,8 +93,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  102138.9,
-                          "cajas":  49431
+                          "kg":  101033.9,
+                          "cajas":  49328
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -115,7 +115,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1727
+                          "cajas":  1830
                       },
                       {
                           "almacen":  "ZULIA",
@@ -139,7 +139,7 @@
                           "cajas":  2409
                       }
                   ],
-    "total_general_kg":  102138.9,
+    "total_general_kg":  101033.9,
     "productos":  [
                       {
                           "zulia":  99,
@@ -536,10 +536,10 @@
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  0,
+                          "margarita":  103,
                           "capital":  120,
                           "barcelona":  40,
-                          "cagua":  800,
+                          "cagua":  697,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  120,
                           "bolivar":  120
@@ -838,7 +838,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  47622.9,
+                          "cagua":  46902.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  54516,
+                          "cagua":  54131,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 08:10:46",
+    "ultima_actualizacion":  "08/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4111,7 +4111,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  800,
+                      "cantidad":  697,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-150626",
@@ -4124,6 +4124,16 @@
                       "cantidad":  120,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  103,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "0628-150626",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
