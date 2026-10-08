@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1426
+                          "cajas":  1424
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -460,7 +460,7 @@
                           "andes":  63,
                           "margarita":  63,
                           "capital":  30,
-                          "barcelona":  38,
+                          "barcelona":  37,
                           "cagua":  609,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  47,
@@ -707,7 +707,7 @@
                           "andes":  68,
                           "margarita":  11,
                           "capital":  36,
-                          "barcelona":  20,
+                          "barcelona":  19,
                           "cagua":  358,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  40,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 07:30:46",
+    "ultima_actualizacion":  "08/10/2026 07:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3421,7 +3421,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-13082026",
@@ -5301,7 +5301,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -6330,5 +6330,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61129
+    "total_general_cajas":  61127
 };
