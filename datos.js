@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2426
+                          "cajas":  2382
                       },
                       {
                           "almacen":  "ANDES",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  324,
                           "margarita":  208,
-                          "capital":  207,
+                          "capital":  201,
                           "barcelona":  142,
                           "cagua":  787,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  315,
                           "margarita":  273,
-                          "capital":  315,
+                          "capital":  304,
                           "barcelona":  105,
                           "cagua":  6665,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -394,7 +394,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  20,
-                          "capital":  21,
+                          "capital":  20,
                           "barcelona":  0,
                           "cagua":  52,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  17,
-                          "capital":  6,
+                          "capital":  3,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  53,
                           "margarita":  63,
-                          "capital":  30,
+                          "capital":  28,
                           "barcelona":  37,
                           "cagua":  586,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  22,
-                          "capital":  55,
+                          "capital":  45,
                           "barcelona":  25,
                           "cagua":  275,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  22,
-                          "capital":  56,
+                          "capital":  52,
                           "barcelona":  33,
                           "cagua":  756,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  22,
-                          "capital":  56,
+                          "capital":  49,
                           "barcelona":  20,
                           "cagua":  842,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 11:50:46",
+    "ultima_actualizacion":  "08/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6420,5 +6420,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62693
+    "total_general_cajas":  62649
 };
