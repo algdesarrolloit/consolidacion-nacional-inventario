@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 12:20:46",
+    "ultima_actualizacion":  "08/10/2026 12:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3491,7 +3491,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  28,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-13082026",
