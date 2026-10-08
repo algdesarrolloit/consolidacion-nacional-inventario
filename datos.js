@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2733
+                          "cajas":  2681
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  47419
+                          "cajas":  47471
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2943
+                          "cajas":  2662
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -142,7 +142,7 @@
     "total_general_kg":  101033.9,
     "productos":  [
                       {
-                          "zulia":  97,
+                          "zulia":  95,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  239,
@@ -168,7 +168,7 @@
                           "bolivar":  84
                       },
                       {
-                          "zulia":  88,
+                          "zulia":  86,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  310,
@@ -246,7 +246,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  99,
+                          "zulia":  97,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  50,
@@ -272,7 +272,7 @@
                           "bolivar":  28
                       },
                       {
-                          "zulia":  73,
+                          "zulia":  64,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  50,
@@ -285,7 +285,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  343,
+                          "zulia":  267,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  324,
@@ -337,7 +337,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  155,
+                          "zulia":  102,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  315,
@@ -363,7 +363,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  23,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  7,
@@ -376,7 +376,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  7,
+                          "zulia":  5,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  4,
@@ -402,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  169,
+                          "zulia":  158,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  226,
@@ -428,7 +428,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  55,
+                          "zulia":  52,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  60,
@@ -454,7 +454,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  54,
+                          "zulia":  49,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  53,
@@ -467,7 +467,7 @@
                           "bolivar":  54
                       },
                       {
-                          "zulia":  33,
+                          "zulia":  27,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  30,
@@ -480,7 +480,7 @@
                           "bolivar":  43
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  36,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  40,
@@ -493,7 +493,7 @@
                           "bolivar":  50
                       },
                       {
-                          "zulia":  94,
+                          "zulia":  91,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  40,
@@ -506,7 +506,7 @@
                           "bolivar":  42
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  25,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  40,
@@ -532,7 +532,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  11,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  0,
@@ -584,7 +584,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  30,
+                          "zulia":  24,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  64,
@@ -617,9 +617,9 @@
                           "margarita":  43,
                           "capital":  16,
                           "barcelona":  12,
-                          "cagua":  324,
+                          "cagua":  376,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  52,
+                          "barquisimeto":  0,
                           "bolivar":  20
                       },
                       {
@@ -649,7 +649,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  46,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
                           "andes":  65,
@@ -662,7 +662,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4MTO012",
                           "um":  "CJ",
                           "andes":  0,
@@ -675,7 +675,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  236,
+                          "zulia":  231,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  255,
@@ -701,7 +701,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  59,
+                          "zulia":  56,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  68,
@@ -714,7 +714,7 @@
                           "bolivar":  19
                       },
                       {
-                          "zulia":  39,
+                          "zulia":  35,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  29,
@@ -727,7 +727,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  63,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  43,
@@ -740,7 +740,7 @@
                           "bolivar":  42
                       },
                       {
-                          "zulia":  149,
+                          "zulia":  123,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  101,
@@ -753,7 +753,7 @@
                           "bolivar":  53
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  3,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  0,
@@ -766,7 +766,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  131,
+                          "zulia":  125,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  0,
@@ -779,7 +779,7 @@
                           "bolivar":  76
                       },
                       {
-                          "zulia":  180,
+                          "zulia":  177,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  150,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 10:30:46",
+    "ultima_actualizacion":  "08/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4881,16 +4881,6 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  52,
-                      "fecha_fabricacion":  "15-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0927-150926-NV",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSU015",
                       "cantidad":  20,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -4898,6 +4888,16 @@
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
+                      "cantidad":  52,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0927-150926-NV",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2027"
                   },
                   {
                       "codigo":  "4MSU015",
@@ -6420,5 +6420,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64570
+    "total_general_cajas":  64289
 };
