@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  102138.9,
-                          "cajas":  47470
+                          "cajas":  49789
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  208,
                           "capital":  185,
                           "barcelona":  115,
-                          "cagua":  787,
+                          "cagua":  2587,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  30,
                           "bolivar":  224
@@ -565,7 +565,7 @@
                           "margarita":  16,
                           "capital":  2,
                           "barcelona":  15,
-                          "cagua":  417,
+                          "cagua":  593,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  17,
                           "bolivar":  20
@@ -578,7 +578,7 @@
                           "margarita":  18,
                           "capital":  28,
                           "barcelona":  15,
-                          "cagua":  389,
+                          "cagua":  732,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  12,
                           "bolivar":  25
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 16:00:46",
+    "ultima_actualizacion":  "08/10/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2158,6 +2158,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1800,
+                      "fecha_fabricacion":  "07-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-071026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -4121,6 +4131,16 @@
                   },
                   {
                       "codigo":  "4MSA015",
+                      "cantidad":  176,
+                      "fecha_fabricacion":  "07-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-071026",
+                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSA015",
                       "cantidad":  2,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -4288,6 +4308,16 @@
                       "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  343,
+                      "fecha_fabricacion":  "05-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-051026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-10-2027"
                   },
                   {
                       "codigo":  "4MSA017",
@@ -5990,5 +6020,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61610
+    "total_general_cajas":  63929
 };
