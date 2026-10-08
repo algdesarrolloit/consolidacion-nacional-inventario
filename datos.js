@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  47622.9,
-                                                              "bidones":  793.72
+                                                              "kg":  47562.9,
+                                                              "bidones":  792.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  54516,
-                                                              "bidones":  991.2
+                                                              "kg":  54461,
+                                                              "bidones":  990.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  102138.9,
+                          "kg":  102023.9,
                           "cajas":  49789
                       },
                       {
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1887
+                          "cajas":  1886
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2354
+                          "cajas":  2468
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -139,7 +139,7 @@
                           "cajas":  2002
                       }
                   ],
-    "total_general_kg":  102138.9,
+    "total_general_kg":  102023.9,
     "productos":  [
                       {
                           "zulia":  91,
@@ -220,7 +220,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  2,
+                          "zulia":  3,
                           "codigo":  "4CNA057",
                           "um":  "CJ",
                           "andes":  2,
@@ -285,7 +285,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  196,
+                          "zulia":  201,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  324,
@@ -311,7 +311,7 @@
                           "bolivar":  24
                       },
                       {
-                          "zulia":  29,
+                          "zulia":  33,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
                           "andes":  15,
@@ -324,7 +324,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  2,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  82,
@@ -337,12 +337,12 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  315,
                           "margarita":  261,
-                          "capital":  227,
+                          "capital":  226,
                           "barcelona":  64,
                           "cagua":  6665,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -350,7 +350,7 @@
                           "bolivar":  262
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  16,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
                           "andes":  29,
@@ -363,7 +363,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  23,
+                          "zulia":  24,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  7,
@@ -376,7 +376,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  4,
+                          "zulia":  89,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  4,
@@ -402,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  157,
+                          "zulia":  158,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  226,
@@ -428,7 +428,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  56,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  60,
@@ -441,7 +441,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  58,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  64,
@@ -701,7 +701,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  54,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  68,
@@ -838,7 +838,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  47622.9,
+                          "cagua":  47562.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  54516,
+                          "cagua":  54461,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 16:10:46",
+    "ultima_actualizacion":  "08/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1621,7 +1621,7 @@
                   },
                   {
                       "codigo":  "4CNA057",
-                      "cantidad":  2,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "05-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0627-050627",
@@ -2221,6 +2221,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "07-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0928-070926",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  16,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "ZULIA",
@@ -2441,7 +2451,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  9,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0227-10082026",
@@ -2515,6 +2525,16 @@
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0327-24092026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0327-240926",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-03-2027"
@@ -2621,7 +2641,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  227,
+                      "cantidad":  226,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -2631,7 +2651,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  61,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -2648,6 +2668,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "02-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0327-170926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-03-2027"
                   },
                   {
                       "codigo":  "4MMA011",
@@ -2698,6 +2728,16 @@
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-01-2027"
+                  },
+                  {
+                      "codigo":  "4MMA011",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "23-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0127-23092026",
+                      "descripcion":  "MAYONESA 4 X 3.35 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-01-2027"
                   },
                   {
                       "codigo":  "4MMA011",
@@ -2781,7 +2821,7 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  23,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1126-10072026",
@@ -2831,13 +2871,23 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  4,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-180626",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-060726",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -3001,7 +3051,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  157,
+                      "cantidad":  158,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3161,7 +3211,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  50,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3281,7 +3331,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  51,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
@@ -5171,7 +5221,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  53,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-230926",
@@ -6020,5 +6070,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63929
+    "total_general_cajas":  64042
 };
