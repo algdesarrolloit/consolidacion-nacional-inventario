@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  49048
+                          "cajas":  48964
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  76,
                           "capital":  89,
                           "barcelona":  96,
-                          "cagua":  2140,
+                          "cagua":  2129,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  124,
                           "bolivar":  164
@@ -162,7 +162,7 @@
                           "margarita":  38,
                           "capital":  79,
                           "barcelona":  61,
-                          "cagua":  1228,
+                          "cagua":  1217,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  81,
                           "bolivar":  84
@@ -175,7 +175,7 @@
                           "margarita":  95,
                           "capital":  96,
                           "barcelona":  96,
-                          "cagua":  3975,
+                          "cagua":  3964,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  123,
                           "bolivar":  131
@@ -188,7 +188,7 @@
                           "margarita":  49,
                           "capital":  33,
                           "barcelona":  54,
-                          "cagua":  3145,
+                          "cagua":  3134,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  80,
                           "bolivar":  84
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  604,
+                          "cagua":  579,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  393,
+                          "cagua":  378,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 09:00:46",
+    "ultima_actualizacion":  "08/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6421,7 +6421,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  644,
+                      "cantidad":  629,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -6440,5 +6440,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66603
+    "total_general_cajas":  66519
 };
