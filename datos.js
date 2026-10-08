@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2428
+                          "cajas":  2427
                       },
                       {
                           "almacen":  "ANDES",
@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2409
+                          "cajas":  2315
                       }
                   ],
     "total_general_kg":  101033.9,
@@ -295,7 +295,7 @@
                           "cagua":  787,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  30,
-                          "bolivar":  232
+                          "bolivar":  227
                       },
                       {
                           "zulia":  35,
@@ -347,7 +347,7 @@
                           "cagua":  6665,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  209,
-                          "bolivar":  300
+                          "bolivar":  295
                       },
                       {
                           "zulia":  15,
@@ -490,7 +490,7 @@
                           "cagua":  275,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  32,
-                          "bolivar":  50
+                          "bolivar":  47
                       },
                       {
                           "zulia":  87,
@@ -503,7 +503,7 @@
                           "cagua":  756,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  38,
-                          "bolivar":  42
+                          "bolivar":  41
                       },
                       {
                           "zulia":  18,
@@ -542,7 +542,7 @@
                           "cagua":  663,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  97,
-                          "bolivar":  120
+                          "bolivar":  40
                       },
                       {
                           "zulia":  16,
@@ -797,7 +797,7 @@
                           "um":  "CJ",
                           "andes":  25,
                           "margarita":  23,
-                          "capital":  10,
+                          "capital":  9,
                           "barcelona":  10,
                           "cagua":  23,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 11:10:46",
+    "ultima_actualizacion":  "08/10/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6361,7 +6361,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -6420,5 +6420,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63216
+    "total_general_cajas":  63121
 };
