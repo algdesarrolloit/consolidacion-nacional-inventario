@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  48900
+                          "cajas":  48839
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -344,7 +344,7 @@
                           "margarita":  273,
                           "capital":  315,
                           "barcelona":  105,
-                          "cagua":  6670,
+                          "cagua":  6665,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  314,
                           "bolivar":  300
@@ -461,7 +461,7 @@
                           "margarita":  63,
                           "capital":  30,
                           "barcelona":  37,
-                          "cagua":  587,
+                          "cagua":  586,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  47,
                           "bolivar":  54
@@ -487,7 +487,7 @@
                           "margarita":  22,
                           "capital":  55,
                           "barcelona":  25,
-                          "cagua":  760,
+                          "cagua":  755,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  40,
                           "bolivar":  50
@@ -500,7 +500,7 @@
                           "margarita":  22,
                           "capital":  56,
                           "barcelona":  33,
-                          "cagua":  1241,
+                          "cagua":  1236,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  40,
                           "bolivar":  42
@@ -513,7 +513,7 @@
                           "margarita":  22,
                           "capital":  56,
                           "barcelona":  20,
-                          "cagua":  1327,
+                          "cagua":  1322,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  46,
                           "bolivar":  43
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  569,
+                          "cagua":  549,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  368,
+                          "cagua":  348,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 09:20:46",
+    "ultima_actualizacion":  "08/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6440,5 +6440,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66455
+    "total_general_cajas":  66394
 };
