@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1166
+                          "cajas":  1026
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -148,7 +148,7 @@
                           "andes":  239,
                           "margarita":  73,
                           "capital":  84,
-                          "barcelona":  96,
+                          "barcelona":  45,
                           "cagua":  2126,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  94,
@@ -161,7 +161,7 @@
                           "andes":  126,
                           "margarita":  36,
                           "capital":  75,
-                          "barcelona":  61,
+                          "barcelona":  42,
                           "cagua":  1215,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  61,
@@ -174,7 +174,7 @@
                           "andes":  310,
                           "margarita":  92,
                           "capital":  88,
-                          "barcelona":  91,
+                          "barcelona":  40,
                           "cagua":  3961,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  93,
@@ -187,7 +187,7 @@
                           "andes":  168,
                           "margarita":  47,
                           "capital":  25,
-                          "barcelona":  54,
+                          "barcelona":  35,
                           "cagua":  3132,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  58,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 15:10:46",
+    "ultima_actualizacion":  "08/10/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -971,17 +971,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "20-01-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0127-200126",
-                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-01-2027"
-                  },
-                  {
-                      "codigo":  "4CNA016",
-                      "cantidad":  52,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "22-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-220526",
@@ -1121,7 +1111,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  81,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1221,7 +1211,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  100,
+                      "cantidad":  80,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-200526",
@@ -1391,7 +1381,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  80,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -2831,16 +2821,6 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  13,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
                       "cantidad":  12,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -2941,7 +2921,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  143,
+                      "cantidad":  83,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-20022026",
@@ -3101,23 +3081,13 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0328-110326",
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-03-2028"
-                  },
-                  {
-                      "codigo":  "4MNA014",
-                      "cantidad":  48,
-                      "fecha_fabricacion":  "02-12-2025",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1128-021225",
-                      "descripcion":  "ENCURTIDOS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-12-2028"
                   },
                   {
                       "codigo":  "4MNA014",
@@ -3381,17 +3351,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "30-07-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0728-30072026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  40,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-14082026",
@@ -3484,16 +3444,6 @@
                       "cantidad":  35,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -6210,5 +6160,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61748
+    "total_general_cajas":  61608
 };
