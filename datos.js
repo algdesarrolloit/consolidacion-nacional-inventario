@@ -115,7 +115,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1722
+                          "cajas":  1724
                       },
                       {
                           "almacen":  "ZULIA",
@@ -419,7 +419,7 @@
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  15,
+                          "margarita":  16,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
@@ -458,7 +458,7 @@
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  53,
-                          "margarita":  62,
+                          "margarita":  63,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  586,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "08/10/2026 15:30:46",
+    "ultima_actualizacion":  "08/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1051,7 +1051,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  32,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0627-150626",
@@ -1061,7 +1061,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  35,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0127-200126",
@@ -1151,7 +1151,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  38,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -1161,7 +1161,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  84,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -1341,7 +1341,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  32,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-210526",
@@ -1351,7 +1351,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  90,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-200526",
@@ -1421,7 +1421,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  49,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -1431,7 +1431,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  79,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -2301,7 +2301,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-300726",
@@ -2631,7 +2631,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  63,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -2651,7 +2651,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  215,
+                      "cantidad":  155,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0427-021026",
@@ -2871,7 +2871,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1228-101225",
@@ -3021,7 +3021,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  187,
+                      "cantidad":  169,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3031,7 +3031,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-050826 NV",
@@ -3181,7 +3181,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  77,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3301,7 +3301,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  56,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
@@ -3401,23 +3401,13 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  8,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-30072026",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0828-13082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3501,7 +3491,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  56,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-06072026",
@@ -3581,7 +3571,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  22,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-29092026",
@@ -3601,7 +3591,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  22,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -3721,7 +3711,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  22,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-24092026",
@@ -3841,7 +3831,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  22,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "25-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-25092026",
@@ -3851,7 +3841,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  52,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-220926",
@@ -3911,7 +3901,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  25,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1227-17122025",
@@ -3971,7 +3961,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  120,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-150626",
@@ -4101,7 +4091,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0727-16072026",
@@ -4241,7 +4231,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  7,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "22-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1226-191225",
@@ -4511,17 +4501,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "09-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-09072026",
-                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-07-2028"
-                  },
-                  {
-                      "codigo":  "4MSU002",
-                      "cantidad":  38,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-280726",
@@ -4651,7 +4631,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  60,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-310726",
@@ -4951,7 +4931,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  4,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-080626",
@@ -5101,17 +5081,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  32,
-                      "fecha_fabricacion":  "23-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0728-23072026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-07-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  60,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-20082026",
@@ -5121,7 +5091,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  66,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "23-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-230626",
@@ -5241,7 +5211,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  65,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-230926",
@@ -5321,7 +5291,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  45,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-210926",
@@ -5431,7 +5401,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  66,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-25082026",
@@ -5571,16 +5541,6 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "12-03-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0328-12032026",
-                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "12-03-2028"
-                  },
-                  {
-                      "codigo":  "4MTO018",
                       "cantidad":  2,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -5601,7 +5561,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  51,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-15072026",
@@ -5611,7 +5571,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  122,
+                      "cantidad":  120,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-170926",
@@ -5781,7 +5741,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "17-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-170726",
@@ -5831,7 +5791,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  22,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-310826",
@@ -6001,7 +5961,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  27,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "17-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-170826",
@@ -6110,16 +6070,6 @@
                       "fecha_vencimiento":  "30-09-2028"
                   },
                   {
-                      "codigo":  "4MVI006",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "20-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0828-200826",
-                      "descripcion":  "VINAGRE 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-08-2028"
-                  },
-                  {
                       "codigo":  "4PAC001",
                       "cantidad":  560,
                       "fecha_fabricacion":  "19-04-2026",
@@ -6140,5 +6090,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61608
+    "total_general_cajas":  61610
 };
