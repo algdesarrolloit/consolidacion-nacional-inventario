@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  54571
+                          "cajas":  54516
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  31,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  2101,
+                          "cagua":  1940,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  7
@@ -344,7 +344,7 @@
                           "margarita":  261,
                           "capital":  198,
                           "barcelona":  64,
-                          "cagua":  6594,
+                          "cagua":  6700,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  209,
                           "bolivar":  262
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 13:40:46",
+    "ultima_actualizacion":  "09/10/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2621,7 +2621,17 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  356,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0327-280926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  461,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-021026",
@@ -6040,5 +6050,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68408
+    "total_general_cajas":  68353
 };
