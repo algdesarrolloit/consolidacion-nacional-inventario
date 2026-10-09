@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1029
+                          "cajas":  1027
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -707,7 +707,7 @@
                           "andes":  68,
                           "margarita":  11,
                           "capital":  34,
-                          "barcelona":  16,
+                          "barcelona":  15,
                           "cagua":  348,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  38,
@@ -720,7 +720,7 @@
                           "andes":  29,
                           "margarita":  21,
                           "capital":  30,
-                          "barcelona":  13,
+                          "barcelona":  12,
                           "cagua":  818,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  27,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 11:00:46",
+    "ultima_actualizacion":  "09/10/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4941,7 +4941,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-19082026",
@@ -5091,7 +5091,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -5181,7 +5181,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -6000,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64821
+    "total_general_cajas":  64819
 };
