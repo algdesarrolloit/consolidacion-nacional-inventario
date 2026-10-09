@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1918
+                          "cajas":  1909
                       }
                   ],
     "total_general_kg":  101033.9,
@@ -282,7 +282,7 @@
                           "cagua":  782,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  43,
-                          "bolivar":  40
+                          "bolivar":  38
                       },
                       {
                           "zulia":  201,
@@ -438,7 +438,7 @@
                           "cagua":  3215,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  27,
-                          "bolivar":  40
+                          "bolivar":  39
                       },
                       {
                           "zulia":  58,
@@ -451,7 +451,7 @@
                           "cagua":  240,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  57,
-                          "bolivar":  37
+                          "bolivar":  35
                       },
                       {
                           "zulia":  46,
@@ -568,7 +568,7 @@
                           "cagua":  593,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  17,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  0,
@@ -737,7 +737,7 @@
                           "cagua":  1031,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  53,
-                          "bolivar":  38
+                          "bolivar":  35
                       },
                       {
                           "zulia":  113,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 15:30:46",
+    "ultima_actualizacion":  "09/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1021,7 +1021,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  52,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-200126",
@@ -1141,7 +1141,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  75,
+                      "cantidad":  69,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1311,7 +1311,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  56,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-190126",
@@ -1411,7 +1411,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  25,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1991,7 +1991,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  40,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-300926",
@@ -2681,7 +2681,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  208,
+                      "cantidad":  198,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3161,7 +3161,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  40,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0328-110326",
@@ -3311,7 +3311,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  37,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-281125",
@@ -3581,16 +3581,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-29092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  7,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -3711,7 +3701,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  23,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-24092026",
@@ -3831,16 +3821,6 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "25-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-25092026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
                       "cantidad":  12,
                       "fecha_fabricacion":  "25-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -3951,7 +3931,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  46,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-150626",
@@ -4151,7 +4131,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0827-24082026",
@@ -5341,7 +5321,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  38,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
@@ -5511,7 +5491,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-14072026",
@@ -6050,5 +6030,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68379
+    "total_general_cajas":  68370
 };
