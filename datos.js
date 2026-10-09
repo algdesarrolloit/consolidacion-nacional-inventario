@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1886
+                          "cajas":  1884
                       },
                       {
                           "almacen":  "ANDES",
@@ -277,7 +277,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  28,
-                          "capital":  56,
+                          "capital":  55,
                           "barcelona":  35,
                           "cagua":  782,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  324,
                           "margarita":  208,
-                          "capital":  185,
+                          "capital":  184,
                           "barcelona":  115,
                           "cagua":  2397,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 09:00:46",
+    "ultima_actualizacion":  "09/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2011,7 +2011,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2181,7 +2181,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  149,
+                      "cantidad":  148,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-22092026",
@@ -5960,5 +5960,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63215
+    "total_general_cajas":  63213
 };
