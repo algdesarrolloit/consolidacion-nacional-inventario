@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 09:50:46",
+    "ultima_actualizacion":  "09/10/2026 10:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3844,16 +3844,6 @@
                       "cantidad":  9,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  47,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-150626",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
