@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1550
+                          "cajas":  1498
                       },
                       {
                           "almacen":  "ANDES",
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1030
+                          "cajas":  1029
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  73,
-                          "capital":  49,
+                          "capital":  34,
                           "barcelona":  45,
                           "cagua":  2126,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  126,
                           "margarita":  36,
-                          "capital":  65,
+                          "capital":  60,
                           "barcelona":  42,
                           "cagua":  1215,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  310,
                           "margarita":  92,
-                          "capital":  25,
+                          "capital":  0,
                           "barcelona":  40,
                           "cagua":  3961,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  47,
-                          "capital":  7,
+                          "capital":  0,
                           "barcelona":  35,
                           "cagua":  3132,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -681,7 +681,7 @@
                           "andes":  255,
                           "margarita":  52,
                           "capital":  70,
-                          "barcelona":  51,
+                          "barcelona":  50,
                           "cagua":  2486,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  129,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 10:50:46",
+    "ultima_actualizacion":  "09/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6000,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64874
+    "total_general_cajas":  64821
 };
