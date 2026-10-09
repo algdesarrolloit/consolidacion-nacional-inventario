@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  50842
+                          "cajas":  52522
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -539,7 +539,7 @@
                           "margarita":  103,
                           "capital":  26,
                           "barcelona":  9,
-                          "cagua":  575,
+                          "cagua":  2255,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 11:50:46",
+    "ultima_actualizacion":  "09/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3901,6 +3901,16 @@
                   },
                   {
                       "codigo":  "4MSA009",
+                      "cantidad":  1680,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-180926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
                       "cantidad":  93,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAPITAL",
@@ -6000,5 +6010,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64621
+    "total_general_cajas":  66301
 };
