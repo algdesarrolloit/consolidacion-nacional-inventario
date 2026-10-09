@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1500
+                          "cajas":  1513
                       },
                       {
                           "almacen":  "ANDES",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  47,
-                          "capital":  1,
+                          "capital":  2,
                           "barcelona":  35,
                           "cagua":  3077,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  82,
                           "margarita":  31,
-                          "capital":  0,
+                          "capital":  5,
                           "barcelona":  0,
                           "cagua":  1940,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  7,
-                          "capital":  1,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  260,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  12,
+                          "capital":  13,
                           "barcelona":  19,
                           "cagua":  738,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -654,7 +654,7 @@
                           "um":  "CJ",
                           "andes":  65,
                           "margarita":  36,
-                          "capital":  15,
+                          "capital":  16,
                           "barcelona":  57,
                           "cagua":  1558,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
@@ -719,7 +719,7 @@
                           "um":  "CJ",
                           "andes":  29,
                           "margarita":  21,
-                          "capital":  30,
+                          "capital":  32,
                           "barcelona":  12,
                           "cagua":  818,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 15:50:46",
+    "ultima_actualizacion":  "09/10/2026 16:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1391,7 +1391,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2521,6 +2521,16 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0327-240926",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  6,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -3571,6 +3581,16 @@
                   },
                   {
                       "codigo":  "4MSA005",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-22092026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
                       "cantidad":  7,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -3688,6 +3708,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -4861,7 +4891,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  15,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-12082026",
@@ -5241,7 +5271,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  30,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -6020,5 +6050,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68372
+    "total_general_cajas":  68385
 };
