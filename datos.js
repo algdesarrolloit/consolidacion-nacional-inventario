@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1916
+                          "cajas":  1918
                       }
                   ],
     "total_general_kg":  101033.9,
@@ -711,7 +711,7 @@
                           "cagua":  348,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  38,
-                          "bolivar":  12
+                          "bolivar":  14
                       },
                       {
                           "zulia":  35,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 11:10:46",
+    "ultima_actualizacion":  "09/10/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -991,7 +991,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  99,
+                      "cantidad":  89,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0127-200126",
@@ -1121,7 +1121,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  82,
+                      "cantidad":  72,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-31052026",
@@ -1231,7 +1231,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  129,
+                      "cantidad":  107,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-200526",
@@ -1391,7 +1391,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  82,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-31052026",
@@ -1711,7 +1711,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-140926",
@@ -2121,7 +2121,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-070926",
@@ -3261,7 +3261,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  39,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-281125",
@@ -3351,7 +3351,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-14082026",
@@ -3511,7 +3511,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  31,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-29092026",
@@ -3631,7 +3631,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  40,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-210926",
@@ -3751,7 +3751,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  36,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-220926",
@@ -4421,7 +4421,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-09072026",
@@ -4621,7 +4621,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0927-160926",
@@ -5111,7 +5111,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  13,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-230926",
@@ -5291,7 +5291,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  39,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
@@ -5581,7 +5581,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  56,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-010926",
@@ -5801,7 +5801,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  24,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-100926",
@@ -6000,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64819
+    "total_general_cajas":  64821
 };
