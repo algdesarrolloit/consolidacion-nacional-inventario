@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  52470
+                          "cajas":  54571
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  31,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  2101,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  7
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 13:30:46",
+    "ultima_actualizacion":  "09/10/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2498,6 +2498,26 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  689,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-081026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  1412,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -6020,5 +6040,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66307
+    "total_general_cajas":  68408
 };
