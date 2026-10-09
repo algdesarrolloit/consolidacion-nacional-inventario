@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 15:20:46",
+    "ultima_actualizacion":  "09/10/2026 15:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2201,7 +2201,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  36,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2681,7 +2681,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  226,
+                      "cantidad":  208,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3581,7 +3581,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  25,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-29092026",
@@ -3711,17 +3711,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "21-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-210926",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  40,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-24092026",
@@ -3841,7 +3831,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  26,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "25-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-25092026",
@@ -3961,7 +3951,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  93,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-150626",
@@ -5521,7 +5511,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-14072026",
@@ -5721,7 +5711,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  116,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
