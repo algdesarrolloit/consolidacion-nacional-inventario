@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  54548
+                          "cajas":  54545
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  558,
+                          "cagua":  555,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 15:00:46",
+    "ultima_actualizacion":  "09/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6041,7 +6041,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  589,
+                      "cantidad":  555,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -6060,5 +6060,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68382
+    "total_general_cajas":  68379
 };
