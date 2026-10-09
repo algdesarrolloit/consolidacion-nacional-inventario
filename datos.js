@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1849
+                          "cajas":  1803
                       },
                       {
                           "almacen":  "ANDES",
@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2002
+                          "cajas":  1998
                       }
                   ],
     "total_general_kg":  101033.9,
@@ -256,7 +256,7 @@
                           "cagua":  1496,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  81,
-                          "bolivar":  23
+                          "bolivar":  22
                       },
                       {
                           "zulia":  42,
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  184,
+                          "capital":  181,
                           "barcelona":  115,
                           "cagua":  3117,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  314,
                           "margarita":  261,
-                          "capital":  226,
+                          "capital":  223,
                           "barcelona":  64,
                           "cagua":  6594,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -485,12 +485,12 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  7,
-                          "capital":  20,
+                          "capital":  17,
                           "barcelona":  0,
                           "cagua":  260,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  15,
-                          "bolivar":  31
+                          "bolivar":  30
                       },
                       {
                           "zulia":  87,
@@ -498,12 +498,12 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  36,
+                          "capital":  29,
                           "barcelona":  19,
                           "cagua":  738,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  38,
-                          "bolivar":  40
+                          "bolivar":  39
                       },
                       {
                           "zulia":  18,
@@ -511,12 +511,12 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  21,
+                          "capital":  17,
                           "barcelona":  10,
                           "cagua":  837,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  44,
-                          "bolivar":  36
+                          "bolivar":  35
                       },
                       {
                           "zulia":  22,
@@ -537,7 +537,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  103,
-                          "capital":  83,
+                          "capital":  66,
                           "barcelona":  9,
                           "cagua":  575,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -745,7 +745,7 @@
                           "um":  "CJ",
                           "andes":  101,
                           "margarita":  17,
-                          "capital":  93,
+                          "capital":  92,
                           "barcelona":  27,
                           "cagua":  1194,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -771,7 +771,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  53,
-                          "capital":  106,
+                          "capital":  98,
                           "barcelona":  9,
                           "cagua":  2947,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 10:30:46",
+    "ultima_actualizacion":  "09/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6000,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65259
+    "total_general_cajas":  65209
 };
