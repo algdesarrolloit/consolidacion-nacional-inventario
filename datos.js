@@ -94,14 +94,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  51044
+                          "cajas":  51042
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1884
+                          "cajas":  1849
                       },
                       {
                           "almacen":  "ANDES",
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1026
+                          "cajas":  1030
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  7,
-                          "capital":  25,
+                          "capital":  20,
                           "barcelona":  0,
                           "cagua":  260,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,8 +498,8 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  41,
-                          "barcelona":  17,
+                          "capital":  36,
+                          "barcelona":  19,
                           "cagua":  738,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  38,
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  26,
+                          "capital":  21,
                           "barcelona":  10,
                           "cagua":  837,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -537,7 +537,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  103,
-                          "capital":  93,
+                          "capital":  83,
                           "barcelona":  9,
                           "cagua":  575,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -590,7 +590,7 @@
                           "andes":  64,
                           "margarita":  9,
                           "capital":  48,
-                          "barcelona":  11,
+                          "barcelona":  12,
                           "cagua":  356,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  28,
@@ -656,7 +656,7 @@
                           "margarita":  36,
                           "capital":  15,
                           "barcelona":  57,
-                          "cagua":  1561,
+                          "cagua":  1560,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  37,
                           "bolivar":  19
@@ -681,7 +681,7 @@
                           "andes":  255,
                           "margarita":  52,
                           "capital":  70,
-                          "barcelona":  50,
+                          "barcelona":  51,
                           "cagua":  2486,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  129,
@@ -771,9 +771,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  53,
-                          "capital":  116,
+                          "capital":  106,
                           "barcelona":  9,
-                          "cagua":  2948,
+                          "cagua":  2947,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  59,
                           "bolivar":  56
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/10/2026 10:20:46",
+    "ultima_actualizacion":  "09/10/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3571,6 +3571,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0628-090626",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  3,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
@@ -3588,6 +3598,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "2026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -4361,7 +4381,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  1,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-09072026",
@@ -4801,7 +4821,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  676,
+                      "cantidad":  675,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-12082026",
@@ -4921,7 +4941,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  10,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-19082026",
@@ -5581,7 +5601,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  619,
+                      "cantidad":  618,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-070926",
@@ -5980,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65292
+    "total_general_cajas":  65259
 };
