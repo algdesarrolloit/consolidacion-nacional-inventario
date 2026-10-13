@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  54352
+                          "cajas":  54480
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -331,7 +331,7 @@
                           "margarita":  31,
                           "capital":  5,
                           "barcelona":  0,
-                          "cagua":  1823,
+                          "cagua":  1793,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  7
@@ -344,7 +344,7 @@
                           "margarita":  261,
                           "capital":  197,
                           "barcelona":  64,
-                          "cagua":  6331,
+                          "cagua":  6226,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  209,
                           "bolivar":  262
@@ -422,7 +422,7 @@
                           "margarita":  16,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  767,
+                          "cagua":  737,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -461,7 +461,7 @@
                           "margarita":  63,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  579,
+                          "cagua":  559,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  27,
                           "bolivar":  31
@@ -487,7 +487,7 @@
                           "margarita":  7,
                           "capital":  6,
                           "barcelona":  0,
-                          "cagua":  252,
+                          "cagua":  237,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  15,
                           "bolivar":  28
@@ -526,7 +526,7 @@
                           "margarita":  9,
                           "capital":  8,
                           "barcelona":  0,
-                          "cagua":  75,
+                          "cagua":  70,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  23,
                           "bolivar":  0
@@ -617,7 +617,7 @@
                           "margarita":  43,
                           "capital":  5,
                           "barcelona":  6,
-                          "cagua":  201,
+                          "cagua":  534,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  52,
                           "bolivar":  12
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 13:40:46",
+    "ultima_actualizacion":  "13/10/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4771,6 +4771,16 @@
                   },
                   {
                       "codigo":  "4MSU015",
+                      "cantidad":  343,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-13102026",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
                       "cantidad":  5,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -6170,5 +6180,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68958
+    "total_general_cajas":  69086
 };
