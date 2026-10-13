@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 11:30:46",
+    "ultima_actualizacion":  "13/10/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2881,26 +2881,6 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  44,
-                      "fecha_fabricacion":  "18-06-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0628-180626",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
                       "cantidad":  12,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -3211,7 +3191,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  247,
+                      "cantidad":  155,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -3231,7 +3211,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  332,
+                      "cantidad":  330,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-021225",
@@ -3508,16 +3488,6 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  89,
-                      "fecha_fabricacion":  "12-12-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1228-121225",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "12-12-2028"
                   },
                   {
                       "codigo":  "4MNA027",
