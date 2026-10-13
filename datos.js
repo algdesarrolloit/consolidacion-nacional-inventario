@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  55972
+                          "cajas":  55971
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -513,7 +513,7 @@
                           "margarita":  12,
                           "capital":  0,
                           "barcelona":  10,
-                          "cagua":  829,
+                          "cagua":  828,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  44,
                           "bolivar":  33
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 08:40:46",
+    "ultima_actualizacion":  "13/10/2026 08:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3841,7 +3841,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  281,
+                      "cantidad":  280,
                       "fecha_fabricacion":  "25-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-25092026",
@@ -6100,5 +6100,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69812
+    "total_general_cajas":  69811
 };
