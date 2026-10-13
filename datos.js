@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3110
+                          "cajas":  3140
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -805,7 +805,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  15,
                           "codigo":  "4PAC001",
                           "um":  "CJ",
                           "andes":  0,
@@ -818,7 +818,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  15,
                           "codigo":  "4PAC002",
                           "um":  "CJ",
                           "andes":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 14:50:46",
+    "ultima_actualizacion":  "13/10/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6390,6 +6390,26 @@
                       "fecha_vencimiento":  "19-10-2026"
                   },
                   {
+                      "codigo":  "4PAC001",
+                      "cantidad":  14,
+                      "fecha_fabricacion":  "19-04-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1026-190426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC001",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-04-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1026-220426",
+                      "descripcion":  "PAN BLANCO 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2026"
+                  },
+                  {
                       "codigo":  "4PAC002",
                       "cantidad":  388,
                       "fecha_fabricacion":  "14-04-2026",
@@ -6398,7 +6418,17 @@
                       "descripcion":  "PAN INTEGRAL 10 X 390G",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2026"
+                  },
+                  {
+                      "codigo":  "4PAC002",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "14-04-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1026-140426",
+                      "descripcion":  "PAN INTEGRAL 10 X 390G",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69301
+    "total_general_cajas":  69331
 };
