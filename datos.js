@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  54545
+                          "cajas":  54878
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  208,
                           "capital":  181,
                           "barcelona":  115,
-                          "cagua":  3115,
+                          "cagua":  3299,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  31,
                           "bolivar":  223
@@ -552,7 +552,7 @@
                           "margarita":  13,
                           "capital":  19,
                           "barcelona":  10,
-                          "cagua":  582,
+                          "cagua":  703,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  17,
                           "bolivar":  22
@@ -643,7 +643,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  0,
+                          "cagua":  28,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 07:10:46",
+    "ultima_actualizacion":  "13/10/2026 07:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2175,6 +2175,16 @@
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-08102026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  184,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-081026",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-10-2028"
@@ -4041,6 +4051,16 @@
                   },
                   {
                       "codigo":  "4MSA013",
+                      "cantidad":  121,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-091026",
+                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSA013",
                       "cantidad":  4,
                       "fecha_fabricacion":  "01-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -4808,6 +4828,16 @@
                       "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "26-05-2027"
+                  },
+                  {
+                      "codigo":  "4MSU018",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0727-091026",
+                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-07-2027"
                   },
                   {
                       "codigo":  "4MSU018",
@@ -6050,5 +6080,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68385
+    "total_general_cajas":  68718
 };
