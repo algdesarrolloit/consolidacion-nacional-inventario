@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2298
+                          "cajas":  2323
                       },
                       {
                           "almacen":  "CAGUA",
@@ -255,7 +255,7 @@
                           "barcelona":  44,
                           "cagua":  1452,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  76,
+                          "barquisimeto":  81,
                           "bolivar":  21
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  115,
                           "cagua":  3073,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  221,
+                          "barquisimeto":  241,
                           "bolivar":  223
                       },
                       {
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 15:30:46",
+    "ultima_actualizacion":  "13/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6460,5 +6460,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69313
+    "total_general_cajas":  69338
 };
