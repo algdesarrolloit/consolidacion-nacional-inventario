@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2323
+                          "cajas":  2298
                       },
                       {
                           "almacen":  "CAGUA",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3140
+                          "cajas":  3147
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -233,7 +233,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4CNA074",
                           "um":  "CJ",
                           "andes":  0,
@@ -255,7 +255,7 @@
                           "barcelona":  44,
                           "cagua":  1452,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  81,
+                          "barquisimeto":  76,
                           "bolivar":  21
                       },
                       {
@@ -294,7 +294,7 @@
                           "barcelona":  115,
                           "cagua":  3073,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  241,
+                          "barquisimeto":  221,
                           "bolivar":  223
                       },
                       {
@@ -337,7 +337,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  316,
+                          "zulia":  317,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  314,
@@ -350,7 +350,7 @@
                           "bolivar":  262
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  19,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
                           "andes":  29,
@@ -454,7 +454,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  46,
+                          "zulia":  47,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  53,
@@ -753,7 +753,7 @@
                           "bolivar":  50
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  11,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 15:20:47",
+    "ultima_actualizacion":  "13/10/2026 15:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1634,6 +1634,16 @@
                       "cantidad":  13,
                       "fecha_fabricacion":  "08-06-2026",
                       "ubicacion":  "CAPITAL",
+                      "lote":  "0627-080627",
+                      "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA074",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "08-06-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0627-080627",
                       "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
                       "um":  "CJ",
@@ -2784,6 +2794,16 @@
                       "cantidad":  1,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "ZULIA",
+                      "lote":  "0327-28092026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "0327-280926",
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
@@ -2851,7 +2871,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  1,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0127-23092026",
@@ -3598,6 +3618,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0828-13082026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -5931,7 +5961,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  3,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "04-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0327-04092026",
@@ -6430,5 +6460,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69331
+    "total_general_cajas":  69313
 };
