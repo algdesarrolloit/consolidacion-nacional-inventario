@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  55662
+                          "cajas":  55079
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -409,7 +409,7 @@
                           "margarita":  81,
                           "capital":  77,
                           "barcelona":  32,
-                          "cagua":  2428,
+                          "cagua":  2128,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  83,
                           "bolivar":  115
@@ -474,7 +474,7 @@
                           "margarita":  40,
                           "capital":  6,
                           "barcelona":  17,
-                          "cagua":  283,
+                          "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  27
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 11:20:46",
+    "ultima_actualizacion":  "13/10/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3061,7 +3061,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  366,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-21082026",
@@ -3504,16 +3504,6 @@
                       "cantidad":  27,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  288,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -6110,5 +6100,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69530
+    "total_general_cajas":  68947
 };
