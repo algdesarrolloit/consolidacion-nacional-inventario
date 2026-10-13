@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  54131,
-                                                              "bidones":  984.2
+                                                              "kg":  54021,
+                                                              "bidones":  982.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  101033.9,
+                          "kg":  100923.9,
                           "cajas":  53463
                       },
                       {
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3350
+                          "cajas":  3338
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -139,7 +139,7 @@
                           "cajas":  1909
                       }
                   ],
-    "total_general_kg":  101033.9,
+    "total_general_kg":  100923.9,
     "productos":  [
                       {
                           "zulia":  91,
@@ -496,7 +496,7 @@
                           "zulia":  87,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
-                          "andes":  35,
+                          "andes":  27,
                           "margarita":  12,
                           "capital":  55,
                           "barcelona":  19,
@@ -626,7 +626,7 @@
                           "zulia":  5,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
-                          "andes":  16,
+                          "andes":  12,
                           "margarita":  3,
                           "capital":  0,
                           "barcelona":  0,
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  54131,
+                          "cagua":  54021,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 17:20:47",
+    "ultima_actualizacion":  "13/10/2026 17:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2821,7 +2821,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  29,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-29092026",
@@ -3541,7 +3541,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  13,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-13082026",
@@ -3711,23 +3711,13 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  39,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-29092026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "30-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-300926",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -3821,7 +3811,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  40,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -4161,7 +4151,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  120,
+                      "cantidad":  110,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -4241,7 +4231,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  20,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0727-210726",
@@ -4391,23 +4381,13 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  15,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0827-24082026",
                       "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSA015",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "01-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0927-01092026",
-                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-09-2027"
                   },
                   {
                       "codigo":  "4MSA015",
@@ -4541,17 +4521,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0827-24082026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  15,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-08092026",
@@ -5061,7 +5031,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  16,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-22092026",
@@ -5581,7 +5551,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  29,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -5661,7 +5631,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  43,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-25082026",
@@ -5771,7 +5741,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  41,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-15072026",
@@ -6351,7 +6321,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  25,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-300926",
@@ -6470,5 +6440,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69263
+    "total_general_cajas":  69251
 };
