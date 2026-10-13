@@ -94,21 +94,21 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  55476
+                          "cajas":  55356
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1512
+                          "cajas":  1506
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3342
+                          "cajas":  3462
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  126,
                           "margarita":  36,
-                          "capital":  60,
+                          "capital":  59,
                           "barcelona":  42,
                           "cagua":  1180,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  47,
-                          "capital":  2,
+                          "capital":  1,
                           "barcelona":  35,
                           "cagua":  3077,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  181,
+                          "capital":  180,
                           "barcelona":  115,
                           "cagua":  3293,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -303,7 +303,7 @@
                           "um":  "CJ",
                           "andes":  75,
                           "margarita":  8,
-                          "capital":  50,
+                          "capital":  49,
                           "barcelona":  12,
                           "cagua":  455,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  314,
                           "margarita":  261,
-                          "capital":  198,
+                          "capital":  197,
                           "barcelona":  64,
                           "cagua":  6646,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  13,
+                          "capital":  12,
                           "barcelona":  19,
                           "cagua":  734,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -535,11 +535,11 @@
                           "zulia":  0,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  120,
                           "margarita":  103,
                           "capital":  26,
                           "barcelona":  9,
-                          "cagua":  2255,
+                          "cagua":  2135,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 10:30:46",
+    "ultima_actualizacion":  "13/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3951,6 +3951,16 @@
                   },
                   {
                       "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
                       "cantidad":  9,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "BARCELONA",
@@ -3961,7 +3971,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  575,
+                      "cantidad":  455,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-150626",
@@ -6100,5 +6110,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69230
+    "total_general_cajas":  69224
 };
