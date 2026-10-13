@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1507
+                          "cajas":  1517
                       },
                       {
                           "almacen":  "ANDES",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  7,
-                          "capital":  3,
+                          "capital":  6,
                           "barcelona":  0,
                           "cagua":  252,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  12,
+                          "capital":  15,
                           "barcelona":  19,
                           "cagua":  734,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  0,
+                          "capital":  4,
                           "barcelona":  10,
                           "cagua":  828,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 11:50:46",
+    "ultima_actualizacion":  "13/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3581,7 +3581,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  3,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-22092026",
@@ -3711,6 +3711,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "21-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-210926",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  12,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -3828,6 +3838,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "01-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-220926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -6070,5 +6090,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68948
+    "total_general_cajas":  68958
 };
