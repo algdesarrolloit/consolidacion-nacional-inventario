@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 09:40:46",
+    "ultima_actualizacion":  "13/10/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3051,7 +3051,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  366,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-21082026",
@@ -3494,16 +3494,6 @@
                       "cantidad":  27,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  288,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
