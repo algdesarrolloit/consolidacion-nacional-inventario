@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  55356
+                          "cajas":  55944
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -409,7 +409,7 @@
                           "margarita":  81,
                           "capital":  77,
                           "barcelona":  32,
-                          "cagua":  2128,
+                          "cagua":  2428,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  83,
                           "bolivar":  115
@@ -474,7 +474,7 @@
                           "margarita":  40,
                           "capital":  6,
                           "barcelona":  17,
-                          "cagua":  89,
+                          "cagua":  377,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  27
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 10:50:46",
+    "ultima_actualizacion":  "13/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1141,7 +1141,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1391,7 +1391,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2191,7 +2191,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  33,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2321,7 +2321,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  50,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-300726",
@@ -2681,7 +2681,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  198,
+                      "cantidad":  197,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3061,7 +3061,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  66,
+                      "cantidad":  366,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-21082026",
@@ -3511,6 +3511,16 @@
                   },
                   {
                       "codigo":  "4MNA027",
+                      "cantidad":  288,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
                       "cantidad":  89,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
@@ -3738,16 +3748,6 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "21-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-210926",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -6110,5 +6110,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69224
+    "total_general_cajas":  69812
 };
