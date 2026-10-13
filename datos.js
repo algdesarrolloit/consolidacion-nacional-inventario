@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  54878
+                          "cajas":  56154
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -396,7 +396,7 @@
                           "margarita":  18,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1222,
+                          "cagua":  1395,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -422,7 +422,7 @@
                           "margarita":  16,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  857,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -435,7 +435,7 @@
                           "margarita":  16,
                           "capital":  45,
                           "barcelona":  182,
-                          "cagua":  3215,
+                          "cagua":  3461,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  27,
                           "bolivar":  39
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 07:20:46",
+    "ultima_actualizacion":  "13/10/2026 07:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2941,6 +2941,16 @@
                   },
                   {
                       "codigo":  "4MNA009",
+                      "cantidad":  173,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-081026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
                       "cantidad":  18,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "MARGARITA",
@@ -3101,6 +3111,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  857,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-091026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  16,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -3181,7 +3201,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  57,
+                      "cantidad":  247,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -3211,7 +3231,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  300,
+                      "cantidad":  356,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -6080,5 +6100,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68718
+    "total_general_cajas":  69994
 };
