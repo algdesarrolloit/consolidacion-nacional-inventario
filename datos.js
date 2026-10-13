@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1506
+                          "cajas":  1507
                       },
                       {
                           "almacen":  "ANDES",
@@ -680,7 +680,7 @@
                           "um":  "CJ",
                           "andes":  255,
                           "margarita":  52,
-                          "capital":  70,
+                          "capital":  71,
                           "barcelona":  50,
                           "cagua":  2479,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 11:40:46",
+    "ultima_actualizacion":  "13/10/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5081,7 +5081,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  10,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-19082026",
@@ -6070,5 +6070,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68947
+    "total_general_cajas":  68948
 };
