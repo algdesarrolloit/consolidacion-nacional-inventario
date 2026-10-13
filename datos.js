@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  101033.9,
-                          "cajas":  55293
+                          "cajas":  55476
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2468
+                          "cajas":  2383
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -376,14 +376,14 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  89,
+                          "zulia":  4,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  4,
                           "margarita":  19,
                           "capital":  12,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  94,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -474,7 +474,7 @@
                           "margarita":  40,
                           "capital":  6,
                           "barcelona":  17,
-                          "cagua":  0,
+                          "cagua":  89,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  27
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 10:20:46",
+    "ultima_actualizacion":  "13/10/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2881,6 +2881,26 @@
                   },
                   {
                       "codigo":  "4MNA008",
+                      "cantidad":  44,
+                      "fecha_fabricacion":  "18-06-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0628-180626",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0728-060726",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
                       "cantidad":  12,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -2901,23 +2921,13 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  39,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-180626",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -3498,6 +3508,16 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  89,
+                      "fecha_fabricacion":  "12-12-2025",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1228-121225",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-12-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -6080,5 +6100,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69132
+    "total_general_cajas":  69230
 };
