@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1513
+                          "cajas":  1512
                       },
                       {
                           "almacen":  "ANDES",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  7,
-                          "capital":  4,
+                          "capital":  3,
                           "barcelona":  0,
                           "cagua":  252,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/10/2026 09:10:46",
+    "ultima_actualizacion":  "13/10/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3601,16 +3601,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-170926",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  3,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -6100,5 +6090,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69721
+    "total_general_cajas":  69720
 };
