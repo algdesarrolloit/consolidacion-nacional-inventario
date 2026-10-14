@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 16:20:46",
+    "ultima_actualizacion":  "14/10/2026 16:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1281,7 +1281,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  42,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1371,7 +1371,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  31,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3141,7 +3141,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  9,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3494,16 +3494,6 @@
                       "cantidad":  517,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0828-14082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "14-08-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0828-14082026",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
