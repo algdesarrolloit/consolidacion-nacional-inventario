@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1778
+                          "cajas":  1770
                       },
                       {
                           "almacen":  "CAGUA",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2776
+                          "cajas":  2725
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -168,7 +168,7 @@
                           "bolivar":  72
                       },
                       {
-                          "zulia":  79,
+                          "zulia":  78,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  310,
@@ -311,7 +311,7 @@
                           "bolivar":  24
                       },
                       {
-                          "zulia":  33,
+                          "zulia":  30,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
                           "andes":  15,
@@ -337,7 +337,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  291,
+                          "zulia":  290,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  314,
@@ -350,7 +350,7 @@
                           "bolivar":  262
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  16,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
                           "andes":  21,
@@ -363,7 +363,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  14,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  7,
@@ -402,7 +402,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  158,
+                          "zulia":  157,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  226,
@@ -415,7 +415,7 @@
                           "bolivar":  115
                       },
                       {
-                          "zulia":  14,
+                          "zulia":  13,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  0,
@@ -480,7 +480,7 @@
                           "bolivar":  27
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  26,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  35,
@@ -489,7 +489,7 @@
                           "barcelona":  15,
                           "cagua":  207,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  7,
+                          "barquisimeto":  5,
                           "bolivar":  28
                       },
                       {
@@ -502,11 +502,11 @@
                           "barcelona":  19,
                           "cagua":  694,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  35,
+                          "barquisimeto":  34,
                           "bolivar":  37
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  11,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  40,
@@ -515,7 +515,7 @@
                           "barcelona":  10,
                           "cagua":  788,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  40,
+                          "barquisimeto":  38,
                           "bolivar":  33
                       },
                       {
@@ -532,7 +532,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  63,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  110,
@@ -558,7 +558,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  41,
+                          "zulia":  39,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
                           "andes":  3,
@@ -623,7 +623,7 @@
                           "bolivar":  12
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  2,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
                           "andes":  12,
@@ -636,7 +636,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  0,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  0,
@@ -710,7 +710,7 @@
                           "barcelona":  15,
                           "cagua":  340,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  36,
+                          "barquisimeto":  35,
                           "bolivar":  14
                       },
                       {
@@ -723,7 +723,7 @@
                           "barcelona":  12,
                           "cagua":  806,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  26,
+                          "barquisimeto":  25,
                           "bolivar":  21
                       },
                       {
@@ -736,11 +736,11 @@
                           "barcelona":  17,
                           "cagua":  1024,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  47,
+                          "barquisimeto":  46,
                           "bolivar":  35
                       },
                       {
-                          "zulia":  97,
+                          "zulia":  96,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  96,
@@ -753,7 +753,7 @@
                           "bolivar":  50
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  0,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
                           "andes":  0,
@@ -766,7 +766,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  111,
+                          "zulia":  110,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  0,
@@ -779,7 +779,7 @@
                           "bolivar":  54
                       },
                       {
-                          "zulia":  163,
+                          "zulia":  162,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  150,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 09:40:46",
+    "ultima_actualizacion":  "14/10/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6460,5 +6460,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68118
+    "total_general_cajas":  68059
 };
