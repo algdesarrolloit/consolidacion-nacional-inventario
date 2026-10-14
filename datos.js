@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1422
+                          "cajas":  1389
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -330,7 +330,7 @@
                           "andes":  82,
                           "margarita":  31,
                           "capital":  26,
-                          "barcelona":  30,
+                          "barcelona":  29,
                           "cagua":  1673,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  25,
@@ -395,7 +395,7 @@
                           "andes":  0,
                           "margarita":  18,
                           "capital":  52,
-                          "barcelona":  50,
+                          "barcelona":  35,
                           "cagua":  1190,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  71,
@@ -421,7 +421,7 @@
                           "andes":  0,
                           "margarita":  16,
                           "capital":  0,
-                          "barcelona":  30,
+                          "barcelona":  13,
                           "cagua":  562,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 14:50:46",
+    "ultima_actualizacion":  "14/10/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6240,5 +6240,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67303
+    "total_general_cajas":  67270
 };
