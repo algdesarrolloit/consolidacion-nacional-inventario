@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1329
+                          "cajas":  1303
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -538,7 +538,7 @@
                           "andes":  110,
                           "margarita":  103,
                           "capital":  1,
-                          "barcelona":  40,
+                          "barcelona":  14,
                           "cagua":  1795,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  15,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 15:10:46",
+    "ultima_actualizacion":  "14/10/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6240,5 +6240,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67210
+    "total_general_cajas":  67184
 };
