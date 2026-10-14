@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 17:00:46",
+    "ultima_actualizacion":  "14/10/2026 17:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3134,16 +3134,6 @@
                       "cantidad":  562,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "1028-091026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "09-10-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
