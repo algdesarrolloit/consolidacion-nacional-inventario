@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1918
+                          "cajas":  1864
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2482
+                          "cajas":  2412
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  73,
-                          "capital":  34,
+                          "capital":  31,
                           "barcelona":  45,
                           "cagua":  2086,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  47,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  35,
                           "cagua":  3077,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -246,12 +246,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  81,
+                          "zulia":  74,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  26,
-                          "capital":  89,
+                          "capital":  88,
                           "barcelona":  44,
                           "cagua":  1452,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -272,7 +272,7 @@
                           "bolivar":  28
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  46,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  50,
@@ -285,7 +285,7 @@
                           "bolivar":  38
                       },
                       {
-                          "zulia":  182,
+                          "zulia":  179,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  323,
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  82,
                           "margarita":  31,
-                          "capital":  5,
+                          "capital":  0,
                           "barcelona":  30,
                           "cagua":  1733,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -337,12 +337,12 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  287,
+                          "zulia":  282,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  314,
                           "margarita":  261,
-                          "capital":  257,
+                          "capital":  247,
                           "barcelona":  169,
                           "cagua":  6166,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -402,12 +402,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  151,
+                          "zulia":  148,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  226,
                           "margarita":  81,
-                          "capital":  137,
+                          "capital":  136,
                           "barcelona":  32,
                           "cagua":  2018,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -415,7 +415,7 @@
                           "bolivar":  115
                       },
                       {
-                          "zulia":  7,
+                          "zulia":  4,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  0,
@@ -428,7 +428,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  54,
+                          "zulia":  51,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  60,
@@ -441,7 +441,7 @@
                           "bolivar":  39
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  53,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  64,
@@ -454,7 +454,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  45,
+                          "zulia":  42,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  48,
@@ -467,12 +467,12 @@
                           "bolivar":  31
                       },
                       {
-                          "zulia":  22,
+                          "zulia":  19,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  40,
-                          "capital":  6,
+                          "capital":  5,
                           "barcelona":  17,
                           "cagua":  6,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -480,7 +480,7 @@
                           "bolivar":  27
                       },
                       {
-                          "zulia":  22,
+                          "zulia":  18,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  35,
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  27,
                           "margarita":  12,
-                          "capital":  55,
+                          "capital":  52,
                           "barcelona":  19,
                           "cagua":  694,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -506,12 +506,12 @@
                           "bolivar":  37
                       },
                       {
-                          "zulia":  7,
+                          "zulia":  4,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  14,
+                          "capital":  11,
                           "barcelona":  10,
                           "cagua":  788,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -524,7 +524,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  9,
-                          "capital":  8,
+                          "capital":  7,
                           "barcelona":  5,
                           "cagua":  70,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
@@ -532,12 +532,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  52,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  110,
                           "margarita":  103,
-                          "capital":  26,
+                          "capital":  6,
                           "barcelona":  69,
                           "cagua":  1795,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -584,7 +584,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  8,
+                          "zulia":  6,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  64,
@@ -597,7 +597,7 @@
                           "bolivar":  7
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  49,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  65,
@@ -615,7 +615,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  43,
-                          "capital":  5,
+                          "capital":  2,
                           "barcelona":  16,
                           "cagua":  524,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -701,12 +701,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  48,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  68,
                           "margarita":  11,
-                          "capital":  36,
+                          "capital":  35,
                           "barcelona":  15,
                           "cagua":  340,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
@@ -732,7 +732,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  28,
-                          "capital":  48,
+                          "capital":  47,
                           "barcelona":  17,
                           "cagua":  1024,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -740,7 +740,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  85,
+                          "zulia":  72,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  96,
@@ -766,7 +766,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  103,
+                          "zulia":  99,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  0,
@@ -779,7 +779,7 @@
                           "bolivar":  54
                       },
                       {
-                          "zulia":  157,
+                          "zulia":  154,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  150,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 10:20:46",
+    "ultima_actualizacion":  "14/10/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6460,5 +6460,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67816
+    "total_general_cajas":  67692
 };
