@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 11:20:46",
+    "ultima_actualizacion":  "14/10/2026 11:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1021,7 +1021,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-200126",
@@ -1384,16 +1384,6 @@
                       "cantidad":  3077,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0527-31052026",
-                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA019",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "31-05-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
                       "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                       "um":  "CJ",
@@ -3181,7 +3171,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  130,
+                      "cantidad":  129,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3661,7 +3651,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  6,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-06072026",
