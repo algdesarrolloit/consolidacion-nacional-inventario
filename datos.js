@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  46902.9,
-                                                              "bidones":  781.72
+                                                              "kg":  43542.9,
+                                                              "bidones":  725.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  100923.9,
+                          "kg":  97563.9,
                           "cajas":  52878
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  1909
                       }
                   ],
-    "total_general_kg":  100923.9,
+    "total_general_kg":  97563.9,
     "productos":  [
                       {
                           "zulia":  44,
@@ -838,7 +838,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  46902.9,
+                          "cagua":  43542.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,11 +857,11 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 17:50:46",
+    "ultima_actualizacion":  "14/10/2026 18:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  11860,
+                      "cantidad":  11702.9,
                       "fecha_fabricacion":  "13-09-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0627-130925-231",
@@ -878,16 +878,6 @@
                       "descripcion":  "ACEITUNAS ENTERAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-09-2027"
-                  },
-                  {
-                      "codigo":  "1VEG001",
-                      "cantidad":  3202.9,
-                      "fecha_fabricacion":  "02-11-2024",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 1026-021124-198",
-                      "descripcion":  "ACEITUNAS ENTERAS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-10-2026"
                   },
                   {
                       "codigo":  "1VEG001",
