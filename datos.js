@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1864
+                          "cajas":  1788
                       },
                       {
                           "almacen":  "ANDES",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  73,
-                          "capital":  31,
+                          "capital":  1,
                           "barcelona":  45,
                           "cagua":  2086,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  126,
                           "margarita":  36,
-                          "capital":  59,
+                          "capital":  29,
                           "barcelona":  42,
                           "cagua":  1180,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  7,
-                          "capital":  36,
+                          "capital":  29,
                           "barcelona":  15,
                           "cagua":  207,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  11,
+                          "capital":  2,
                           "barcelona":  10,
                           "cagua":  788,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 10:30:46",
+    "ultima_actualizacion":  "14/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3141,7 +3141,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  138,
+                      "cantidad":  94,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -3168,16 +3168,6 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "07-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "21-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0828-21082026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-08-2028"
                   },
                   {
                       "codigo":  "4MNA010",
@@ -3251,7 +3241,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  667,
+                      "cantidad":  617,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-091026",
@@ -3341,7 +3331,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  1087,
+                      "cantidad":  1082,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328 110326",
@@ -3491,7 +3481,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  230,
+                      "cantidad":  225,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -4431,7 +4421,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  191,
+                      "cantidad":  171,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-100926",
@@ -6460,5 +6450,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67692
+    "total_general_cajas":  67616
 };
