@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2174
+                          "cajas":  2143
                       },
                       {
                           "almacen":  "ANDES",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  82,
                           "margarita":  31,
-                          "capital":  60,
+                          "capital":  33,
                           "barcelona":  30,
                           "cagua":  1673,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  16,
-                          "capital":  55,
+                          "capital":  51,
                           "barcelona":  30,
                           "cagua":  562,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 14:00:46",
+    "ultima_actualizacion":  "14/10/2026 14:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6260,5 +6260,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67566
+    "total_general_cajas":  67535
 };
