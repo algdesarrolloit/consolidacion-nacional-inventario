@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2323
+                          "cajas":  2328
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100923.9,
-                          "cajas":  53867
+                          "cajas":  53858
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -474,9 +474,9 @@
                           "margarita":  40,
                           "capital":  6,
                           "barcelona":  17,
-                          "cagua":  30,
+                          "cagua":  21,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  5,
                           "bolivar":  27
                       },
                       {
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 07:50:46",
+    "ultima_actualizacion":  "14/10/2026 08:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3651,6 +3651,16 @@
                   },
                   {
                       "codigo":  "4MNA027",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
                       "cantidad":  27,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3661,7 +3671,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  30,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
@@ -6460,5 +6470,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69655
+    "total_general_cajas":  69651
 };
