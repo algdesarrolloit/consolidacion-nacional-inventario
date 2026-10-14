@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1788
+                          "cajas":  1738
                       },
                       {
                           "almacen":  "ANDES",
@@ -251,7 +251,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  26,
-                          "capital":  88,
+                          "capital":  86,
                           "barcelona":  44,
                           "cagua":  1452,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  190,
+                          "capital":  187,
                           "barcelona":  115,
                           "cagua":  2953,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -303,7 +303,7 @@
                           "um":  "CJ",
                           "andes":  75,
                           "margarita":  8,
-                          "capital":  49,
+                          "capital":  47,
                           "barcelona":  12,
                           "cagua":  455,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  314,
                           "margarita":  261,
-                          "capital":  247,
+                          "capital":  242,
                           "barcelona":  169,
                           "cagua":  6166,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -537,7 +537,7 @@
                           "um":  "CJ",
                           "andes":  110,
                           "margarita":  103,
-                          "capital":  6,
+                          "capital":  1,
                           "barcelona":  69,
                           "cagua":  1795,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -550,7 +550,7 @@
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  13,
-                          "capital":  19,
+                          "capital":  9,
                           "barcelona":  10,
                           "cagua":  770,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -563,7 +563,7 @@
                           "um":  "CJ",
                           "andes":  3,
                           "margarita":  16,
-                          "capital":  32,
+                          "capital":  22,
                           "barcelona":  15,
                           "cagua":  543,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
@@ -576,7 +576,7 @@
                           "um":  "CJ",
                           "andes":  11,
                           "margarita":  18,
-                          "capital":  92,
+                          "capital":  82,
                           "barcelona":  15,
                           "cagua":  719,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -706,7 +706,7 @@
                           "um":  "CJ",
                           "andes":  68,
                           "margarita":  11,
-                          "capital":  35,
+                          "capital":  34,
                           "barcelona":  15,
                           "cagua":  340,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
@@ -732,7 +732,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  28,
-                          "capital":  47,
+                          "capital":  46,
                           "barcelona":  17,
                           "cagua":  1024,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -745,7 +745,7 @@
                           "um":  "CJ",
                           "andes":  96,
                           "margarita":  17,
-                          "capital":  91,
+                          "capital":  90,
                           "barcelona":  27,
                           "cagua":  1194,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 10:50:46",
+    "ultima_actualizacion":  "14/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6440,5 +6440,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67616
+    "total_general_cajas":  67566
 };
