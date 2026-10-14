@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1389
+                          "cajas":  1329
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -291,7 +291,7 @@
                           "andes":  323,
                           "margarita":  208,
                           "capital":  187,
-                          "barcelona":  115,
+                          "barcelona":  114,
                           "cagua":  2953,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  169,
@@ -330,7 +330,7 @@
                           "andes":  82,
                           "margarita":  31,
                           "capital":  26,
-                          "barcelona":  29,
+                          "barcelona":  23,
                           "cagua":  1673,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  25,
@@ -343,7 +343,7 @@
                           "andes":  314,
                           "margarita":  261,
                           "capital":  242,
-                          "barcelona":  169,
+                          "barcelona":  168,
                           "cagua":  6166,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  119,
@@ -395,7 +395,7 @@
                           "andes":  0,
                           "margarita":  18,
                           "capital":  52,
-                          "barcelona":  35,
+                          "barcelona":  23,
                           "cagua":  1190,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  71,
@@ -421,7 +421,7 @@
                           "andes":  0,
                           "margarita":  16,
                           "capital":  0,
-                          "barcelona":  13,
+                          "barcelona":  6,
                           "cagua":  562,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
@@ -460,7 +460,7 @@
                           "andes":  48,
                           "margarita":  63,
                           "capital":  0,
-                          "barcelona":  20,
+                          "barcelona":  18,
                           "cagua":  517,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  16,
@@ -486,7 +486,7 @@
                           "andes":  35,
                           "margarita":  7,
                           "capital":  29,
-                          "barcelona":  15,
+                          "barcelona":  14,
                           "cagua":  207,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  5,
@@ -525,7 +525,7 @@
                           "andes":  15,
                           "margarita":  9,
                           "capital":  7,
-                          "barcelona":  5,
+                          "barcelona":  4,
                           "cagua":  70,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  23,
@@ -538,7 +538,7 @@
                           "andes":  110,
                           "margarita":  103,
                           "capital":  1,
-                          "barcelona":  69,
+                          "barcelona":  40,
                           "cagua":  1795,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  15,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 15:00:46",
+    "ultima_actualizacion":  "14/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6240,5 +6240,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67270
+    "total_general_cajas":  67210
 };
