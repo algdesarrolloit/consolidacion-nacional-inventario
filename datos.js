@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100923.9,
-                          "cajas":  53463
+                          "cajas":  53867
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -552,7 +552,7 @@
                           "margarita":  13,
                           "capital":  19,
                           "barcelona":  10,
-                          "cagua":  703,
+                          "cagua":  770,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  17,
                           "bolivar":  22
@@ -578,7 +578,7 @@
                           "margarita":  18,
                           "capital":  92,
                           "barcelona":  15,
-                          "cagua":  668,
+                          "cagua":  719,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  12,
                           "bolivar":  25
@@ -799,7 +799,7 @@
                           "margarita":  23,
                           "capital":  0,
                           "barcelona":  3,
-                          "cagua":  2,
+                          "cagua":  288,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  10,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 07:40:46",
+    "ultima_actualizacion":  "14/10/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4311,6 +4311,16 @@
                   },
                   {
                       "codigo":  "4MSA013",
+                      "cantidad":  67,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-131026",
+                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSA013",
                       "cantidad":  4,
                       "fecha_fabricacion":  "01-07-2026",
                       "ubicacion":  "CAPITAL",
@@ -4621,7 +4631,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  343,
+                      "cantidad":  394,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1027-051026",
@@ -6361,6 +6371,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  286,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-131026",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  9,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -6440,5 +6460,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69251
+    "total_general_cajas":  69655
 };
