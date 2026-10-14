@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1857
+                          "cajas":  1842
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100923.9,
-                          "cajas":  52836
+                          "cajas":  52878
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -294,7 +294,7 @@
                           "barcelona":  106,
                           "cagua":  2955,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  176,
+                          "barquisimeto":  169,
                           "bolivar":  223
                       },
                       {
@@ -318,7 +318,7 @@
                           "margarita":  7,
                           "capital":  0,
                           "barcelona":  8,
-                          "cagua":  316,
+                          "cagua":  359,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  35,
                           "bolivar":  10
@@ -372,7 +372,7 @@
                           "barcelona":  2,
                           "cagua":  20,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                          "barquisimeto":  4,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -708,7 +708,7 @@
                           "margarita":  11,
                           "capital":  34,
                           "barcelona":  7,
-                          "cagua":  343,
+                          "cagua":  342,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  35,
                           "bolivar":  14
@@ -775,7 +775,7 @@
                           "barcelona":  32,
                           "cagua":  2890,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  54,
+                          "barquisimeto":  50,
                           "bolivar":  54
                       },
                       {
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 16:00:46",
+    "ultima_actualizacion":  "14/10/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2091,16 +2091,6 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "22-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0928-22092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
                       "cantidad":  169,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -2441,13 +2431,13 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "26-08-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0227-26082026",
+                      "cantidad":  43,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0627-300926",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "26-02-2027"
+                      "fecha_vencimiento":  "30-03-2027"
                   },
                   {
                       "codigo":  "4MKE011",
@@ -2551,23 +2541,13 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  38,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-081026",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "09-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0427-091026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-04-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -2841,16 +2821,6 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "14-07-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1126-14072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
                       "cantidad":  20,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
@@ -3001,7 +2971,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  60,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3171,7 +3141,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  55,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3531,7 +3501,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  22,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-14082026",
@@ -4921,16 +4891,6 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "22-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0927-22092026",
-                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSU017",
                       "cantidad":  1,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -5742,16 +5702,6 @@
                   {
                       "codigo":  "4MTO033",
                       "cantidad":  7,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0327-24092026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2702"
-                  },
-                  {
-                      "codigo":  "4MTO033",
-                      "cantidad":  7,
                       "fecha_fabricacion":  "02-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-02092026",
@@ -5781,27 +5731,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "25-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-250826",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "31-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-310826",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
-                      "cantidad":  52,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-010926",
@@ -6191,7 +6121,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  10,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
@@ -6240,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66964
+    "total_general_cajas":  66991
 };
