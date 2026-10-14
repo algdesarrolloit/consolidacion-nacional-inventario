@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 16:10:46",
+    "ultima_actualizacion":  "14/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1281,7 +1281,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  64,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1371,7 +1371,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  40,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3141,7 +3141,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -5311,7 +5311,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  343,
+                      "cantidad":  342,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
