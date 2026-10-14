@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1770
+                          "cajas":  1841
                       },
                       {
                           "almacen":  "CAGUA",
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2040
+                          "cajas":  1949
                       },
                       {
                           "almacen":  "ANDES",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  310,
                           "margarita":  92,
-                          "capital":  64,
+                          "capital":  11,
                           "barcelona":  40,
                           "cagua":  3817,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  168,
                           "margarita":  47,
-                          "capital":  40,
+                          "capital":  6,
                           "barcelona":  35,
                           "cagua":  3037,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -398,7 +398,7 @@
                           "barcelona":  50,
                           "cagua":  1190,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  71,
                           "bolivar":  0
                       },
                       {
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  16,
-                          "capital":  11,
+                          "capital":  8,
                           "barcelona":  30,
                           "cagua":  562,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  48,
                           "margarita":  63,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  20,
                           "cagua":  517,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 14:20:46",
+    "ultima_actualizacion":  "14/10/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2948,6 +2948,26 @@
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  43,
+                      "fecha_fabricacion":  "11-11-2025",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1128-111125-NV",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "10-12-2025",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1228-101225",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-12-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -6250,5 +6270,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67361
+    "total_general_cajas":  67341
 };
