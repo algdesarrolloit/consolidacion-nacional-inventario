@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2143
+                          "cajas":  2040
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2412
+                          "cajas":  2341
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -316,7 +316,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  7,
-                          "capital":  4,
+                          "capital":  0,
                           "barcelona":  8,
                           "cagua":  316,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  82,
                           "margarita":  31,
-                          "capital":  33,
+                          "capital":  26,
                           "barcelona":  30,
                           "cagua":  1673,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -389,12 +389,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  91,
+                          "zulia":  20,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  18,
-                          "capital":  60,
+                          "capital":  52,
                           "barcelona":  50,
                           "cagua":  1190,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  16,
-                          "capital":  51,
+                          "capital":  11,
                           "barcelona":  30,
                           "cagua":  562,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  48,
                           "margarita":  63,
-                          "capital":  22,
+                          "capital":  1,
                           "barcelona":  20,
                           "cagua":  517,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -628,7 +628,7 @@
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  3,
-                          "capital":  10,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  27,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
@@ -758,7 +758,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  12,
-                          "capital":  7,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  9,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
@@ -797,7 +797,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  23,
-                          "capital":  10,
+                          "capital":  4,
                           "barcelona":  3,
                           "cagua":  258,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 14:10:46",
+    "ultima_actualizacion":  "14/10/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2991,17 +2991,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  43,
-                      "fecha_fabricacion":  "11-11-2025",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1128-111125-NV",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
-                      "cantidad":  48,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1228-101225",
@@ -6260,5 +6250,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67535
+    "total_general_cajas":  67361
 };
