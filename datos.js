@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "14/10/2026 08:50:46",
+    "ultima_actualizacion":  "14/10/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3644,16 +3644,6 @@
                       "cantidad":  17,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
