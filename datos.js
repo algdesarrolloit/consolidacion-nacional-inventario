@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  95343.9,
-                          "cajas":  53762
+                          "cajas":  52682
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -487,7 +487,7 @@
                           "margarita":  7,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  1034,
+                          "cagua":  674,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  5,
                           "bolivar":  15
@@ -500,7 +500,7 @@
                           "margarita":  12,
                           "capital":  52,
                           "barcelona":  3,
-                          "cagua":  696,
+                          "cagua":  336,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  34,
                           "bolivar":  32
@@ -513,7 +513,7 @@
                           "margarita":  12,
                           "capital":  2,
                           "barcelona":  0,
-                          "cagua":  788,
+                          "cagua":  428,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  38,
                           "bolivar":  32
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 10:50:46",
+    "ultima_actualizacion":  "15/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2061,7 +2061,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-08092026",
@@ -2481,7 +2481,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  30,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-091026",
@@ -2571,7 +2571,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "28-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0327-280926",
@@ -2901,7 +2901,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  50,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-05082026",
@@ -3101,7 +3101,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  30,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-091026",
@@ -3441,7 +3441,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-14082026",
@@ -3591,7 +3591,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-29092026",
@@ -3621,17 +3621,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  207,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-29092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  827,
+                      "cantidad":  674,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-14102026",
@@ -3751,27 +3741,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-18092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  144,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-24092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  550,
+                      "cantidad":  336,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-30092026",
@@ -3861,16 +3831,6 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  232,
-                      "fecha_fabricacion":  "25-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-25092026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
                       "cantidad":  393,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
@@ -3881,7 +3841,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  163,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "01-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-011026",
@@ -3931,7 +3891,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-18122025",
@@ -4001,7 +3961,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  69,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0628-150626",
@@ -6170,5 +6130,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67109
+    "total_general_cajas":  66029
 };
