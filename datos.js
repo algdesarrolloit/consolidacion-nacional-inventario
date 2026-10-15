@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  95343.9,
-                          "cajas":  54016
+                          "cajas":  53923
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1909
+                          "cajas":  1895
                       }
                   ],
     "total_general_kg":  95343.9,
@@ -295,7 +295,7 @@
                           "cagua":  2955,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  169,
-                          "bolivar":  223
+                          "bolivar":  220
                       },
                       {
                           "zulia":  33,
@@ -308,7 +308,7 @@
                           "cagua":  455,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
                           "barquisimeto":  57,
-                          "bolivar":  24
+                          "bolivar":  22
                       },
                       {
                           "zulia":  30,
@@ -422,7 +422,7 @@
                           "margarita":  16,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  1320,
+                          "cagua":  1317,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -490,7 +490,7 @@
                           "cagua":  1034,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  5,
-                          "bolivar":  28
+                          "bolivar":  26
                       },
                       {
                           "zulia":  82,
@@ -659,7 +659,7 @@
                           "cagua":  1542,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  37,
-                          "bolivar":  19
+                          "bolivar":  18
                       },
                       {
                           "zulia":  0,
@@ -685,7 +685,7 @@
                           "cagua":  2379,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  124,
-                          "bolivar":  171
+                          "bolivar":  169
                       },
                       {
                           "zulia":  0,
@@ -724,7 +724,7 @@
                           "cagua":  806,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  25,
-                          "bolivar":  21
+                          "bolivar":  20
                       },
                       {
                           "zulia":  55,
@@ -776,7 +776,7 @@
                           "cagua":  2890,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  50,
-                          "bolivar":  54
+                          "bolivar":  52
                       },
                       {
                           "zulia":  154,
@@ -789,7 +789,7 @@
                           "cagua":  911,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  86,
-                          "bolivar":  82
+                          "bolivar":  81
                       },
                       {
                           "zulia":  0,
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  466,
+                          "cagua":  376,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 08:20:46",
+    "ultima_actualizacion":  "15/10/2026 08:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6190,5 +6190,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68129
+    "total_general_cajas":  68022
 };
