@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2907
+                          "cajas":  2899
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -145,7 +145,7 @@
                           "zulia":  44,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
-                          "andes":  236,
+                          "andes":  234,
                           "margarita":  73,
                           "capital":  65,
                           "barcelona":  43,
@@ -158,7 +158,7 @@
                           "zulia":  57,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
-                          "andes":  124,
+                          "andes":  123,
                           "margarita":  36,
                           "capital":  69,
                           "barcelona":  40,
@@ -171,7 +171,7 @@
                           "zulia":  33,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  307,
+                          "andes":  305,
                           "margarita":  82,
                           "capital":  11,
                           "barcelona":  37,
@@ -184,7 +184,7 @@
                           "zulia":  45,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
-                          "andes":  166,
+                          "andes":  163,
                           "margarita":  47,
                           "capital":  6,
                           "barcelona":  32,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 14:50:46",
+    "ultima_actualizacion":  "15/10/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6000,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65571
+    "total_general_cajas":  65563
 };
