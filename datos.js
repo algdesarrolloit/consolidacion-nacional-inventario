@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  86263.9,
-                          "cajas":  52485
+                          "cajas":  52450
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -396,7 +396,7 @@
                           "margarita":  0,
                           "capital":  51,
                           "barcelona":  18,
-                          "cagua":  1190,
+                          "cagua":  1180,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  71,
                           "bolivar":  0
@@ -409,7 +409,7 @@
                           "margarita":  71,
                           "capital":  136,
                           "barcelona":  27,
-                          "cagua":  1302,
+                          "cagua":  1298,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  67,
                           "bolivar":  78
@@ -422,7 +422,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  1295,
+                          "cagua":  1287,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -435,7 +435,7 @@
                           "margarita":  14,
                           "capital":  45,
                           "barcelona":  181,
-                          "cagua":  3363,
+                          "cagua":  3361,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  12,
                           "bolivar":  39
@@ -448,7 +448,7 @@
                           "margarita":  29,
                           "capital":  32,
                           "barcelona":  28,
-                          "cagua":  230,
+                          "cagua":  228,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  42,
                           "bolivar":  35
@@ -461,7 +461,7 @@
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  497,
+                          "cagua":  489,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  16,
                           "bolivar":  0
@@ -474,7 +474,7 @@
                           "margarita":  30,
                           "capital":  5,
                           "barcelona":  3,
-                          "cagua":  1,
+                          "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 15:40:46",
+    "ultima_actualizacion":  "15/10/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5990,5 +5990,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65356
+    "total_general_cajas":  65321
 };
