@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2889
+                          "cajas":  2805
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -314,7 +314,7 @@
                           "zulia":  30,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  5,
                           "margarita":  7,
                           "capital":  0,
                           "barcelona":  8,
@@ -366,7 +366,7 @@
                           "zulia":  14,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
-                          "andes":  7,
+                          "andes":  0,
                           "margarita":  11,
                           "capital":  19,
                           "barcelona":  3,
@@ -379,7 +379,7 @@
                           "zulia":  2,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
-                          "andes":  4,
+                          "andes":  0,
                           "margarita":  4,
                           "capital":  11,
                           "barcelona":  0,
@@ -405,7 +405,7 @@
                           "zulia":  147,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
-                          "andes":  196,
+                          "andes":  174,
                           "margarita":  71,
                           "capital":  136,
                           "barcelona":  27,
@@ -457,7 +457,7 @@
                           "zulia":  42,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
-                          "andes":  28,
+                          "andes":  0,
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  5,
@@ -548,7 +548,7 @@
                           "zulia":  13,
                           "codigo":  "4MSA013",
                           "um":  "CJ",
-                          "andes":  12,
+                          "andes":  2,
                           "margarita":  13,
                           "capital":  9,
                           "barcelona":  8,
@@ -561,7 +561,7 @@
                           "zulia":  39,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
-                          "andes":  3,
+                          "andes":  0,
                           "margarita":  16,
                           "capital":  22,
                           "barcelona":  3,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 16:40:46",
+    "ultima_actualizacion":  "15/10/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2301,7 +2301,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  15,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-03082026",
@@ -2741,16 +2741,6 @@
                   },
                   {
                       "codigo":  "4MMA014",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "14-07-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1126-14072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
                       "cantidad":  1,
                       "fecha_fabricacion":  "10-07-2026",
                       "ubicacion":  "BARCELONA",
@@ -2838,16 +2828,6 @@
                       "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0728-060726",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
                   },
                   {
                       "codigo":  "4MNA008",
@@ -2951,7 +2931,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  196,
+                      "cantidad":  174,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0228-20022026",
@@ -3368,16 +3348,6 @@
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  28,
-                      "fecha_fabricacion":  "14-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0828-14082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-08-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3841,7 +3811,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  12,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0727-210726",
@@ -3978,16 +3948,6 @@
                       "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA015",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "24-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0827-24082026",
-                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-08-2027"
                   },
                   {
                       "codigo":  "4MSA015",
@@ -5890,5 +5850,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65744
+    "total_general_cajas":  65660
 };
