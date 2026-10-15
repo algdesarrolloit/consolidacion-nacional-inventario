@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 10:00:46",
+    "ultima_actualizacion":  "15/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1001,7 +1001,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  2022,
+                      "cantidad":  2012,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1091,7 +1091,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1140,
+                      "cantidad":  1128,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1211,7 +1211,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  899,
+                      "cantidad":  882,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-210526",
@@ -1351,7 +1351,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  3037,
+                      "cantidad":  2980,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -3031,7 +3031,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  94,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-20022026",
@@ -3131,7 +3131,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  562,
+                      "cantidad":  538,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-091026",
@@ -3481,17 +3481,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0828-13082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  517,
+                      "cantidad":  497,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-14082026",
@@ -3551,7 +3541,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  6,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-06072026",
