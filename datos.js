@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1048
+                          "cajas":  1049
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -369,7 +369,7 @@
                           "andes":  7,
                           "margarita":  11,
                           "capital":  19,
-                          "barcelona":  2,
+                          "barcelona":  3,
                           "cagua":  20,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 11:10:46",
+    "ultima_actualizacion":  "15/10/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2758,6 +2758,16 @@
                       "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-11-2026"
+                  },
+                  {
+                      "codigo":  "4MMA014",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "10-07-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1126-10072026",
+                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-11-2026"
                   },
                   {
                       "codigo":  "4MMA014",
@@ -6000,5 +6010,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66029
+    "total_general_cajas":  66030
 };
