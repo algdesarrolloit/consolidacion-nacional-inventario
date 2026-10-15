@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  46376,
-                                                              "bidones":  843.2
+                                                              "kg":  45001,
+                                                              "bidones":  818.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  87638.9,
+                          "kg":  86263.9,
                           "cajas":  52682
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  1731
                       }
                   ],
-    "total_general_kg":  87638.9,
+    "total_general_kg":  86263.9,
     "productos":  [
                       {
                           "zulia":  44,
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  46376,
+                          "cagua":  45001,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 14:00:46",
+    "ultima_actualizacion":  "15/10/2026 14:11:01",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -911,7 +911,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  17446,
+                      "cantidad":  16071,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
