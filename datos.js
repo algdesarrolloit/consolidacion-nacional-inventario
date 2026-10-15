@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  41322.9,
-                                                              "bidones":  688.72
+                                                              "kg":  41142.9,
+                                                              "bidones":  685.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  95343.9,
+                          "kg":  95163.9,
                           "cajas":  52682
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  1731
                       }
                   ],
-    "total_general_kg":  95343.9,
+    "total_general_kg":  95163.9,
     "productos":  [
                       {
                           "zulia":  44,
@@ -838,7 +838,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  41322.9,
+                          "cagua":  41142.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 11:40:46",
+    "ultima_actualizacion":  "15/10/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
