@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  95343.9,
-                          "cajas":  52878
+                          "cajas":  54463
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -422,7 +422,7 @@
                           "margarita":  16,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  562,
+                          "cagua":  1320,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -487,7 +487,7 @@
                           "margarita":  7,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  207,
+                          "cagua":  1034,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  5,
                           "bolivar":  28
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 06:50:46",
+    "ultima_actualizacion":  "15/10/2026 07:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3121,6 +3121,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  188,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-09102026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  562,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
@@ -3128,6 +3138,16 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  570,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-13102026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3628,6 +3648,16 @@
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  827,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-14102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -6140,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66991
+    "total_general_cajas":  68576
 };
