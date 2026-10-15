@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2899
+                          "cajas":  2889
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -535,7 +535,7 @@
                           "zulia":  2,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  10,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  1,
                           "barcelona":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 15:00:46",
+    "ultima_actualizacion":  "15/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -921,7 +921,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  116,
+                      "cantidad":  114,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-200126",
@@ -1051,7 +1051,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  124,
+                      "cantidad":  123,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1131,7 +1131,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  32,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-190126",
@@ -1311,7 +1311,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  166,
+                      "cantidad":  163,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -3871,16 +3871,6 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
                       "cantidad":  15,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -6000,5 +5990,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65563
+    "total_general_cajas":  65553
 };
