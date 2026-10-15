@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 14:40:46",
+    "ultima_actualizacion":  "15/10/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1901,7 +1901,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  30,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-300926",
@@ -1971,7 +1971,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  65,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2221,7 +2221,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  75,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-300726",
@@ -2271,7 +2271,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  47,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-300726",
@@ -2631,7 +2631,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  187,
+                      "cantidad":  167,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -2851,7 +2851,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  12,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -2931,7 +2931,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  52,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3621,7 +3621,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  27,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -3721,7 +3721,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  40,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-220926",
@@ -3801,7 +3801,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  15,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1227-17122025",
@@ -4371,7 +4371,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  59,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-09072026",
@@ -4431,7 +4431,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  28,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -4481,7 +4481,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  65,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-310726",
@@ -4911,7 +4911,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  15,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "30-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-300626",
@@ -5721,7 +5721,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  9,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-240826",
@@ -5731,7 +5731,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  120,
+                      "cantidad":  102,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-110926",
@@ -5901,7 +5901,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  15,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-300926",
