@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 16:10:46",
+    "ultima_actualizacion":  "15/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1281,7 +1281,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  63,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-200526",
@@ -2641,7 +2641,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  51,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -2861,7 +2861,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  19,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-060726",
@@ -2938,16 +2938,6 @@
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
-                      "cantidad":  18,
-                      "fecha_fabricacion":  "10-12-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1228-101225",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-12-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -3051,17 +3041,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-02-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0228-100226",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-02-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
-                      "cantidad":  80,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0228-20022026",
@@ -3118,16 +3098,6 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  16,
-                      "fecha_fabricacion":  "10-08-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0828-050826 NV",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-08-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3271,7 +3241,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  16,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-071025",
@@ -3371,7 +3341,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  10,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "25-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-251025",
@@ -3441,17 +3411,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "30-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0728-30072026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  48,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-14082026",
@@ -3501,23 +3461,13 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  39,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-11-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1128-101125-NV",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -3884,16 +3834,6 @@
                       "cantidad":  1,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "CAPITAL",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  103,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "MARGARITA",
                       "lote":  "0628-150626",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
@@ -4541,7 +4481,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  8,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-23072026",
@@ -4641,7 +4581,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  31,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "27-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0727-270726",
@@ -5021,7 +4961,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  52,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-20082026",
@@ -5461,17 +5401,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "14-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0728-14072026",
-                      "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-07-2028"
-                  },
-                  {
-                      "codigo":  "4MTO018",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-170926",
