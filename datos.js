@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  54021,
-                                                              "bidones":  982.2
+                                                              "kg":  46376,
+                                                              "bidones":  843.2
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  95283.9,
+                          "kg":  87638.9,
                           "cajas":  52682
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  1731
                       }
                   ],
-    "total_general_kg":  95283.9,
+    "total_general_kg":  87638.9,
     "productos":  [
                       {
                           "zulia":  44,
@@ -851,17 +851,17 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  54021,
+                          "cagua":  46376,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 13:30:46",
+    "ultima_actualizacion":  "15/10/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  9482.9,
+                      "cantidad":  9422.9,
                       "fecha_fabricacion":  "13-09-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0627-130925-231",
