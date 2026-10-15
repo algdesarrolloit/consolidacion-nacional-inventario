@@ -101,14 +101,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1941
+                          "cajas":  1878
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3078
+                          "cajas":  3048
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -251,7 +251,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  26,
-                          "capital":  86,
+                          "capital":  85,
                           "barcelona":  19,
                           "cagua":  1452,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -264,7 +264,7 @@
                           "um":  "CJ",
                           "andes":  38,
                           "margarita":  12,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  2,
                           "cagua":  1319,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
@@ -277,7 +277,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  28,
-                          "capital":  65,
+                          "capital":  60,
                           "barcelona":  34,
                           "cagua":  742,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  187,
+                          "capital":  185,
                           "barcelona":  106,
                           "cagua":  2955,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -303,7 +303,7 @@
                           "um":  "CJ",
                           "andes":  75,
                           "margarita":  8,
-                          "capital":  47,
+                          "capital":  46,
                           "barcelona":  10,
                           "cagua":  455,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -329,7 +329,7 @@
                           "um":  "CJ",
                           "andes":  32,
                           "margarita":  31,
-                          "capital":  26,
+                          "capital":  23,
                           "barcelona":  20,
                           "cagua":  1673,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  284,
                           "margarita":  256,
-                          "capital":  242,
+                          "capital":  219,
                           "barcelona":  162,
                           "cagua":  6166,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  4,
                           "margarita":  4,
-                          "capital":  12,
+                          "capital":  11,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -394,7 +394,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  52,
+                          "capital":  50,
                           "barcelona":  18,
                           "cagua":  1190,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -485,7 +485,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  7,
-                          "capital":  29,
+                          "capital":  26,
                           "barcelona":  0,
                           "cagua":  674,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  27,
                           "margarita":  12,
-                          "capital":  52,
+                          "capital":  49,
                           "barcelona":  3,
                           "cagua":  336,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  12,
-                          "capital":  2,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  428,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -524,7 +524,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  9,
-                          "capital":  7,
+                          "capital":  4,
                           "barcelona":  2,
                           "cagua":  70,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
@@ -535,9 +535,9 @@
                           "zulia":  2,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  80,
+                          "andes":  50,
                           "margarita":  0,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  1795,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -589,7 +589,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  9,
-                          "capital":  48,
+                          "capital":  45,
                           "barcelona":  2,
                           "cagua":  356,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -680,7 +680,7 @@
                           "um":  "CJ",
                           "andes":  255,
                           "margarita":  45,
-                          "capital":  91,
+                          "capital":  88,
                           "barcelona":  37,
                           "cagua":  2379,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -771,7 +771,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  53,
-                          "capital":  88,
+                          "capital":  85,
                           "barcelona":  32,
                           "cagua":  2890,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -784,7 +784,7 @@
                           "um":  "CJ",
                           "andes":  130,
                           "margarita":  35,
-                          "capital":  78,
+                          "capital":  75,
                           "barcelona":  29,
                           "cagua":  911,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 14:11:01",
+    "ultima_actualizacion":  "15/10/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -921,7 +921,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  119,
+                      "cantidad":  116,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-200126",
@@ -1051,7 +1051,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  126,
+                      "cantidad":  124,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1131,7 +1131,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  35,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "19-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-190126",
@@ -1311,7 +1311,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  168,
+                      "cantidad":  166,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1901,7 +1901,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  50,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-300926",
@@ -2451,7 +2451,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  82,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-240926",
@@ -2541,7 +2541,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  314,
+                      "cantidad":  284,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-021026",
@@ -2961,7 +2961,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  226,
+                      "cantidad":  196,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0228-20022026",
@@ -3151,7 +3151,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  30,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-071025",
@@ -3301,7 +3301,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  34,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-281125 NV",
@@ -3401,17 +3401,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0828-13082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  40,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-14082026",
@@ -3881,7 +3871,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  110,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-150626",
@@ -4381,7 +4371,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  64,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-09072026",
@@ -4701,7 +4691,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  12,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-22092026",
@@ -5731,7 +5721,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  29,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-240826",
@@ -6010,5 +6000,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65770
+    "total_general_cajas":  65677
 };
