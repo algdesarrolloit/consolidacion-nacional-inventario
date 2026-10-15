@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  86263.9,
-                          "cajas":  52870
+                          "cajas":  52869
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -734,7 +734,7 @@
                           "margarita":  28,
                           "capital":  46,
                           "barcelona":  13,
-                          "cagua":  1019,
+                          "cagua":  1018,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  46,
                           "bolivar":  34
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 16:20:46",
+    "ultima_actualizacion":  "15/10/2026 16:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5910,5 +5910,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65745
+    "total_general_cajas":  65744
 };
