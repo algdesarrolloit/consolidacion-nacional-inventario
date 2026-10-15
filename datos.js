@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  95343.9,
-                          "cajas":  54463
+                          "cajas":  54016
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -409,7 +409,7 @@
                           "margarita":  81,
                           "capital":  136,
                           "barcelona":  27,
-                          "cagua":  2018,
+                          "cagua":  1318,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  67,
                           "bolivar":  115
@@ -643,7 +643,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  20,
+                          "cagua":  143,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -799,7 +799,7 @@
                           "margarita":  23,
                           "capital":  4,
                           "barcelona":  2,
-                          "cagua":  258,
+                          "cagua":  388,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  9,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "15/10/2026 07:00:46",
+    "ultima_actualizacion":  "15/10/2026 07:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3051,7 +3051,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  908,
+                      "cantidad":  208,
                       "fecha_fabricacion":  "07-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-070726",
@@ -4940,6 +4940,16 @@
                       "fecha_vencimiento":  "09-07-2027"
                   },
                   {
+                      "codigo":  "4MSU018",
+                      "cantidad":  123,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0727-131026",
+                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-07-2027"
+                  },
+                  {
                       "codigo":  "4MTO011",
                       "cantidad":  5,
                       "fecha_fabricacion":  "21-01-2025",
@@ -6121,6 +6131,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  130,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-141026",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  4,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -6170,5 +6190,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68576
+    "total_general_cajas":  68129
 };
