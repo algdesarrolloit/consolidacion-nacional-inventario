@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 10:40:46",
+    "ultima_actualizacion":  "16/10/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1041,7 +1041,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  44,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0627-150626",
@@ -1121,7 +1121,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  57,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -1301,7 +1301,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  33,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-200526",
@@ -1381,7 +1381,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  45,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
