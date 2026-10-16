@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  85813.9,
-                          "cajas":  52940
+                          "cajas":  56993
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -376,6 +376,19 @@
                           "bolivar":  4
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MMA031",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  3150,
+                          "descripcion":  "MAYONESA COPOSA 12 X 445GR",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  2,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
@@ -435,7 +448,7 @@
                           "margarita":  14,
                           "capital":  45,
                           "barcelona":  181,
-                          "cagua":  2731,
+                          "cagua":  3045,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  8,
                           "bolivar":  39
@@ -539,7 +552,7 @@
                           "margarita":  0,
                           "capital":  1,
                           "barcelona":  0,
-                          "cagua":  1785,
+                          "cagua":  2374,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +870,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 12:00:46",
+    "ultima_actualizacion":  "16/10/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2820,6 +2833,16 @@
                       "fecha_vencimiento":  "10-11-2026"
                   },
                   {
+                      "codigo":  "4MMA031",
+                      "cantidad":  3150,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-15102026",
+                      "descripcion":  "MAYONESA COPOSA 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-04-2027"
+                  },
+                  {
                       "codigo":  "4MNA008",
                       "cantidad":  11,
                       "fecha_fabricacion":  "06-07-2026",
@@ -3161,7 +3184,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  57,
+                      "cantidad":  371,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -3748,6 +3771,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  589,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-240926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -5780,5 +5813,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65279
+    "total_general_cajas":  69332
 };
