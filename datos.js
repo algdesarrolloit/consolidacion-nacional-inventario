@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  1923
+                          "cajas":  1901
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -142,7 +142,7 @@
     "total_general_kg":  85813.9,
     "productos":  [
                       {
-                          "zulia":  34,
+                          "zulia":  24,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  234,
@@ -155,7 +155,7 @@
                           "bolivar":  151
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  51,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  123,
@@ -168,7 +168,7 @@
                           "bolivar":  72
                       },
                       {
-                          "zulia":  23,
+                          "zulia":  13,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  305,
@@ -181,7 +181,7 @@
                           "bolivar":  105
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  39,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  163,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 10:30:46",
+    "ultima_actualizacion":  "16/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5780,5 +5780,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65301
+    "total_general_cajas":  65279
 };
