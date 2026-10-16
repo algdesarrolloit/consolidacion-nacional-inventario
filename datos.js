@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  44551,
-                                                              "bidones":  810.02
+                                                              "kg":  59401,
+                                                              "bidones":  1080.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  85813.9,
+                          "kg":  100663.9,
                           "cajas":  56760
                       },
                       {
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1825
+                          "cajas":  1824
                       },
                       {
                           "almacen":  "ANDES",
@@ -139,7 +139,7 @@
                           "cajas":  1735
                       }
                   ],
-    "total_general_kg":  85813.9,
+    "total_general_kg":  100663.9,
     "productos":  [
                       {
                           "zulia":  24,
@@ -628,7 +628,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  38,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  6,
                           "cagua":  509,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -864,13 +864,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  44551,
+                          "cagua":  59401,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 15:00:46",
+    "ultima_actualizacion":  "16/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -921,6 +921,16 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-06-2028"
+                  },
+                  {
+                      "codigo":  "1VEG002",
+                      "cantidad":  14850,
+                      "fecha_fabricacion":  "14-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "MP 0728-141026-270",
+                      "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-07-2028"
                   },
                   {
                       "codigo":  "1VEG002",
@@ -4484,16 +4494,6 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "15-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0927-150926-NV",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSU015",
                       "cantidad":  8,
                       "fecha_fabricacion":  "13-03-2026",
                       "ubicacion":  "MARGARITA",
@@ -5803,5 +5803,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69098
+    "total_general_cajas":  69097
 };
