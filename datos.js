@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  85813.9,
-                          "cajas":  56993
+                          "cajas":  56967
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -279,7 +279,7 @@
                           "margarita":  28,
                           "capital":  60,
                           "barcelona":  34,
-                          "cagua":  730,
+                          "cagua":  725,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  35,
                           "bolivar":  38
@@ -331,7 +331,7 @@
                           "margarita":  31,
                           "capital":  23,
                           "barcelona":  20,
-                          "cagua":  1623,
+                          "cagua":  1613,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  25,
                           "bolivar":  7
@@ -344,7 +344,7 @@
                           "margarita":  256,
                           "capital":  201,
                           "barcelona":  162,
-                          "cagua":  6136,
+                          "cagua":  6131,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  19,
                           "bolivar":  257
@@ -721,7 +721,7 @@
                           "margarita":  11,
                           "capital":  32,
                           "barcelona":  7,
-                          "cagua":  338,
+                          "cagua":  335,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  35,
                           "bolivar":  13
@@ -747,7 +747,7 @@
                           "margarita":  28,
                           "capital":  46,
                           "barcelona":  13,
-                          "cagua":  1019,
+                          "cagua":  1016,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  45,
                           "bolivar":  34
@@ -870,7 +870,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 14:00:46",
+    "ultima_actualizacion":  "16/10/2026 14:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1944,7 +1944,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  39,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-300926",
@@ -2484,7 +2484,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  323,
+                      "cantidad":  313,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-081026",
@@ -2594,7 +2594,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  93,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-021026",
@@ -4954,7 +4954,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  338,
+                      "cantidad":  335,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5134,7 +5134,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  546,
+                      "cantidad":  543,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5813,5 +5813,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69332
+    "total_general_cajas":  69306
 };
