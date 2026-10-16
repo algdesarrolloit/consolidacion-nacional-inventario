@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1827
+                          "cajas":  1826
                       },
                       {
                           "almacen":  "ANDES",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  177,
+                          "capital":  176,
                           "barcelona":  106,
                           "cagua":  2947,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 11:00:46",
+    "ultima_actualizacion":  "16/10/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2131,7 +2131,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  19,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -5780,5 +5780,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65280
+    "total_general_cajas":  65279
 };
