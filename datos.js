@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  85813.9,
-                          "cajas":  52869
+                          "cajas":  53569
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -409,7 +409,7 @@
                           "margarita":  71,
                           "capital":  136,
                           "barcelona":  27,
-                          "cagua":  1298,
+                          "cagua":  1998,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  67,
                           "bolivar":  78
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 09:00:46",
+    "ultima_actualizacion":  "16/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2991,7 +2991,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  208,
+                      "cantidad":  908,
                       "fecha_fabricacion":  "07-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-070726",
@@ -5850,5 +5850,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65660
+    "total_general_cajas":  66360
 };
