@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/10/2026 10:10:46",
+    "ultima_actualizacion":  "16/10/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1951,7 +1951,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  63,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2131,7 +2131,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  29,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -2251,7 +2251,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  46,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-300726",
@@ -2491,7 +2491,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  26,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-081026",
@@ -2611,7 +2611,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  167,
+                      "cantidad":  146,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3391,7 +3391,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-06072026",
@@ -3461,7 +3461,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  29,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-29092026",
@@ -3551,7 +3551,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  52,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-24092026",
@@ -3638,16 +3638,6 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "01-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "25-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-25092026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -3871,16 +3861,6 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "21-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0727-210726",
-                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA013",
                       "cantidad":  1,
                       "fecha_fabricacion":  "22-06-2026",
                       "ubicacion":  "MARGARITA",
@@ -3981,7 +3961,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  22,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-01092026",
@@ -4381,7 +4361,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  9,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-310726",
@@ -4821,7 +4801,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  11,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "19-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-19082026",
@@ -4951,7 +4931,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  34,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-230926",
@@ -5271,7 +5251,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  60,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-15072026",
