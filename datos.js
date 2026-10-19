@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 10:20:46",
+    "ultima_actualizacion":  "19/10/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2831,20 +2831,10 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  624,
+                      "cantidad":  622,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-141026",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "15-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-151026",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2028"
