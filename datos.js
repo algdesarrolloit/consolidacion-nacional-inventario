@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100663.9,
-                          "cajas":  47929
+                          "cajas":  47817
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  375,
+                          "cagua":  263,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 13:50:46",
+    "ultima_actualizacion":  "19/10/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3111,7 +3111,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  19,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-060726",
@@ -3221,7 +3221,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  18,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1228-101225",
@@ -3351,17 +3351,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-02-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0228-100226",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-02-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
-                      "cantidad":  80,
+                      "cantidad":  74,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0228-20022026",
@@ -3481,7 +3471,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  16,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-050826 NV",
@@ -3631,7 +3621,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  16,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-071025",
@@ -3731,7 +3721,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  10,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "25-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-251025",
@@ -3781,7 +3771,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  15,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-30072026",
@@ -3851,23 +3841,13 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  39,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "10-11-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1128-101125-NV",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -3954,16 +3934,6 @@
                       "cantidad":  26,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
-                      "lote":  "0928-29092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "MARGARITA",
                       "lote":  "0928-29092026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
@@ -4091,7 +4061,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  12,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-24092026",
@@ -4181,7 +4151,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  12,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "25-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-25092026",
@@ -4281,7 +4251,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  9,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1227-18122025",
@@ -4961,7 +4931,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-09072026",
@@ -5191,7 +5161,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  8,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "13-03-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-13032026",
@@ -5471,7 +5441,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "11-09-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-110925",
@@ -5501,7 +5471,7 @@
                   },
                   {
                       "codigo":  "4MTO012",
-                      "cantidad":  27,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "19-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0528-190526",
@@ -5691,7 +5661,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  14,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "06-02-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0228-06022026",
@@ -5758,16 +5728,6 @@
                       "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-09-2028"
-                  },
-                  {
-                      "codigo":  "4MTO015",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "19-05-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0528-190526",
-                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-05-2028"
                   },
                   {
                       "codigo":  "4MTO015",
@@ -5851,7 +5811,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  21,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "12-09-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0428-120925",
@@ -5961,7 +5921,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  28,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-25082026",
@@ -6091,7 +6051,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-170926",
@@ -6720,5 +6680,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66670
+    "total_general_cajas":  66558
 };
