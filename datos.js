@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2858
+                          "cajas":  2860
                       },
                       {
                           "almacen":  "ANDES",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  234,
                           "margarita":  73,
-                          "capital":  65,
+                          "capital":  66,
                           "barcelona":  43,
                           "cagua":  1937,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  305,
                           "margarita":  82,
-                          "capital":  75,
+                          "capital":  76,
                           "barcelona":  37,
                           "cagua":  3645,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 16:30:46",
+    "ultima_actualizacion":  "19/10/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1018,6 +1018,16 @@
                       "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA016",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "20-01-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0127-200126",
+                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-01-2027"
                   },
                   {
                       "codigo":  "4CNA016",
@@ -1298,6 +1308,16 @@
                       "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "19-01-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0127-190126",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-01-2027"
                   },
                   {
                       "codigo":  "4CNA018",
@@ -6720,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66298
+    "total_general_cajas":  66300
 };
