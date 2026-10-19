@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100663.9,
-                          "cajas":  47840
+                          "cajas":  47853
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  208,
                           "capital":  236,
                           "barcelona":  166,
-                          "cagua":  2283,
+                          "cagua":  2284,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  416,
                           "bolivar":  271
@@ -500,7 +500,7 @@
                           "margarita":  2,
                           "capital":  49,
                           "barcelona":  23,
-                          "cagua":  1014,
+                          "cagua":  1015,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  32,
                           "bolivar":  32
@@ -526,7 +526,7 @@
                           "margarita":  3,
                           "capital":  7,
                           "barcelona":  2,
-                          "cagua":  55,
+                          "cagua":  56,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  23,
                           "bolivar":  10
@@ -812,7 +812,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  286,
+                          "cagua":  291,
                           "descripcion":  "PAN BLANCO 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -825,7 +825,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  390,
+                          "cagua":  395,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 15:00:46",
+    "ultima_actualizacion":  "19/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2178,6 +2178,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "07-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "21-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-21082026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-08-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -4031,6 +4041,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0928-24092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  294,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
@@ -4228,6 +4248,16 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "17-12-2025",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1227-17122025",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-12-2027"
                   },
                   {
                       "codigo":  "4MSA008",
@@ -6661,7 +6691,7 @@
                   },
                   {
                       "codigo":  "4PAC001",
-                      "cantidad":  286,
+                      "cantidad":  291,
                       "fecha_fabricacion":  "19-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-190426",
@@ -6671,7 +6701,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  390,
+                      "cantidad":  395,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
@@ -6680,5 +6710,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66581
+    "total_general_cajas":  66594
 };
