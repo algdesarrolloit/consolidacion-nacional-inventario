@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2860
+                          "cajas":  2863
                       },
                       {
                           "almacen":  "ANDES",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  2,
-                          "capital":  19,
+                          "capital":  22,
                           "barcelona":  30,
                           "cagua":  341,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 16:40:46",
+    "ultima_actualizacion":  "19/10/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4161,6 +4161,16 @@
                   },
                   {
                       "codigo":  "4MSA007",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-220926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
                       "cantidad":  19,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -6740,5 +6750,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66300
+    "total_general_cajas":  66303
 };
