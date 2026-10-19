@@ -87,7 +87,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  3137
+                          "cajas":  3057
                       },
                       {
                           "almacen":  "CAGUA",
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2859
+                          "cajas":  2858
                       },
                       {
                           "almacen":  "ANDES",
@@ -385,7 +385,7 @@
                           "barcelona":  60,
                           "cagua":  1166,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  80,
+                          "barquisimeto":  62,
                           "bolivar":  100
                       },
                       {
@@ -398,7 +398,7 @@
                           "barcelona":  18,
                           "cagua":  891,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  127,
+                          "barquisimeto":  126,
                           "bolivar":  60
                       },
                       {
@@ -424,7 +424,7 @@
                           "barcelona":  52,
                           "cagua":  305,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  210,
+                          "barquisimeto":  150,
                           "bolivar":  60
                       },
                       {
@@ -476,7 +476,7 @@
                           "barcelona":  3,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  2,
+                          "barquisimeto":  1,
                           "bolivar":  0
                       },
                       {
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  2,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  30,
                           "cagua":  341,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 15:30:46",
+    "ultima_actualizacion":  "19/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4161,7 +4161,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -6710,5 +6710,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66594
+    "total_general_cajas":  66513
 };
