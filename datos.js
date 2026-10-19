@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100663.9,
-                          "cajas":  55769
+                          "cajas":  55770
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -461,7 +461,7 @@
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  441,
+                          "cagua":  442,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  5,
                           "bolivar":  0
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 09:30:57",
+    "ultima_actualizacion":  "19/10/2026 09:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3071,7 +3071,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  530,
+                      "cantidad":  529,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-091026",
@@ -3301,7 +3301,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  228,
+                      "cantidad":  227,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-281125",
@@ -5820,5 +5820,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68106
+    "total_general_cajas":  68107
 };
