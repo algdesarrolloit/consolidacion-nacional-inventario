@@ -122,7 +122,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3472
+                          "cajas":  3522
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -428,7 +428,7 @@
                           "bolivar":  60
                       },
                       {
-                          "zulia":  48,
+                          "zulia":  66,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  40,
@@ -441,7 +441,7 @@
                           "bolivar":  39
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  83,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  44,
@@ -454,7 +454,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  42,
+                          "zulia":  43,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  0,
@@ -467,7 +467,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  20,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 13:30:46",
+    "ultima_actualizacion":  "19/10/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3641,7 +3641,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  48,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3751,7 +3751,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  53,
+                      "cantidad":  83,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
@@ -3798,6 +3798,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0828-13082026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3861,7 +3871,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  19,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-06072026",
@@ -6710,5 +6720,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66620
+    "total_general_cajas":  66670
 };
