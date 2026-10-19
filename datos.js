@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100663.9,
-                          "cajas":  56760
+                          "cajas":  60409
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -383,7 +383,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  3150,
+                          "cagua":  4465,
                           "descripcion":  "MAYONESA COPOSA 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -396,7 +396,7 @@
                           "margarita":  4,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  1614,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -513,7 +513,7 @@
                           "margarita":  12,
                           "capital":  49,
                           "barcelona":  3,
-                          "cagua":  334,
+                          "cagua":  1054,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  32,
                           "bolivar":  32
@@ -870,7 +870,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 07:40:46",
+    "ultima_actualizacion":  "19/10/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2853,6 +2853,46 @@
                       "fecha_vencimiento":  "15-04-2027"
                   },
                   {
+                      "codigo":  "4MMA031",
+                      "cantidad":  1315,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-161026026",
+                      "descripcion":  "MAYONESA COPOSA 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-04-2027"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  630,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-141026",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-151026",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  974,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-151026",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2028"
+                  },
+                  {
                       "codigo":  "4MNA008",
                       "cantidad":  11,
                       "fecha_fabricacion":  "06-07-2026",
@@ -3571,6 +3611,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  720,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-16102026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -5803,5 +5853,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  69097
+    "total_general_cajas":  72746
 };
