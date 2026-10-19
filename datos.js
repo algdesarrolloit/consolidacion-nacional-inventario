@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100663.9,
-                          "cajas":  55876
+                          "cajas":  55829
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -149,7 +149,7 @@
                           "margarita":  73,
                           "capital":  65,
                           "barcelona":  43,
-                          "cagua":  2008,
+                          "cagua":  2001,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  91,
                           "bolivar":  151
@@ -162,7 +162,7 @@
                           "margarita":  36,
                           "capital":  69,
                           "barcelona":  40,
-                          "cagua":  1126,
+                          "cagua":  1121,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  56,
                           "bolivar":  72
@@ -175,7 +175,7 @@
                           "margarita":  82,
                           "capital":  11,
                           "barcelona":  37,
-                          "cagua":  3783,
+                          "cagua":  3773,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  87,
                           "bolivar":  105
@@ -188,7 +188,7 @@
                           "margarita":  47,
                           "capital":  6,
                           "barcelona":  32,
-                          "cagua":  2909,
+                          "cagua":  2898,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  19,
                           "bolivar":  62
@@ -617,7 +617,7 @@
                           "margarita":  38,
                           "capital":  0,
                           "barcelona":  6,
-                          "cagua":  489,
+                          "cagua":  477,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  45,
                           "bolivar":  4
@@ -721,7 +721,7 @@
                           "margarita":  21,
                           "capital":  32,
                           "barcelona":  9,
-                          "cagua":  800,
+                          "cagua":  799,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  23,
                           "bolivar":  20
@@ -734,7 +734,7 @@
                           "margarita":  28,
                           "capital":  46,
                           "barcelona":  13,
-                          "cagua":  1013,
+                          "cagua":  1012,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  45,
                           "bolivar":  34
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/10/2026 09:00:46",
+    "ultima_actualizacion":  "19/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2828,26 +2828,6 @@
                       "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA031",
-                      "cantidad":  85,
-                      "fecha_fabricacion":  "15-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0427-15102026",
-                      "descripcion":  "MAYONESA COPOSA 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA031",
-                      "cantidad":  1315,
-                      "fecha_fabricacion":  "16-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0427-161026026",
-                      "descripcion":  "MAYONESA COPOSA 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-04-2027"
                   },
                   {
                       "codigo":  "4MNA008",
@@ -5840,5 +5820,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  68213
+    "total_general_cajas":  68166
 };
