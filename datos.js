@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  98628.9,
-                          "cajas":  47079
+                          "cajas":  46764
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -122,14 +122,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3407
+                          "cajas":  3722
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1603
+                          "cajas":  1578
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -337,14 +337,14 @@
                           "bolivar":  67
                       },
                       {
-                          "zulia":  605,
+                          "zulia":  920,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  389,
                           "margarita":  256,
                           "capital":  516,
                           "barcelona":  267,
-                          "cagua":  4583,
+                          "cagua":  4268,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  324,
                           "bolivar":  257
@@ -382,7 +382,7 @@
                           "andes":  80,
                           "margarita":  7,
                           "capital":  55,
-                          "barcelona":  55,
+                          "barcelona":  53,
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  51,
@@ -395,7 +395,7 @@
                           "andes":  80,
                           "margarita":  0,
                           "capital":  51,
-                          "barcelona":  12,
+                          "barcelona":  9,
                           "cagua":  889,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  26,
@@ -408,7 +408,7 @@
                           "andes":  174,
                           "margarita":  69,
                           "capital":  136,
-                          "barcelona":  50,
+                          "barcelona":  45,
                           "cagua":  1786,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  105,
@@ -421,7 +421,7 @@
                           "andes":  120,
                           "margarita":  0,
                           "capital":  50,
-                          "barcelona":  43,
+                          "barcelona":  38,
                           "cagua":  272,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  44,
@@ -434,7 +434,7 @@
                           "andes":  40,
                           "margarita":  9,
                           "capital":  45,
-                          "barcelona":  176,
+                          "barcelona":  174,
                           "cagua":  3029,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  23,
@@ -447,7 +447,7 @@
                           "andes":  44,
                           "margarita":  26,
                           "capital":  32,
-                          "barcelona":  9,
+                          "barcelona":  1,
                           "cagua":  226,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  38,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 09:40:46",
+    "ultima_actualizacion":  "20/10/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -891,7 +891,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14410,
+                      "cantidad":  13202,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-040926-219",
@@ -911,7 +911,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14850,
+                      "cantidad":  14849,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0728-141026-270",
@@ -921,7 +921,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  15511,
+                      "cantidad":  14795,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -2821,7 +2821,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  4583,
+                      "cantidad":  4268,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -2888,6 +2888,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  315,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0427-061026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-04-2027"
                   },
                   {
                       "codigo":  "4MMA011",
@@ -6720,5 +6730,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65300
+    "total_general_cajas":  65275
 };
