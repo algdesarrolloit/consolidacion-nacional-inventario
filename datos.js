@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3027
+                          "cajas":  3025
                       },
                       {
                           "almacen":  "ANDES",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  163,
                           "margarita":  47,
-                          "capital":  62,
+                          "capital":  61,
                           "barcelona":  32,
                           "cagua":  2163,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -316,7 +316,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  7,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  8,
                           "cagua":  328,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 12:40:46",
+    "ultima_actualizacion":  "20/10/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6740,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65128
+    "total_general_cajas":  65126
 };
