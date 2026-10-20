@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3037
+                          "cajas":  3040
                       },
                       {
                           "almacen":  "ANDES",
@@ -342,7 +342,7 @@
                           "um":  "CJ",
                           "andes":  389,
                           "margarita":  253,
-                          "capital":  516,
+                          "capital":  517,
                           "barcelona":  242,
                           "cagua":  4253,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -420,7 +420,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  0,
-                          "capital":  50,
+                          "capital":  52,
                           "barcelona":  24,
                           "cagua":  262,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 16:30:46",
+    "ultima_actualizacion":  "20/10/2026 16:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2771,6 +2771,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "28-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0327-280926",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  146,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -3388,6 +3398,16 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "10-08-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0828-050826 NV",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-08-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -6560,5 +6580,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62815
+    "total_general_cajas":  62818
 };
