@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3022
+                          "cajas":  3021
                       },
                       {
                           "almacen":  "ANDES",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  123,
                           "margarita":  36,
-                          "capital":  69,
+                          "capital":  68,
                           "barcelona":  40,
                           "cagua":  1116,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 13:00:46",
+    "ultima_actualizacion":  "20/10/2026 13:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1141,7 +1141,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  69,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1421,7 +1421,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  62,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2281,7 +2281,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-071026",
@@ -2531,7 +2531,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-03082026",
@@ -4151,7 +4151,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -6740,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65123
+    "total_general_cajas":  65122
 };
