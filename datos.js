@@ -122,14 +122,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3417
+                          "cajas":  3407
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1616
+                          "cajas":  1603
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -142,7 +142,7 @@
     "total_general_kg":  98628.9,
     "productos":  [
                       {
-                          "zulia":  44,
+                          "zulia":  43,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  234,
@@ -168,7 +168,7 @@
                           "bolivar":  72
                       },
                       {
-                          "zulia":  33,
+                          "zulia":  32,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  305,
@@ -337,7 +337,7 @@
                           "bolivar":  67
                       },
                       {
-                          "zulia":  607,
+                          "zulia":  605,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  389,
@@ -382,7 +382,7 @@
                           "andes":  80,
                           "margarita":  7,
                           "capital":  55,
-                          "barcelona":  57,
+                          "barcelona":  55,
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  51,
@@ -395,7 +395,7 @@
                           "andes":  80,
                           "margarita":  0,
                           "capital":  51,
-                          "barcelona":  15,
+                          "barcelona":  12,
                           "cagua":  889,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  26,
@@ -408,7 +408,7 @@
                           "andes":  174,
                           "margarita":  69,
                           "capital":  136,
-                          "barcelona":  51,
+                          "barcelona":  50,
                           "cagua":  1786,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  105,
@@ -434,7 +434,7 @@
                           "andes":  40,
                           "margarita":  9,
                           "capital":  45,
-                          "barcelona":  178,
+                          "barcelona":  176,
                           "cagua":  3029,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  23,
@@ -447,7 +447,7 @@
                           "andes":  44,
                           "margarita":  26,
                           "capital":  32,
-                          "barcelona":  13,
+                          "barcelona":  9,
                           "cagua":  226,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  38,
@@ -473,14 +473,14 @@
                           "andes":  0,
                           "margarita":  22,
                           "capital":  3,
-                          "barcelona":  1,
+                          "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  1,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  48,
+                          "zulia":  47,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  35,
@@ -493,7 +493,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  86,
+                          "zulia":  85,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  32,
@@ -532,7 +532,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  128,
+                          "zulia":  127,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  300,
@@ -610,7 +610,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  26,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  60,
@@ -766,7 +766,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  169,
+                          "zulia":  167,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  60,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 09:30:46",
+    "ultima_actualizacion":  "20/10/2026 09:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6720,5 +6720,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65323
+    "total_general_cajas":  65300
 };
