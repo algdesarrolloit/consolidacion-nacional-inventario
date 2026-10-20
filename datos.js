@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  59291,
-                                                              "bidones":  1078.02
+                                                              "kg":  57366,
+                                                              "bidones":  1043.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  100553.9,
+                          "kg":  98628.9,
                           "cajas":  47079
                       },
                       {
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2863
+                          "cajas":  2857
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,14 +122,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3553
+                          "cajas":  3417
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1627
+                          "cajas":  1616
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -139,10 +139,10 @@
                           "cajas":  2294
                       }
                   ],
-    "total_general_kg":  100553.9,
+    "total_general_kg":  98628.9,
     "productos":  [
                       {
-                          "zulia":  90,
+                          "zulia":  44,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  234,
@@ -155,7 +155,7 @@
                           "bolivar":  151
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  40,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  123,
@@ -168,7 +168,7 @@
                           "bolivar":  72
                       },
                       {
-                          "zulia":  79,
+                          "zulia":  33,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  305,
@@ -181,7 +181,7 @@
                           "bolivar":  105
                       },
                       {
-                          "zulia":  67,
+                          "zulia":  57,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  163,
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  7,
-                          "capital":  61,
+                          "capital":  55,
                           "barcelona":  57,
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -389,46 +389,46 @@
                           "bolivar":  100
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  45,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  0,
                           "capital":  51,
-                          "barcelona":  17,
+                          "barcelona":  15,
                           "cagua":  889,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  26,
                           "bolivar":  60
                       },
                       {
-                          "zulia":  151,
+                          "zulia":  146,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  174,
                           "margarita":  69,
                           "capital":  136,
-                          "barcelona":  52,
+                          "barcelona":  51,
                           "cagua":  1786,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  105,
                           "bolivar":  78
                       },
                       {
-                          "zulia":  31,
+                          "zulia":  27,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  0,
                           "capital":  50,
-                          "barcelona":  46,
+                          "barcelona":  43,
                           "cagua":  272,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  44,
                           "bolivar":  60
                       },
                       {
-                          "zulia":  68,
+                          "zulia":  67,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  40,
@@ -441,20 +441,20 @@
                           "bolivar":  39
                       },
                       {
-                          "zulia":  85,
+                          "zulia":  84,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  44,
                           "margarita":  26,
                           "capital":  32,
-                          "barcelona":  18,
+                          "barcelona":  13,
                           "cagua":  226,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  38,
                           "bolivar":  35
                       },
                       {
-                          "zulia":  45,
+                          "zulia":  42,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  0,
@@ -467,7 +467,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  23,
+                          "zulia":  18,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  59291,
+                          "cagua":  57366,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 09:20:46",
+    "ultima_actualizacion":  "20/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3121,7 +3121,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  11,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -6720,5 +6720,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65476
+    "total_general_cajas":  65323
 };
