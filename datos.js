@@ -136,7 +136,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2167
+                          "cajas":  2143
                       }
                   ],
     "total_general_kg":  98518.9,
@@ -373,7 +373,7 @@
                           "cagua":  20,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  62,
@@ -386,7 +386,7 @@
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  51,
-                          "bolivar":  79
+                          "bolivar":  72
                       },
                       {
                           "zulia":  45,
@@ -399,7 +399,7 @@
                           "cagua":  881,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  26,
-                          "bolivar":  41
+                          "bolivar":  38
                       },
                       {
                           "zulia":  146,
@@ -425,7 +425,7 @@
                           "cagua":  262,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  44,
-                          "bolivar":  37
+                          "bolivar":  34
                       },
                       {
                           "zulia":  67,
@@ -542,7 +542,7 @@
                           "cagua":  1575,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  81,
-                          "bolivar":  13
+                          "bolivar":  3
                       },
                       {
                           "zulia":  30,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 14:40:46",
+    "ultima_actualizacion":  "20/10/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1741,7 +1741,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  133,
+                      "cantidad":  131,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-150926",
@@ -2621,7 +2621,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  1249,
+                      "cantidad":  1229,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-091026",
@@ -2771,7 +2771,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  4268,
+                      "cantidad":  4253,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -3201,7 +3201,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  889,
+                      "cantidad":  881,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-08102026",
@@ -3411,17 +3411,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "09-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-091026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  271,
+                      "cantidad":  262,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-13102026",
@@ -4271,7 +4261,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  994,
+                      "cantidad":  988,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-180926",
@@ -5111,7 +5101,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  276,
+                      "cantidad":  271,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1027-13102026",
@@ -6141,7 +6131,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  328,
+                      "cantidad":  323,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-070926",
@@ -6401,7 +6391,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  23,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-140926",
@@ -6670,5 +6660,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62613
+    "total_general_cajas":  62589
 };
