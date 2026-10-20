@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3034
+                          "cajas":  3037
                       },
                       {
                           "almacen":  "ANDES",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  123,
                           "margarita":  36,
-                          "capital":  68,
+                          "capital":  70,
                           "barcelona":  40,
                           "cagua":  1116,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  43,
-                          "capital":  1,
+                          "capital":  2,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 16:20:46",
+    "ultima_actualizacion":  "20/10/2026 16:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1121,7 +1121,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  68,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3691,7 +3691,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  1,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-13082026",
@@ -6560,5 +6560,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62812
+    "total_general_cajas":  62815
 };
