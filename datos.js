@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 15:30:46",
+    "ultima_actualizacion":  "20/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2801,7 +2801,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  46,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0327-09092026",
@@ -3731,7 +3731,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-14082026",
@@ -4301,7 +4301,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  43,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0628-150626",
@@ -5581,7 +5581,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  45,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-20082026",
