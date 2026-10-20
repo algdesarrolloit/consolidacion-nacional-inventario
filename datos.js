@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100553.9,
-                          "cajas":  47088
+                          "cajas":  47078
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -487,7 +487,7 @@
                           "margarita":  0,
                           "capital":  26,
                           "barcelona":  30,
-                          "cagua":  530,
+                          "cagua":  528,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  32,
                           "bolivar":  32
@@ -500,7 +500,7 @@
                           "margarita":  2,
                           "capital":  49,
                           "barcelona":  23,
-                          "cagua":  1001,
+                          "cagua":  1000,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  29,
                           "bolivar":  32
@@ -513,7 +513,7 @@
                           "margarita":  2,
                           "capital":  22,
                           "barcelona":  30,
-                          "cagua":  314,
+                          "cagua":  308,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  33,
                           "bolivar":  32
@@ -721,7 +721,7 @@
                           "margarita":  19,
                           "capital":  32,
                           "barcelona":  9,
-                          "cagua":  796,
+                          "cagua":  795,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  23,
                           "bolivar":  20
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 08:40:46",
+    "ultima_actualizacion":  "20/10/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6720,5 +6720,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65538
+    "total_general_cajas":  65528
 };
