@@ -87,14 +87,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2750
+                          "cajas":  2748
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  98518.9,
-                          "cajas":  44454
+                          "cajas":  44993
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -292,7 +292,7 @@
                           "margarita":  208,
                           "capital":  234,
                           "barcelona":  151,
-                          "cagua":  45,
+                          "cagua":  164,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  412,
                           "bolivar":  244
@@ -320,7 +320,7 @@
                           "barcelona":  4,
                           "cagua":  328,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
-                          "barquisimeto":  34,
+                          "barquisimeto":  32,
                           "bolivar":  10
                       },
                       {
@@ -435,7 +435,7 @@
                           "margarita":  9,
                           "capital":  45,
                           "barcelona":  173,
-                          "cagua":  3029,
+                          "cagua":  3449,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  23,
                           "bolivar":  35
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 15:40:46",
+    "ultima_actualizacion":  "20/10/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2191,7 +2191,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  45,
+                      "cantidad":  164,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-081026",
@@ -3551,7 +3551,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  371,
+                      "cantidad":  791,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -6660,5 +6660,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62262
+    "total_general_cajas":  62799
 };
