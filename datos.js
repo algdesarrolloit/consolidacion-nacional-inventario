@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1578
+                          "cajas":  1467
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -382,7 +382,7 @@
                           "andes":  80,
                           "margarita":  7,
                           "capital":  225,
-                          "barcelona":  53,
+                          "barcelona":  33,
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  51,
@@ -421,7 +421,7 @@
                           "andes":  120,
                           "margarita":  0,
                           "capital":  50,
-                          "barcelona":  38,
+                          "barcelona":  28,
                           "cagua":  272,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  44,
@@ -486,7 +486,7 @@
                           "andes":  35,
                           "margarita":  0,
                           "capital":  26,
-                          "barcelona":  30,
+                          "barcelona":  20,
                           "cagua":  528,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  32,
@@ -538,7 +538,7 @@
                           "andes":  300,
                           "margarita":  43,
                           "capital":  121,
-                          "barcelona":  60,
+                          "barcelona":  10,
                           "cagua":  1581,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  81,
@@ -642,7 +642,7 @@
                           "andes":  20,
                           "margarita":  0,
                           "capital":  10,
-                          "barcelona":  10,
+                          "barcelona":  9,
                           "cagua":  67,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  13,
@@ -798,7 +798,7 @@
                           "andes":  44,
                           "margarita":  23,
                           "capital":  24,
-                          "barcelona":  34,
+                          "barcelona":  14,
                           "cagua":  218,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  29,
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 11:50:46",
+    "ultima_actualizacion":  "20/10/2026 12:00:58",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6740,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65239
+    "total_general_cajas":  65128
 };
