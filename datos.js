@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2857
+                          "cajas":  3027
                       },
                       {
                           "almacen":  "ANDES",
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  7,
-                          "capital":  55,
+                          "capital":  225,
                           "barcelona":  53,
                           "cagua":  1119,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 10:40:46",
+    "ultima_actualizacion":  "20/10/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3131,7 +3131,17 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  5,
+                      "cantidad":  75,
+                      "fecha_fabricacion":  "18-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0628-180626",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  100,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -6730,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65227
+    "total_general_cajas":  65397
 };
