@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  100553.9,
-                          "cajas":  47117
+                          "cajas":  47096
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -526,7 +526,7 @@
                           "margarita":  3,
                           "capital":  7,
                           "barcelona":  2,
-                          "cagua":  56,
+                          "cagua":  54,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  23,
                           "bolivar":  10
@@ -682,7 +682,7 @@
                           "margarita":  45,
                           "capital":  141,
                           "barcelona":  37,
-                          "cagua":  2660,
+                          "cagua":  2652,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  174,
                           "bolivar":  160
@@ -734,7 +734,7 @@
                           "margarita":  23,
                           "capital":  46,
                           "barcelona":  13,
-                          "cagua":  1010,
+                          "cagua":  999,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  43,
                           "bolivar":  34
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 08:20:46",
+    "ultima_actualizacion":  "20/10/2026 08:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6750,5 +6750,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65567
+    "total_general_cajas":  65546
 };
