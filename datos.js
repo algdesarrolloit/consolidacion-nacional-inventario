@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  57366,
-                                                              "bidones":  1043.02
+                                                              "kg":  57256,
+                                                              "bidones":  1041.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  98628.9,
+                          "kg":  98518.9,
                           "cajas":  44530
                       },
                       {
@@ -139,7 +139,7 @@
                           "cajas":  2294
                       }
                   ],
-    "total_general_kg":  98628.9,
+    "total_general_kg":  98518.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -851,13 +851,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  57366,
+                          "cagua":  57256,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 14:10:46",
+    "ultima_actualizacion":  "20/10/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -891,7 +891,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  13202,
+                      "cantidad":  13092,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-040926-219",
@@ -1061,27 +1061,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "20-01-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0127-200126",
-                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-01-2027"
-                  },
-                  {
-                      "codigo":  "4CNA016",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "23-05-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0527-230526",
-                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA016",
-                      "cantidad":  88,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0627-150626",
@@ -1161,7 +1141,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  53,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -1351,17 +1331,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "20-05-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0527-200526",
-                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA018",
-                      "cantidad":  64,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-230526",
@@ -1441,7 +1411,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  67,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -2851,7 +2821,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  82,
+                      "cantidad":  80,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0427-021026",
@@ -3261,7 +3231,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "10-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1228-101225",
@@ -3381,7 +3351,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  151,
+                      "cantidad":  146,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3481,7 +3451,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  31,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-091026",
@@ -3631,7 +3601,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  68,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3741,7 +3711,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  85,
+                      "cantidad":  84,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-281125",
@@ -3781,17 +3751,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0828-13082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  42,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-14082026",
@@ -3834,16 +3794,6 @@
                       "cantidad":  22,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  23,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "ZULIA",
                       "lote":  "0728-06072026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -3931,7 +3881,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  18,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-29092026",
@@ -4061,7 +4011,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-090626",
@@ -4371,7 +4321,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  112,
+                      "cantidad":  111,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-150626",
@@ -4861,7 +4811,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  32,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0827-250826",
@@ -5211,7 +5161,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  40,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0927-160926",
@@ -6311,7 +6261,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "31-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-310826",
