@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3025
+                          "cajas":  3022
                       },
                       {
                           "almacen":  "ANDES",
@@ -290,7 +290,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  236,
+                          "capital":  234,
                           "barcelona":  166,
                           "cagua":  2121,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -511,7 +511,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  2,
-                          "capital":  22,
+                          "capital":  21,
                           "barcelona":  30,
                           "cagua":  308,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/10/2026 12:50:46",
+    "ultima_actualizacion":  "20/10/2026 13:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6740,5 +6740,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65126
+    "total_general_cajas":  65123
 };
