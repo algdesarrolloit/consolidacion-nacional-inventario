@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  25200,
-                                                              "bidones":  140
+                                                              "kg":  23940,
+                                                              "bidones":  133
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  122008.9,
+                          "kg":  120748.9,
                           "cajas":  46310
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1816
                       }
                   ],
-    "total_general_kg":  122008.9,
+    "total_general_kg":  120748.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -904,13 +904,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  25200,
+                          "cagua":  23940,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 16:00:46",
+    "ultima_actualizacion":  "21/10/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
