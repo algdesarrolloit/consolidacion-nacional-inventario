@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2250
+                          "cajas":  2258
                       },
                       {
                           "almacen":  "CAGUA",
@@ -451,7 +451,7 @@
                           "barcelona":  42,
                           "cagua":  3837,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  85,
+                          "barquisimeto":  89,
                           "bolivar":  0
                       },
                       {
@@ -477,7 +477,7 @@
                           "barcelona":  173,
                           "cagua":  2293,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  13,
                           "bolivar":  35
                       },
                       {
@@ -490,7 +490,7 @@
                           "barcelona":  0,
                           "cagua":  226,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
-                          "barquisimeto":  28,
+                          "barquisimeto":  29,
                           "bolivar":  31
                       },
                       {
@@ -581,7 +581,7 @@
                           "barcelona":  0,
                           "cagua":  1165,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  70,
+                          "barquisimeto":  71,
                           "bolivar":  0
                       },
                       {
@@ -776,7 +776,7 @@
                           "barcelona":  13,
                           "cagua":  999,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  41,
+                          "barquisimeto":  42,
                           "bolivar":  34
                       },
                       {
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 15:10:46",
+    "ultima_actualizacion":  "21/10/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3264,7 +3264,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  35,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-20022026",
@@ -3494,6 +3494,16 @@
                   },
                   {
                       "codigo":  "4MNA014",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "11-03-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0328-110326",
+                      "descripcion":  "ENCURTIDOS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-03-2028"
+                  },
+                  {
+                      "codigo":  "4MNA014",
                       "cantidad":  35,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3591,6 +3601,16 @@
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "27-11-2025",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1128-271125 NV",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-11-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -4101,6 +4121,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "16-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0628-150626",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-06-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -5614,7 +5644,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  1,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-230926",
@@ -6453,5 +6483,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62954
+    "total_general_cajas":  62962
 };
