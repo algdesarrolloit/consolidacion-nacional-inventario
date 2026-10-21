@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  98298.9,
-                          "cajas":  44993
+                          "cajas":  46123
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -500,7 +500,7 @@
                           "margarita":  2,
                           "capital":  49,
                           "barcelona":  22,
-                          "cagua":  1000,
+                          "cagua":  1100,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  29,
                           "bolivar":  31
@@ -773,7 +773,7 @@
                           "margarita":  53,
                           "capital":  88,
                           "barcelona":  26,
-                          "cagua":  2652,
+                          "cagua":  2964,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  107,
                           "bolivar":  73
@@ -786,7 +786,7 @@
                           "margarita":  35,
                           "capital":  78,
                           "barcelona":  23,
-                          "cagua":  720,
+                          "cagua":  1438,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  145,
                           "bolivar":  97
@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 07:30:46",
+    "ultima_actualizacion":  "21/10/2026 07:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3951,6 +3951,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  100,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-161026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  49,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -6121,6 +6131,16 @@
                   },
                   {
                       "codigo":  "4MVI002",
+                      "cantidad":  312,
+                      "fecha_fabricacion":  "01-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-011026",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
                       "cantidad":  88,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -6348,6 +6368,26 @@
                       "descripcion":  "VINAGRE 24 X 500ML",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  311,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-061026",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  407,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-081026",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
                   },
                   {
                       "codigo":  "4MVI004",
@@ -6580,5 +6620,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62818
+    "total_general_cajas":  63948
 };
