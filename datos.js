@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2743
+                          "cajas":  2742
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  231,
                           "margarita":  73,
-                          "capital":  56,
+                          "capital":  55,
                           "barcelona":  43,
                           "cagua":  1573,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 15:40:46",
+    "ultima_actualizacion":  "21/10/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1084,7 +1084,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -6483,5 +6483,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62962
+    "total_general_cajas":  62961
 };
