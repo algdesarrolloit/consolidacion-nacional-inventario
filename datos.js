@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  128538.9,
-                          "cajas":  44780
+                          "cajas":  44150
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3028
+                          "cajas":  3015
                       },
                       {
                           "almacen":  "ANDES",
@@ -475,7 +475,7 @@
                           "margarita":  9,
                           "capital":  45,
                           "barcelona":  173,
-                          "cagua":  2923,
+                          "cagua":  2293,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  23,
                           "bolivar":  35
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  43,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -551,7 +551,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  2,
-                          "capital":  21,
+                          "capital":  20,
                           "barcelona":  23,
                           "cagua":  297,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  300,
                           "margarita":  36,
-                          "capital":  111,
+                          "capital":  101,
                           "barcelona":  7,
                           "cagua":  1515,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -590,7 +590,7 @@
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  13,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  23,
                           "cagua":  688,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 12:00:46",
+    "ultima_actualizacion":  "21/10/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3464,7 +3464,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-050826 NV",
@@ -3751,16 +3751,6 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0828-13082026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -4094,7 +4084,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -4294,17 +4284,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  120,
+                      "cantidad":  101,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-180926",
@@ -4454,7 +4434,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -6663,5 +6643,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62583
+    "total_general_cajas":  61940
 };
