@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  55606,
-                                                              "bidones":  1011.02
+                                                              "kg":  55441,
+                                                              "bidones":  1008.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  23940,
-                                                              "bidones":  133
+                                                              "kg":  23580,
+                                                              "bidones":  131
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  120748.9,
+                          "kg":  120223.9,
                           "cajas":  46310
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1816
                       }
                   ],
-    "total_general_kg":  120748.9,
+    "total_general_kg":  120223.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -891,7 +891,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  55606,
+                          "cagua":  55441,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -904,13 +904,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  23940,
+                          "cagua":  23580,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 16:10:46",
+    "ultima_actualizacion":  "21/10/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1744,7 +1744,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  14,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-140926",
@@ -1904,7 +1904,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  9,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-011225",
@@ -2024,7 +2024,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  33,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -2154,7 +2154,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  93,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-22092026",
@@ -2344,7 +2344,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  7,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-300726",
@@ -2594,16 +2594,6 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  18,
-                      "fecha_fabricacion":  "08-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0427-081026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
                       "cantidad":  56,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -2714,7 +2704,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  32,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-021026",
@@ -3034,7 +3024,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-141026",
@@ -3154,7 +3144,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-05082026",
@@ -3374,7 +3364,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  24,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-13102026",
@@ -3595,16 +3585,6 @@
                   {
                       "codigo":  "4MNA015",
                       "cantidad":  1,
-                      "fecha_fabricacion":  "28-11-2025",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  1,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1128-271125 NV",
@@ -3734,16 +3714,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "14-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-14102026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  17,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3824,7 +3794,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-24092026",
@@ -3944,7 +3914,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -4107,16 +4077,6 @@
                       "cantidad":  300,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0928-180926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0928-180926",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
@@ -5154,7 +5114,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  53,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0128-210125",
@@ -5297,16 +5257,6 @@
                       "cantidad":  60,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0828-20082026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "20-08-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0828-20082026",
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
@@ -5744,7 +5694,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "28-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0528-28052026",
@@ -5894,7 +5844,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  26,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-070926",
@@ -6144,7 +6094,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-140926",
