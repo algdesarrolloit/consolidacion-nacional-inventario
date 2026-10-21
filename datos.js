@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3040
+                          "cajas":  3028
                       },
                       {
                           "almacen":  "ANDES",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  0,
-                          "capital":  52,
+                          "capital":  51,
                           "barcelona":  24,
                           "cagua":  160,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  43,
-                          "capital":  2,
+                          "capital":  1,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  300,
                           "margarita":  36,
-                          "capital":  121,
+                          "capital":  111,
                           "barcelona":  7,
                           "cagua":  1515,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 11:50:46",
+    "ultima_actualizacion":  "21/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6663,5 +6663,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62595
+    "total_general_cajas":  62583
 };
