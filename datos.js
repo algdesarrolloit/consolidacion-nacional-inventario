@@ -79,6 +79,46 @@
                                                                 "bidones":  0
                                                             }
                                             }
+                        },
+                        {
+                            "factor_bidon":  180,
+                            "descripcion":  "ALCAPARRAS",
+                            "codigo":  "1VEG003",
+                            "um":  "KG",
+                            "existencias":  {
+                                                "zulia":  {
+                                                              "kg":  0,
+                                                              "bidones":  0
+                                                          },
+                                                "capital":  {
+                                                                "kg":  0,
+                                                                "bidones":  0
+                                                            },
+                                                "andes":  {
+                                                              "kg":  0,
+                                                              "bidones":  0
+                                                          },
+                                                "margarita":  {
+                                                                  "kg":  0,
+                                                                  "bidones":  0
+                                                              },
+                                                "barcelona":  {
+                                                                  "kg":  0,
+                                                                  "bidones":  0
+                                                              },
+                                                "cagua":  {
+                                                              "kg":  30240,
+                                                              "bidones":  168
+                                                          },
+                                                "barquisimeto":  {
+                                                                     "kg":  0,
+                                                                     "bidones":  0
+                                                                 },
+                                                "bolivar":  {
+                                                                "kg":  0,
+                                                                "bidones":  0
+                                                            }
+                                            }
                         }
                     ],
     "almacenes":  [
@@ -93,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  98298.9,
+                          "kg":  128538.9,
                           "cajas":  44780
                       },
                       {
@@ -139,7 +179,7 @@
                           "cajas":  1816
                       }
                   ],
-    "total_general_kg":  98298.9,
+    "total_general_kg":  128538.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -855,9 +895,22 @@
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "1VEG003",
+                          "um":  "KG",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  30240,
+                          "descripcion":  "ALCAPARRAS",
+                          "barquisimeto":  0,
+                          "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 11:30:46",
+    "ultima_actualizacion":  "21/10/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -928,6 +981,16 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-11-2027"
+                  },
+                  {
+                      "codigo":  "1VEG003",
+                      "cantidad":  30240,
+                      "fecha_fabricacion":  "19-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "MP 0729-191026-277",
+                      "descripcion":  "ALCAPARRAS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-07-2029"
                   },
                   {
                       "codigo":  "4CNA016",
