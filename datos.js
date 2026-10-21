@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  41202.9,
-                                                              "bidones":  686.72
+                                                              "kg":  41262.9,
+                                                              "bidones":  687.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  55441,
-                                                              "bidones":  1008.02
+                                                              "kg":  56706,
+                                                              "bidones":  1031.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  23400,
-                                                              "bidones":  130
+                                                              "kg":  23940,
+                                                              "bidones":  133
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,8 +133,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  120043.9,
-                          "cajas":  44150
+                          "kg":  121908.9,
+                          "cajas":  47335
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -179,7 +179,7 @@
                           "cajas":  1816
                       }
                   ],
-    "total_general_kg":  120043.9,
+    "total_general_kg":  121908.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -371,7 +371,7 @@
                           "margarita":  31,
                           "capital":  75,
                           "barcelona":  18,
-                          "cagua":  1224,
+                          "cagua":  2497,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  56,
                           "bolivar":  52
@@ -449,7 +449,7 @@
                           "margarita":  69,
                           "capital":  132,
                           "barcelona":  42,
-                          "cagua":  1575,
+                          "cagua":  3837,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  85,
                           "bolivar":  0
@@ -579,7 +579,7 @@
                           "margarita":  36,
                           "capital":  61,
                           "barcelona":  7,
-                          "cagua":  1515,
+                          "cagua":  1165,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  70,
                           "bolivar":  0
@@ -878,7 +878,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  41202.9,
+                          "cagua":  41262.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -891,7 +891,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  55441,
+                          "cagua":  56706,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -904,13 +904,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  23400,
+                          "cagua":  23940,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 14:20:46",
+    "ultima_actualizacion":  "21/10/2026 14:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2654,6 +2654,16 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  1273,
+                      "fecha_fabricacion":  "19-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-191026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  75,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -3331,6 +3341,26 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "07-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  162,
+                      "fecha_fabricacion":  "21-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-21082026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  2100,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-161026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
                   },
                   {
                       "codigo":  "4MNA010",
@@ -4184,7 +4214,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  928,
+                      "cantidad":  578,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-180926",
@@ -6543,5 +6573,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60946
+    "total_general_cajas":  64131
 };
