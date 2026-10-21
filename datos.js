@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  123858.9,
-                          "cajas":  46309
+                          "cajas":  46310
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -865,7 +865,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  395,
+                          "cagua":  396,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 14:50:46",
+    "ultima_actualizacion":  "21/10/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1074,7 +1074,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  1925,
+                      "cantidad":  1573,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1164,7 +1164,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  1116,
+                      "cantidad":  990,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1284,7 +1284,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  772,
+                      "cantidad":  420,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-210526",
@@ -1424,7 +1424,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  2163,
+                      "cantidad":  1967,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -6444,7 +6444,7 @@
                   },
                   {
                       "codigo":  "4PAC002",
-                      "cantidad":  395,
+                      "cantidad":  396,
                       "fecha_fabricacion":  "14-04-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1026-140426",
@@ -6453,5 +6453,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62953
+    "total_general_cajas":  62954
 };
