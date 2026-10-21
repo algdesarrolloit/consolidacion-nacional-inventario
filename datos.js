@@ -141,14 +141,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2745
+                          "cajas":  2743
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3849
+                          "cajas":  3842
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  305,
                           "margarita":  82,
-                          "capital":  36,
+                          "capital":  35,
                           "barcelona":  37,
                           "cagua":  3626,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -356,7 +356,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  7,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  4,
                           "cagua":  328,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
@@ -380,7 +380,7 @@
                           "zulia":  920,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  389,
+                          "andes":  388,
                           "margarita":  253,
                           "capital":  485,
                           "barcelona":  242,
@@ -523,7 +523,7 @@
                           "zulia":  47,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
-                          "andes":  35,
+                          "andes":  34,
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  12,
@@ -692,7 +692,7 @@
                           "zulia":  42,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
-                          "andes":  65,
+                          "andes":  64,
                           "margarita":  34,
                           "capital":  64,
                           "barcelona":  53,
@@ -744,7 +744,7 @@
                           "zulia":  45,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
-                          "andes":  68,
+                          "andes":  67,
                           "margarita":  6,
                           "capital":  31,
                           "barcelona":  6,
@@ -757,7 +757,7 @@
                           "zulia":  28,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
-                          "andes":  26,
+                          "andes":  25,
                           "margarita":  19,
                           "capital":  28,
                           "barcelona":  7,
@@ -770,7 +770,7 @@
                           "zulia":  55,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
-                          "andes":  40,
+                          "andes":  39,
                           "margarita":  23,
                           "capital":  44,
                           "barcelona":  13,
@@ -783,7 +783,7 @@
                           "zulia":  62,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
-                          "andes":  96,
+                          "andes":  95,
                           "margarita":  13,
                           "capital":  88,
                           "barcelona":  25,
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 13:00:46",
+    "ultima_actualizacion":  "21/10/2026 13:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1344,7 +1344,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -2531,16 +2531,6 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "03-01-2027"
-                  },
-                  {
-                      "codigo":  "4MKE011",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "2026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MKE011",
@@ -6573,5 +6563,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61670
+    "total_general_cajas":  61661
 };
