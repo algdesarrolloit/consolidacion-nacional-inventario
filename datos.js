@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 13:10:46",
+    "ultima_actualizacion":  "21/10/2026 13:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2694,7 +2694,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  284,
+                      "cantidad":  283,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-021026",
@@ -3744,7 +3744,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  35,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-29092026",
@@ -5194,7 +5194,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "0128-210125",
@@ -5514,7 +5514,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  68,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-230926",
@@ -5594,7 +5594,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  26,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-210926",
@@ -5674,7 +5674,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  40,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0828-25082026",
@@ -5784,7 +5784,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-15072026",
