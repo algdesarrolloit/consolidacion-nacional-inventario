@@ -857,7 +857,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 08:30:46",
+    "ultima_actualizacion":  "21/10/2026 08:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2191,27 +2191,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1217,
-                      "fecha_fabricacion":  "07-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-071026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-10-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  720,
-                      "fecha_fabricacion":  "08-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-08102026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-10-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  294,
+                      "cantidad":  164,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-081026",
