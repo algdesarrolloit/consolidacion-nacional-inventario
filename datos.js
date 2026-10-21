@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3015
+                          "cajas":  2992
                       },
                       {
                           "almacen":  "ANDES",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  389,
                           "margarita":  253,
-                          "capital":  517,
+                          "capital":  511,
                           "barcelona":  242,
                           "cagua":  4035,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  7,
-                          "capital":  225,
+                          "capital":  222,
                           "barcelona":  30,
                           "cagua":  1069,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  174,
                           "margarita":  69,
-                          "capital":  136,
+                          "capital":  132,
                           "barcelona":  42,
                           "cagua":  1575,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  0,
-                          "capital":  51,
+                          "capital":  50,
                           "barcelona":  24,
                           "cagua":  160,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  9,
-                          "capital":  45,
+                          "capital":  42,
                           "barcelona":  173,
                           "cagua":  2293,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  44,
                           "margarita":  26,
-                          "capital":  32,
+                          "capital":  31,
                           "barcelona":  1,
                           "cagua":  226,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  22,
-                          "capital":  3,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -759,7 +759,7 @@
                           "um":  "CJ",
                           "andes":  26,
                           "margarita":  19,
-                          "capital":  32,
+                          "capital":  30,
                           "barcelona":  7,
                           "cagua":  792,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 12:10:46",
+    "ultima_actualizacion":  "21/10/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3574,7 +3574,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  1064,
+                      "cantidad":  434,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328 110326",
@@ -6643,5 +6643,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61940
+    "total_general_cajas":  61917
 };
