@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 16:20:46",
+    "ultima_actualizacion":  "21/10/2026 16:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2704,7 +2704,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  30,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-021026",
@@ -3024,7 +3024,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  28,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-141026",
@@ -3144,7 +3144,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "05-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-05082026",
@@ -3364,7 +3364,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  23,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-13102026",
@@ -3794,17 +3794,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-24092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-30092026",
@@ -5844,7 +5834,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-070926",
