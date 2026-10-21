@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  41262.9,
-                                                              "bidones":  687.72
+                                                              "kg":  41202.9,
+                                                              "bidones":  686.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  56926,
-                                                              "bidones":  1035.02
+                                                              "kg":  55441,
+                                                              "bidones":  1008.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  25380,
-                                                              "bidones":  141
+                                                              "kg":  23400,
+                                                              "bidones":  130
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  123568.9,
+                          "kg":  120043.9,
                           "cajas":  44150
                       },
                       {
@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2756
+                          "cajas":  2745
                       },
                       {
                           "almacen":  "ANDES",
@@ -179,7 +179,7 @@
                           "cajas":  1816
                       }
                   ],
-    "total_general_kg":  123568.9,
+    "total_general_kg":  120043.9,
     "productos":  [
                       {
                           "zulia":  43,
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  323,
                           "margarita":  208,
-                          "capital":  225,
+                          "capital":  224,
                           "barcelona":  151,
                           "cagua":  34,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  0,
-                          "capital":  50,
+                          "capital":  40,
                           "barcelona":  24,
                           "cagua":  160,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -878,7 +878,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  41262.9,
+                          "cagua":  41202.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -891,7 +891,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  56926,
+                          "cagua":  55441,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -904,17 +904,17 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  25380,
+                          "cagua":  23400,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "21/10/2026 12:50:46",
+    "ultima_actualizacion":  "21/10/2026 13:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  9422.9,
+                      "cantidad":  9362.9,
                       "fecha_fabricacion":  "13-09-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0627-130925-231",
@@ -974,7 +974,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14685,
+                      "cantidad":  13200,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -984,7 +984,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  25380,
+                      "cantidad":  23400,
                       "fecha_fabricacion":  "19-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0729-191026-277",
@@ -1084,17 +1084,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "20-01-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0127-200126",
-                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-01-2027"
-                  },
-                  {
-                      "codigo":  "4CNA016",
-                      "cantidad":  65,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1354,7 +1344,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  46,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -2254,7 +2244,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  9,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-08092026",
@@ -3444,7 +3434,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  12,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-09102026",
@@ -6583,5 +6573,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61681
+    "total_general_cajas":  61670
 };
