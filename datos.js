@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  118028.9,
-                          "cajas":  48087
+                          "cajas":  48164
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -501,7 +501,7 @@
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  77,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 15:30:47",
+    "ultima_actualizacion":  "22/10/2026 15:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2151,17 +2151,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  16,
-                      "fecha_fabricacion":  "23-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0928-23092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  300,
+                      "cantidad":  266,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-071026",
@@ -2321,7 +2311,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  47,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -3581,6 +3571,16 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  117,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-261026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  43,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -4571,7 +4571,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-18092026",
@@ -5071,7 +5071,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  83,
+                      "cantidad":  73,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-20082026",
@@ -6220,5 +6220,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62682
+    "total_general_cajas":  62759
 };
