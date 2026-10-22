@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  120223.9,
-                          "cajas":  49894
+                          "cajas":  49840
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  73,
                           "capital":  55,
                           "barcelona":  43,
-                          "cagua":  1573,
+                          "cagua":  1570,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  91,
                           "bolivar":  141
@@ -202,7 +202,7 @@
                           "margarita":  36,
                           "capital":  60,
                           "barcelona":  40,
-                          "cagua":  990,
+                          "cagua":  987,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  56,
                           "bolivar":  66
@@ -215,7 +215,7 @@
                           "margarita":  82,
                           "capital":  35,
                           "barcelona":  37,
-                          "cagua":  3274,
+                          "cagua":  3270,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  87,
                           "bolivar":  92
@@ -228,7 +228,7 @@
                           "margarita":  47,
                           "capital":  36,
                           "barcelona":  32,
-                          "cagua":  1967,
+                          "cagua":  1964,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  47,
                           "bolivar":  55
@@ -423,7 +423,7 @@
                           "margarita":  7,
                           "capital":  222,
                           "barcelona":  27,
-                          "cagua":  1069,
+                          "cagua":  1059,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  28,
                           "bolivar":  57
@@ -436,7 +436,7 @@
                           "margarita":  0,
                           "capital":  52,
                           "barcelona":  2,
-                          "cagua":  831,
+                          "cagua":  819,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  11,
                           "bolivar":  15
@@ -449,7 +449,7 @@
                           "margarita":  69,
                           "capital":  132,
                           "barcelona":  42,
-                          "cagua":  3837,
+                          "cagua":  3823,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  89,
                           "bolivar":  0
@@ -462,7 +462,7 @@
                           "margarita":  0,
                           "capital":  40,
                           "barcelona":  21,
-                          "cagua":  786,
+                          "cagua":  783,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  19,
                           "bolivar":  15
@@ -657,7 +657,7 @@
                           "margarita":  34,
                           "capital":  30,
                           "barcelona":  26,
-                          "cagua":  255,
+                          "cagua":  253,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  34,
                           "bolivar":  21
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 08:10:46",
+    "ultima_actualizacion":  "22/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6483,5 +6483,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66531
+    "total_general_cajas":  66477
 };
