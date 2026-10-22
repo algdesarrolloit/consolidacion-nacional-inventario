@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  119828.9,
-                          "cajas":  48088
+                          "cajas":  48087
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -241,7 +241,7 @@
                           "margarita":  1,
                           "capital":  9,
                           "barcelona":  2,
-                          "cagua":  61,
+                          "cagua":  60,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
                           "barquisimeto":  2,
                           "bolivar":  3
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 12:10:47",
+    "ultima_actualizacion":  "22/10/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6390,5 +6390,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62990
+    "total_general_cajas":  62989
 };
