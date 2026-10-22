@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1448
+                          "cajas":  1446
                       },
                       {
                           "almacen":  "ZULIA",
@@ -589,7 +589,7 @@
                           "codigo":  "4MSA013",
                           "um":  "CJ",
                           "andes":  9,
-                          "margarita":  13,
+                          "margarita":  12,
                           "capital":  19,
                           "barcelona":  23,
                           "cagua":  684,
@@ -602,7 +602,7 @@
                           "codigo":  "4MSA015",
                           "um":  "CJ",
                           "andes":  21,
-                          "margarita":  16,
+                          "margarita":  15,
                           "capital":  12,
                           "barcelona":  18,
                           "cagua":  491,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 15:00:47",
+    "ultima_actualizacion":  "22/10/2026 15:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4161,16 +4161,6 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "22-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0627-220626",
-                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-06-2027"
-                  },
-                  {
-                      "codigo":  "4MSA013",
                       "cantidad":  12,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -4305,16 +4295,6 @@
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0727-21072026",
-                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA015",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "21-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0727-210726",
                       "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-07-2027"
@@ -6290,5 +6270,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62684
+    "total_general_cajas":  62682
 };
