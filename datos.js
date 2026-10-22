@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  120223.9,
-                          "cajas":  46310
+                          "cajas":  49894
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -462,7 +462,7 @@
                           "margarita":  0,
                           "capital":  40,
                           "barcelona":  21,
-                          "cagua":  160,
+                          "cagua":  786,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  19,
                           "bolivar":  15
@@ -475,7 +475,7 @@
                           "margarita":  9,
                           "capital":  41,
                           "barcelona":  173,
-                          "cagua":  2293,
+                          "cagua":  2565,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  13,
                           "bolivar":  35
@@ -527,7 +527,7 @@
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  517,
+                          "cagua":  2188,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  17,
                           "bolivar":  17
@@ -670,7 +670,7 @@
                           "margarita":  3,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  128,
+                          "cagua":  260,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -722,7 +722,7 @@
                           "margarita":  43,
                           "capital":  141,
                           "barcelona":  0,
-                          "cagua":  2632,
+                          "cagua":  3414,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  149,
                           "bolivar":  143
@@ -800,7 +800,7 @@
                           "margarita":  12,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  101,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  3,
                           "bolivar":  0
@@ -910,7 +910,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 08:00:46",
+    "ultima_actualizacion":  "22/10/2026 08:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3404,6 +3404,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  626,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  2,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -3528,6 +3538,16 @@
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
+                      "descripcion":  "ENCURTIDOS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-12-2028"
+                  },
+                  {
+                      "codigo":  "4MNA014",
+                      "cantidad":  272,
+                      "fecha_fabricacion":  "12-12-2025",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1228-12122025 NV",
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-12-2028"
@@ -3741,6 +3761,26 @@
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  821,
+                      "fecha_fabricacion":  "19-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-19102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  850,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-20102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -4974,6 +5014,16 @@
                   },
                   {
                       "codigo":  "4MSU017",
+                      "cantidad":  132,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-21102026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
                       "cantidad":  1,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -5304,7 +5354,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  420,
+                      "cantidad":  1202,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-14102026",
@@ -5801,6 +5851,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-03-2702"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  101,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
                   },
                   {
                       "codigo":  "4MTO033",
@@ -6423,5 +6483,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62947
+    "total_general_cajas":  66531
 };
