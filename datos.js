@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  118028.9,
-                          "cajas":  48135
+                          "cajas":  48125
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2742
+                          "cajas":  2743
                       },
                       {
                           "almacen":  "ANDES",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  160,
                           "margarita":  47,
-                          "capital":  36,
+                          "capital":  37,
                           "barcelona":  32,
                           "cagua":  1961,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -332,7 +332,7 @@
                           "margarita":  208,
                           "capital":  224,
                           "barcelona":  85,
-                          "cagua":  34,
+                          "cagua":  25,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  266,
                           "bolivar":  225
@@ -501,7 +501,7 @@
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  48,
+                          "cagua":  47,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 16:00:47",
+    "ultima_actualizacion":  "22/10/2026 16:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -971,7 +971,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  23400,
+                      "cantidad":  21600,
                       "fecha_fabricacion":  "19-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0729-191026-277",
@@ -1421,7 +1421,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  36,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -6220,5 +6220,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62730
+    "total_general_cajas":  62721
 };
