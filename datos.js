@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2151
+                          "cajas":  2089
                       },
                       {
                           "almacen":  "CAGUA",
@@ -334,7 +334,7 @@
                           "barcelona":  85,
                           "cagua":  34,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  316,
+                          "barquisimeto":  266,
                           "bolivar":  244
                       },
                       {
@@ -347,7 +347,7 @@
                           "barcelona":  6,
                           "cagua":  443,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
-                          "barquisimeto":  47,
+                          "barquisimeto":  46,
                           "bolivar":  19
                       },
                       {
@@ -646,7 +646,7 @@
                           "barcelona":  15,
                           "cagua":  713,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  60,
+                          "barquisimeto":  59,
                           "bolivar":  17
                       },
                       {
@@ -724,7 +724,7 @@
                           "barcelona":  0,
                           "cagua":  3394,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  143,
+                          "barquisimeto":  133,
                           "bolivar":  143
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 14:11:04",
+    "ultima_actualizacion":  "22/10/2026 14:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6290,5 +6290,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62989
+    "total_general_cajas":  62927
 };
