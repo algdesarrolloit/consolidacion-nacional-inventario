@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2743
+                          "cajas":  2744
                       },
                       {
                           "almacen":  "ANDES",
@@ -343,7 +343,7 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  8,
-                          "capital":  42,
+                          "capital":  43,
                           "barcelona":  6,
                           "cagua":  443,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 16:10:47",
+    "ultima_actualizacion":  "22/10/2026 16:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2191,7 +2191,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  34,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-081026",
@@ -2341,7 +2341,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  42,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-300726",
@@ -3571,7 +3571,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  77,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-261026",
@@ -6220,5 +6220,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62721
+    "total_general_cajas":  62722
 };
