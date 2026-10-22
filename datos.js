@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 17:30:46",
+    "ultima_actualizacion":  "22/10/2026 17:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2921,7 +2921,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  79,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-141026",
