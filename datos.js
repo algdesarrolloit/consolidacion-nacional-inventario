@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2173
+                          "cajas":  2151
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  119828.9,
-                          "cajas":  48775
+                          "cajas":  48088
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -243,7 +243,7 @@
                           "barcelona":  2,
                           "cagua":  61,
                           "descripcion":  "GALLETAS CHOCOLATE RELLENA  CHOCOLATE BAUDUCCO 30 X 65GR",
-                          "barquisimeto":  5,
+                          "barquisimeto":  2,
                           "bolivar":  3
                       },
                       {
@@ -295,7 +295,7 @@
                           "barcelona":  7,
                           "cagua":  1431,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  73,
+                          "barquisimeto":  71,
                           "bolivar":  7
                       },
                       {
@@ -425,7 +425,7 @@
                           "barcelona":  27,
                           "cagua":  1054,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  26,
+                          "barquisimeto":  25,
                           "bolivar":  57
                       },
                       {
@@ -451,7 +451,7 @@
                           "barcelona":  42,
                           "cagua":  3823,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  88,
+                          "barquisimeto":  87,
                           "bolivar":  0
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  0,
                           "cagua":  2188,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  13,
+                          "barquisimeto":  11,
                           "bolivar":  17
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  19,
                           "cagua":  1078,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  16,
+                          "barquisimeto":  14,
                           "bolivar":  31
                       },
                       {
@@ -555,7 +555,7 @@
                           "barcelona":  22,
                           "cagua":  287,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  16,
+                          "barquisimeto":  14,
                           "bolivar":  30
                       },
                       {
@@ -568,7 +568,7 @@
                           "barcelona":  2,
                           "cagua":  43,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                          "barquisimeto":  16,
+                          "barquisimeto":  15,
                           "bolivar":  6
                       },
                       {
@@ -581,7 +581,7 @@
                           "barcelona":  0,
                           "cagua":  1115,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  64,
+                          "barquisimeto":  59,
                           "bolivar":  0
                       },
                       {
@@ -659,7 +659,7 @@
                           "barcelona":  26,
                           "cagua":  253,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                          "barquisimeto":  34,
+                          "barquisimeto":  33,
                           "bolivar":  21
                       },
                       {
@@ -815,7 +815,7 @@
                           "barcelona":  22,
                           "cagua":  2942,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  86,
+                          "barquisimeto":  84,
                           "bolivar":  73
                       },
                       {
@@ -846,26 +846,13 @@
                       },
                       {
                           "zulia":  0,
-                          "codigo":  "4PAC001",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  291,
-                          "descripcion":  "PAN BLANCO 10 X 390G",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
                           "codigo":  "4PAC002",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  2,
-                          "cagua":  396,
+                          "cagua":  0,
                           "descripcion":  "PAN INTEGRAL 10 X 390G",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -910,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "22/10/2026 11:20:47",
+    "ultima_actualizacion":  "22/10/2026 11:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6413,16 +6400,6 @@
                       "fecha_vencimiento":  "13-10-2028"
                   },
                   {
-                      "codigo":  "4PAC001",
-                      "cantidad":  291,
-                      "fecha_fabricacion":  "19-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-190426",
-                      "descripcion":  "PAN BLANCO 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-10-2026"
-                  },
-                  {
                       "codigo":  "4PAC002",
                       "cantidad":  2,
                       "fecha_fabricacion":  "14-04-2026",
@@ -6431,17 +6408,7 @@
                       "descripcion":  "PAN INTEGRAL 10 X 390G",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2026"
-                  },
-                  {
-                      "codigo":  "4PAC002",
-                      "cantidad":  396,
-                      "fecha_fabricacion":  "14-04-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1026-140426",
-                      "descripcion":  "PAN INTEGRAL 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63864
+    "total_general_cajas":  63155
 };
