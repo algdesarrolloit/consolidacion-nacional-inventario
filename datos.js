@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  21780,
-                                                              "bidones":  121
+                                                              "kg":  21960,
+                                                              "bidones":  122
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  118028.9,
+                          "kg":  118208.9,
                           "cajas":  48125
                       },
                       {
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2912
+                          "cajas":  2722
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -179,13 +179,13 @@
                           "cajas":  1571
                       }
                   ],
-    "total_general_kg":  118028.9,
+    "total_general_kg":  118208.9,
     "productos":  [
                       {
                           "zulia":  40,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
-                          "andes":  228,
+                          "andes":  225,
                           "margarita":  69,
                           "capital":  55,
                           "barcelona":  43,
@@ -198,7 +198,7 @@
                           "zulia":  40,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
-                          "andes":  117,
+                          "andes":  115,
                           "margarita":  33,
                           "capital":  60,
                           "barcelona":  40,
@@ -211,7 +211,7 @@
                           "zulia":  28,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  299,
+                          "andes":  296,
                           "margarita":  78,
                           "capital":  35,
                           "barcelona":  37,
@@ -224,7 +224,7 @@
                           "zulia":  57,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
-                          "andes":  157,
+                          "andes":  156,
                           "margarita":  44,
                           "capital":  37,
                           "barcelona":  32,
@@ -302,7 +302,7 @@
                           "zulia":  40,
                           "codigo":  "4MES003",
                           "um":  "CJ",
-                          "andes":  38,
+                          "andes":  20,
                           "margarita":  12,
                           "capital":  25,
                           "barcelona":  7,
@@ -419,7 +419,7 @@
                           "zulia":  50,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
-                          "andes":  78,
+                          "andes":  73,
                           "margarita":  7,
                           "capital":  222,
                           "barcelona":  27,
@@ -432,7 +432,7 @@
                           "zulia":  32,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
-                          "andes":  75,
+                          "andes":  70,
                           "margarita":  0,
                           "capital":  52,
                           "barcelona":  2,
@@ -445,7 +445,7 @@
                           "zulia":  107,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
-                          "andes":  147,
+                          "andes":  47,
                           "margarita":  69,
                           "capital":  132,
                           "barcelona":  42,
@@ -458,7 +458,7 @@
                           "zulia":  0,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
-                          "andes":  53,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  40,
                           "barcelona":  21,
@@ -891,13 +891,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  21780,
+                          "cagua":  21960,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 11:50:46",
+    "ultima_actualizacion":  "23/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1081,7 +1081,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  44,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-230526",
@@ -1171,7 +1171,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  36,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -1341,7 +1341,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  53,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-200526",
@@ -1431,7 +1431,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  47,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -3941,16 +3941,6 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  43,
-                      "fecha_fabricacion":  "16-06-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0628-150626",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
                       "cantidad":  81,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ZULIA",
@@ -6160,5 +6150,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62195
+    "total_general_cajas":  62005
 };
