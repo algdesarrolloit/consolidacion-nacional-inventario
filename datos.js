@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2543
+                          "cajas":  2422
                       },
                       {
                           "almacen":  "ANDES",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  296,
                           "margarita":  78,
-                          "capital":  35,
+                          "capital":  33,
                           "barcelona":  37,
                           "cagua":  3267,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  156,
                           "margarita":  44,
-                          "capital":  37,
+                          "capital":  29,
                           "barcelona":  32,
                           "cagua":  1961,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -304,7 +304,7 @@
                           "um":  "CJ",
                           "andes":  20,
                           "margarita":  12,
-                          "capital":  25,
+                          "capital":  20,
                           "barcelona":  7,
                           "cagua":  1276,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
@@ -317,7 +317,7 @@
                           "um":  "CJ",
                           "andes":  70,
                           "margarita":  28,
-                          "capital":  51,
+                          "capital":  41,
                           "barcelona":  23,
                           "cagua":  601,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  286,
                           "margarita":  208,
-                          "capital":  207,
+                          "capital":  197,
                           "barcelona":  85,
                           "cagua":  25,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -369,7 +369,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  31,
-                          "capital":  65,
+                          "capital":  52,
                           "barcelona":  0,
                           "cagua":  2457,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  253,
-                          "capital":  452,
+                          "capital":  432,
                           "barcelona":  236,
                           "cagua":  3985,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  47,
                           "margarita":  69,
-                          "capital":  131,
+                          "capital":  102,
                           "barcelona":  42,
                           "cagua":  3823,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  38,
+                          "capital":  28,
                           "barcelona":  21,
                           "cagua":  768,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  26,
-                          "capital":  31,
+                          "capital":  30,
                           "barcelona":  0,
                           "cagua":  221,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -655,7 +655,7 @@
                           "um":  "CJ",
                           "andes":  33,
                           "margarita":  34,
-                          "capital":  29,
+                          "capital":  19,
                           "barcelona":  26,
                           "cagua":  253,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -720,7 +720,7 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  43,
-                          "capital":  121,
+                          "capital":  118,
                           "barcelona":  0,
                           "cagua":  3394,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 15:30:46",
+    "ultima_actualizacion":  "23/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1941,16 +1941,6 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "25-11-2025",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1127-251125",
-                      "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-11-2027"
-                  },
-                  {
-                      "codigo":  "4MES003",
                       "cantidad":  20,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAPITAL",
@@ -2041,7 +2031,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  51,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2201,7 +2191,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  139,
+                      "cantidad":  129,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-22092026",
@@ -2551,7 +2541,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  65,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-081026",
@@ -2681,7 +2671,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  82,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3181,7 +3171,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  129,
+                      "cantidad":  100,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3261,7 +3251,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  38,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3451,7 +3441,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
@@ -4671,7 +4661,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  29,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-160926",
@@ -5101,7 +5091,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  41,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-20082026",
@@ -6180,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63296
+    "total_general_cajas":  63175
 };
