@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2595
+                          "cajas":  2596
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -494,7 +494,7 @@
                           "bolivar":  26
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  0,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 13:50:46",
+    "ultima_actualizacion":  "23/10/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3530,6 +3530,16 @@
                       "fecha_vencimiento":  "14-08-2028"
                   },
                   {
+                      "codigo":  "4MNA025",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "14-08-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0828-14082026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
                       "codigo":  "4MNA027",
                       "cantidad":  22,
                       "fecha_fabricacion":  "06-07-2026",
@@ -6150,5 +6160,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62538
+    "total_general_cajas":  62539
 };
