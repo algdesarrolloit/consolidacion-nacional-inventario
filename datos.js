@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2631
+                          "cajas":  2543
                       },
                       {
                           "almacen":  "ANDES",
@@ -291,7 +291,7 @@
                           "um":  "CJ",
                           "andes":  45,
                           "margarita":  26,
-                          "capital":  86,
+                          "capital":  85,
                           "barcelona":  7,
                           "cagua":  1431,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -317,7 +317,7 @@
                           "um":  "CJ",
                           "andes":  70,
                           "margarita":  28,
-                          "capital":  53,
+                          "capital":  51,
                           "barcelona":  23,
                           "cagua":  601,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  286,
                           "margarita":  208,
-                          "capital":  224,
+                          "capital":  207,
                           "barcelona":  85,
                           "cagua":  25,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -343,7 +343,7 @@
                           "um":  "CJ",
                           "andes":  61,
                           "margarita":  8,
-                          "capital":  43,
+                          "capital":  41,
                           "barcelona":  6,
                           "cagua":  443,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -369,7 +369,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  31,
-                          "capital":  70,
+                          "capital":  65,
                           "barcelona":  0,
                           "cagua":  2457,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  253,
-                          "capital":  467,
+                          "capital":  452,
                           "barcelona":  236,
                           "cagua":  3985,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  70,
                           "margarita":  0,
-                          "capital":  51,
+                          "capital":  50,
                           "barcelona":  2,
                           "cagua":  804,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  39,
+                          "capital":  38,
                           "barcelona":  21,
                           "cagua":  768,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -538,7 +538,7 @@
                           "um":  "CJ",
                           "andes":  22,
                           "margarita":  2,
-                          "capital":  33,
+                          "capital":  31,
                           "barcelona":  19,
                           "cagua":  1082,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  0,
-                          "capital":  9,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  2193,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -629,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  33,
                           "margarita":  6,
-                          "capital":  44,
+                          "capital":  43,
                           "barcelona":  0,
                           "cagua":  245,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -642,7 +642,7 @@
                           "um":  "CJ",
                           "andes":  47,
                           "margarita":  13,
-                          "capital":  58,
+                          "capital":  57,
                           "barcelona":  15,
                           "cagua":  713,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -720,7 +720,7 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  43,
-                          "capital":  141,
+                          "capital":  121,
                           "barcelona":  0,
                           "cagua":  3394,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
@@ -746,7 +746,7 @@
                           "um":  "CJ",
                           "andes":  66,
                           "margarita":  6,
-                          "capital":  28,
+                          "capital":  25,
                           "barcelona":  6,
                           "cagua":  315,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
@@ -759,7 +759,7 @@
                           "um":  "CJ",
                           "andes":  24,
                           "margarita":  19,
-                          "capital":  26,
+                          "capital":  24,
                           "barcelona":  7,
                           "cagua":  788,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  38,
                           "margarita":  23,
-                          "capital":  44,
+                          "capital":  41,
                           "barcelona":  13,
                           "cagua":  987,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -785,7 +785,7 @@
                           "um":  "CJ",
                           "andes":  90,
                           "margarita":  13,
-                          "capital":  88,
+                          "capital":  87,
                           "barcelona":  24,
                           "cagua":  1171,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -824,7 +824,7 @@
                           "um":  "CJ",
                           "andes":  89,
                           "margarita":  35,
-                          "capital":  73,
+                          "capital":  71,
                           "barcelona":  22,
                           "cagua":  1435,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 15:20:46",
+    "ultima_actualizacion":  "23/10/2026 15:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1811,7 +1811,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "23-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-230726",
@@ -2041,7 +2041,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  53,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -2201,17 +2201,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-08092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  148,
+                      "cantidad":  139,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-22092026",
@@ -2341,7 +2331,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  43,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-300726",
@@ -2561,7 +2551,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  70,
+                      "cantidad":  65,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-081026",
@@ -2691,7 +2681,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  102,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3061,7 +3051,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  51,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3268,16 +3258,6 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "20-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "09-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-09102026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-10-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3611,7 +3591,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  7,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-29092026",
@@ -3721,7 +3701,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  36,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-24092026",
@@ -3821,7 +3801,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -3988,16 +3968,6 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  19,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-180926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-06-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -4501,7 +4471,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  24,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -4601,7 +4571,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  58,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-18092026",
@@ -5131,17 +5101,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "19-08-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0828-19082026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  60,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-20082026",
@@ -5251,7 +5211,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  29,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-230926",
@@ -5331,7 +5291,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  27,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -5431,7 +5391,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  44,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -5551,7 +5511,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  58,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-15072026",
@@ -6011,7 +5971,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  45,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-240826",
@@ -6220,5 +6180,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63384
+    "total_general_cajas":  63296
 };
