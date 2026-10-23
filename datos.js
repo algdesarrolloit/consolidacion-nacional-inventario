@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2744
+                          "cajas":  2716
                       },
                       {
                           "almacen":  "ANDES",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  253,
-                          "capital":  485,
+                          "capital":  482,
                           "barcelona":  236,
                           "cagua":  3985,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  0,
-                          "capital":  61,
+                          "capital":  41,
                           "barcelona":  0,
                           "cagua":  2193,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -811,7 +811,7 @@
                           "um":  "CJ",
                           "andes":  2,
                           "margarita":  53,
-                          "capital":  87,
+                          "capital":  82,
                           "barcelona":  22,
                           "cagua":  2942,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 15:00:46",
+    "ultima_actualizacion":  "23/10/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2691,7 +2691,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  115,
+                      "cantidad":  112,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -5781,7 +5781,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  87,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -6210,5 +6210,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63492
+    "total_general_cajas":  63464
 };
