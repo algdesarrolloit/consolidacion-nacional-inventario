@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1751
+                          "cajas":  1752
                       },
                       {
                           "almacen":  "CAGUA",
@@ -477,7 +477,7 @@
                           "barcelona":  173,
                           "cagua":  1830,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  11,
                           "bolivar":  32
                       },
                       {
@@ -581,7 +581,7 @@
                           "barcelona":  0,
                           "cagua":  1115,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  29,
+                          "barquisimeto":  28,
                           "bolivar":  0
                       },
                       {
@@ -776,7 +776,7 @@
                           "barcelona":  13,
                           "cagua":  987,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  30
                       },
                       {
@@ -815,7 +815,7 @@
                           "barcelona":  22,
                           "cagua":  2942,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  76,
+                          "barquisimeto":  80,
                           "bolivar":  62
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 08:50:46",
+    "ultima_actualizacion":  "23/10/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3351,7 +3351,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  12,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0328 110326",
@@ -3901,7 +3901,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  29,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-180926",
@@ -5341,7 +5341,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  39,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -5601,7 +5601,27 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  16,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "25-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-250826",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "31-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-310826",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-08-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
+                      "cantidad":  18,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-010926",
@@ -6150,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62416
+    "total_general_cajas":  62417
 };
