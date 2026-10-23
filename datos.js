@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2736
+                          "cajas":  2744
                       },
                       {
                           "almacen":  "ANDES",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  253,
-                          "capital":  482,
+                          "capital":  485,
                           "barcelona":  236,
                           "cagua":  3985,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -811,7 +811,7 @@
                           "um":  "CJ",
                           "andes":  2,
                           "margarita":  53,
-                          "capital":  82,
+                          "capital":  87,
                           "barcelona":  22,
                           "cagua":  2942,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 14:40:46",
+    "ultima_actualizacion":  "23/10/2026 14:50:58",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2691,7 +2691,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  112,
+                      "cantidad":  115,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -5771,7 +5771,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  82,
+                      "cantidad":  87,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -6200,5 +6200,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62406
+    "total_general_cajas":  62414
 };
