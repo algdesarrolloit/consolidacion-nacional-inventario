@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2422
+                          "cajas":  2408
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  225,
                           "margarita":  69,
-                          "capital":  55,
+                          "capital":  51,
                           "barcelona":  43,
                           "cagua":  1569,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -200,7 +200,7 @@
                           "um":  "CJ",
                           "andes":  115,
                           "margarita":  33,
-                          "capital":  60,
+                          "capital":  57,
                           "barcelona":  40,
                           "cagua":  986,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  296,
                           "margarita":  78,
-                          "capital":  33,
+                          "capital":  29,
                           "barcelona":  37,
                           "cagua":  3267,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  156,
                           "margarita":  44,
-                          "capital":  29,
+                          "capital":  26,
                           "barcelona":  32,
                           "cagua":  1961,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 15:50:46",
+    "ultima_actualizacion":  "23/10/2026 16:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1071,7 +1071,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  55,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1161,7 +1161,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  60,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1331,7 +1331,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  33,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1421,7 +1421,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  29,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -6170,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63175
+    "total_general_cajas":  63161
 };
