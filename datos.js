@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1573
+                          "cajas":  1571
                       }
                   ],
     "total_general_kg":  118028.9,
@@ -543,7 +543,7 @@
                           "cagua":  1078,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  11,
-                          "bolivar":  19
+                          "bolivar":  18
                       },
                       {
                           "zulia":  9,
@@ -595,7 +595,7 @@
                           "cagua":  684,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  13,
-                          "bolivar":  21
+                          "bolivar":  20
                       },
                       {
                           "zulia":  40,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 10:50:46",
+    "ultima_actualizacion":  "23/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3661,7 +3661,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  19,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-210926",
@@ -4001,7 +4001,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0727-210726",
@@ -6170,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62403
+    "total_general_cajas":  62401
 };
