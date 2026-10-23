@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2744
+                          "cajas":  2736
                       },
                       {
                           "almacen":  "ANDES",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1100
+                          "cajas":  1065
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  253,
-                          "capital":  485,
+                          "capital":  482,
                           "barcelona":  236,
                           "cagua":  3985,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -591,7 +591,7 @@
                           "andes":  9,
                           "margarita":  12,
                           "capital":  19,
-                          "barcelona":  23,
+                          "barcelona":  8,
                           "cagua":  684,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  13,
@@ -604,7 +604,7 @@
                           "andes":  21,
                           "margarita":  15,
                           "capital":  12,
-                          "barcelona":  18,
+                          "barcelona":  3,
                           "cagua":  491,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                           "barquisimeto":  14,
@@ -617,7 +617,7 @@
                           "andes":  2,
                           "margarita":  18,
                           "capital":  82,
-                          "barcelona":  13,
+                          "barcelona":  8,
                           "cagua":  666,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  1,
@@ -811,7 +811,7 @@
                           "um":  "CJ",
                           "andes":  2,
                           "margarita":  53,
-                          "capital":  87,
+                          "capital":  82,
                           "barcelona":  22,
                           "cagua":  2942,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 14:30:46",
+    "ultima_actualizacion":  "23/10/2026 14:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2691,7 +2691,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  115,
+                      "cantidad":  112,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-021026",
@@ -3931,7 +3931,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  110,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-180926",
@@ -5771,7 +5771,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  87,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -6200,5 +6200,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62449
+    "total_general_cajas":  62406
 };
