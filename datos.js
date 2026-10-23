@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  118028.9,
-                          "cajas":  48158
+                          "cajas":  48125
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -155,14 +155,14 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1446
+                          "cajas":  1432
                       },
                       {
                           "almacen":  "ZULIA",
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2567
+                          "cajas":  2600
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -186,7 +186,7 @@
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  231,
-                          "margarita":  73,
+                          "margarita":  69,
                           "capital":  55,
                           "barcelona":  43,
                           "cagua":  1569,
@@ -199,7 +199,7 @@
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  120,
-                          "margarita":  36,
+                          "margarita":  33,
                           "capital":  60,
                           "barcelona":  40,
                           "cagua":  986,
@@ -212,7 +212,7 @@
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  302,
-                          "margarita":  82,
+                          "margarita":  78,
                           "capital":  35,
                           "barcelona":  37,
                           "cagua":  3267,
@@ -225,7 +225,7 @@
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  160,
-                          "margarita":  47,
+                          "margarita":  44,
                           "capital":  37,
                           "barcelona":  32,
                           "cagua":  1961,
@@ -676,14 +676,14 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  43,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  7,
-                          "cagua":  90,
+                          "cagua":  57,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  11,
                           "bolivar":  8
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 09:20:46",
+    "ultima_actualizacion":  "23/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4821,16 +4821,6 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  33,
-                      "fecha_fabricacion":  "09-06-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0327-09062026",
-                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-03-2027"
-                  },
-                  {
-                      "codigo":  "4MSU018",
                       "cantidad":  57,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAGUA",
@@ -4848,6 +4838,16 @@
                       "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-07-2027"
+                  },
+                  {
+                      "codigo":  "4MSU018",
+                      "cantidad":  33,
+                      "fecha_fabricacion":  "09-06-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0327-09062026",
+                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-03-2027"
                   },
                   {
                       "codigo":  "4MSU018",
@@ -6170,5 +6170,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62417
+    "total_general_cajas":  62403
 };
