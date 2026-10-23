@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/10/2026 16:00:46",
+    "ultima_actualizacion":  "23/10/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3991,16 +3991,6 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "26-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0827-26082026",
-                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "26-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSA013",
                       "cantidad":  13,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -4141,16 +4131,6 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "10-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0927-100926",
-                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSA015",
                       "cantidad":  14,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -4261,7 +4241,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  13,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0927-08092026",
