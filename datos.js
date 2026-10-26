@@ -127,28 +127,28 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1752
+                          "cajas":  2427
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  44445
+                          "cajas":  44446
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2408
+                          "cajas":  2815
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2576
+                          "cajas":  4040
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,21 +162,21 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2615
+                          "cajas":  4042
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1065
+                          "cajas":  1631
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1571
+                          "cajas":  2158
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -292,11 +292,11 @@
                           "andes":  45,
                           "margarita":  26,
                           "capital":  85,
-                          "barcelona":  7,
+                          "barcelona":  21,
                           "cagua":  1375,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  67,
-                          "bolivar":  1
+                          "bolivar":  41
                       },
                       {
                           "zulia":  40,
@@ -312,7 +312,7 @@
                           "bolivar":  28
                       },
                       {
-                          "zulia":  59,
+                          "zulia":  89,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  70,
@@ -321,7 +321,7 @@
                           "barcelona":  23,
                           "cagua":  519,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                          "barquisimeto":  20,
+                          "barquisimeto":  50,
                           "bolivar":  38
                       },
                       {
@@ -364,30 +364,30 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  144,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  570,
                           "margarita":  31,
-                          "capital":  52,
-                          "barcelona":  0,
+                          "capital":  112,
+                          "barcelona":  32,
                           "cagua":  1568,
                           "descripcion":  "MAYONESA 24 X 175GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  99,
                           "bolivar":  50
                       },
                       {
-                          "zulia":  561,
+                          "zulia":  981,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  133,
+                          "andes":  448,
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  236,
                           "cagua":  1500,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  123,
-                          "bolivar":  221
+                          "barquisimeto":  228,
+                          "bolivar":  326
                       },
                       {
                           "zulia":  16,
@@ -416,7 +416,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  90,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  73,
@@ -425,24 +425,24 @@
                           "barcelona":  27,
                           "cagua":  963,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  13,
+                          "barquisimeto":  63,
                           "bolivar":  44
                       },
                       {
-                          "zulia":  32,
+                          "zulia":  72,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  70,
                           "margarita":  0,
                           "capital":  50,
-                          "barcelona":  2,
+                          "barcelona":  62,
                           "cagua":  664,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  0,
-                          "bolivar":  2
+                          "barquisimeto":  30,
+                          "bolivar":  12
                       },
                       {
-                          "zulia":  114,
+                          "zulia":  219,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  47,
@@ -451,21 +451,21 @@
                           "barcelona":  42,
                           "cagua":  3428,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  75,
-                          "bolivar":  0
+                          "barquisimeto":  180,
+                          "bolivar":  105
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  29,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  117,
                           "margarita":  0,
                           "capital":  28,
-                          "barcelona":  21,
+                          "barcelona":  57,
                           "cagua":  425,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  7,
-                          "bolivar":  0
+                          "barquisimeto":  47,
+                          "bolivar":  40
                       },
                       {
                           "zulia":  54,
@@ -477,7 +477,7 @@
                           "barcelona":  173,
                           "cagua":  2638,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  11,
+                          "barquisimeto":  41,
                           "bolivar":  32
                       },
                       {
@@ -487,7 +487,7 @@
                           "andes":  40,
                           "margarita":  26,
                           "capital":  30,
-                          "barcelona":  0,
+                          "barcelona":  20,
                           "cagua":  141,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  25,
@@ -497,14 +497,14 @@
                           "zulia":  1,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  202,
                           "margarita":  43,
-                          "capital":  0,
-                          "barcelona":  0,
+                          "capital":  37,
+                          "barcelona":  104,
                           "cagua":  1182,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  142
                       },
                       {
                           "zulia":  0,
@@ -520,43 +520,43 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  85,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  0,
-                          "capital":  2,
-                          "barcelona":  0,
+                          "capital":  42,
+                          "barcelona":  34,
                           "cagua":  1971,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  8,
-                          "bolivar":  0
+                          "barquisimeto":  48,
+                          "bolivar":  30
                       },
                       {
-                          "zulia":  69,
+                          "zulia":  109,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  22,
                           "margarita":  2,
                           "capital":  31,
-                          "barcelona":  19,
+                          "barcelona":  27,
                           "cagua":  974,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  11,
-                          "bolivar":  18
+                          "barquisimeto":  51,
+                          "bolivar":  38
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  36,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  24,
                           "margarita":  2,
-                          "capital":  2,
-                          "barcelona":  22,
+                          "capital":  22,
+                          "barcelona":  27,
                           "cagua":  213,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  11,
-                          "bolivar":  19
+                          "bolivar":  29
                       },
                       {
                           "zulia":  13,
@@ -565,24 +565,24 @@
                           "andes":  6,
                           "margarita":  3,
                           "capital":  5,
-                          "barcelona":  2,
+                          "barcelona":  10,
                           "cagua":  36,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  11,
                           "bolivar":  5
                       },
                       {
-                          "zulia":  81,
+                          "zulia":  201,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  1,
+                          "andes":  251,
                           "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  1526,
+                          "capital":  120,
+                          "barcelona":  37,
+                          "cagua":  1527,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  28,
-                          "bolivar":  0
+                          "barquisimeto":  88,
+                          "bolivar":  5
                       },
                       {
                           "zulia":  31,
@@ -611,7 +611,7 @@
                           "bolivar":  18
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  42,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
                           "andes":  2,
@@ -620,7 +620,7 @@
                           "barcelona":  8,
                           "cagua":  580,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                          "barquisimeto":  1,
+                          "barquisimeto":  21,
                           "bolivar":  22
                       },
                       {
@@ -630,7 +630,7 @@
                           "andes":  33,
                           "margarita":  6,
                           "capital":  43,
-                          "barcelona":  0,
+                          "barcelona":  12,
                           "cagua":  208,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  72,
@@ -647,10 +647,10 @@
                           "cagua":  678,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  53,
-                          "bolivar":  13
+                          "bolivar":  33
                       },
                       {
-                          "zulia":  4,
+                          "zulia":  44,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  33,
@@ -660,19 +660,19 @@
                           "cagua":  166,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  31,
-                          "bolivar":  11
+                          "bolivar":  26
                       },
                       {
-                          "zulia":  2,
+                          "zulia":  18,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
                           "andes":  6,
                           "margarita":  3,
-                          "capital":  0,
-                          "barcelona":  0,
+                          "capital":  10,
+                          "barcelona":  10,
                           "cagua":  209,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
-                          "barquisimeto":  0,
+                          "barquisimeto":  15,
                           "bolivar":  0
                       },
                       {
@@ -689,7 +689,7 @@
                           "bolivar":  8
                       },
                       {
-                          "zulia":  36,
+                          "zulia":  76,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
                           "andes":  62,
@@ -720,11 +720,11 @@
                           "um":  "CJ",
                           "andes":  239,
                           "margarita":  43,
-                          "capital":  118,
-                          "barcelona":  0,
+                          "capital":  178,
+                          "barcelona":  145,
                           "cagua":  3176,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                          "barquisimeto":  119,
+                          "barquisimeto":  134,
                           "bolivar":  119
                       },
                       {
@@ -747,11 +747,11 @@
                           "andes":  66,
                           "margarita":  6,
                           "capital":  25,
-                          "barcelona":  6,
+                          "barcelona":  21,
                           "cagua":  273,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  32,
-                          "bolivar":  7
+                          "bolivar":  22
                       },
                       {
                           "zulia":  22,
@@ -763,7 +763,7 @@
                           "barcelona":  7,
                           "cagua":  758,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  16,
+                          "barquisimeto":  36,
                           "bolivar":  16
                       },
                       {
@@ -773,19 +773,19 @@
                           "andes":  38,
                           "margarita":  23,
                           "capital":  41,
-                          "barcelona":  13,
+                          "barcelona":  19,
                           "cagua":  966,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  38,
                           "bolivar":  30
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  126,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  90,
                           "margarita":  13,
-                          "capital":  87,
+                          "capital":  147,
                           "barcelona":  24,
                           "cagua":  923,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -793,20 +793,20 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  32,
                           "codigo":  "4MTO033",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  10,
                           "margarita":  12,
                           "capital":  0,
-                          "barcelona":  0,
+                          "barcelona":  10,
                           "cagua":  126,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  0,
-                          "bolivar":  0
+                          "barquisimeto":  15,
+                          "bolivar":  10
                       },
                       {
-                          "zulia":  125,
+                          "zulia":  185,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  2,
@@ -816,10 +816,10 @@
                           "cagua":  2852,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  80,
-                          "bolivar":  62
+                          "bolivar":  82
                       },
                       {
-                          "zulia":  172,
+                          "zulia":  232,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  89,
@@ -832,13 +832,13 @@
                           "bolivar":  91
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  62,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  23,
                           "margarita":  23,
                           "capital":  24,
-                          "barcelona":  9,
+                          "barcelona":  19,
                           "cagua":  169,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  26,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 10:10:46",
+    "ultima_actualizacion":  "26/10/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1741,6 +1741,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  14,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-150926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  67,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -1748,6 +1758,16 @@
                       "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "15-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-150926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-09-2028"
                   },
                   {
                       "codigo":  "4MES002",
@@ -2011,6 +2031,16 @@
                   },
                   {
                       "codigo":  "4MKE003",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-300926",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MKE003",
                       "cantidad":  38,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -2081,7 +2111,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  29,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -2501,6 +2531,26 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  570,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  32,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  39,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -2508,6 +2558,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -2551,6 +2611,16 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  6,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -2580,6 +2650,16 @@
                       "fecha_vencimiento":  "08-04-2027"
                   },
                   {
+                      "codigo":  "4MMA003",
+                      "cantidad":  117,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0427-091026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-04-2027"
+                  },
+                  {
                       "codigo":  "4MMA006",
                       "cantidad":  28,
                       "fecha_fabricacion":  "02-10-2026",
@@ -2598,6 +2678,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  315,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0427-061026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-04-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2631,7 +2721,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  123,
+                      "cantidad":  228,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -2658,6 +2748,16 @@
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "02-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0427-061026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-04-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -2721,7 +2821,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  315,
+                      "cantidad":  735,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0427-061026",
@@ -2911,7 +3011,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  13,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-141026",
@@ -2981,13 +3081,23 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  50,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-141026",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-151026",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -3011,7 +3121,27 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  2,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-08102026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-08102026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  12,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-08102026",
@@ -3035,6 +3165,16 @@
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-08102026",
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "08-10-2028"
@@ -3101,9 +3241,19 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  50,
+                      "cantidad":  155,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0228-23022026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-02-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "23-02-2026",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "0228-23022026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
@@ -3191,13 +3341,23 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  7,
+                      "cantidad":  112,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-23022026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-02-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  117,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "1028-13102026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3211,6 +3371,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  36,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  7,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3218,6 +3388,26 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3248,6 +3438,16 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
                   },
                   {
                       "codigo":  "4MNA014",
@@ -3298,6 +3498,16 @@
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-03-2028"
+                  },
+                  {
+                      "codigo":  "4MNA014",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "18-06-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0628-180626",
+                      "descripcion":  "ENCURTIDOS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
                   },
                   {
                       "codigo":  "4MNA014",
@@ -3411,6 +3621,16 @@
                   },
                   {
                       "codigo":  "4MNA015",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "28-11-2025",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1128-281125",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
                       "cantidad":  25,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BARQUISIMETO",
@@ -3481,6 +3701,36 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  202,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  104,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  142,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  74,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
@@ -3498,6 +3748,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  37,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1028-261026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3541,9 +3801,29 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  8,
+                      "cantidad":  34,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-14102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  48,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-14102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "1028-14102026",
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
@@ -3591,7 +3871,17 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  25,
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1028-14102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  85,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-14102026",
@@ -3621,7 +3911,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  19,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-30092026",
@@ -3641,6 +3931,16 @@
                   },
                   {
                       "codigo":  "4MSA006",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-30092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
                       "cantidad":  18,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3648,6 +3948,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-30092026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -3721,7 +4031,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  1,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-30092026",
@@ -3741,7 +4051,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  22,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -3771,6 +4081,16 @@
                   },
                   {
                       "codigo":  "4MSA007",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-300926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
                       "cantidad":  229,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
@@ -3781,7 +4101,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  2,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-300926",
@@ -3801,7 +4121,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  7,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-300926",
@@ -3831,7 +4151,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  2,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-18122025",
@@ -3911,7 +4231,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1,
+                      "cantidad":  251,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-180926",
@@ -3921,7 +4241,17 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  28,
+                      "cantidad":  37,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-180926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  87,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-180926",
@@ -3931,7 +4261,27 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  2,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-240926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-180926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  3,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-180926",
@@ -3961,6 +4311,16 @@
                   },
                   {
                       "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0928-180926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
                       "cantidad":  81,
                       "fecha_fabricacion":  "16-06-2026",
                       "ubicacion":  "ZULIA",
@@ -3968,6 +4328,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0928-240926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA013",
@@ -4261,6 +4631,16 @@
                   },
                   {
                       "codigo":  "4MSA017",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "10-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0927-090926",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
                       "cantidad":  5,
                       "fecha_fabricacion":  "27-07-2026",
                       "ubicacion":  "BOLIVAR",
@@ -4400,6 +4780,16 @@
                       "fecha_vencimiento":  "25-08-2028"
                   },
                   {
+                      "codigo":  "4MSA017",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "10-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0927-090926",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-09-2027"
+                  },
+                  {
                       "codigo":  "4MSU002",
                       "cantidad":  33,
                       "fecha_fabricacion":  "09-07-2026",
@@ -4408,6 +4798,16 @@
                       "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-07-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
+                      "cantidad":  12,
+                      "fecha_fabricacion":  "28-07-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0728-280726",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-07-2028"
                   },
                   {
                       "codigo":  "4MSU002",
@@ -4521,7 +4921,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  13,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-18092026",
@@ -4621,7 +5021,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  11,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1027-13102026",
@@ -4690,6 +5090,16 @@
                       "fecha_vencimiento":  "16-09-2027"
                   },
                   {
+                      "codigo":  "4MSU015",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "13-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1027-13102026",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-10-2027"
+                  },
+                  {
                       "codigo":  "4MSU017",
                       "cantidad":  6,
                       "fecha_fabricacion":  "22-09-2026",
@@ -4698,6 +5108,36 @@
                       "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0927-22092026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0927-22092026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1027-151026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2027"
                   },
                   {
                       "codigo":  "4MSU017",
@@ -4718,6 +5158,16 @@
                       "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "22-09-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0927-22092026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-09-2027"
                   },
                   {
                       "codigo":  "4MSU017",
@@ -4748,6 +5198,16 @@
                       "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  16,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1027-151026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2027"
                   },
                   {
                       "codigo":  "4MSU018",
@@ -4941,7 +5401,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  30,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0828-12082026",
@@ -5001,6 +5461,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  145,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-110926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  59,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -5011,7 +5481,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  60,
+                      "cantidad":  75,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110926",
@@ -5071,7 +5541,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  80,
+                      "cantidad":  140,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-110926",
@@ -5131,7 +5601,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  6,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -5151,7 +5621,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  7,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-230926",
@@ -5221,7 +5691,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  16,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-210926",
@@ -5291,7 +5761,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  13,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-25082026",
@@ -5481,7 +5951,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  30,
+                      "cantidad":  90,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-170926",
@@ -5501,13 +5971,53 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  6,
+                      "cantidad":  126,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-170926",
                       "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
                   },
                   {
                       "codigo":  "4MTO033",
@@ -5548,6 +6058,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-03-2702"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  32,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0427-21102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
                   },
                   {
                       "codigo":  "4MVI002",
@@ -5621,7 +6141,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  20,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-070926",
@@ -5781,7 +6301,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  31,
+                      "cantidad":  91,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-070926",
@@ -6010,6 +6530,16 @@
                       "fecha_vencimiento":  "14-09-2028"
                   },
                   {
+                      "codigo":  "4MVI004",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "16-09-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0928-160926",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-09-2028"
+                  },
+                  {
                       "codigo":  "4MVI006",
                       "cantidad":  23,
                       "fecha_fabricacion":  "13-10-2026",
@@ -6021,7 +6551,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  9,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-131026",
@@ -6121,7 +6651,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  32,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-131026",
@@ -6140,5 +6670,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  57828
+    "total_general_cajas":  62955
 };
