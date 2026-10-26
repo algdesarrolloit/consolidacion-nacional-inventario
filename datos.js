@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  49778
+                          "cajas":  49783
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -566,7 +566,7 @@
                           "margarita":  3,
                           "capital":  5,
                           "barcelona":  2,
-                          "cagua":  43,
+                          "cagua":  44,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  11,
                           "bolivar":  5
@@ -722,7 +722,7 @@
                           "margarita":  43,
                           "capital":  118,
                           "barcelona":  0,
-                          "cagua":  3394,
+                          "cagua":  3396,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  119,
                           "bolivar":  119
@@ -787,7 +787,7 @@
                           "margarita":  13,
                           "capital":  87,
                           "barcelona":  24,
-                          "cagua":  1171,
+                          "cagua":  1173,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  50,
                           "bolivar":  40
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 07:20:46",
+    "ultima_actualizacion":  "26/10/2026 07:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3871,6 +3871,16 @@
                   },
                   {
                       "codigo":  "4MSA008",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "17-12-2025",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1227-17122025",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
                       "cantidad":  45,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
@@ -5041,7 +5051,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  1020,
+                      "cantidad":  1022,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-110926",
@@ -5461,7 +5471,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  358,
+                      "cantidad":  360,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -6150,5 +6160,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63161
+    "total_general_cajas":  63166
 };
