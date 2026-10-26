@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2427
+                          "cajas":  2454
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  44446
+                          "cajas":  44384
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,14 +162,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  4042
+                          "cajas":  4076
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1631
+                          "cajas":  1632
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -494,16 +494,16 @@
                           "bolivar":  26
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  35,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  202,
                           "margarita":  43,
                           "capital":  37,
-                          "barcelona":  104,
-                          "cagua":  1182,
+                          "barcelona":  105,
+                          "cagua":  1120,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  0,
+                          "barquisimeto":  27,
                           "bolivar":  142
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 10:40:46",
+    "ultima_actualizacion":  "26/10/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3711,9 +3711,39 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-221026-NV",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  104,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARCELONA",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  23,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-221026-NV",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-231026",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
@@ -3731,17 +3761,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  24,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-221026-NV",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  1158,
+                      "cantidad":  1120,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
@@ -3778,6 +3798,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  34,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
                   },
                   {
                       "codigo":  "4MNA027",
