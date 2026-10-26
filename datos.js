@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  44679
+                          "cajas":  44445
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  69,
                           "capital":  51,
                           "barcelona":  43,
-                          "cagua":  1553,
+                          "cagua":  1518,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  86,
                           "bolivar":  137
@@ -202,7 +202,7 @@
                           "margarita":  33,
                           "capital":  57,
                           "barcelona":  40,
-                          "cagua":  978,
+                          "cagua":  973,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  55,
                           "bolivar":  64
@@ -215,7 +215,7 @@
                           "margarita":  78,
                           "capital":  29,
                           "barcelona":  37,
-                          "cagua":  3246,
+                          "cagua":  3211,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  75,
                           "bolivar":  87
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  26,
                           "barcelona":  32,
-                          "cagua":  1948,
+                          "cagua":  1943,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  45,
                           "bolivar":  51
@@ -254,7 +254,7 @@
                           "margarita":  0,
                           "capital":  4,
                           "barcelona":  1,
-                          "cagua":  34,
+                          "cagua":  32,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  4,
                           "bolivar":  1
@@ -280,7 +280,7 @@
                           "margarita":  0,
                           "capital":  13,
                           "barcelona":  0,
-                          "cagua":  136,
+                          "cagua":  134,
                           "descripcion":  "GALLETAS WAFER RELLENA VAINILLA BAUDUCCO 12X14x30 GR",
                           "barquisimeto":  11,
                           "bolivar":  0
@@ -371,7 +371,7 @@
                           "margarita":  31,
                           "capital":  52,
                           "barcelona":  0,
-                          "cagua":  1618,
+                          "cagua":  1568,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  39,
                           "bolivar":  50
@@ -384,7 +384,7 @@
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  236,
-                          "cagua":  1600,
+                          "cagua":  1500,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  123,
                           "bolivar":  221
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 10:00:46",
+    "ultima_actualizacion":  "26/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6140,5 +6140,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58062
+    "total_general_cajas":  57828
 };
