@@ -162,14 +162,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  4076
+                          "cajas":  4074
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1590
+                          "cajas":  1576
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -331,7 +331,7 @@
                           "andes":  286,
                           "margarita":  208,
                           "capital":  197,
-                          "barcelona":  85,
+                          "barcelona":  82,
                           "cagua":  240,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  167,
@@ -370,7 +370,7 @@
                           "andes":  570,
                           "margarita":  31,
                           "capital":  112,
-                          "barcelona":  32,
+                          "barcelona":  29,
                           "cagua":  1568,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  77,
@@ -494,13 +494,13 @@
                           "bolivar":  26
                       },
                       {
-                          "zulia":  35,
+                          "zulia":  33,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  202,
                           "margarita":  43,
                           "capital":  37,
-                          "barcelona":  80,
+                          "barcelona":  78,
                           "cagua":  1120,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  18,
@@ -721,7 +721,7 @@
                           "andes":  239,
                           "margarita":  43,
                           "capital":  178,
-                          "barcelona":  138,
+                          "barcelona":  132,
                           "cagua":  3176,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  128,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 12:00:46",
+    "ultima_actualizacion":  "26/10/2026 12:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6700,5 +6700,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62317
+    "total_general_cajas":  62301
 };
