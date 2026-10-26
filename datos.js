@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  49783
+                          "cajas":  48733
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -384,7 +384,7 @@
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  236,
-                          "cagua":  3985,
+                          "cagua":  2935,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  123,
                           "bolivar":  221
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 07:40:46",
+    "ultima_actualizacion":  "26/10/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2661,7 +2661,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  3985,
+                      "cantidad":  2935,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -6160,5 +6160,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63166
+    "total_general_cajas":  62116
 };
