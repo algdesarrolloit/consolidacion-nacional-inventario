@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1632
+                          "cajas":  1590
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -500,7 +500,7 @@
                           "andes":  202,
                           "margarita":  43,
                           "capital":  37,
-                          "barcelona":  105,
+                          "barcelona":  80,
                           "cagua":  1120,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  18,
@@ -526,7 +526,7 @@
                           "andes":  17,
                           "margarita":  0,
                           "capital":  42,
-                          "barcelona":  34,
+                          "barcelona":  32,
                           "cagua":  1971,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  38,
@@ -630,7 +630,7 @@
                           "andes":  33,
                           "margarita":  6,
                           "capital":  43,
-                          "barcelona":  12,
+                          "barcelona":  9,
                           "cagua":  208,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  72,
@@ -721,7 +721,7 @@
                           "andes":  239,
                           "margarita":  43,
                           "capital":  178,
-                          "barcelona":  145,
+                          "barcelona":  138,
                           "cagua":  3176,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  128,
@@ -799,7 +799,7 @@
                           "andes":  10,
                           "margarita":  12,
                           "capital":  0,
-                          "barcelona":  10,
+                          "barcelona":  5,
                           "cagua":  126,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  15,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 11:50:46",
+    "ultima_actualizacion":  "26/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6700,5 +6700,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62359
+    "total_general_cajas":  62317
 };
