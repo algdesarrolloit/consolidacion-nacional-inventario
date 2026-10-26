@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 17:10:46",
+    "ultima_actualizacion":  "26/10/2026 17:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1731,7 +1731,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  62,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-140926",
@@ -2111,7 +2111,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  167,
+                      "cantidad":  152,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-071026",
@@ -2631,7 +2631,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  173,
+                      "cantidad":  168,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -3601,7 +3601,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  38,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-14102026",
@@ -3831,7 +3831,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  6,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-220926",
@@ -4631,7 +4631,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  50,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-18092026",
@@ -5161,7 +5161,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  58,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-20082026",
