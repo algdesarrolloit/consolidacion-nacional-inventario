@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3542
+                          "cajas":  3460
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  112088.9,
     "productos":  [
                       {
-                          "zulia":  40,
+                          "zulia":  38,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  225,
@@ -195,7 +195,7 @@
                           "bolivar":  134
                       },
                       {
-                          "zulia":  37,
+                          "zulia":  35,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  115,
@@ -208,7 +208,7 @@
                           "bolivar":  60
                       },
                       {
-                          "zulia":  26,
+                          "zulia":  25,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  296,
@@ -221,7 +221,7 @@
                           "bolivar":  84
                       },
                       {
-                          "zulia":  54,
+                          "zulia":  52,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  156,
@@ -325,7 +325,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  88,
+                          "zulia":  63,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  286,
@@ -442,7 +442,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  205,
+                          "zulia":  203,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  47,
@@ -455,7 +455,7 @@
                           "bolivar":  69
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  0,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  117,
@@ -468,7 +468,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  45,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  36,
@@ -481,7 +481,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  65,
+                          "zulia":  63,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  40,
@@ -520,7 +520,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  74,
+                          "zulia":  73,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  17,
@@ -533,7 +533,7 @@
                           "bolivar":  21
                       },
                       {
-                          "zulia":  104,
+                          "zulia":  103,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  22,
@@ -572,7 +572,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  195,
+                          "zulia":  189,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  251,
@@ -637,7 +637,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  14,
+                          "zulia":  8,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  47,
@@ -650,7 +650,7 @@
                           "bolivar":  33
                       },
                       {
-                          "zulia":  5,
+                          "zulia":  4,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  33,
@@ -715,7 +715,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  205,
+                          "zulia":  201,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  239,
@@ -754,7 +754,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  18,
+                          "zulia":  16,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  24,
@@ -780,7 +780,7 @@
                           "bolivar":  30
                       },
                       {
-                          "zulia":  93,
+                          "zulia":  80,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  90,
@@ -806,7 +806,7 @@
                           "bolivar":  4
                       },
                       {
-                          "zulia":  160,
+                          "zulia":  155,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  2,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/10/2026 13:30:46",
+    "ultima_actualizacion":  "26/10/2026 13:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1021,7 +1021,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  22,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "22-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-220526",
@@ -1131,7 +1131,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  55,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1231,7 +1231,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  52,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-200526",
@@ -1391,7 +1391,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  45,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1751,7 +1751,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  67,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-140926",
@@ -2021,7 +2021,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  20,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-300926",
@@ -2171,7 +2171,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  196,
+                      "cantidad":  167,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-071026",
@@ -2321,7 +2321,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  42,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -2421,7 +2421,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  14,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0127-160726",
@@ -2551,7 +2551,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  39,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-081026",
@@ -2721,7 +2721,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  228,
+                      "cantidad":  173,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -2844,16 +2844,6 @@
                       "cantidad":  6,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0127-29092026",
-                      "descripcion":  "MAYONESA 4 X 3.35 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-01-2027"
-                  },
-                  {
-                      "codigo":  "4MMA011",
-                      "cantidad":  8,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0127-29092026",
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
@@ -3011,7 +3001,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  63,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-141026",
@@ -3131,7 +3121,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-08102026",
@@ -3231,7 +3221,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  25,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-20022026",
@@ -3381,7 +3371,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  7,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-13102026",
@@ -3731,23 +3721,13 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  23,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-221026-NV",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "23-10-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1028-231026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-10-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3841,7 +3821,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  48,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-14102026",
@@ -3951,7 +3931,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  11,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-24092026",
@@ -4091,7 +4071,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  11,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-220926",
@@ -4191,7 +4171,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1227-18122025",
@@ -4281,23 +4261,13 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  87,
+                      "cantidad":  86,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-180926",
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0928-240926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -4391,7 +4361,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "16-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0727-16072026",
@@ -4644,16 +4614,6 @@
                       "cantidad":  8,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0927-08092026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0927-08092026",
                       "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                       "um":  "CJ",
@@ -4941,7 +4901,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  53,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-18092026",
@@ -5041,7 +5001,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  31,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0927-150926-NV",
@@ -5151,7 +5111,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0927-22092026",
@@ -5161,7 +5121,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1027-151026",
@@ -5271,7 +5231,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0727-131026",
@@ -5361,7 +5321,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "11-09-2025",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110925",
@@ -5501,7 +5461,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  59,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-20082026",
@@ -5511,7 +5471,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  75,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110926",
@@ -5641,7 +5601,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  32,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-230926",
@@ -5721,7 +5681,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-210926",
@@ -5801,7 +5761,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  38,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -5931,7 +5891,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  50,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-15072026",
@@ -6121,27 +6081,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "25-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-250826",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "31-08-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0828-310826",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "31-08-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
-                      "cantidad":  18,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-010926",
@@ -6381,7 +6321,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  59,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110926",
@@ -6591,7 +6531,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  6,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-300926",
@@ -6700,5 +6640,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  61769
+    "total_general_cajas":  61687
 };
