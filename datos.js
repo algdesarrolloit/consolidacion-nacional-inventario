@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1936
+                          "cajas":  1930
                       },
                       {
                           "almacen":  "CAGUA",
@@ -503,7 +503,7 @@
                           "barcelona":  0,
                           "cagua":  1333,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  6,
+                          "barquisimeto":  0,
                           "bolivar":  1
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 12:20:46",
+    "ultima_actualizacion":  "27/10/2026 12:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6250,5 +6250,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62771
+    "total_general_cajas":  62765
 };
