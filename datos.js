@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  46716
+                          "cajas":  47321
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -514,7 +514,7 @@
                           "margarita":  22,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  70,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -806,6 +806,45 @@
                           "bolivar":  4
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MTO050",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  115,
+                          "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4MTO054",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  189,
+                          "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
+                          "zulia":  0,
+                          "codigo":  "4MTO056",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  231,
+                          "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  153,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
@@ -897,7 +936,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 15:00:46",
+    "ultima_actualizacion":  "27/10/2026 15:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3581,6 +3620,16 @@
                   },
                   {
                       "codigo":  "4MNA027",
+                      "cantidad":  70,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-271026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
                       "cantidad":  22,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -5730,6 +5779,36 @@
                       "fecha_vencimiento":  "21-04-2027"
                   },
                   {
+                      "codigo":  "4MTO050",
+                      "cantidad":  115,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0828-130826",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  189,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  231,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
                       "codigo":  "4MVI002",
                       "cantidad":  2,
                       "fecha_fabricacion":  "07-09-2026",
@@ -6260,5 +6339,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62808
+    "total_general_cajas":  63413
 };
