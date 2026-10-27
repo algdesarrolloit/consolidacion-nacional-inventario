@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  46544
+                          "cajas":  46498
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2255
+                          "cajas":  2301
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -813,10 +813,10 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  81,
+                          "cagua":  66,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  15
                       },
                       {
                           "zulia":  0,
@@ -826,10 +826,10 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  94,
+                          "cagua":  78,
                           "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  16
                       },
                       {
                           "zulia":  0,
@@ -852,10 +852,10 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  239,
+                          "cagua":  224,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  15
                       },
                       {
                           "zulia":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 17:00:47",
+    "ultima_actualizacion":  "27/10/2026 17:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6099,7 +6099,17 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  81,
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
+                      "cantidad":  66,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
@@ -6109,7 +6119,17 @@
                   },
                   {
                       "codigo":  "4MTO048",
-                      "cantidad":  94,
+                      "cantidad":  16,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO048",
+                      "cantidad":  78,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-211026",
@@ -6149,7 +6169,17 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  239,
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO052",
+                      "cantidad":  224,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
