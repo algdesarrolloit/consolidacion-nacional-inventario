@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1979
+                          "cajas":  1938
                       },
                       {
                           "almacen":  "CAGUA",
@@ -191,7 +191,7 @@
                           "barcelona":  40,
                           "cagua":  1518,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  78,
+                          "barquisimeto":  73,
                           "bolivar":  134
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  36,
                           "cagua":  973,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  51,
+                          "barquisimeto":  49,
                           "bolivar":  60
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  33,
                           "cagua":  3211,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  65,
+                          "barquisimeto":  60,
                           "bolivar":  84
                       },
                       {
@@ -308,7 +308,7 @@
                           "barcelona":  3,
                           "cagua":  1256,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  28
                       },
                       {
@@ -425,7 +425,7 @@
                           "barcelona":  0,
                           "cagua":  962,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  53,
+                          "barquisimeto":  43,
                           "bolivar":  34
                       },
                       {
@@ -438,7 +438,7 @@
                           "barcelona":  0,
                           "cagua":  663,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  8,
+                          "barquisimeto":  3,
                           "bolivar":  2
                       },
                       {
@@ -451,7 +451,7 @@
                           "barcelona":  18,
                           "cagua":  3204,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  172,
+                          "barquisimeto":  167,
                           "bolivar":  69
                       },
                       {
@@ -464,7 +464,7 @@
                           "barcelona":  0,
                           "cagua":  394,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  27,
                           "bolivar":  11
                       },
                       {
@@ -490,7 +490,7 @@
                           "barcelona":  2,
                           "cagua":  128,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
-                          "barquisimeto":  24,
+                          "barquisimeto":  23,
                           "bolivar":  26
                       },
                       {
@@ -503,7 +503,7 @@
                           "barcelona":  0,
                           "cagua":  1333,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  11,
+                          "barquisimeto":  6,
                           "bolivar":  1
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 10:20:46",
+    "ultima_actualizacion":  "27/10/2026 10:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6250,5 +6250,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62814
+    "total_general_cajas":  62773
 };
