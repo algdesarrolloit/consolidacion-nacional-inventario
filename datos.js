@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2160
+                          "cajas":  2157
                       },
                       {
                           "almacen":  "CAGUA",
@@ -191,7 +191,7 @@
                           "barcelona":  40,
                           "cagua":  1518,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  82,
+                          "barquisimeto":  81,
                           "bolivar":  134
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  36,
                           "cagua":  973,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  54,
+                          "barquisimeto":  53,
                           "bolivar":  60
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  33,
                           "cagua":  3211,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  71,
+                          "barquisimeto":  70,
                           "bolivar":  84
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 08:50:46",
+    "ultima_actualizacion":  "27/10/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1021,7 +1021,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  18,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "22-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-220526",
@@ -1131,7 +1131,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  54,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1231,7 +1231,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  48,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-200526",
@@ -1391,7 +1391,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -6280,5 +6280,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60470
+    "total_general_cajas":  60467
 };
