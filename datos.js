@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1973
+                          "cajas":  2489
                       },
                       {
                           "almacen":  "CAGUA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1829
+                          "cajas":  2255
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -296,7 +296,7 @@
                           "cagua":  1335,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  63,
-                          "bolivar":  14
+                          "bolivar":  34
                       },
                       {
                           "zulia":  40,
@@ -334,8 +334,8 @@
                           "barcelona":  0,
                           "cagua":  999,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  158,
-                          "bolivar":  221
+                          "barquisimeto":  338,
+                          "bolivar":  281
                       },
                       {
                           "zulia":  24,
@@ -361,7 +361,7 @@
                           "cagua":  303,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  19,
-                          "bolivar":  10
+                          "bolivar":  20
                       },
                       {
                           "zulia":  131,
@@ -374,7 +374,7 @@
                           "cagua":  1443,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  77,
-                          "bolivar":  44
+                          "bolivar":  104
                       },
                       {
                           "zulia":  906,
@@ -386,7 +386,7 @@
                           "barcelona":  194,
                           "cagua":  2715,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  159,
+                          "barquisimeto":  369,
                           "bolivar":  323
                       },
                       {
@@ -399,7 +399,7 @@
                           "barcelona":  3,
                           "cagua":  80,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
-                          "barquisimeto":  0,
+                          "barquisimeto":  2,
                           "bolivar":  0
                       },
                       {
@@ -438,7 +438,7 @@
                           "barcelona":  0,
                           "cagua":  608,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  3,
+                          "barquisimeto":  43,
                           "bolivar":  2
                       },
                       {
@@ -503,8 +503,8 @@
                           "barcelona":  0,
                           "cagua":  1256,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  0,
-                          "bolivar":  1
+                          "barquisimeto":  21,
+                          "bolivar":  32
                       },
                       {
                           "zulia":  0,
@@ -517,7 +517,7 @@
                           "cagua":  315,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  70
                       },
                       {
                           "zulia":  73,
@@ -530,7 +530,7 @@
                           "cagua":  1910,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  26,
-                          "bolivar":  21
+                          "bolivar":  51
                       },
                       {
                           "zulia":  103,
@@ -543,7 +543,7 @@
                           "cagua":  918,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  41,
-                          "bolivar":  36
+                          "bolivar":  66
                       },
                       {
                           "zulia":  18,
@@ -555,7 +555,7 @@
                           "barcelona":  0,
                           "cagua":  175,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  0,
+                          "barquisimeto":  20,
                           "bolivar":  26
                       },
                       {
@@ -582,7 +582,7 @@
                           "cagua":  1467,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  57,
-                          "bolivar":  3
+                          "bolivar":  23
                       },
                       {
                           "zulia":  31,
@@ -725,7 +725,7 @@
                           "cagua":  3071,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  127,
-                          "bolivar":  113
+                          "bolivar":  153
                       },
                       {
                           "zulia":  0,
@@ -803,7 +803,7 @@
                           "cagua":  106,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  15,
-                          "bolivar":  4
+                          "bolivar":  14
                       },
                       {
                           "zulia":  0,
@@ -841,8 +841,8 @@
                           "barcelona":  0,
                           "cagua":  99,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
-                          "barquisimeto":  0,
-                          "bolivar":  0
+                          "barquisimeto":  1,
+                          "bolivar":  15
                       },
                       {
                           "zulia":  0,
@@ -867,8 +867,8 @@
                           "barcelona":  0,
                           "cagua":  173,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                          "barquisimeto":  0,
-                          "bolivar":  0
+                          "barquisimeto":  1,
+                          "bolivar":  15
                       },
                       {
                           "zulia":  0,
@@ -880,8 +880,8 @@
                           "barcelona":  0,
                           "cagua":  215,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                          "barquisimeto":  0,
-                          "bolivar":  0
+                          "barquisimeto":  1,
+                          "bolivar":  15
                       },
                       {
                           "zulia":  153,
@@ -893,7 +893,7 @@
                           "barcelona":  15,
                           "cagua":  2786,
                           "descripcion":  "VINAGRE 12 X 1000ML",
-                          "barquisimeto":  56,
+                          "barquisimeto":  96,
                           "bolivar":  82
                       },
                       {
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 16:30:47",
+    "ultima_actualizacion":  "27/10/2026 16:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1819,7 +1819,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  14,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-150926",
@@ -2219,6 +2219,26 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  159,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-231026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  21,
+                      "fecha_fabricacion":  "26-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-26102026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  41,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -2246,6 +2266,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "07-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-231026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -2460,6 +2490,16 @@
                   {
                       "codigo":  "4MKE011",
                       "cantidad":  10,
+                      "fecha_fabricacion":  "03-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0127-03082026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "03-01-2027"
+                  },
+                  {
+                      "codigo":  "4MKE011",
+                      "cantidad":  10,
                       "fecha_fabricacion":  "10-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0227-10082026",
@@ -2589,7 +2629,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  44,
+                      "cantidad":  104,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0427-091026",
@@ -2739,7 +2779,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  158,
+                      "cantidad":  368,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -2872,6 +2912,16 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BARCELONA",
+                      "lote":  "0127-29092026",
+                      "descripcion":  "MAYONESA 4 X 3.35 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "29-01-2027"
+                  },
+                  {
+                      "codigo":  "4MMA011",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "29-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0127-29092026",
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
@@ -3099,7 +3149,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  3,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-08102026",
@@ -3619,7 +3669,17 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  1,
+                      "cantidad":  21,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  32,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-231026",
@@ -3646,6 +3706,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  70,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-271026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -3699,7 +3769,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  21,
+                      "cantidad":  51,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-14102026",
@@ -3819,7 +3889,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  20,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-30092026",
@@ -3906,6 +3976,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "30-09-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0928-300926",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-09-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -4096,6 +4176,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-240926",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -5279,6 +5369,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-110926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  697,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
@@ -5749,7 +5849,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  4,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0427-21102026",
@@ -5829,6 +5929,26 @@
                   },
                   {
                       "codigo":  "4MTO050",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "0828-130826",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO050",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0828-130826",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO050",
                       "cantidad":  99,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
@@ -5849,6 +5969,26 @@
                   },
                   {
                       "codigo":  "4MTO054",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
                       "cantidad":  173,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
@@ -5856,6 +5996,26 @@
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
                   },
                   {
                       "codigo":  "4MTO056",
@@ -5889,7 +6049,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  56,
+                      "cantidad":  96,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-070926",
@@ -6388,5 +6548,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62636
+    "total_general_cajas":  63578
 };
