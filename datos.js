@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2091
+                          "cajas":  2077
                       },
                       {
                           "almacen":  "CAGUA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  680
+                          "cajas":  675
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -409,7 +409,7 @@
                           "andes":  0,
                           "margarita":  11,
                           "capital":  29,
-                          "barcelona":  1,
+                          "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
@@ -438,7 +438,7 @@
                           "barcelona":  0,
                           "cagua":  663,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  21,
+                          "barquisimeto":  14,
                           "bolivar":  2
                       },
                       {
@@ -464,7 +464,7 @@
                           "barcelona":  0,
                           "cagua":  394,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  32,
                           "bolivar":  11
                       },
                       {
@@ -539,7 +539,7 @@
                           "andes":  22,
                           "margarita":  2,
                           "capital":  31,
-                          "barcelona":  1,
+                          "barcelona":  0,
                           "cagua":  968,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  45,
@@ -773,7 +773,7 @@
                           "andes":  38,
                           "margarita":  23,
                           "capital":  41,
-                          "barcelona":  1,
+                          "barcelona":  0,
                           "cagua":  966,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  36,
@@ -799,7 +799,7 @@
                           "andes":  10,
                           "margarita":  12,
                           "capital":  0,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  126,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  15,
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 09:30:46",
+    "ultima_actualizacion":  "27/10/2026 09:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2832,16 +2832,6 @@
                   {
                       "codigo":  "4MMA014",
                       "cantidad":  1,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1126-100726",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
-                      "cantidad":  1,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1126-14072026",
@@ -3708,16 +3698,6 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-24092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -5451,16 +5431,6 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "25-08-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0828-25082026",
-                      "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO017",
                       "cantidad":  36,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -5664,16 +5634,6 @@
                       "cantidad":  10,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0427-21102026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-04-2027"
-                  },
-                  {
-                      "codigo":  "4MTO033",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0427-21102026",
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                       "um":  "CJ",
@@ -6290,5 +6250,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62931
+    "total_general_cajas":  62912
 };
