@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1999
+                          "cajas":  1993
                       },
                       {
                           "almacen":  "CAGUA",
@@ -191,7 +191,7 @@
                           "barcelona":  40,
                           "cagua":  1518,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  79,
+                          "barquisimeto":  78,
                           "bolivar":  134
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  36,
                           "cagua":  973,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  52,
+                          "barquisimeto":  51,
                           "bolivar":  60
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  33,
                           "cagua":  3211,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  67,
+                          "barquisimeto":  65,
                           "bolivar":  84
                       },
                       {
@@ -230,7 +230,7 @@
                           "barcelona":  29,
                           "cagua":  1935,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  42,
+                          "barquisimeto":  41,
                           "bolivar":  47
                       },
                       {
@@ -308,7 +308,7 @@
                           "barcelona":  3,
                           "cagua":  1256,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
-                          "barquisimeto":  40,
+                          "barquisimeto":  39,
                           "bolivar":  28
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 10:00:46",
+    "ultima_actualizacion":  "27/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6250,5 +6250,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62834
+    "total_general_cajas":  62828
 };
