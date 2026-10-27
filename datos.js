@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1975
+                          "cajas":  1973
                       },
                       {
                           "almacen":  "CAGUA",
@@ -399,7 +399,7 @@
                           "barcelona":  3,
                           "cagua":  82,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
-                          "barquisimeto":  1,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -802,7 +802,7 @@
                           "barcelona":  0,
                           "cagua":  126,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                          "barquisimeto":  16,
+                          "barquisimeto":  15,
                           "bolivar":  4
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 14:40:46",
+    "ultima_actualizacion":  "27/10/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2804,16 +2804,6 @@
                       "cantidad":  3,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0127-29092026",
-                      "descripcion":  "MAYONESA 4 X 3.35 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-01-2027"
-                  },
-                  {
-                      "codigo":  "4MMA011",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0127-29092026",
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
@@ -5671,16 +5661,6 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0327-24092026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2702"
-                  },
-                  {
-                      "codigo":  "4MTO033",
                       "cantidad":  15,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -6280,5 +6260,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62810
+    "total_general_cajas":  62808
 };
