@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2157
+                          "cajas":  2091
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  44186
+                          "cajas":  46716
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,9 +332,9 @@
                           "margarita":  208,
                           "capital":  197,
                           "barcelona":  0,
-                          "cagua":  219,
+                          "cagua":  1299,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  152,
+                          "barquisimeto":  132,
                           "bolivar":  221
                       },
                       {
@@ -384,7 +384,7 @@
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  194,
-                          "cagua":  1485,
+                          "cagua":  2955,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  168,
                           "bolivar":  323
@@ -410,7 +410,7 @@
                           "margarita":  11,
                           "capital":  29,
                           "barcelona":  1,
-                          "cagua":  20,
+                          "cagua":  0,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -438,7 +438,7 @@
                           "barcelona":  0,
                           "cagua":  663,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  21,
                           "bolivar":  2
                       },
                       {
@@ -464,7 +464,7 @@
                           "barcelona":  0,
                           "cagua":  394,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  42,
+                          "barquisimeto":  39,
                           "bolivar":  11
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  1,
                           "cagua":  1960,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  32,
+                          "barquisimeto":  30,
                           "bolivar":  21
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  1,
                           "cagua":  968,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  46,
+                          "barquisimeto":  45,
                           "bolivar":  36
                       },
                       {
@@ -555,7 +555,7 @@
                           "barcelona":  0,
                           "cagua":  205,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  2,
+                          "barquisimeto":  0,
                           "bolivar":  26
                       },
                       {
@@ -581,7 +581,7 @@
                           "barcelona":  0,
                           "cagua":  1507,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  86,
+                          "barquisimeto":  56,
                           "bolivar":  3
                       },
                       {
@@ -897,7 +897,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/10/2026 09:20:46",
+    "ultima_actualizacion":  "27/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2161,6 +2161,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  1080,
+                      "fecha_fabricacion":  "26-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-26102026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  129,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -2681,6 +2691,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  1470,
+                      "fecha_fabricacion":  "26-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-26102026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  62,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -2824,16 +2844,6 @@
                       "cantidad":  1,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "BOLIVAR",
-                      "lote":  "1126-14072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
-                      "cantidad":  20,
-                      "fecha_fabricacion":  "14-07-2026",
-                      "ubicacion":  "CAGUA",
                       "lote":  "1126-14072026",
                       "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
                       "um":  "CJ",
@@ -6280,5 +6290,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60467
+    "total_general_cajas":  62931
 };
