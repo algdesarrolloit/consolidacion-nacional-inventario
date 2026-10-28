@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  48805
+                          "cajas":  48567
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -202,7 +202,7 @@
                           "margarita":  33,
                           "capital":  57,
                           "barcelona":  36,
-                          "cagua":  973,
+                          "cagua":  966,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  49,
                           "bolivar":  60
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  26,
                           "barcelona":  29,
-                          "cagua":  1935,
+                          "cagua":  1927,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  39,
                           "bolivar":  47
@@ -384,7 +384,7 @@
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  224,
-                          "cagua":  5130,
+                          "cagua":  5041,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  369,
                           "bolivar":  323
@@ -514,7 +514,7 @@
                           "margarita":  22,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  315,
+                          "cagua":  226,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  70
@@ -748,7 +748,7 @@
                           "margarita":  6,
                           "capital":  25,
                           "barcelona":  5,
-                          "cagua":  268,
+                          "cagua":  223,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  30,
                           "bolivar":  22
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 08:10:46",
+    "ultima_actualizacion":  "28/10/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1229,7 +1229,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  973,
+                      "cantidad":  966,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1489,7 +1489,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1935,
+                      "cantidad":  1927,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -2869,7 +2869,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1245,
+                      "cantidad":  1156,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -3139,7 +3139,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  932,
+                      "cantidad":  848,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
@@ -3819,7 +3819,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  315,
+                      "cantidad":  226,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
@@ -3889,7 +3889,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  239,
+                      "cantidad":  216,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-14102026",
@@ -5669,7 +5669,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  268,
+                      "cantidad":  223,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -6788,5 +6788,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66449
+    "total_general_cajas":  66211
 };
