@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2086
+                          "cajas":  2085
                       },
                       {
                           "almacen":  "CAGUA",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3577
+                          "cajas":  3574
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -230,7 +230,7 @@
                           "barcelona":  29,
                           "cagua":  1927,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  47
                       },
                       {
@@ -341,7 +341,7 @@
                           "zulia":  24,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
-                          "andes":  61,
+                          "andes":  60,
                           "margarita":  8,
                           "capital":  41,
                           "barcelona":  4,
@@ -640,7 +640,7 @@
                           "zulia":  8,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
-                          "andes":  47,
+                          "andes":  46,
                           "margarita":  13,
                           "capital":  57,
                           "barcelona":  17,
@@ -783,7 +783,7 @@
                           "zulia":  80,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
-                          "andes":  90,
+                          "andes":  89,
                           "margarita":  13,
                           "capital":  147,
                           "barcelona":  19,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 11:40:46",
+    "ultima_actualizacion":  "28/10/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2179,7 +2179,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  112,
+                      "cantidad":  97,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-090926",
@@ -2359,7 +2359,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  61,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-300726",
@@ -2599,7 +2599,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  570,
+                      "cantidad":  555,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-091026",
@@ -3769,7 +3769,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  12,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-29092026",
@@ -3879,7 +3879,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  11,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-30092026",
@@ -3999,7 +3999,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  7,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-220926",
@@ -4099,16 +4099,6 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "17-12-2025",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1227-17122025",
-                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-12-2027"
-                  },
-                  {
-                      "codigo":  "4MSA008",
                       "cantidad":  4,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "BARQUISIMETO",
@@ -4179,7 +4169,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  208,
+                      "cantidad":  198,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-180926",
@@ -4829,7 +4819,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  47,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "31-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-310726",
@@ -5759,7 +5749,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  32,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0728-15072026",
@@ -6728,5 +6718,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64097
+    "total_general_cajas":  64093
 };
