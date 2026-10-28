@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2185
+                          "cajas":  2130
                       },
                       {
                           "almacen":  "CAGUA",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  4040
+                          "cajas":  3834
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -289,13 +289,13 @@
                           "zulia":  37,
                           "codigo":  "4MES002",
                           "um":  "CJ",
-                          "andes":  45,
+                          "andes":  44,
                           "margarita":  26,
                           "capital":  85,
                           "barcelona":  20,
                           "cagua":  1335,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  61,
+                          "barquisimeto":  60,
                           "bolivar":  34
                       },
                       {
@@ -321,20 +321,20 @@
                           "barcelona":  30,
                           "cagua":  489,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  32
                       },
                       {
                           "zulia":  63,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
-                          "andes":  286,
+                          "andes":  236,
                           "margarita":  208,
                           "capital":  197,
                           "barcelona":  60,
                           "cagua":  999,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  298,
+                          "barquisimeto":  246,
                           "bolivar":  281
                       },
                       {
@@ -380,7 +380,7 @@
                           "zulia":  906,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
-                          "andes":  448,
+                          "andes":  348,
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  224,
@@ -393,7 +393,7 @@
                           "zulia":  16,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
-                          "andes":  20,
+                          "andes":  18,
                           "margarita":  8,
                           "capital":  10,
                           "barcelona":  3,
@@ -419,7 +419,7 @@
                           "zulia":  83,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
-                          "andes":  73,
+                          "andes":  68,
                           "margarita":  7,
                           "capital":  221,
                           "barcelona":  30,
@@ -432,7 +432,7 @@
                           "zulia":  70,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
-                          "andes":  70,
+                          "andes":  60,
                           "margarita":  0,
                           "capital":  50,
                           "barcelona":  15,
@@ -445,7 +445,7 @@
                           "zulia":  201,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
-                          "andes":  47,
+                          "andes":  42,
                           "margarita":  69,
                           "capital":  102,
                           "barcelona":  48,
@@ -523,7 +523,7 @@
                           "zulia":  73,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
-                          "andes":  17,
+                          "andes":  14,
                           "margarita":  0,
                           "capital":  42,
                           "barcelona":  21,
@@ -536,7 +536,7 @@
                           "zulia":  103,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
-                          "andes":  22,
+                          "andes":  12,
                           "margarita":  2,
                           "capital":  31,
                           "barcelona":  20,
@@ -549,7 +549,7 @@
                           "zulia":  18,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  24,
+                          "andes":  14,
                           "margarita":  2,
                           "capital":  22,
                           "barcelona":  10,
@@ -562,7 +562,7 @@
                           "zulia":  12,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
-                          "andes":  6,
+                          "andes":  4,
                           "margarita":  3,
                           "capital":  5,
                           "barcelona":  0,
@@ -581,7 +581,7 @@
                           "barcelona":  20,
                           "cagua":  1467,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  9,
+                          "barquisimeto":  8,
                           "bolivar":  23
                       },
                       {
@@ -653,7 +653,7 @@
                           "zulia":  3,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
-                          "andes":  33,
+                          "andes":  28,
                           "margarita":  34,
                           "capital":  19,
                           "barcelona":  16,
@@ -666,7 +666,7 @@
                           "zulia":  18,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
-                          "andes":  6,
+                          "andes":  5,
                           "margarita":  3,
                           "capital":  10,
                           "barcelona":  7,
@@ -913,7 +913,7 @@
                           "zulia":  0,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
-                          "andes":  23,
+                          "andes":  21,
                           "margarita":  23,
                           "capital":  24,
                           "barcelona":  16,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 10:00:46",
+    "ultima_actualizacion":  "28/10/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1789,7 +1789,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-140926",
@@ -2179,17 +2179,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  46,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-08092026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  120,
+                      "cantidad":  116,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-090926",
@@ -2769,17 +2759,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  28,
-                      "fecha_fabricacion":  "02-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0427-021026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  105,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-051026",
@@ -2959,7 +2939,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-29092026",
@@ -3099,7 +3079,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  73,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-141026",
@@ -3209,7 +3189,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  70,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-081026",
@@ -3299,7 +3279,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  47,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0228-20022026",
@@ -3849,7 +3829,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  17,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-29092026",
@@ -3959,17 +3939,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "21-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-210926",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  15,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-30092026",
@@ -4099,7 +4069,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  24,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-220926",
@@ -4199,7 +4169,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "ANDES",
                       "lote":  "1227-17122025",
@@ -5029,7 +4999,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  33,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-160926",
@@ -5129,7 +5099,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  6,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-22092026",
@@ -6749,7 +6719,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  23,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-131026",
@@ -6858,5 +6828,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65907
+    "total_general_cajas":  65646
 };
