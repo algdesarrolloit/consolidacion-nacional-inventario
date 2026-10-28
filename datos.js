@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  48913
+                          "cajas":  48912
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -397,7 +397,7 @@
                           "margarita":  8,
                           "capital":  10,
                           "barcelona":  3,
-                          "cagua":  80,
+                          "cagua":  79,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  2,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 07:40:46",
+    "ultima_actualizacion":  "28/10/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2989,7 +2989,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  80,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0127-29092026",
@@ -6798,5 +6798,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66557
+    "total_general_cajas":  66556
 };
