@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2489
+                          "cajas":  2487
                       },
                       {
                           "almacen":  "CAGUA",
@@ -464,7 +464,7 @@
                           "barcelona":  4,
                           "cagua":  390,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                          "barquisimeto":  27,
+                          "barquisimeto":  25,
                           "bolivar":  11
                       },
                       {
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 08:40:46",
+    "ultima_actualizacion":  "28/10/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6788,5 +6788,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66211
+    "total_general_cajas":  66209
 };
