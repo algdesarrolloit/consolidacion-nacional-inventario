@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2200
+                          "cajas":  2185
                       },
                       {
                           "almacen":  "CAGUA",
@@ -581,7 +581,7 @@
                           "barcelona":  20,
                           "cagua":  1467,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  24,
+                          "barquisimeto":  9,
                           "bolivar":  23
                       },
                       {
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 09:20:47",
+    "ultima_actualizacion":  "28/10/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6858,5 +6858,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65922
+    "total_general_cajas":  65907
 };
