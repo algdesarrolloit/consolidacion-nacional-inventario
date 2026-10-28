@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2276
+                          "cajas":  2275
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2332
+                          "cajas":  2300
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -218,7 +218,7 @@
                           "cagua":  3147,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  52,
-                          "bolivar":  84
+                          "bolivar":  83
                       },
                       {
                           "zulia":  52,
@@ -296,7 +296,7 @@
                           "cagua":  1305,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  60,
-                          "bolivar":  34
+                          "bolivar":  31
                       },
                       {
                           "zulia":  40,
@@ -452,7 +452,7 @@
                           "cagua":  2356,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  152,
-                          "bolivar":  69
+                          "bolivar":  68
                       },
                       {
                           "zulia":  0,
@@ -465,7 +465,7 @@
                           "cagua":  272,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  7,
-                          "bolivar":  10
+                          "bolivar":  9
                       },
                       {
                           "zulia":  45,
@@ -478,7 +478,7 @@
                           "cagua":  2622,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  36,
-                          "bolivar":  32
+                          "bolivar":  31
                       },
                       {
                           "zulia":  63,
@@ -530,7 +530,7 @@
                           "cagua":  1827,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  19,
-                          "bolivar":  51
+                          "bolivar":  50
                       },
                       {
                           "zulia":  103,
@@ -575,7 +575,7 @@
                           "zulia":  189,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  1,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  104,
                           "barcelona":  20,
@@ -660,7 +660,7 @@
                           "cagua":  115,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  19,
-                          "bolivar":  21
+                          "bolivar":  15
                       },
                       {
                           "zulia":  18,
@@ -699,7 +699,7 @@
                           "cagua":  1436,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  30,
-                          "bolivar":  8
+                          "bolivar":  7
                       },
                       {
                           "zulia":  0,
@@ -725,7 +725,7 @@
                           "cagua":  3071,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  112,
-                          "bolivar":  153
+                          "bolivar":  148
                       },
                       {
                           "zulia":  0,
@@ -816,7 +816,7 @@
                           "cagua":  7,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  35
+                          "bolivar":  34
                       },
                       {
                           "zulia":  0,
@@ -829,7 +829,7 @@
                           "cagua":  24,
                           "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  37
+                          "bolivar":  35
                       },
                       {
                           "zulia":  0,
@@ -842,7 +842,7 @@
                           "cagua":  68,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  0,
@@ -855,7 +855,7 @@
                           "cagua":  165,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  35
+                          "bolivar":  34
                       },
                       {
                           "zulia":  0,
@@ -868,7 +868,7 @@
                           "cagua":  137,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  0,
@@ -881,7 +881,7 @@
                           "cagua":  179,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  153,
@@ -894,7 +894,7 @@
                           "cagua":  2666,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  84,
-                          "bolivar":  82
+                          "bolivar":  79
                       },
                       {
                           "zulia":  227,
@@ -907,7 +907,7 @@
                           "cagua":  1274,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  84,
-                          "bolivar":  84
+                          "bolivar":  82
                       },
                       {
                           "zulia":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 16:20:47",
+    "ultima_actualizacion":  "28/10/2026 16:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1059,7 +1059,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  73,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-200126",
@@ -1179,7 +1179,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  98,
+                      "cantidad":  93,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1259,7 +1259,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  265,
+                      "cantidad":  260,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-200526",
@@ -1429,7 +1429,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  138,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1769,7 +1769,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  30,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "19-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-190926",
@@ -2399,16 +2399,6 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "03-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0127-03082026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "03-01-2027"
-                  },
-                  {
-                      "codigo":  "4MKE011",
                       "cantidad":  10,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "BARCELONA",
@@ -2809,7 +2799,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  18,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-29092026",
@@ -3299,23 +3289,13 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  30,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0328-110326",
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-03-2028"
-                  },
-                  {
-                      "codigo":  "4MNA014",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "07-10-2025",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-071025",
-                      "descripcion":  "ENCURTIDOS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-10-2028"
                   },
                   {
                       "codigo":  "4MNA014",
@@ -3446,26 +3426,6 @@
                       "descripcion":  "ENCURTIDOS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "02-12-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  30,
-                      "fecha_fabricacion":  "28-11-2025",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "28-11-2025",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1128-281125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-11-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -4019,16 +3979,6 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "18-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-180926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-06-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
                       "cantidad":  20,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "BARCELONA",
@@ -4119,7 +4069,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  9,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0827-26082026",
@@ -4259,7 +4209,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  20,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0927-100926",
@@ -4376,16 +4326,6 @@
                       "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-12-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0927-08092026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2027"
                   },
                   {
                       "codigo":  "4MSA017",
@@ -6518,5 +6458,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60143
+    "total_general_cajas":  60110
 };
