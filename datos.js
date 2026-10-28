@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2113
+                          "cajas":  2086
                       },
                       {
                           "almacen":  "CAGUA",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3632
+                          "cajas":  3577
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1299
+                          "cajas":  1300
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -191,7 +191,7 @@
                           "barcelona":  40,
                           "cagua":  1518,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  71,
+                          "barquisimeto":  63,
                           "bolivar":  134
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  36,
                           "cagua":  966,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  49,
+                          "barquisimeto":  48,
                           "bolivar":  60
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  33,
                           "cagua":  3211,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  58,
+                          "barquisimeto":  52,
                           "bolivar":  84
                       },
                       {
@@ -328,7 +328,7 @@
                           "zulia":  63,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
-                          "andes":  232,
+                          "andes":  217,
                           "margarita":  208,
                           "capital":  197,
                           "barcelona":  60,
@@ -367,7 +367,7 @@
                           "zulia":  131,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  570,
+                          "andes":  555,
                           "margarita":  31,
                           "capital":  112,
                           "barcelona":  60,
@@ -461,7 +461,7 @@
                           "andes":  111,
                           "margarita":  0,
                           "capital":  28,
-                          "barcelona":  4,
+                          "barcelona":  5,
                           "cagua":  387,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  7,
@@ -497,13 +497,13 @@
                           "zulia":  0,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
-                          "andes":  187,
+                          "andes":  185,
                           "margarita":  43,
                           "capital":  0,
                           "barcelona":  25,
                           "cagua":  1253,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  0,
                           "bolivar":  32
                       },
                       {
@@ -523,7 +523,7 @@
                           "zulia":  73,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
-                          "andes":  12,
+                          "andes":  8,
                           "margarita":  0,
                           "capital":  42,
                           "barcelona":  21,
@@ -536,7 +536,7 @@
                           "zulia":  103,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
-                          "andes":  11,
+                          "andes":  7,
                           "margarita":  2,
                           "capital":  31,
                           "barcelona":  20,
@@ -549,7 +549,7 @@
                           "zulia":  18,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  7,
+                          "andes":  3,
                           "margarita":  2,
                           "capital":  22,
                           "barcelona":  10,
@@ -562,7 +562,7 @@
                           "zulia":  12,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
-                          "andes":  1,
+                          "andes":  0,
                           "margarita":  3,
                           "capital":  5,
                           "barcelona":  0,
@@ -575,7 +575,7 @@
                           "zulia":  189,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  208,
+                          "andes":  198,
                           "margarita":  0,
                           "capital":  104,
                           "barcelona":  20,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/10/2026 11:30:47",
+    "ultima_actualizacion":  "28/10/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2109,7 +2109,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  489,
+                      "cantidad":  484,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-300926",
@@ -2279,7 +2279,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  999,
+                      "cantidad":  984,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-26102026",
@@ -2639,7 +2639,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  170,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-091026",
@@ -2799,7 +2799,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1156,
+                      "cantidad":  856,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -3059,7 +3059,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  848,
+                      "cantidad":  845,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
@@ -3129,7 +3129,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  46,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-081026",
@@ -3259,7 +3259,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  212,
+                      "cantidad":  209,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0228-23022026",
@@ -3349,6 +3349,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "09-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-091026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  4,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "BARCELONA",
@@ -3379,7 +3389,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  390,
+                      "cantidad":  387,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-201026",
@@ -3649,7 +3659,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  187,
+                      "cantidad":  185,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-231026",
@@ -3689,7 +3699,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  1256,
+                      "cantidad":  1253,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
@@ -3739,7 +3749,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  21,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
@@ -4129,7 +4139,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  35,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "18-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-18122025",
@@ -4859,7 +4869,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  663,
+                      "cantidad":  658,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -5689,7 +5699,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  483,
+                      "cantidad":  478,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -6718,5 +6728,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  64178
+    "total_general_cajas":  64097
 };
