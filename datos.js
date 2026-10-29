@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  49636
+                          "cajas":  49246
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -514,7 +514,7 @@
                           "margarita":  22,
                           "capital":  0,
                           "barcelona":  30,
-                          "cagua":  1697,
+                          "cagua":  1307,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  68,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 08:40:46",
+    "ultima_actualizacion":  "29/10/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3749,7 +3749,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  1681,
+                      "cantidad":  1291,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
                       "lote":  "29102026",
@@ -6868,5 +6868,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67075
+    "total_general_cajas":  66685
 };
