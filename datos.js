@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  15480,
-                                                              "bidones":  86
+                                                              "kg":  15840,
+                                                              "bidones":  88
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  111728.9,
+                          "kg":  112088.9,
                           "cajas":  47382
                       },
                       {
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  4016
+                          "cajas":  4024
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,10 +176,10 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1842
+                          "cajas":  1843
                       }
                   ],
-    "total_general_kg":  111728.9,
+    "total_general_kg":  112088.9,
     "productos":  [
                       {
                           "zulia":  38,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  120,
+                          "zulia":  128,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  270,
@@ -530,7 +530,7 @@
                           "cagua":  1815,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  19,
-                          "bolivar":  45
+                          "bolivar":  46
                       },
                       {
                           "zulia":  103,
@@ -969,13 +969,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  15480,
+                          "cagua":  15840,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 10:20:46",
+    "ultima_actualizacion":  "29/10/2026 10:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1049,7 +1049,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  15480,
+                      "cantidad":  15840,
                       "fecha_fabricacion":  "19-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0729-191026-277",
@@ -3679,7 +3679,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  724,
+                      "cantidad":  716,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
                       "lote":  "29102026",
@@ -3709,7 +3709,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  120,
+                      "cantidad":  128,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "ZULIA",
                       "lote":  "29102026",
@@ -3759,7 +3759,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  45,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-14102026",
@@ -6768,5 +6768,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65113
+    "total_general_cajas":  65122
 };
