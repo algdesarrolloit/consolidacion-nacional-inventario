@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  47755
+                          "cajas":  47760
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3082
+                          "cajas":  3077
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -822,11 +822,11 @@
                           "zulia":  13,
                           "codigo":  "4MTO046",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  0,
+                          "cagua":  5,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  3,
                           "bolivar":  18
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 16:50:47",
+    "ultima_actualizacion":  "29/10/2026 17:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5684,16 +5684,6 @@
                       "codigo":  "4MTO046",
                       "cantidad":  5,
                       "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO046",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
@@ -5715,6 +5705,16 @@
                       "cantidad":  18,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                       "um":  "CJ",
