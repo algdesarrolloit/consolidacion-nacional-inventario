@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1862
+                          "cajas":  1848
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -296,7 +296,7 @@
                           "cagua":  1305,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  60,
-                          "bolivar":  26
+                          "bolivar":  23
                       },
                       {
                           "zulia":  40,
@@ -309,7 +309,7 @@
                           "cagua":  1256,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  37,
-                          "bolivar":  26
+                          "bolivar":  25
                       },
                       {
                           "zulia":  75,
@@ -335,7 +335,7 @@
                           "cagua":  2184,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  244,
-                          "bolivar":  249
+                          "bolivar":  245
                       },
                       {
                           "zulia":  24,
@@ -374,7 +374,7 @@
                           "cagua":  1263,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  50,
-                          "bolivar":  104
+                          "bolivar":  103
                       },
                       {
                           "zulia":  906,
@@ -647,7 +647,7 @@
                           "cagua":  618,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  43,
-                          "bolivar":  27
+                          "bolivar":  26
                       },
                       {
                           "zulia":  33,
@@ -660,7 +660,7 @@
                           "cagua":  115,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  19,
-                          "bolivar":  15
+                          "bolivar":  13
                       },
                       {
                           "zulia":  18,
@@ -725,7 +725,7 @@
                           "cagua":  3071,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  112,
-                          "bolivar":  61
+                          "bolivar":  59
                       },
                       {
                           "zulia":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 08:20:46",
+    "ultima_actualizacion":  "29/10/2026 08:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6868,5 +6868,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67095
+    "total_general_cajas":  67081
 };
