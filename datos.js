@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3074
+                          "cajas":  3031
                       },
                       {
                           "almacen":  "ANDES",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  229,
                           "margarita":  43,
-                          "capital":  30,
+                          "capital":  29,
                           "barcelona":  25,
                           "cagua":  1031,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  270,
                           "margarita":  22,
-                          "capital":  58,
+                          "capital":  16,
                           "barcelona":  30,
                           "cagua":  797,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 09:10:46",
+    "ultima_actualizacion":  "29/10/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3759,7 +3759,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  60,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAPITAL",
                       "lote":  "29102026",
@@ -6888,5 +6888,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66622
+    "total_general_cajas":  66579
 };
