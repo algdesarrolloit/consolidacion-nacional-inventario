@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  48903
+                          "cajas":  48836
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -215,7 +215,7 @@
                           "margarita":  78,
                           "capital":  72,
                           "barcelona":  33,
-                          "cagua":  3146,
+                          "cagua":  3143,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  0,
                           "bolivar":  79
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  56,
                           "barcelona":  29,
-                          "cagua":  1905,
+                          "cagua":  1841,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  17,
                           "bolivar":  44
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 15:40:47",
+    "ultima_actualizacion":  "29/10/2026 15:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6811,5 +6811,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  63616
+    "total_general_cajas":  63549
 };
