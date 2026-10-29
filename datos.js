@@ -134,21 +134,21 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  49246
+                          "cajas":  48735
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3016
+                          "cajas":  3076
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3904
+                          "cajas":  4174
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3896
+                          "cajas":  4016
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -189,7 +189,7 @@
                           "margarita":  69,
                           "capital":  51,
                           "barcelona":  40,
-                          "cagua":  1518,
+                          "cagua":  1517,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  63,
                           "bolivar":  131
@@ -507,14 +507,14 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  120,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  270,
                           "margarita":  22,
-                          "capital":  0,
+                          "capital":  60,
                           "barcelona":  30,
-                          "cagua":  1307,
+                          "cagua":  797,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  68,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 08:50:46",
+    "ultima_actualizacion":  "29/10/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3709,6 +3709,16 @@
                   },
                   {
                       "codigo":  "4MNA027",
+                      "cantidad":  270,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "ANDES",
+                      "lote":  "29102026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
+                  },
+                  {
+                      "codigo":  "4MNA027",
                       "cantidad":  30,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARCELONA",
@@ -3739,19 +3749,19 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  16,
-                      "fecha_fabricacion":  "27-10-2026",
+                      "cantidad":  797,
+                      "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
-                      "lote":  "1028-271026",
+                      "lote":  "29102026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "27-10-2028"
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  1291,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "CAGUA",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "29102026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -3766,6 +3776,16 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "29102026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -6868,5 +6888,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66685
+    "total_general_cajas":  66624
 };
