@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  55166,
-                                                              "bidones":  1003.02
+                                                              "kg":  55111,
+                                                              "bidones":  1002.02
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  112088.9,
+                          "kg":  112033.9,
                           "cajas":  48882
                       },
                       {
@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2908
+                          "cajas":  2878
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3968
+                          "cajas":  3965
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -179,7 +179,7 @@
                           "cajas":  1843
                       }
                   ],
-    "total_general_kg":  112088.9,
+    "total_general_kg":  112033.9,
     "productos":  [
                       {
                           "zulia":  38,
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  170,
                           "margarita":  208,
-                          "capital":  311,
+                          "capital":  306,
                           "barcelona":  60,
                           "cagua":  2016,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  465,
                           "margarita":  253,
-                          "capital":  429,
+                          "capital":  419,
                           "barcelona":  224,
                           "cagua":  5946,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  72,
+                          "zulia":  69,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  270,
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  255,
                           "margarita":  0,
-                          "capital":  69,
+                          "capital":  59,
                           "barcelona":  20,
                           "cagua":  1211,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -759,7 +759,7 @@
                           "um":  "CJ",
                           "andes":  65,
                           "margarita":  6,
-                          "capital":  24,
+                          "capital":  23,
                           "barcelona":  5,
                           "cagua":  223,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  21,
                           "margarita":  19,
-                          "capital":  24,
+                          "capital":  23,
                           "barcelona":  5,
                           "cagua":  738,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -785,7 +785,7 @@
                           "um":  "CJ",
                           "andes":  31,
                           "margarita":  23,
-                          "capital":  41,
+                          "capital":  40,
                           "barcelona":  10,
                           "cagua":  941,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -798,7 +798,7 @@
                           "um":  "CJ",
                           "andes":  71,
                           "margarita":  13,
-                          "capital":  145,
+                          "capital":  143,
                           "barcelona":  19,
                           "cagua":  914,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -969,7 +969,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  55166,
+                          "cagua":  55111,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 10:50:46",
+    "ultima_actualizacion":  "29/10/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1052,7 +1052,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  12925,
+                      "cantidad":  12870,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -4182,7 +4182,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  69,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-180926",
@@ -6791,5 +6791,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66536
+    "total_general_cajas":  66503
 };
