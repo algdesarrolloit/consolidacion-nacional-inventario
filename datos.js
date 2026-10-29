@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1848
+                          "cajas":  1842
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -816,7 +816,7 @@
                           "cagua":  7,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  19
+                          "bolivar":  18
                       },
                       {
                           "zulia":  18,
@@ -829,7 +829,7 @@
                           "cagua":  24,
                           "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  11,
@@ -842,7 +842,7 @@
                           "cagua":  68,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  4
+                          "bolivar":  3
                       },
                       {
                           "zulia":  24,
@@ -855,7 +855,7 @@
                           "cagua":  165,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  19
+                          "bolivar":  18
                       },
                       {
                           "zulia":  16,
@@ -868,7 +868,7 @@
                           "cagua":  137,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  4
+                          "bolivar":  3
                       },
                       {
                           "zulia":  16,
@@ -881,7 +881,7 @@
                           "cagua":  179,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  6,
-                          "bolivar":  4
+                          "bolivar":  3
                       },
                       {
                           "zulia":  153,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 08:30:46",
+    "ultima_actualizacion":  "29/10/2026 08:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6868,5 +6868,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  67081
+    "total_general_cajas":  67075
 };
