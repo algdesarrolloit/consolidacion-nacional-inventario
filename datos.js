@@ -141,14 +141,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2802
+                          "cajas":  2760
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  4154
+                          "cajas":  4141
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3700
+                          "cajas":  3678
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  112033.9,
     "productos":  [
                       {
-                          "zulia":  38,
+                          "zulia":  33,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  178,
@@ -195,7 +195,7 @@
                           "bolivar":  131
                       },
                       {
-                          "zulia":  35,
+                          "zulia":  33,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  93,
@@ -208,7 +208,7 @@
                           "bolivar":  58
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  20,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  250,
@@ -221,7 +221,7 @@
                           "bolivar":  79
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  50,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  133,
@@ -351,7 +351,7 @@
                           "bolivar":  11
                       },
                       {
-                          "zulia":  30,
+                          "zulia":  27,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
                           "andes":  0,
@@ -390,7 +390,7 @@
                           "bolivar":  323
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  14,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
                           "andes":  8,
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  37,
-                          "capital":  215,
+                          "capital":  205,
                           "barcelona":  30,
                           "cagua":  724,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  60,
                           "margarita":  30,
-                          "capital":  45,
+                          "capital":  41,
                           "barcelona":  15,
                           "cagua":  496,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  105,
                           "margarita":  69,
-                          "capital":  93,
+                          "capital":  87,
                           "barcelona":  48,
                           "cagua":  2194,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  113,
                           "margarita":  23,
-                          "capital":  21,
+                          "capital":  18,
                           "barcelona":  5,
                           "cagua":  229,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  9,
-                          "capital":  32,
+                          "capital":  26,
                           "barcelona":  166,
                           "cagua":  2861,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  229,
                           "margarita":  43,
-                          "capital":  24,
+                          "capital":  19,
                           "barcelona":  25,
                           "cagua":  1006,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -510,9 +510,9 @@
                           "zulia":  42,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
-                          "andes":  270,
+                          "andes":  260,
                           "margarita":  22,
-                          "capital":  8,
+                          "capital":  0,
                           "barcelona":  30,
                           "cagua":  631,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -536,7 +536,7 @@
                           "zulia":  100,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
-                          "andes":  60,
+                          "andes":  58,
                           "margarita":  32,
                           "capital":  24,
                           "barcelona":  20,
@@ -598,7 +598,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  39,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
                           "andes":  15,
@@ -676,7 +676,7 @@
                           "bolivar":  13
                       },
                       {
-                          "zulia":  18,
+                          "zulia":  16,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
                           "andes":  5,
@@ -900,7 +900,7 @@
                           "zulia":  148,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
-                          "andes":  120,
+                          "andes":  119,
                           "margarita":  53,
                           "capital":  72,
                           "barcelona":  30,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 11:50:47",
+    "ultima_actualizacion":  "29/10/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3072,7 +3072,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  72,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -3182,7 +3182,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  48,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3292,7 +3292,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  99,
+                      "cantidad":  87,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3392,7 +3392,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  24,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3542,7 +3542,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  38,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3682,7 +3682,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  27,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3712,7 +3712,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  270,
+                      "cantidad":  260,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "ANDES",
                       "lote":  "29102026",
@@ -3752,7 +3752,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  14,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAPITAL",
                       "lote":  "29102026",
@@ -3892,7 +3892,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-30092026",
@@ -6921,5 +6921,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66487
+    "total_general_cajas":  66410
 };
