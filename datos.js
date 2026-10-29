@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 17:50:46",
+    "ultima_actualizacion":  "29/10/2026 18:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3612,7 +3612,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  14,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-271026",
@@ -3902,7 +3902,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-300926",
