@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  3076
+                          "cajas":  3074
                       },
                       {
                           "almacen":  "ANDES",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  270,
                           "margarita":  22,
-                          "capital":  60,
+                          "capital":  58,
                           "barcelona":  30,
                           "cagua":  797,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 09:00:46",
+    "ultima_actualizacion":  "29/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1129,7 +1129,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  1518,
+                      "cantidad":  1517,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -6888,5 +6888,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66624
+    "total_general_cajas":  66622
 };
