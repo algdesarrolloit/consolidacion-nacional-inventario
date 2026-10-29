@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  47382
+                          "cajas":  50382
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -650,6 +650,19 @@
                           "bolivar":  26
                       },
                       {
+                          "zulia":  0,
+                          "codigo":  "4MSU014",
+                          "um":  "CJ",
+                          "andes":  0,
+                          "margarita":  0,
+                          "capital":  0,
+                          "barcelona":  0,
+                          "cagua":  3000,
+                          "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
+                          "barquisimeto":  0,
+                          "bolivar":  0
+                      },
+                      {
                           "zulia":  33,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
@@ -975,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 10:30:47",
+    "ultima_actualizacion":  "29/10/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4838,6 +4851,16 @@
                       "fecha_vencimiento":  "18-09-2028"
                   },
                   {
+                      "codigo":  "4MSU014",
+                      "cantidad":  3000,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-061026",
+                      "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-04-2027"
+                  },
+                  {
                       "codigo":  "4MSU015",
                       "cantidad":  20,
                       "fecha_fabricacion":  "13-10-2026",
@@ -6768,5 +6791,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65122
+    "total_general_cajas":  68122
 };
