@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  47971
+                          "cajas":  47946
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2928
+                          "cajas":  2918
                       },
                       {
                           "almacen":  "ANDES",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1847
+                          "cajas":  1842
                       }
                   ],
     "total_general_kg":  112088.9,
@@ -187,9 +187,9 @@
                           "um":  "CJ",
                           "andes":  188,
                           "margarita":  69,
-                          "capital":  46,
+                          "capital":  45,
                           "barcelona":  40,
-                          "cagua":  1517,
+                          "cagua":  1516,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  63,
                           "bolivar":  131
@@ -200,7 +200,7 @@
                           "um":  "CJ",
                           "andes":  93,
                           "margarita":  33,
-                          "capital":  52,
+                          "capital":  51,
                           "barcelona":  36,
                           "cagua":  936,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -213,9 +213,9 @@
                           "um":  "CJ",
                           "andes":  260,
                           "margarita":  78,
-                          "capital":  77,
+                          "capital":  75,
                           "barcelona":  33,
-                          "cagua":  3147,
+                          "cagua":  3146,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  52,
                           "bolivar":  79
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  44,
-                          "capital":  60,
+                          "capital":  58,
                           "barcelona":  29,
                           "cagua":  1844,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  105,
                           "margarita":  69,
-                          "capital":  101,
+                          "capital":  100,
                           "barcelona":  48,
                           "cagua":  2196,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,9 +460,9 @@
                           "um":  "CJ",
                           "andes":  113,
                           "margarita":  0,
-                          "capital":  26,
+                          "capital":  25,
                           "barcelona":  5,
-                          "cagua":  257,
+                          "cagua":  255,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  7,
                           "bolivar":  0
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  9,
-                          "capital":  40,
+                          "capital":  39,
                           "barcelona":  166,
                           "cagua":  2547,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  26,
-                          "capital":  29,
+                          "capital":  28,
                           "barcelona":  7,
                           "cagua":  121,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -501,7 +501,7 @@
                           "margarita":  43,
                           "capital":  28,
                           "barcelona":  25,
-                          "cagua":  1011,
+                          "cagua":  1009,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -514,10 +514,10 @@
                           "margarita":  22,
                           "capital":  15,
                           "barcelona":  30,
-                          "cagua":  658,
+                          "cagua":  640,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  68,
-                          "bolivar":  5
+                          "bolivar":  0
                       },
                       {
                           "zulia":  73,
@@ -579,7 +579,7 @@
                           "margarita":  0,
                           "capital":  69,
                           "barcelona":  20,
-                          "cagua":  1212,
+                          "cagua":  1211,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  6,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 09:50:46",
+    "ultima_actualizacion":  "29/10/2026 10:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1139,7 +1139,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  47,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1229,7 +1229,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  53,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1389,7 +1389,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  79,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1479,7 +1479,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  62,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3269,7 +3269,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0228-20022026",
@@ -3389,7 +3389,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  27,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3519,7 +3519,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  41,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3589,7 +3589,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  30,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
@@ -6868,5 +6868,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  65717
+    "total_general_cajas":  65677
 };
