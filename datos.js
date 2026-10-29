@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112088.9,
-                          "cajas":  44575
+                          "cajas":  46455
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -384,7 +384,7 @@
                           "margarita":  253,
                           "capital":  432,
                           "barcelona":  224,
-                          "cagua":  4276,
+                          "cagua":  6156,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  326,
                           "bolivar":  323
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 07:30:46",
+    "ultima_actualizacion":  "29/10/2026 07:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2789,13 +2789,23 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  2415,
+                      "cantidad":  2618,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-27102026",
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  1677,
+                      "fecha_fabricacion":  "28-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-28102026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-04-2027"
                   },
                   {
                       "codigo":  "4MMA006",
@@ -6838,5 +6848,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62034
+    "total_general_cajas":  63914
 };
