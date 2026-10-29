@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 16:40:47",
+    "ultima_actualizacion":  "29/10/2026 16:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2269,6 +2269,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "26-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1500,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-271026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -3605,6 +3615,16 @@
                       "cantidad":  68,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-271026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  1681,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
