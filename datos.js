@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2835
+                          "cajas":  2802
                       },
                       {
                           "almacen":  "ANDES",
@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1728
+                          "cajas":  1767
                       },
                       {
                           "almacen":  "ZULIA",
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  37,
-                          "capital":  221,
+                          "capital":  215,
                           "barcelona":  30,
                           "cagua":  724,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  60,
                           "margarita":  30,
-                          "capital":  48,
+                          "capital":  45,
                           "barcelona":  15,
                           "cagua":  496,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  105,
                           "margarita":  69,
-                          "capital":  99,
+                          "capital":  93,
                           "barcelona":  48,
                           "cagua":  2194,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  113,
                           "margarita":  23,
-                          "capital":  24,
+                          "capital":  21,
                           "barcelona":  5,
                           "cagua":  229,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  9,
-                          "capital":  38,
+                          "capital":  32,
                           "barcelona":  166,
                           "cagua":  2861,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  229,
                           "margarita":  43,
-                          "capital":  27,
+                          "capital":  24,
                           "barcelona":  25,
                           "cagua":  1006,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  270,
                           "margarita":  22,
-                          "capital":  14,
+                          "capital":  8,
                           "barcelona":  30,
                           "cagua":  631,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -823,7 +823,7 @@
                           "codigo":  "4MTO046",
                           "um":  "CJ",
                           "andes":  5,
-                          "margarita":  0,
+                          "margarita":  6,
                           "capital":  0,
                           "barcelona":  5,
                           "cagua":  0,
@@ -836,7 +836,7 @@
                           "codigo":  "4MTO048",
                           "um":  "CJ",
                           "andes":  5,
-                          "margarita":  0,
+                          "margarita":  11,
                           "capital":  0,
                           "barcelona":  5,
                           "cagua":  12,
@@ -862,7 +862,7 @@
                           "codigo":  "4MTO052",
                           "um":  "CJ",
                           "andes":  5,
-                          "margarita":  0,
+                          "margarita":  11,
                           "capital":  0,
                           "barcelona":  5,
                           "cagua":  154,
@@ -888,7 +888,7 @@
                           "codigo":  "4MTO056",
                           "um":  "CJ",
                           "andes":  5,
-                          "margarita":  0,
+                          "margarita":  11,
                           "capital":  0,
                           "barcelona":  5,
                           "cagua":  168,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "29/10/2026 11:40:47",
+    "ultima_actualizacion":  "29/10/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6002,6 +6002,16 @@
                   },
                   {
                       "codigo":  "4MTO046",
+                      "cantidad":  6,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
                       "cantidad":  24,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "ZULIA",
@@ -6055,6 +6065,16 @@
                       "cantidad":  12,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO048",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "1028-211026",
                       "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
                       "um":  "CJ",
@@ -6192,6 +6212,16 @@
                   },
                   {
                       "codigo":  "4MTO052",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO052",
                       "cantidad":  24,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "ZULIA",
@@ -6315,6 +6345,16 @@
                       "cantidad":  168,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "1028-211026",
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                       "um":  "CJ",
@@ -6881,5 +6921,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  66481
+    "total_general_cajas":  66487
 };
