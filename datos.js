@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  48354
+                          "cajas":  48396
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,7 +332,7 @@
                           "margarita":  204,
                           "capital":  306,
                           "barcelona":  60,
-                          "cagua":  1968,
+                          "cagua":  2010,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  173,
                           "bolivar":  245
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 09:00:46",
+    "ultima_actualizacion":  "30/10/2026 09:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2229,6 +2229,36 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1217,
+                      "fecha_fabricacion":  "07-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-071026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  720,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-08102026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  139,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-081026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -6541,5 +6571,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62972
+    "total_general_cajas":  63014
 };
