@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  48396
+                          "cajas":  48363
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1148
+                          "cajas":  1152
                       },
                       {
                           "almacen":  "ZULIA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1843
+                          "cajas":  1797
                       }
                   ],
     "total_general_kg":  112033.9,
@@ -823,13 +823,13 @@
                           "codigo":  "4MTO046",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  0,
+                          "margarita":  4,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  5,
+                          "cagua":  0,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  3,
-                          "bolivar":  18
+                          "bolivar":  3
                       },
                       {
                           "zulia":  0,
@@ -839,10 +839,10 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  12,
+                          "cagua":  19,
                           "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
                           "barquisimeto":  3,
-                          "bolivar":  19
+                          "bolivar":  3
                       },
                       {
                           "zulia":  0,
@@ -852,7 +852,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  57,
+                          "cagua":  41,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -865,10 +865,10 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  154,
+                          "cagua":  160,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  3,
-                          "bolivar":  18
+                          "bolivar":  3
                       },
                       {
                           "zulia":  5,
@@ -878,7 +878,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  126,
+                          "cagua":  110,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -891,7 +891,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  168,
+                          "cagua":  159,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 09:40:47",
+    "ultima_actualizacion":  "30/10/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5672,7 +5672,7 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  18,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-221026",
@@ -5682,9 +5682,19 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  5,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "MARGARITA",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                       "um":  "CJ",
@@ -5732,7 +5742,7 @@
                   },
                   {
                       "codigo":  "4MTO048",
-                      "cantidad":  19,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-211026",
@@ -5742,7 +5752,7 @@
                   },
                   {
                       "codigo":  "4MTO048",
-                      "cantidad":  12,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-211026",
@@ -5852,7 +5862,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  18,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-221026",
@@ -5862,7 +5872,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  154,
+                      "cantidad":  169,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
@@ -6571,5 +6581,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62750
+    "total_general_cajas":  62675
 };
