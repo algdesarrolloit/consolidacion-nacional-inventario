@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2964
+                          "cajas":  2308
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -367,7 +367,7 @@
                           "zulia":  100,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
-                          "andes":  586,
+                          "andes":  86,
                           "margarita":  31,
                           "capital":  107,
                           "barcelona":  60,
@@ -575,7 +575,7 @@
                           "zulia":  109,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  156,
+                          "andes":  0,
                           "margarita":  18,
                           "capital":  54,
                           "barcelona":  20,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 12:20:47",
+    "ultima_actualizacion":  "30/10/2026 12:30:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2582,7 +2582,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  576,
+                      "cantidad":  326,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-091026",
@@ -4069,16 +4069,6 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "17-12-2027"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  156,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-240926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -6641,5 +6631,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59577
+    "total_general_cajas":  58921
 };
