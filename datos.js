@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1797
+                          "cajas":  1796
                       }
                   ],
     "total_general_kg":  112033.9,
@@ -738,7 +738,7 @@
                           "cagua":  2507,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  98,
-                          "bolivar":  59
+                          "bolivar":  58
                       },
                       {
                           "zulia":  0,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 11:10:47",
+    "ultima_actualizacion":  "30/10/2026 11:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6661,5 +6661,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60283
+    "total_general_cajas":  60282
 };
