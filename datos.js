@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  45910
+                          "cajas":  45911
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1152
+                          "cajas":  1151
                       },
                       {
                           "almacen":  "ZULIA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1300
+                          "cajas":  1305
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -487,7 +487,7 @@
                           "andes":  0,
                           "margarita":  22,
                           "capital":  27,
-                          "barcelona":  7,
+                          "barcelona":  8,
                           "cagua":  343,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  9,
@@ -734,7 +734,7 @@
                           "andes":  216,
                           "margarita":  18,
                           "capital":  178,
-                          "barcelona":  60,
+                          "barcelona":  64,
                           "cagua":  2507,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  98,
@@ -823,10 +823,10 @@
                           "codigo":  "4MTO046",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  4,
+                          "margarita":  3,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  0,
+                          "cagua":  1,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  3,
                           "bolivar":  3
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 10:50:47",
+    "ultima_actualizacion":  "30/10/2026 11:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3482,7 +3482,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  7,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-281125",
@@ -5142,6 +5142,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "20-08-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0828-20082026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  60,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARCELONA",
@@ -5762,7 +5772,17 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  4,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-221026",
@@ -6651,5 +6671,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60241
+    "total_general_cajas":  60246
 };
