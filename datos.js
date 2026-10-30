@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1585
+                          "cajas":  1584
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -331,7 +331,7 @@
                           "andes":  166,
                           "margarita":  174,
                           "capital":  306,
-                          "barcelona":  60,
+                          "barcelona":  59,
                           "cagua":  1760,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  173,
@@ -487,7 +487,7 @@
                           "andes":  0,
                           "margarita":  22,
                           "capital":  27,
-                          "barcelona":  8,
+                          "barcelona":  7,
                           "cagua":  339,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  9,
@@ -734,7 +734,7 @@
                           "andes":  216,
                           "margarita":  18,
                           "capital":  178,
-                          "barcelona":  63,
+                          "barcelona":  64,
                           "cagua":  2432,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  98,
@@ -760,7 +760,7 @@
                           "andes":  65,
                           "margarita":  6,
                           "capital":  23,
-                          "barcelona":  4,
+                          "barcelona":  5,
                           "cagua":  210,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  27,
@@ -773,7 +773,7 @@
                           "andes":  21,
                           "margarita":  19,
                           "capital":  23,
-                          "barcelona":  4,
+                          "barcelona":  5,
                           "cagua":  728,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  35,
@@ -937,19 +937,6 @@
                       },
                       {
                           "zulia":  0,
-                          "codigo":  "4PAC002",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  2,
-                          "cagua":  0,
-                          "descripcion":  "PAN INTEGRAL 10 X 390G",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
                           "codigo":  "1VEG001",
                           "um":  "KG",
                           "andes":  0,
@@ -988,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 12:30:47",
+    "ultima_actualizacion":  "30/10/2026 12:41:02",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2162,7 +2149,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-26102026",
@@ -2582,7 +2569,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  326,
+                      "cantidad":  76,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0427-091026",
@@ -3482,7 +3469,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-281125",
@@ -5152,7 +5139,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  3,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-20082026",
@@ -5312,7 +5299,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  4,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -5392,7 +5379,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  4,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -6619,17 +6606,7 @@
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2028"
-                  },
-                  {
-                      "codigo":  "4PAC002",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "14-04-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1026-140426",
-                      "descripcion":  "PAN INTEGRAL 10 X 390G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  58921
+    "total_general_cajas":  58920
 };
