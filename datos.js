@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2989
+                          "cajas":  2964
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1587
+                          "cajas":  1585
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -760,7 +760,7 @@
                           "andes":  65,
                           "margarita":  6,
                           "capital":  23,
-                          "barcelona":  5,
+                          "barcelona":  4,
                           "cagua":  210,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  27,
@@ -773,7 +773,7 @@
                           "andes":  21,
                           "margarita":  19,
                           "capital":  23,
-                          "barcelona":  5,
+                          "barcelona":  4,
                           "cagua":  728,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  35,
@@ -835,7 +835,7 @@
                           "zulia":  0,
                           "codigo":  "4MTO048",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
@@ -848,7 +848,7 @@
                           "zulia":  0,
                           "codigo":  "4MTO050",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
@@ -861,7 +861,7 @@
                           "zulia":  4,
                           "codigo":  "4MTO052",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
@@ -874,7 +874,7 @@
                           "zulia":  5,
                           "codigo":  "4MTO054",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
@@ -887,7 +887,7 @@
                           "zulia":  0,
                           "codigo":  "4MTO056",
                           "um":  "CJ",
-                          "andes":  5,
+                          "andes":  0,
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 12:10:47",
+    "ultima_actualizacion":  "30/10/2026 12:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3732,16 +3732,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-29092026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  20,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARCELONA",
@@ -5172,7 +5162,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-20082026",
@@ -5332,7 +5322,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
@@ -5412,7 +5402,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -5834,16 +5824,6 @@
                       "codigo":  "4MTO048",
                       "cantidad":  5,
                       "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO048",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-211026",
                       "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
@@ -5894,16 +5874,6 @@
                       "codigo":  "4MTO050",
                       "cantidad":  5,
                       "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0828-130826",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO050",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-130826",
                       "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
@@ -5949,16 +5919,6 @@
                       "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO052",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
                   },
                   {
                       "codigo":  "4MTO052",
@@ -6024,16 +5984,6 @@
                       "codigo":  "4MTO054",
                       "cantidad":  5,
                       "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
@@ -6089,16 +6039,6 @@
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
                   },
                   {
                       "codigo":  "4MTO056",
@@ -6701,5 +6641,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  59604
+    "total_general_cajas":  59577
 };
