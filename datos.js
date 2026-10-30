@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  810
+                          "cajas":  807
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -656,7 +656,7 @@
                           "andes":  0,
                           "margarita":  295,
                           "capital":  0,
-                          "barcelona":  3,
+                          "barcelona":  0,
                           "cagua":  410,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
                           "barquisimeto":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 15:30:46",
+    "ultima_actualizacion":  "30/10/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4619,7 +4619,7 @@
                   },
                   {
                       "codigo":  "4MSU014",
-                      "cantidad":  511,
+                      "cantidad":  441,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0427-061026",
@@ -6478,5 +6478,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57195
+    "total_general_cajas":  57192
 };
