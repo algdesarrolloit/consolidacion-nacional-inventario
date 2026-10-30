@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  47760
+                          "cajas":  48090
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -488,7 +488,7 @@
                           "margarita":  22,
                           "capital":  27,
                           "barcelona":  7,
-                          "cagua":  118,
+                          "cagua":  353,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  9,
                           "bolivar":  2
@@ -813,7 +813,7 @@
                           "margarita":  12,
                           "capital":  0,
                           "barcelona":  10,
-                          "cagua":  100,
+                          "cagua":  195,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  0,
                           "bolivar":  9
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 07:50:46",
+    "ultima_actualizacion":  "30/10/2026 08:00:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3452,6 +3452,16 @@
                   },
                   {
                       "codigo":  "4MNA015",
+                      "cantidad":  235,
+                      "fecha_fabricacion":  "28-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-281026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
                       "cantidad":  119,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "CAGUA",
@@ -5562,6 +5572,16 @@
                   },
                   {
                       "codigo":  "4MTO033",
+                      "cantidad":  95,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0427-27102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
                       "cantidad":  7,
                       "fecha_fabricacion":  "02-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -6511,5 +6531,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62378
+    "total_general_cajas":  62708
 };
