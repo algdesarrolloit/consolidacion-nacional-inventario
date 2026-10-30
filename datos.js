@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2753
+                          "cajas":  2835
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2768
+                          "cajas":  2723
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -325,7 +325,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  98,
+                          "zulia":  96,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  164,
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  16,
-                          "capital":  205,
+                          "capital":  221,
                           "barcelona":  30,
                           "cagua":  627,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  10,
-                          "capital":  41,
+                          "capital":  48,
                           "barcelona":  15,
                           "cagua":  355,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  31,
                           "margarita":  53,
-                          "capital":  86,
+                          "capital":  99,
                           "barcelona":  48,
                           "cagua":  2053,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  4,
-                          "capital":  16,
+                          "capital":  24,
                           "barcelona":  5,
                           "cagua":  38,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  7,
-                          "capital":  22,
+                          "capital":  38,
                           "barcelona":  166,
                           "cagua":  2820,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  23,
                           "margarita":  8,
-                          "capital":  19,
+                          "capital":  27,
                           "barcelona":  25,
                           "cagua":  810,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  19,
                           "margarita":  6,
-                          "capital":  0,
+                          "capital":  14,
                           "barcelona":  30,
                           "cagua":  487,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -689,7 +689,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  43,
+                          "zulia":  0,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  15,
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 11:00:47",
+    "ultima_actualizacion":  "30/10/2026 11:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2342,7 +2342,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  98,
+                      "cantidad":  96,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-26102026",
@@ -3012,7 +3012,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  56,
+                      "cantidad":  72,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -3112,7 +3112,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  41,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3232,7 +3232,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  86,
+                      "cantidad":  99,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3312,7 +3312,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  16,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3452,7 +3452,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  22,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3602,7 +3602,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  19,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3665,6 +3665,16 @@
                       "cantidad":  589,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAGUA",
+                      "lote":  "29102026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  14,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "29102026",
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
@@ -4969,26 +4979,6 @@
                       "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSU018",
-                      "cantidad":  33,
-                      "fecha_fabricacion":  "09-06-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0327-09062026",
-                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-03-2027"
-                  },
-                  {
-                      "codigo":  "4MSU018",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "09-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0727-091026",
-                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-07-2027"
                   },
                   {
                       "codigo":  "4MTO011",
@@ -6671,5 +6661,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  60246
+    "total_general_cajas":  60283
 };
