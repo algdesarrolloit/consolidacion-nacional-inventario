@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  54946,
-                                                              "bidones":  999.02
+                                                              "kg":  50380,
+                                                              "bidones":  916
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  111628.9,
+                          "kg":  107062.9,
                           "cajas":  44144
                       },
                       {
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2689
+                          "cajas":  2596
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -179,7 +179,7 @@
                           "cajas":  2303
                       }
                   ],
-    "total_general_kg":  111628.9,
+    "total_general_kg":  107062.9,
     "productos":  [
                       {
                           "zulia":  33,
@@ -286,7 +286,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  42,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  8,
@@ -325,7 +325,7 @@
                           "bolivar":  32
                       },
                       {
-                          "zulia":  96,
+                          "zulia":  41,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  166,
@@ -442,7 +442,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  141,
+                          "zulia":  139,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  31,
@@ -455,7 +455,7 @@
                           "bolivar":  64
                       },
                       {
-                          "zulia":  3,
+                          "zulia":  1,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  14,
@@ -468,7 +468,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  27,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  1,
@@ -481,7 +481,7 @@
                           "bolivar":  8
                       },
                       {
-                          "zulia":  40,
+                          "zulia":  39,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  0,
@@ -637,7 +637,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  33,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  23,
@@ -728,7 +728,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  166,
+                          "zulia":  141,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  216,
@@ -956,7 +956,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  54946,
+                          "cagua":  50380,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 13:30:47",
+    "ultima_actualizacion":  "30/10/2026 13:40:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1009,7 +1009,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  12761,
+                      "cantidad":  12760,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-040926-219",
@@ -1039,7 +1039,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  12870,
+                      "cantidad":  8305,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -6608,5 +6608,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  58837
+    "total_general_cajas":  58744
 };
