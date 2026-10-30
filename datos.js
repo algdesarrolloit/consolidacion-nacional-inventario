@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  48363
+                          "cajas":  47683
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2749
+                          "cajas":  2765
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -319,7 +319,7 @@
                           "margarita":  28,
                           "capital":  41,
                           "barcelona":  30,
-                          "cagua":  469,
+                          "cagua":  419,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  34,
                           "bolivar":  32
@@ -332,7 +332,7 @@
                           "margarita":  174,
                           "capital":  306,
                           "barcelona":  60,
-                          "cagua":  2010,
+                          "cagua":  1910,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  173,
                           "bolivar":  245
@@ -384,7 +384,7 @@
                           "margarita":  178,
                           "capital":  419,
                           "barcelona":  224,
-                          "cagua":  5916,
+                          "cagua":  5716,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  284,
                           "bolivar":  323
@@ -416,66 +416,66 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  76,
+                          "zulia":  77,
                           "codigo":  "4MNA008",
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  16,
                           "capital":  205,
                           "barcelona":  30,
-                          "cagua":  692,
+                          "cagua":  642,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  15,
                           "bolivar":  30
                       },
                       {
-                          "zulia":  64,
+                          "zulia":  66,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  40,
                           "margarita":  10,
                           "capital":  41,
                           "barcelona":  15,
-                          "cagua":  456,
+                          "cagua":  406,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  14,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  139,
+                          "zulia":  141,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  31,
                           "margarita":  53,
                           "capital":  86,
                           "barcelona":  48,
-                          "cagua":  2152,
+                          "cagua":  2102,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  134,
                           "bolivar":  64
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  3,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  4,
                           "capital":  16,
                           "barcelona":  5,
-                          "cagua":  189,
+                          "cagua":  139,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  28,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  1,
                           "margarita":  7,
                           "capital":  22,
                           "barcelona":  166,
-                          "cagua":  2860,
+                          "cagua":  2830,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  21,
                           "bolivar":  8
@@ -494,27 +494,27 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  23,
                           "margarita":  8,
                           "capital":  19,
                           "barcelona":  25,
-                          "cagua":  961,
+                          "cagua":  911,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  3,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  19,
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  30,
-                          "cagua":  589,
+                          "cagua":  539,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 10:00:47",
+    "ultima_actualizacion":  "30/10/2026 10:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3032,7 +3032,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  65,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-141026",
@@ -3131,6 +3131,16 @@
                       "fecha_vencimiento":  "08-10-2028"
                   },
                   {
+                      "codigo":  "4MNA009",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "10-12-2025",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1228-101225",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "10-12-2028"
+                  },
+                  {
                       "codigo":  "4MNA010",
                       "cantidad":  31,
                       "fecha_fabricacion":  "23-02-2026",
@@ -3212,7 +3222,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  34,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-20022026",
@@ -3285,6 +3295,16 @@
                       "cantidad":  4,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "MARGARITA",
+                      "lote":  "1028-201026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "20-10-2026",
+                      "ubicacion":  "ZULIA",
                       "lote":  "1028-201026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
@@ -3422,7 +3442,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  24,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021225",
@@ -3561,6 +3581,16 @@
                       "fecha_vencimiento":  "14-08-2028"
                   },
                   {
+                      "codigo":  "4MNA025",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "23-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-231026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
                       "codigo":  "4MNA027",
                       "cantidad":  19,
                       "fecha_fabricacion":  "01-01-1900",
@@ -3609,6 +3639,16 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "29102026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -6541,5 +6581,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62675
+    "total_general_cajas":  62011
 };
