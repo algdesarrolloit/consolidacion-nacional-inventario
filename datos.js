@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2707
+                          "cajas":  2649
                       },
                       {
                           "almacen":  "ANDES",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  928
+                          "cajas":  874
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -200,7 +200,7 @@
                           "um":  "CJ",
                           "andes":  93,
                           "margarita":  33,
-                          "capital":  16,
+                          "capital":  13,
                           "barcelona":  34,
                           "cagua":  931,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  44,
-                          "capital":  36,
+                          "capital":  33,
                           "barcelona":  25,
                           "cagua":  1839,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -317,7 +317,7 @@
                           "um":  "CJ",
                           "andes":  54,
                           "margarita":  28,
-                          "capital":  41,
+                          "capital":  40,
                           "barcelona":  22,
                           "cagua":  364,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  166,
                           "margarita":  174,
-                          "capital":  306,
+                          "capital":  301,
                           "barcelona":  3,
                           "cagua":  1635,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -343,7 +343,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  6,
-                          "capital":  41,
+                          "capital":  40,
                           "barcelona":  2,
                           "cagua":  404,
                           "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
@@ -369,7 +369,7 @@
                           "um":  "CJ",
                           "andes":  86,
                           "margarita":  31,
-                          "capital":  107,
+                          "capital":  105,
                           "barcelona":  23,
                           "cagua":  934,
                           "descripcion":  "MAYONESA 24 X 175GR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  189,
                           "margarita":  178,
-                          "capital":  419,
+                          "capital":  409,
                           "barcelona":  184,
                           "cagua":  5051,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  23,
                           "margarita":  8,
-                          "capital":  25,
+                          "capital":  24,
                           "barcelona":  0,
                           "cagua":  805,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  19,
                           "margarita":  6,
-                          "capital":  14,
+                          "capital":  11,
                           "barcelona":  0,
                           "cagua":  477,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -525,7 +525,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  23,
-                          "capital":  39,
+                          "capital":  34,
                           "barcelona":  6,
                           "cagua":  1691,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  18,
-                          "capital":  34,
+                          "capital":  29,
                           "barcelona":  2,
                           "cagua":  830,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -629,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  11,
                           "margarita":  6,
-                          "capital":  38,
+                          "capital":  35,
                           "barcelona":  0,
                           "cagua":  185,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -656,7 +656,7 @@
                           "andes":  0,
                           "margarita":  295,
                           "capital":  0,
-                          "barcelona":  121,
+                          "barcelona":  67,
                           "cagua":  410,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
                           "barquisimeto":  0,
@@ -902,7 +902,7 @@
                           "um":  "CJ",
                           "andes":  79,
                           "margarita":  41,
-                          "capital":  72,
+                          "capital":  66,
                           "barcelona":  22,
                           "cagua":  2563,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -915,7 +915,7 @@
                           "um":  "CJ",
                           "andes":  110,
                           "margarita":  15,
-                          "capital":  64,
+                          "capital":  59,
                           "barcelona":  0,
                           "cagua":  1160,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -928,7 +928,7 @@
                           "um":  "CJ",
                           "andes":  15,
                           "margarita":  0,
-                          "capital":  24,
+                          "capital":  19,
                           "barcelona":  15,
                           "cagua":  77,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 15:10:46",
+    "ultima_actualizacion":  "30/10/2026 15:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1129,7 +1129,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  1507,
+                      "cantidad":  1444,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1229,7 +1229,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  16,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1459,7 +1459,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  36,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2059,7 +2059,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  414,
+                      "cantidad":  364,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-300926",
@@ -2219,7 +2219,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  163,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-26102026",
@@ -2359,7 +2359,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  409,
+                      "cantidad":  404,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-300726",
@@ -2599,7 +2599,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  1034,
+                      "cantidad":  934,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-191026",
@@ -2719,17 +2719,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  141,
-                      "fecha_fabricacion":  "06-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0427-061026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  965,
+                      "cantidad":  756,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-26102026",
@@ -2949,7 +2939,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  664,
+                      "cantidad":  614,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
@@ -3049,7 +3039,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  397,
+                      "cantidad":  347,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-08102026",
@@ -3059,7 +3049,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  48,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3149,16 +3139,6 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "21-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0828-21082026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-08-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
                       "cantidad":  2037,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
@@ -3239,7 +3219,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  76,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-201026",
@@ -3259,7 +3239,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  24,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-091026",
@@ -3349,7 +3329,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  933,
+                      "cantidad":  903,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-180626",
@@ -3519,7 +3499,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  855,
+                      "cantidad":  805,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
@@ -3529,7 +3509,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  27,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3569,7 +3549,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  521,
+                      "cantidad":  477,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
@@ -3579,27 +3559,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "29102026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  14,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "CAPITAL",
                       "lote":  "29102026",
@@ -3669,7 +3629,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  50,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-14102026",
@@ -3699,7 +3659,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  39,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-14102026",
@@ -3779,7 +3739,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  683,
+                      "cantidad":  653,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -3889,7 +3849,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  89,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-300926",
@@ -3949,16 +3909,6 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  13,
-                      "fecha_fabricacion":  "18-12-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1227-18122025",
-                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "18-12-2027"
-                  },
-                  {
-                      "codigo":  "4MSA008",
                       "cantidad":  4,
                       "fecha_fabricacion":  "17-12-2025",
                       "ubicacion":  "CAPITAL",
@@ -3989,17 +3939,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  30,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-240926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  950,
+                      "cantidad":  830,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-290926",
@@ -4009,7 +3949,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  54,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-180926",
@@ -4519,7 +4459,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  190,
+                      "cantidad":  185,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-280726",
@@ -4529,7 +4469,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  18,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "09-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-09072026",
@@ -4619,7 +4559,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  599,
+                      "cantidad":  594,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -4749,7 +4689,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  36,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1027-13102026",
@@ -4979,7 +4919,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  547,
+                      "cantidad":  542,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-12082026",
@@ -5129,7 +5069,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  220,
+                      "cantidad":  70,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-110926",
@@ -5259,7 +5199,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  216,
+                      "cantidad":  206,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5339,7 +5279,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  731,
+                      "cantidad":  726,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -5419,7 +5359,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  461,
+                      "cantidad":  451,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5539,7 +5479,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  86,
+                      "cantidad":  76,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -5809,7 +5749,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-130826",
@@ -5859,127 +5799,127 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  150,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO052",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO052",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  100,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
                       "cantidad":  149,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO052",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO052",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  98,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "MARGARITA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-221026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-211026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO056",
+                      "cantidad":  147,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-211026",
@@ -6049,7 +5989,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-070926",
@@ -6059,7 +5999,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  662,
+                      "cantidad":  633,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -6119,7 +6059,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  72,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-010926",
@@ -6309,7 +6249,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  89,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-160926",
@@ -6349,7 +6289,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  36,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "24-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-240826",
@@ -6479,7 +6419,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  82,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-141026",
@@ -6489,7 +6429,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  24,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
@@ -6538,5 +6478,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57447
+    "total_general_cajas":  57335
 };
