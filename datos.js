@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  50545,
-                                                              "bidones":  919
+                                                              "kg":  50325,
+                                                              "bidones":  915
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  107467.9,
+                          "kg":  107247.9,
                           "cajas":  44605
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1368
                       }
                   ],
-    "total_general_kg":  107467.9,
+    "total_general_kg":  107247.9,
     "productos":  [
                       {
                           "zulia":  33,
@@ -956,7 +956,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  50545,
+                          "cagua":  50325,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 16:00:46",
+    "ultima_actualizacion":  "30/10/2026 16:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1039,7 +1039,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  8305,
+                      "cantidad":  8085,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -1079,7 +1079,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0127-200126",
@@ -1189,7 +1189,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  35,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-31052026",
@@ -1269,7 +1269,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  31,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-210526",
@@ -1409,7 +1409,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  28,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-31052026",
@@ -1739,7 +1739,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  17,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "15-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-150926",
@@ -1999,7 +1999,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  28,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -2119,7 +2119,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  50,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-26102026",
@@ -2299,7 +2299,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-300726",
@@ -2539,7 +2539,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  51,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-091026",
@@ -2629,7 +2629,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  83,
+                      "cantidad":  60,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-051026",
@@ -2869,7 +2869,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  28,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-151026",
@@ -2969,7 +2969,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  13,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-08102026",
@@ -3059,7 +3059,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  46,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0228-23022026",
@@ -3149,7 +3149,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-201026",
@@ -3209,7 +3209,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  111,
+                      "cantidad":  109,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-071025",
@@ -3339,7 +3339,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-281125",
@@ -3429,7 +3429,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  21,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-231026",
@@ -3476,16 +3476,6 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "01-01-1900"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "27-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-271026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -3539,7 +3529,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  19,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-14102026",
@@ -3639,7 +3629,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  16,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-30092026",
@@ -3749,7 +3739,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  9,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -3849,7 +3839,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  17,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-240926",
@@ -4349,16 +4339,6 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "28-07-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0728-280726",
-                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-07-2028"
-                  },
-                  {
-                      "codigo":  "4MSU002",
                       "cantidad":  67,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -4449,7 +4429,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-18092026",
@@ -4569,7 +4549,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1027-13102026",
@@ -4739,7 +4719,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0727-131026",
@@ -4919,7 +4899,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  50,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-110926",
@@ -5059,16 +5039,6 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "23-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-230926",
-                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-09-2028"
-                  },
-                  {
-                      "codigo":  "4MTO015",
                       "cantidad":  27,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -5139,7 +5109,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -5219,7 +5189,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  9,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-25082026",
@@ -5329,7 +5299,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  3,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "28-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0528-28052026",
@@ -5429,7 +5399,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-21102026",
@@ -5499,7 +5469,7 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -5549,7 +5519,7 @@
                   },
                   {
                       "codigo":  "4MTO048",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-211026",
@@ -5599,7 +5569,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-130826",
@@ -5649,7 +5619,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  4,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -5709,7 +5679,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -5769,7 +5739,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  5,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-211026",
@@ -5829,7 +5799,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  29,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-070926",
@@ -6059,7 +6029,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  26,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-160926",
@@ -6259,7 +6229,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-131026",
