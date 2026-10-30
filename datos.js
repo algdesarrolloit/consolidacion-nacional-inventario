@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112033.9,
-                          "cajas":  47683
+                          "cajas":  47677
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2765
+                          "cajas":  2766
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -364,7 +364,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  99,
+                          "zulia":  100,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  586,
@@ -852,7 +852,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  41,
+                          "cagua":  40,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -865,7 +865,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  160,
+                          "cagua":  159,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  3,
                           "bolivar":  3
@@ -878,7 +878,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  110,
+                          "cagua":  108,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -891,7 +891,7 @@
                           "margarita":  1,
                           "capital":  0,
                           "barcelona":  5,
-                          "cagua":  159,
+                          "cagua":  157,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -988,7 +988,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 10:10:47",
+    "ultima_actualizacion":  "30/10/2026 10:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2669,6 +2669,16 @@
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "19-04-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0427-081026",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-04-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -6581,5 +6591,5 @@
                       "fecha_vencimiento":  "14-10-2026"
                   }
               ],
-    "total_general_cajas":  62011
+    "total_general_cajas":  62006
 };
