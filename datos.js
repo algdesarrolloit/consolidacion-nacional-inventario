@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1096
+                          "cajas":  1072
                       },
                       {
                           "almacen":  "ZULIA",
@@ -368,7 +368,7 @@
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  11,
-                          "margarita":  31,
+                          "margarita":  25,
                           "capital":  105,
                           "barcelona":  18,
                           "cagua":  567,
@@ -381,7 +381,7 @@
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  383,
-                          "margarita":  178,
+                          "margarita":  172,
                           "capital":  221,
                           "barcelona":  180,
                           "cagua":  5541,
@@ -654,7 +654,7 @@
                           "codigo":  "4MSU014",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  10,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  360,
@@ -823,7 +823,7 @@
                           "codigo":  "4MTO046",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  2,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 14:00:46",
+    "ultima_actualizacion":  "31/10/2026 14:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2319,7 +2319,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  180,
+                      "cantidad":  179,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-271026",
@@ -3279,7 +3279,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  28,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-021126",
@@ -3579,7 +3579,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  18,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-231026",
@@ -3669,7 +3669,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  9,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-271026",
@@ -4708,16 +4708,6 @@
                       "fecha_vencimiento":  "27-07-2027"
                   },
                   {
-                      "codigo":  "4MSU015",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "30-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1027-301026",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-10-2027"
-                  },
-                  {
                       "codigo":  "4MSU017",
                       "cantidad":  5,
                       "fecha_fabricacion":  "22-09-2026",
@@ -5509,7 +5499,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  25,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-170926",
@@ -6288,5 +6278,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  54071
+    "total_general_cajas":  54047
 };
