@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106842.9,
-                          "cajas":  44542
+                          "cajas":  44530
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2600
+                          "cajas":  2589
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -293,7 +293,7 @@
                           "margarita":  15,
                           "capital":  85,
                           "barcelona":  8,
-                          "cagua":  1112,
+                          "cagua":  1111,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  57,
                           "bolivar":  0
@@ -371,7 +371,7 @@
                           "margarita":  31,
                           "capital":  105,
                           "barcelona":  18,
-                          "cagua":  814,
+                          "cagua":  812,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  41,
                           "bolivar":  103
@@ -384,7 +384,7 @@
                           "margarita":  178,
                           "capital":  221,
                           "barcelona":  180,
-                          "cagua":  6117,
+                          "cagua":  6115,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  263,
                           "bolivar":  283
@@ -449,13 +449,13 @@
                           "margarita":  53,
                           "capital":  97,
                           "barcelona":  38,
-                          "cagua":  1811,
+                          "cagua":  1810,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  110,
                           "bolivar":  23
                       },
                       {
-                          "zulia":  22,
+                          "zulia":  19,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  13,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  9,
+                          "zulia":  7,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
@@ -527,7 +527,7 @@
                           "margarita":  20,
                           "capital":  55,
                           "barcelona":  4,
-                          "cagua":  1529,
+                          "cagua":  1528,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  28,
                           "bolivar":  30
@@ -579,7 +579,7 @@
                           "margarita":  10,
                           "capital":  19,
                           "barcelona":  9,
-                          "cagua":  416,
+                          "cagua":  414,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  29,
                           "bolivar":  0
@@ -663,7 +663,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  2,
+                          "zulia":  0,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  0,
@@ -709,7 +709,7 @@
                           "margarita":  34,
                           "capital":  62,
                           "barcelona":  50,
-                          "cagua":  1420,
+                          "cagua":  1419,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  19,
                           "bolivar":  0
@@ -793,14 +793,14 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  12,
+                          "zulia":  10,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
                           "margarita":  9,
                           "capital":  138,
                           "barcelona":  16,
-                          "cagua":  1834,
+                          "cagua":  1833,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  29,
                           "bolivar":  42
@@ -917,7 +917,7 @@
                           "margarita":  12,
                           "capital":  52,
                           "barcelona":  57,
-                          "cagua":  1035,
+                          "cagua":  1034,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  72,
                           "bolivar":  72
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 12:40:46",
+    "ultima_actualizacion":  "31/10/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6548,5 +6548,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57129
+    "total_general_cajas":  57106
 };
