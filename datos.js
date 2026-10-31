@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  807
+                          "cajas":  833
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -318,7 +318,7 @@
                           "andes":  54,
                           "margarita":  28,
                           "capital":  40,
-                          "barcelona":  22,
+                          "barcelona":  23,
                           "cagua":  364,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  34,
@@ -331,7 +331,7 @@
                           "andes":  166,
                           "margarita":  174,
                           "capital":  291,
-                          "barcelona":  3,
+                          "barcelona":  8,
                           "cagua":  1635,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  173,
@@ -370,7 +370,7 @@
                           "andes":  86,
                           "margarita":  31,
                           "capital":  105,
-                          "barcelona":  23,
+                          "barcelona":  25,
                           "cagua":  934,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  43,
@@ -383,7 +383,7 @@
                           "andes":  189,
                           "margarita":  178,
                           "capital":  399,
-                          "barcelona":  184,
+                          "barcelona":  189,
                           "cagua":  5051,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  284,
@@ -435,7 +435,7 @@
                           "andes":  40,
                           "margarita":  10,
                           "capital":  45,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  347,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  14,
@@ -461,7 +461,7 @@
                           "andes":  14,
                           "margarita":  4,
                           "capital":  21,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  1079,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
@@ -500,7 +500,7 @@
                           "andes":  23,
                           "margarita":  8,
                           "capital":  24,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  805,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
@@ -526,7 +526,7 @@
                           "andes":  59,
                           "margarita":  23,
                           "capital":  21,
-                          "barcelona":  6,
+                          "barcelona":  8,
                           "cagua":  1691,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  10,
@@ -734,7 +734,7 @@
                           "andes":  216,
                           "margarita":  18,
                           "capital":  143,
-                          "barcelona":  0,
+                          "barcelona":  6,
                           "cagua":  2367,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  98,
@@ -916,7 +916,7 @@
                           "andes":  110,
                           "margarita":  15,
                           "capital":  57,
-                          "barcelona":  0,
+                          "barcelona":  2,
                           "cagua":  1160,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  80,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 07:40:46",
+    "ultima_actualizacion":  "31/10/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6238,5 +6238,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57105
+    "total_general_cajas":  57131
 };
