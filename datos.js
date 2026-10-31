@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1464
+                          "cajas":  1454
                       },
                       {
                           "almacen":  "CAGUA",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2619
+                          "cajas":  2612
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -455,7 +455,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  25,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  18,
+                          "zulia":  17,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -516,7 +516,7 @@
                           "barcelona":  10,
                           "cagua":  253,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  21,
+                          "barquisimeto":  11,
                           "bolivar":  0
                       },
                       {
@@ -663,7 +663,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  4,
+                          "zulia":  3,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  0,
@@ -793,7 +793,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  19,
+                          "zulia":  17,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 12:20:46",
+    "ultima_actualizacion":  "31/10/2026 12:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6548,5 +6548,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57146
+    "total_general_cajas":  57129
 };
