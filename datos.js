@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1710
+                          "cajas":  1704
                       },
                       {
                           "almacen":  "ZULIA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  833
+                          "cajas":  832
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -290,7 +290,7 @@
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  8,
-                          "margarita":  23,
+                          "margarita":  17,
                           "capital":  85,
                           "barcelona":  9,
                           "cagua":  1184,
@@ -318,7 +318,7 @@
                           "andes":  54,
                           "margarita":  28,
                           "capital":  40,
-                          "barcelona":  23,
+                          "barcelona":  22,
                           "cagua":  364,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  34,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 20:00:46",
+    "ultima_actualizacion":  "30/10/2026 20:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6238,5 +6238,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57395
+    "total_general_cajas":  57388
 };
