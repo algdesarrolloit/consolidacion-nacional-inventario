@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1398
+                          "cajas":  1096
                       },
                       {
                           "almacen":  "ZULIA",
@@ -433,7 +433,7 @@
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  30,
-                          "margarita":  10,
+                          "margarita":  8,
                           "capital":  45,
                           "barcelona":  5,
                           "cagua":  155,
@@ -459,7 +459,7 @@
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
-                          "margarita":  4,
+                          "margarita":  0,
                           "capital":  31,
                           "barcelona":  32,
                           "cagua":  600,
@@ -524,7 +524,7 @@
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  48,
-                          "margarita":  20,
+                          "margarita":  15,
                           "capital":  55,
                           "barcelona":  4,
                           "cagua":  1489,
@@ -654,7 +654,7 @@
                           "codigo":  "4MSU014",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  295,
+                          "margarita":  10,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  360,
@@ -823,7 +823,7 @@
                           "codigo":  "4MTO046",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  3,
+                          "margarita":  2,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
@@ -836,7 +836,7 @@
                           "codigo":  "4MTO048",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  1,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
@@ -849,7 +849,7 @@
                           "codigo":  "4MTO050",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  1,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  14,
@@ -862,7 +862,7 @@
                           "codigo":  "4MTO052",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  1,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  118,
@@ -875,7 +875,7 @@
                           "codigo":  "4MTO054",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  1,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  83,
@@ -888,7 +888,7 @@
                           "codigo":  "4MTO056",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  1,
+                          "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
                           "cagua":  113,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 13:50:46",
+    "ultima_actualizacion":  "31/10/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6288,5 +6288,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  54373
+    "total_general_cajas":  54071
 };
