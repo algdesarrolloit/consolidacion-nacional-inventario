@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106842.9,
-                          "cajas":  44523
+                          "cajas":  44519
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -332,7 +332,7 @@
                           "margarita":  174,
                           "capital":  291,
                           "barcelona":  3,
-                          "cagua":  1635,
+                          "cagua":  1634,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  173,
                           "bolivar":  237
@@ -384,7 +384,7 @@
                           "margarita":  178,
                           "capital":  399,
                           "barcelona":  184,
-                          "cagua":  5049,
+                          "cagua":  5046,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  284,
                           "bolivar":  283
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 08:10:47",
+    "ultima_actualizacion":  "31/10/2026 09:01:10",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6238,5 +6238,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57024
+    "total_general_cajas":  57020
 };
