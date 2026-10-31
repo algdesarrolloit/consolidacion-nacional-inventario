@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1469
+                          "cajas":  1446
                       },
                       {
                           "almacen":  "ZULIA",
@@ -927,7 +927,7 @@
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  15,
-                          "margarita":  23,
+                          "margarita":  0,
                           "capital":  19,
                           "barcelona":  15,
                           "cagua":  77,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "30/10/2026 20:20:46",
+    "ultima_actualizacion":  "30/10/2026 20:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6238,5 +6238,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57128
+    "total_general_cajas":  57105
 };
