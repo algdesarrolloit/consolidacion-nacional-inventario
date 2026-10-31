@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2346
+                          "cajas":  2336
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,21 +162,21 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2753
+                          "cajas":  2687
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1242
+                          "cajas":  1118
                       },
                       {
                           "almacen":  "BOLIVAR",
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2040
+                          "cajas":  1976
                       }
                   ],
     "total_general_kg":  106842.9,
@@ -396,7 +396,7 @@
                           "andes":  8,
                           "margarita":  8,
                           "capital":  10,
-                          "barcelona":  5,
+                          "barcelona":  4,
                           "cagua":  56,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  12,
@@ -435,11 +435,11 @@
                           "andes":  30,
                           "margarita":  10,
                           "capital":  45,
-                          "barcelona":  20,
+                          "barcelona":  6,
                           "cagua":  193,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
-                          "bolivar":  80
+                          "bolivar":  75
                       },
                       {
                           "zulia":  125,
@@ -455,17 +455,17 @@
                           "bolivar":  73
                       },
                       {
-                          "zulia":  86,
+                          "zulia":  46,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
                           "margarita":  4,
                           "capital":  60,
-                          "barcelona":  56,
+                          "barcelona":  32,
                           "cagua":  664,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  60,
-                          "bolivar":  81
+                          "bolivar":  80
                       },
                       {
                           "zulia":  22,
@@ -494,30 +494,30 @@
                           "bolivar":  61
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  21,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  8,
-                          "capital":  58,
-                          "barcelona":  20,
+                          "capital":  56,
+                          "barcelona":  11,
                           "cagua":  568,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  70,
-                          "bolivar":  41
+                          "bolivar":  32
                       },
                       {
-                          "zulia":  13,
+                          "zulia":  9,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  6,
                           "capital":  10,
-                          "barcelona":  14,
+                          "barcelona":  13,
                           "cagua":  253,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  70,
-                          "bolivar":  69
+                          "bolivar":  66
                       },
                       {
                           "zulia":  38,
@@ -546,7 +546,7 @@
                           "bolivar":  44
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  3,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -582,7 +582,7 @@
                           "cagua":  414,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  60,
-                          "bolivar":  87
+                          "bolivar":  41
                       },
                       {
                           "zulia":  28,
@@ -656,14 +656,14 @@
                           "andes":  0,
                           "margarita":  295,
                           "capital":  0,
-                          "barcelona":  40,
+                          "barcelona":  0,
                           "cagua":  360,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
                           "barquisimeto":  0,
                           "bolivar":  10
                       },
                       {
-                          "zulia":  29,
+                          "zulia":  20,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  0,
@@ -734,7 +734,7 @@
                           "andes":  202,
                           "margarita":  18,
                           "capital":  143,
-                          "barcelona":  68,
+                          "barcelona":  42,
                           "cagua":  2265,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  86,
@@ -793,7 +793,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  52,
+                          "zulia":  47,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
@@ -850,7 +850,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  1,
-                          "capital":  2,
+                          "capital":  0,
                           "barcelona":  1,
                           "cagua":  20,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
@@ -863,8 +863,8 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  1,
-                          "capital":  2,
-                          "barcelona":  5,
+                          "capital":  0,
+                          "barcelona":  1,
                           "cagua":  134,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  8,
@@ -876,7 +876,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  1,
-                          "capital":  2,
+                          "capital":  0,
                           "barcelona":  1,
                           "cagua":  89,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
@@ -884,13 +884,13 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4MTO056",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  1,
-                          "capital":  2,
-                          "barcelona":  4,
+                          "capital":  0,
+                          "barcelona":  1,
                           "cagua":  129,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  7,
@@ -916,7 +916,7 @@
                           "andes":  108,
                           "margarita":  15,
                           "capital":  52,
-                          "barcelona":  60,
+                          "barcelona":  58,
                           "cagua":  1034,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  72,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "31/10/2026 11:40:47",
+    "ultima_actualizacion":  "31/10/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3659,7 +3659,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  59,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -5949,16 +5949,6 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "13-08-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0828-130826",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-08-2028"
-                  },
-                  {
-                      "codigo":  "4MTO050",
                       "cantidad":  1,
                       "fecha_fabricacion":  "13-08-2026",
                       "ubicacion":  "MARGARITA",
@@ -6002,16 +5992,6 @@
                       "cantidad":  134,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO052",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                       "um":  "CJ",
@@ -6079,16 +6059,6 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
                       "cantidad":  1,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "MARGARITA",
@@ -6142,16 +6112,6 @@
                       "cantidad":  129,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "1028-211026",
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                       "um":  "CJ",
@@ -6678,5 +6638,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  58719
+    "total_general_cajas":  58455
 };
