@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "02/11/2026 11:10:46",
+    "ultima_actualizacion":  "02/11/2026 11:21:03",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2989,7 +2989,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  80,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-08102026",
@@ -3489,7 +3489,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  41,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-231026",
@@ -3569,7 +3569,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  69,
+                      "cantidad":  66,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-271026",
@@ -3899,7 +3899,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  87,
+                      "cantidad":  86,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-290926",
