@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  40071
+                          "cajas":  40631
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -462,7 +462,7 @@
                           "margarita":  0,
                           "capital":  31,
                           "barcelona":  32,
-                          "cagua":  600,
+                          "cagua":  1117,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  33,
                           "bolivar":  0
@@ -696,7 +696,7 @@
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  2,
-                          "cagua":  81,
+                          "cagua":  124,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  0,
                           "bolivar":  2
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 17:40:46",
+    "ultima_actualizacion":  "04/11/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3129,6 +3129,16 @@
                   },
                   {
                       "codigo":  "4MNA011",
+                      "cantidad":  517,
+                      "fecha_fabricacion":  "03-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-03112026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "03-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
                       "cantidad":  600,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAGUA",
@@ -4549,7 +4559,7 @@
                   },
                   {
                       "codigo":  "4MSU018",
-                      "cantidad":  81,
+                      "cantidad":  124,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0827-021126",
@@ -5858,5 +5868,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52256
+    "total_general_cajas":  52816
 };
