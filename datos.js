@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106842.9,
-                          "cajas":  41849
+                          "cajas":  41753
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  33,
                           "barcelona":  25,
-                          "cagua":  1742,
+                          "cagua":  1712,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  13,
                           "bolivar":  0
@@ -436,7 +436,7 @@
                           "margarita":  8,
                           "capital":  45,
                           "barcelona":  5,
-                          "cagua":  155,
+                          "cagua":  133,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -488,7 +488,7 @@
                           "margarita":  22,
                           "capital":  27,
                           "barcelona":  3,
-                          "cagua":  241,
+                          "cagua":  219,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  8,
                           "capital":  30,
                           "barcelona":  10,
-                          "cagua":  521,
+                          "cagua":  499,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  12,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 08:30:46",
+    "ultima_actualizacion":  "04/11/2026 08:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5848,5 +5848,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  54047
+    "total_general_cajas":  53951
 };
