@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 08:40:46",
+    "ultima_actualizacion":  "04/11/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1439,7 +1439,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1742,
+                      "cantidad":  1712,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -2929,7 +2929,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  155,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-08102026",
@@ -3289,23 +3289,13 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  235,
+                      "cantidad":  219,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-281026",
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "28-11-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-281125",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-11-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -3369,7 +3359,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  521,
+                      "cantidad":  499,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
