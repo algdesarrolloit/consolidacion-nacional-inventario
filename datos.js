@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106622.9,
-                          "cajas":  40349
+                          "cajas":  40430
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -696,7 +696,7 @@
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  2,
-                          "cagua":  0,
+                          "cagua":  81,
                           "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
                           "barquisimeto":  0,
                           "bolivar":  2
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 14:40:46",
+    "ultima_actualizacion":  "04/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1039,7 +1039,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  8085,
+                      "cantidad":  7865,
                       "fecha_fabricacion":  "16-01-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 1127-160126-10",
@@ -4539,6 +4539,16 @@
                   },
                   {
                       "codigo":  "4MSU018",
+                      "cantidad":  81,
+                      "fecha_fabricacion":  "02-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0827-021126",
+                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "02-08-2027"
+                  },
+                  {
+                      "codigo":  "4MSU018",
                       "cantidad":  10,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -5838,5 +5848,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52534
+    "total_general_cajas":  52615
 };
