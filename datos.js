@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106842.9,
-                          "cajas":  41731
+                          "cajas":  41691
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -904,7 +904,7 @@
                           "margarita":  41,
                           "capital":  24,
                           "barcelona":  22,
-                          "cagua":  2411,
+                          "cagua":  2371,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  65,
                           "bolivar":  66
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 11:00:47",
+    "ultima_actualizacion":  "04/11/2026 11:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5449,7 +5449,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  481,
+                      "cantidad":  441,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -5838,5 +5838,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  53929
+    "total_general_cajas":  53889
 };
