@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2171
+                          "cajas":  2169
                       },
                       {
                           "almacen":  "ANDES",
@@ -707,7 +707,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  62,
+                          "capital":  61,
                           "barcelona":  50,
                           "cagua":  1399,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  18,
                           "margarita":  19,
-                          "capital":  23,
+                          "capital":  22,
                           "barcelona":  2,
                           "cagua":  712,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 12:40:46",
+    "ultima_actualizacion":  "04/11/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5838,5 +5838,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  53889
+    "total_general_cajas":  53887
 };
