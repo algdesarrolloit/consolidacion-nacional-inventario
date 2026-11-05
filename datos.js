@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1063
+                          "cajas":  1037
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -591,7 +591,7 @@
                           "andes":  4,
                           "margarita":  0,
                           "capital":  19,
-                          "barcelona":  4,
+                          "barcelona":  0,
                           "cagua":  590,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
                           "barquisimeto":  0,
@@ -617,7 +617,7 @@
                           "andes":  17,
                           "margarita":  0,
                           "capital":  82,
-                          "barcelona":  12,
+                          "barcelona":  0,
                           "cagua":  460,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  0,
@@ -929,7 +929,7 @@
                           "andes":  11,
                           "margarita":  0,
                           "capital":  19,
-                          "barcelona":  10,
+                          "barcelona":  0,
                           "cagua":  44,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  7,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 09:20:46",
+    "ultima_actualizacion":  "05/11/2026 09:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5848,5 +5848,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52757
+    "total_general_cajas":  52731
 };
