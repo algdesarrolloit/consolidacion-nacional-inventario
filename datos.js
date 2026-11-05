@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2472
+                          "cajas":  2469
                       },
                       {
                           "almacen":  "ANDES",
@@ -265,7 +265,7 @@
                           "um":  "CJ",
                           "andes":  2,
                           "margarita":  0,
-                          "capital":  3,
+                          "capital":  0,
                           "barcelona":  1,
                           "cagua":  15,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 10:50:46",
+    "ultima_actualizacion":  "05/11/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5918,5 +5918,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52606
+    "total_general_cajas":  52603
 };
