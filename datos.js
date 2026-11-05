@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 08:50:46",
+    "ultima_actualizacion":  "05/11/2026 09:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3059,7 +3059,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  97,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3379,7 +3379,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  30,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3446,16 +3446,6 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "29102026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MNA027",
