@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2128
+                          "cajas":  2100
                       },
                       {
                           "almacen":  "ANDES",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  119,
                           "margarita":  53,
-                          "capital":  97,
+                          "capital":  88,
                           "barcelona":  38,
                           "cagua":  1292,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  8,
-                          "capital":  30,
+                          "capital":  21,
                           "barcelona":  10,
                           "cagua":  498,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  6,
-                          "capital":  10,
+                          "capital":  0,
                           "barcelona":  10,
                           "cagua":  11,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 08:30:46",
+    "ultima_actualizacion":  "05/11/2026 08:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5858,5 +5858,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52785
+    "total_general_cajas":  52757
 };
