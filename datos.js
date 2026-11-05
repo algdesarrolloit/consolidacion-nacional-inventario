@@ -331,7 +331,7 @@
                           "andes":  256,
                           "margarita":  174,
                           "capital":  149,
-                          "barcelona":  117,
+                          "barcelona":  119,
                           "cagua":  2326,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  149,
@@ -383,7 +383,7 @@
                           "andes":  383,
                           "margarita":  172,
                           "capital":  220,
-                          "barcelona":  180,
+                          "barcelona":  179,
                           "cagua":  5837,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  263,
@@ -734,7 +734,7 @@
                           "andes":  202,
                           "margarita":  0,
                           "capital":  143,
-                          "barcelona":  34,
+                          "barcelona":  33,
                           "cagua":  2170,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  86,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 10:30:46",
+    "ultima_actualizacion":  "05/11/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2609,7 +2609,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  45,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-051026",
@@ -4749,7 +4749,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  34,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-170926",
@@ -5029,7 +5029,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  6,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-25082026",
