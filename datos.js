@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 15:00:46",
+    "ultima_actualizacion":  "05/11/2026 15:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1129,7 +1129,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  919,
+                      "cantidad":  899,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1219,7 +1219,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  592,
+                      "cantidad":  572,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1329,7 +1329,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  301,
+                      "cantidad":  269,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1449,7 +1449,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1518,
+                      "cantidad":  1508,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -3169,7 +3169,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  364,
+                      "cantidad":  247,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-021126",
@@ -3259,7 +3259,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  803,
+                      "cantidad":  763,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-180626",
@@ -3409,7 +3409,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  498,
+                      "cantidad":  458,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
@@ -3549,7 +3549,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  637,
+                      "cantidad":  607,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-19102026",
@@ -3839,7 +3839,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  175,
+                      "cantidad":  155,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-17092026",
@@ -3969,7 +3969,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  51,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-100926",
@@ -4109,7 +4109,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  21,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0927-110926",
@@ -4219,7 +4219,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  151,
+                      "cantidad":  131,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-280726",
@@ -4399,7 +4399,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  353,
+                      "cantidad":  303,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1027-301026",
@@ -4959,7 +4959,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  712,
+                      "cantidad":  682,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -5039,7 +5039,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  421,
+                      "cantidad":  401,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -5359,7 +5359,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  108,
+                      "cantidad":  98,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
@@ -5399,7 +5399,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  73,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-221026",
@@ -5439,7 +5439,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  103,
+                      "cantidad":  93,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-211026",
