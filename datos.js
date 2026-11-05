@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2425
+                          "cajas":  2396
                       },
                       {
                           "almacen":  "ANDES",
@@ -408,7 +408,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  11,
-                          "capital":  29,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 15:50:46",
+    "ultima_actualizacion":  "05/11/2026 16:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2786,26 +2786,6 @@
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "29-01-2027"
-                  },
-                  {
-                      "codigo":  "4MMA014",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1126-10072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
-                      "cantidad":  14,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1126-100726",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
                   },
                   {
                       "codigo":  "4MMA014",
@@ -5968,5 +5948,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52559
+    "total_general_cajas":  52530
 };
