@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3056
+                          "cajas":  3057
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -546,7 +546,7 @@
                           "bolivar":  44
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 16:30:46",
+    "ultima_actualizacion":  "05/11/2026 16:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3728,6 +3728,16 @@
                       "fecha_vencimiento":  "30-09-2028"
                   },
                   {
+                      "codigo":  "4MSA007",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "01-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-011026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-10-2028"
+                  },
+                  {
                       "codigo":  "4MSA008",
                       "cantidad":  3,
                       "fecha_fabricacion":  "18-12-2025",
@@ -5948,5 +5958,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52530
+    "total_general_cajas":  52531
 };
