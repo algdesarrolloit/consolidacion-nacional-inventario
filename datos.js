@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  40631
+                          "cajas":  40521
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1037
+                          "cajas":  1044
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -189,7 +189,7 @@
                           "margarita":  69,
                           "capital":  16,
                           "barcelona":  37,
-                          "cagua":  949,
+                          "cagua":  919,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  18,
                           "bolivar":  114
@@ -202,7 +202,7 @@
                           "margarita":  33,
                           "capital":  13,
                           "barcelona":  34,
-                          "cagua":  622,
+                          "cagua":  592,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  25,
                           "bolivar":  40
@@ -214,7 +214,7 @@
                           "andes":  250,
                           "margarita":  78,
                           "capital":  43,
-                          "barcelona":  28,
+                          "barcelona":  31,
                           "cagua":  2332,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  33,
@@ -331,7 +331,7 @@
                           "andes":  256,
                           "margarita":  174,
                           "capital":  149,
-                          "barcelona":  118,
+                          "barcelona":  119,
                           "cagua":  2326,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  149,
@@ -435,7 +435,7 @@
                           "andes":  30,
                           "margarita":  8,
                           "capital":  45,
-                          "barcelona":  5,
+                          "barcelona":  6,
                           "cagua":  132,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  0,
@@ -487,7 +487,7 @@
                           "andes":  0,
                           "margarita":  22,
                           "capital":  27,
-                          "barcelona":  3,
+                          "barcelona":  4,
                           "cagua":  218,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
@@ -670,7 +670,7 @@
                           "margarita":  12,
                           "capital":  2,
                           "barcelona":  11,
-                          "cagua":  383,
+                          "cagua":  353,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  10,
                           "bolivar":  1
@@ -773,7 +773,7 @@
                           "andes":  18,
                           "margarita":  19,
                           "capital":  22,
-                          "barcelona":  2,
+                          "barcelona":  3,
                           "cagua":  712,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  34,
@@ -865,7 +865,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  118,
+                          "cagua":  108,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -878,7 +878,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  83,
+                          "cagua":  73,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  0,
                           "bolivar":  1
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 10:00:46",
+    "ultima_actualizacion":  "05/11/2026 10:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1262,6 +1262,16 @@
                       "cantidad":  250,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ANDES",
+                      "lote":  "0527-200526",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "20-05-2026",
+                      "ubicacion":  "BARCELONA",
                       "lote":  "0527-200526",
                       "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                       "um":  "CJ",
@@ -2129,6 +2139,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "07-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-071026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-10-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  118,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARCELONA",
@@ -2929,6 +2949,16 @@
                   },
                   {
                       "codigo":  "4MNA009",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "05-08-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0828-05082026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-08-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
                       "cantidad":  5,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARCELONA",
@@ -3289,7 +3319,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  3,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "28-11-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-281125",
@@ -3789,16 +3819,6 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "21-07-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0727-210726",
-                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA013",
                       "cantidad":  14,
                       "fecha_fabricacion":  "21-07-2026",
                       "ubicacion":  "BOLIVAR",
@@ -4012,26 +4032,6 @@
                       "cantidad":  17,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0927-090926",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "08-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0927-08092026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-09-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "10-09-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0927-090926",
                       "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                       "um":  "CJ",
@@ -4899,7 +4899,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  2,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -5779,16 +5779,6 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "13-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-131026",
-                      "descripcion":  "VINAGRE 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-10-2028"
-                  },
-                  {
-                      "codigo":  "4MVI006",
                       "cantidad":  7,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -5848,5 +5838,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52731
+    "total_general_cajas":  52628
 };
