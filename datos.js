@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 12:40:46",
+    "ultima_actualizacion":  "05/11/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1672,16 +1672,6 @@
                       "cantidad":  15,
                       "fecha_fabricacion":  "05-06-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0627-050627",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "05-06-2027"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "05-06-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0627-050627",
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
