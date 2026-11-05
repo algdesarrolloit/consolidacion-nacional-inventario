@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  40130
+                          "cajas":  40058
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2469
+                          "cajas":  2425
                       },
                       {
                           "almacen":  "ANDES",
@@ -189,7 +189,7 @@
                           "margarita":  69,
                           "capital":  46,
                           "barcelona":  37,
-                          "cagua":  919,
+                          "cagua":  899,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  18,
                           "bolivar":  114
@@ -202,7 +202,7 @@
                           "margarita":  33,
                           "capital":  43,
                           "barcelona":  34,
-                          "cagua":  592,
+                          "cagua":  572,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  25,
                           "bolivar":  40
@@ -215,7 +215,7 @@
                           "margarita":  78,
                           "capital":  43,
                           "barcelona":  31,
-                          "cagua":  2332,
+                          "cagua":  2300,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  33,
                           "bolivar":  17
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  5,
                           "margarita":  0,
-                          "capital":  117,
+                          "capital":  94,
                           "barcelona":  32,
                           "cagua":  881,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  17,
                           "margarita":  8,
-                          "capital":  21,
+                          "capital":  0,
                           "barcelona":  10,
                           "cagua":  498,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 14:40:46",
+    "ultima_actualizacion":  "05/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5908,5 +5908,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52603
+    "total_general_cajas":  52487
 };
