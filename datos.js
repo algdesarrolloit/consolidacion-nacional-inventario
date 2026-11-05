@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2159
+                          "cajas":  2162
                       },
                       {
                           "almacen":  "ANDES",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  383,
                           "margarita":  172,
-                          "capital":  220,
+                          "capital":  221,
                           "barcelona":  180,
                           "cagua":  5837,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -707,7 +707,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  61,
+                          "capital":  62,
                           "barcelona":  50,
                           "cagua":  1399,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  18,
                           "margarita":  19,
-                          "capital":  22,
+                          "capital":  23,
                           "barcelona":  2,
                           "cagua":  712,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "04/11/2026 22:40:46",
+    "ultima_actualizacion":  "04/11/2026 22:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5868,5 +5868,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52816
+    "total_general_cajas":  52819
 };
