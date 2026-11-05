@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2159
+                          "cajas":  2128
                       },
                       {
                           "almacen":  "ANDES",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  5,
                           "margarita":  0,
-                          "capital":  31,
+                          "capital":  0,
                           "barcelona":  32,
                           "cagua":  1117,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 08:00:46",
+    "ultima_actualizacion":  "05/11/2026 08:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5868,5 +5868,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52816
+    "total_general_cajas":  52785
 };
