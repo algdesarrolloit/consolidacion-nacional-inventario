@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  39611
+                          "cajas":  39631
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3085
+                          "cajas":  3065
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -507,14 +507,14 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  0,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
                           "margarita":  6,
                           "capital":  0,
                           "barcelona":  10,
-                          "cagua":  11,
+                          "cagua":  31,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  11,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "05/11/2026 16:50:46",
+    "ultima_actualizacion":  "05/11/2026 17:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3479,7 +3479,17 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  11,
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  29,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
@@ -3496,26 +3506,6 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  18,
-                      "fecha_fabricacion":  "27-10-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1028-271026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MSA005",
