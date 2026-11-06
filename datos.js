@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1360
+                          "cajas":  1328
                       },
                       {
                           "almacen":  "CAGUA",
@@ -295,7 +295,7 @@
                           "barcelona":  5,
                           "cagua":  1095,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                          "barquisimeto":  57,
+                          "barquisimeto":  52,
                           "bolivar":  0
                       },
                       {
@@ -334,7 +334,7 @@
                           "barcelona":  114,
                           "cagua":  2244,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  128,
+                          "barquisimeto":  108,
                           "bolivar":  237
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  3,
                           "cagua":  1444,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  28,
+                          "barquisimeto":  23,
                           "bolivar":  30
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  7,
                           "cagua":  1218,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  2,
+                          "barquisimeto":  0,
                           "bolivar":  44
                       },
                       {
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 15:30:46",
+    "ultima_actualizacion":  "06/11/2026 15:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1739,7 +1739,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  57,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-140926",
@@ -2119,7 +2119,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  128,
+                      "cantidad":  108,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-231026",
@@ -2809,7 +2809,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  446,
+                      "cantidad":  391,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
@@ -3009,7 +3009,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1101,
+                      "cantidad":  1046,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-161026",
@@ -3449,7 +3449,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  226,
+                      "cantidad":  171,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-06112026 NV",
@@ -3509,7 +3509,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  28,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-19102026",
@@ -3602,16 +3602,6 @@
                       "cantidad":  7,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
-                      "lote":  "0928-30092026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-09-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "30-09-2026",
-                      "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-30092026",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
@@ -6118,5 +6108,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56749
+    "total_general_cajas":  56717
 };
