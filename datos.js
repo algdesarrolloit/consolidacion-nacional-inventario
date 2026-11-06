@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  39631
+                          "cajas":  42765
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -553,7 +553,7 @@
                           "margarita":  14,
                           "capital":  0,
                           "barcelona":  3,
-                          "cagua":  0,
+                          "cagua":  828,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  5
@@ -631,7 +631,7 @@
                           "margarita":  4,
                           "capital":  35,
                           "barcelona":  6,
-                          "cagua":  131,
+                          "cagua":  2437,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  67,
                           "bolivar":  1
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 07:40:46",
+    "ultima_actualizacion":  "06/11/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3729,6 +3729,26 @@
                   },
                   {
                       "codigo":  "4MSA007",
+                      "cantidad":  547,
+                      "fecha_fabricacion":  "26-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-291026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  281,
+                      "fecha_fabricacion":  "02-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-02112026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "02-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
                       "cantidad":  14,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "MARGARITA",
@@ -4286,6 +4306,26 @@
                       "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "28-07-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
+                      "cantidad":  1728,
+                      "fecha_fabricacion":  "03-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-03112026",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "03-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSU002",
+                      "cantidad":  578,
+                      "fecha_fabricacion":  "04-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-04112026",
+                      "descripcion":  "SALSA BARBECUE 24 X 198 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "04-11-2028"
                   },
                   {
                       "codigo":  "4MSU002",
@@ -5988,5 +6028,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  52559
+    "total_general_cajas":  55693
 };
