@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1355
+                          "cajas":  1309
                       }
                   ],
     "total_general_kg":  103922.9,
@@ -192,7 +192,7 @@
                           "cagua":  899,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  17,
-                          "bolivar":  114
+                          "bolivar":  95
                       },
                       {
                           "zulia":  44,
@@ -205,7 +205,7 @@
                           "cagua":  572,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  25,
-                          "bolivar":  40
+                          "bolivar":  30
                       },
                       {
                           "zulia":  19,
@@ -218,7 +218,7 @@
                           "cagua":  2300,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  31,
-                          "bolivar":  17
+                          "bolivar":  0
                       },
                       {
                           "zulia":  47,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 12:10:46",
+    "ultima_actualizacion":  "06/11/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1099,7 +1099,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  18,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0627-150626",
@@ -1139,7 +1139,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  39,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1289,7 +1289,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-210526",
@@ -1379,7 +1379,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  27,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1439,7 +1439,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -2499,7 +2499,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  41,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-091026",
@@ -2609,7 +2609,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  262,
+                      "cantidad":  252,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -3029,7 +3029,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  110,
+                      "cantidad":  106,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-23022026",
@@ -3129,7 +3129,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  33,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1128-021126",
@@ -3229,7 +3229,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  12,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-180626",
@@ -3419,7 +3419,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  12,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-231026",
@@ -3479,7 +3479,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-271026",
@@ -6158,5 +6158,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57446
+    "total_general_cajas":  57400
 };
