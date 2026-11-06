@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2759
+                          "cajas":  2676
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  103922.9,
     "productos":  [
                       {
-                          "zulia":  44,
+                          "zulia":  38,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  178,
@@ -195,7 +195,7 @@
                           "bolivar":  114
                       },
                       {
-                          "zulia":  47,
+                          "zulia":  44,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  93,
@@ -208,7 +208,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  36,
+                          "zulia":  30,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  250,
@@ -221,7 +221,7 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  48,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  133,
@@ -442,7 +442,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  116,
+                          "zulia":  104,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  119,
@@ -455,7 +455,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  127,
+                          "zulia":  115,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
@@ -468,7 +468,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  57,
+                          "zulia":  51,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  106,
@@ -481,7 +481,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  33,
+                          "zulia":  27,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  30,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  45,
+                          "zulia":  33,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  13,
+                          "zulia":  1,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
@@ -520,7 +520,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  59,
+                          "zulia":  56,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  48,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 10:50:46",
+    "ultima_actualizacion":  "06/11/2026 11:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6168,5 +6168,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56124
+    "total_general_cajas":  56041
 };
