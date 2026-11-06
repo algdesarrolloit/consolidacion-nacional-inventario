@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  45336
+                          "cajas":  45658
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -566,7 +566,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  322,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  3
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 12:20:46",
+    "ultima_actualizacion":  "06/11/2026 12:30:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2149,7 +2149,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  148,
+                      "cantidad":  128,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-231026",
@@ -2279,7 +2279,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -3029,7 +3029,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  106,
+                      "cantidad":  104,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0228-23022026",
@@ -3129,7 +3129,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  29,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1128-021126",
@@ -3229,7 +3229,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  8,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-180626",
@@ -3419,16 +3419,6 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "23-10-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1028-231026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
                       "cantidad":  451,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
@@ -3479,7 +3469,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  9,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-271026",
@@ -3659,7 +3649,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-30092026",
@@ -3836,6 +3826,16 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
+                      "cantidad":  322,
+                      "fecha_fabricacion":  "04-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-041126",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "04-11-2028"
                   },
                   {
                       "codigo":  "4MSA008",
@@ -4469,7 +4469,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-18092026",
@@ -5059,7 +5059,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-230926",
@@ -5139,7 +5139,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  34,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-210926",
@@ -5229,7 +5229,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0828-25082026",
@@ -5929,7 +5929,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  12,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-110926",
@@ -6158,5 +6158,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57400
+    "total_general_cajas":  57722
 };
