@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2069
+                          "cajas":  2002
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2924
+                          "cajas":  2866
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  103922.9,
     "productos":  [
                       {
-                          "zulia":  49,
+                          "zulia":  48,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  178,
@@ -195,7 +195,7 @@
                           "bolivar":  114
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  50,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  93,
@@ -208,7 +208,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  42,
+                          "zulia":  40,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  250,
@@ -221,7 +221,7 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  57,
+                          "zulia":  56,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  133,
@@ -325,12 +325,12 @@
                           "bolivar":  29
                       },
                       {
-                          "zulia":  170,
+                          "zulia":  160,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  256,
                           "margarita":  174,
-                          "capital":  128,
+                          "capital":  111,
                           "barcelona":  119,
                           "cagua":  2326,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -338,7 +338,7 @@
                           "bolivar":  237
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  13,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
                           "andes":  59,
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  383,
                           "margarita":  172,
-                          "capital":  145,
+                          "capital":  113,
                           "barcelona":  179,
                           "cagua":  5837,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -442,7 +442,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  125,
+                          "zulia":  120,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  119,
@@ -455,7 +455,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  136,
+                          "zulia":  131,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
@@ -468,12 +468,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  61,
+                          "zulia":  59,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  106,
                           "margarita":  7,
-                          "capital":  20,
+                          "capital":  19,
                           "barcelona":  163,
                           "cagua":  2568,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -481,7 +481,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  37,
+                          "zulia":  35,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  30,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  47,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  16,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
@@ -629,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  11,
                           "margarita":  4,
-                          "capital":  31,
+                          "capital":  29,
                           "barcelona":  6,
                           "cagua":  2437,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
@@ -637,12 +637,12 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  17,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  11,
-                          "capital":  35,
+                          "capital":  33,
                           "barcelona":  15,
                           "cagua":  530,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -668,7 +668,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  12,
-                          "capital":  25,
+                          "capital":  22,
                           "barcelona":  11,
                           "cagua":  253,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -707,7 +707,7 @@
                           "um":  "CJ",
                           "andes":  59,
                           "margarita":  34,
-                          "capital":  60,
+                          "capital":  58,
                           "barcelona":  50,
                           "cagua":  1399,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
@@ -728,7 +728,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  129,
+                          "zulia":  124,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  202,
@@ -793,7 +793,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  11,
+                          "zulia":  1,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
@@ -902,7 +902,7 @@
                           "um":  "CJ",
                           "andes":  126,
                           "margarita":  41,
-                          "capital":  18,
+                          "capital":  10,
                           "barcelona":  22,
                           "cagua":  2321,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 10:30:46",
+    "ultima_actualizacion":  "06/11/2026 10:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6168,5 +6168,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56482
+    "total_general_cajas":  56357
 };
