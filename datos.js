@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2396
+                          "cajas":  2291
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3066
+                          "cajas":  2950
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  178,
                           "margarita":  69,
-                          "capital":  46,
+                          "capital":  39,
                           "barcelona":  37,
                           "cagua":  899,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -195,12 +195,12 @@
                           "bolivar":  114
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  52,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  93,
                           "margarita":  33,
-                          "capital":  43,
+                          "capital":  41,
                           "barcelona":  34,
                           "cagua":  572,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  250,
                           "margarita":  78,
-                          "capital":  43,
+                          "capital":  27,
                           "barcelona":  31,
                           "cagua":  2300,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -221,12 +221,12 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  59,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  133,
                           "margarita":  44,
-                          "capital":  33,
+                          "capital":  19,
                           "barcelona":  25,
                           "cagua":  1508,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -312,7 +312,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  54,
+                          "zulia":  49,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  54,
@@ -364,7 +364,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  88,
+                          "zulia":  83,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  61,
@@ -377,7 +377,7 @@
                           "bolivar":  103
                       },
                       {
-                          "zulia":  639,
+                          "zulia":  594,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  383,
@@ -429,7 +429,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  62,
+                          "zulia":  61,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
                           "andes":  30,
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  119,
                           "margarita":  53,
-                          "capital":  193,
+                          "capital":  177,
                           "barcelona":  38,
                           "cagua":  1187,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -455,12 +455,12 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  137,
+                          "zulia":  136,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
                           "margarita":  0,
-                          "capital":  94,
+                          "capital":  76,
                           "barcelona":  32,
                           "cagua":  764,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -468,12 +468,12 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  62,
+                          "zulia":  61,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  106,
                           "margarita":  7,
-                          "capital":  38,
+                          "capital":  22,
                           "barcelona":  163,
                           "cagua":  2568,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  22,
-                          "capital":  27,
+                          "capital":  11,
                           "barcelona":  4,
                           "cagua":  188,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  51,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -520,7 +520,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  68,
+                          "zulia":  63,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  48,
@@ -533,7 +533,7 @@
                           "bolivar":  30
                       },
                       {
-                          "zulia":  91,
+                          "zulia":  86,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  31,
@@ -546,7 +546,7 @@
                           "bolivar":  44
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  1,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -559,7 +559,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  8,
+                          "zulia":  7,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
                           "andes":  3,
@@ -572,7 +572,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  1,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  0,
@@ -663,7 +663,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  43,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  50,
@@ -754,7 +754,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  17,
+                          "zulia":  16,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  65,
@@ -767,7 +767,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  43,
+                          "zulia":  42,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  18,
@@ -780,7 +780,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  55,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  29,
@@ -897,7 +897,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  89,
+                          "zulia":  84,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  126,
@@ -910,7 +910,7 @@
                           "bolivar":  66
                       },
                       {
-                          "zulia":  177,
+                          "zulia":  172,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  108,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 10:10:46",
+    "ultima_actualizacion":  "06/11/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6168,5 +6168,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56951
+    "total_general_cajas":  56730
 };
