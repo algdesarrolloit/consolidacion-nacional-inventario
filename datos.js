@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  45371
+                          "cajas":  42745
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3065
+                          "cajas":  3085
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  20,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  12,
@@ -819,32 +819,6 @@
                           "bolivar":  8
                       },
                       {
-                          "zulia":  0,
-                          "codigo":  "4MTO039",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  996,
-                          "descripcion":  "SERV. MAQ. PURE DE TOMATE PASSATA  6 X 480GR SINDONI",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "4MTO040",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  1630,
-                          "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
                           "zulia":  13,
                           "codigo":  "4MTO046",
                           "um":  "CJ",
@@ -1001,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 08:00:46",
+    "ultima_actualizacion":  "06/11/2026 08:10:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3505,17 +3479,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "06-07-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0728-06072026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-07-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  29,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-271026",
@@ -3532,6 +3496,26 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  18,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-271026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -5444,26 +5428,6 @@
                       "fecha_vencimiento":  "21-04-2027"
                   },
                   {
-                      "codigo":  "4MTO039",
-                      "cantidad":  996,
-                      "fecha_fabricacion":  "04-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-041126",
-                      "descripcion":  "SERV. MAQ. PURE DE TOMATE PASSATA  6 X 480GR SINDONI",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "04-11-2028"
-                  },
-                  {
-                      "codigo":  "4MTO040",
-                      "cantidad":  1630,
-                      "fecha_fabricacion":  "04-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-041126",
-                      "descripcion":  "SERV. MAQ. SALSA NAPOLITANA CON ALBAHACA 6 X 490GR SINDONI",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "04-11-2028"
-                  },
-                  {
                       "codigo":  "4MTO046",
                       "cantidad":  1,
                       "fecha_fabricacion":  "22-10-2026",
@@ -6074,5 +6038,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  58299
+    "total_general_cajas":  55693
 };
