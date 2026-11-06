@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  44253
+                          "cajas":  44247
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2449
+                          "cajas":  2442
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  103922.9,
     "productos":  [
                       {
-                          "zulia":  31,
+                          "zulia":  29,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  178,
@@ -195,14 +195,14 @@
                           "bolivar":  95
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  43,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  93,
                           "margarita":  33,
                           "capital":  41,
                           "barcelona":  34,
-                          "cagua":  568,
+                          "cagua":  565,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  25,
                           "bolivar":  30
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  19,
                           "barcelona":  25,
-                          "cagua":  1453,
+                          "cagua":  1450,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  12,
                           "bolivar":  0
@@ -325,7 +325,7 @@
                           "bolivar":  29
                       },
                       {
-                          "zulia":  149,
+                          "zulia":  148,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  256,
@@ -364,7 +364,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  77,
+                          "zulia":  78,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  61,
@@ -442,7 +442,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  70,
+                          "zulia":  69,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  119,
@@ -689,7 +689,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  3,
+                          "zulia":  0,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  15,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 14:50:46",
+    "ultima_actualizacion":  "06/11/2026 15:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2249,7 +2249,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  179,
+                      "cantidad":  178,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-271026",
@@ -2559,7 +2559,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  88,
+                      "cantidad":  89,
                       "fecha_fabricacion":  "09-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0427-091026",
@@ -3099,7 +3099,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  105,
+                      "cantidad":  104,
                       "fecha_fabricacion":  "23-02-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0228-23022026",
@@ -6148,5 +6148,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56282
+    "total_general_cajas":  56269
 };
