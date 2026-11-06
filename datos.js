@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  103922.9,
-                          "cajas":  45658
+                          "cajas":  45634
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  69,
                           "capital":  36,
                           "barcelona":  37,
-                          "cagua":  899,
+                          "cagua":  892,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  17,
                           "bolivar":  95
@@ -202,7 +202,7 @@
                           "margarita":  33,
                           "capital":  41,
                           "barcelona":  34,
-                          "cagua":  572,
+                          "cagua":  570,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  25,
                           "bolivar":  30
@@ -215,7 +215,7 @@
                           "margarita":  78,
                           "capital":  24,
                           "barcelona":  31,
-                          "cagua":  2300,
+                          "cagua":  2290,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  31,
                           "bolivar":  0
@@ -228,7 +228,7 @@
                           "margarita":  44,
                           "capital":  19,
                           "barcelona":  25,
-                          "cagua":  1508,
+                          "cagua":  1503,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  12,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 13:50:46",
+    "ultima_actualizacion":  "06/11/2026 14:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6158,5 +6158,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  57722
+    "total_general_cajas":  57698
 };
