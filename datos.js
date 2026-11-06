@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2540
+                          "cajas":  2449
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -208,7 +208,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  21,
+                          "zulia":  19,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  250,
@@ -286,7 +286,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  29,
+                          "zulia":  28,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  51,
@@ -312,7 +312,7 @@
                           "bolivar":  25
                       },
                       {
-                          "zulia":  43,
+                          "zulia":  42,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  54,
@@ -325,7 +325,7 @@
                           "bolivar":  29
                       },
                       {
-                          "zulia":  150,
+                          "zulia":  149,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
                           "andes":  256,
@@ -364,7 +364,7 @@
                           "bolivar":  20
                       },
                       {
-                          "zulia":  78,
+                          "zulia":  77,
                           "codigo":  "4MMA003",
                           "um":  "CJ",
                           "andes":  61,
@@ -377,7 +377,7 @@
                           "bolivar":  103
                       },
                       {
-                          "zulia":  574,
+                          "zulia":  572,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  383,
@@ -442,7 +442,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  83,
+                          "zulia":  70,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  119,
@@ -455,7 +455,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  96,
+                          "zulia":  83,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  5,
@@ -468,7 +468,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  42,
+                          "zulia":  25,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  106,
@@ -481,7 +481,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  3,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  30,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  18,
+                          "zulia":  1,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  17,
@@ -546,7 +546,7 @@
                           "bolivar":  44
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -624,7 +624,7 @@
                           "bolivar":  19
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  27,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  11,
@@ -637,7 +637,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  16,
+                          "zulia":  15,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  59,
@@ -663,7 +663,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  28,
+                          "zulia":  27,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  50,
@@ -793,7 +793,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  1,
+                          "zulia":  0,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
@@ -897,7 +897,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  59,
+                          "zulia":  58,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  126,
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "06/11/2026 11:10:46",
+    "ultima_actualizacion":  "06/11/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1139,7 +1139,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  46,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1379,7 +1379,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  43,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1459,7 +1459,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  33,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3069,7 +3069,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  88,
+                      "cantidad":  74,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3169,7 +3169,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  94,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -3309,7 +3309,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  38,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3379,7 +3379,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  27,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-271125 NV",
@@ -6168,5 +6168,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  55905
+    "total_general_cajas":  55814
 };
