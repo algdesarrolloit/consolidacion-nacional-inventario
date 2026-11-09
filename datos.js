@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1750
+                          "cajas":  1745
                       }
                   ],
     "total_general_kg":  98222.9,
@@ -439,7 +439,7 @@
                           "cagua":  52,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  20,
-                          "bolivar":  7
+                          "bolivar":  6
                       },
                       {
                           "zulia":  69,
@@ -452,7 +452,7 @@
                           "cagua":  1026,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  104,
-                          "bolivar":  20
+                          "bolivar":  19
                       },
                       {
                           "zulia":  83,
@@ -478,7 +478,7 @@
                           "cagua":  2509,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  26,
-                          "bolivar":  14
+                          "bolivar":  13
                       },
                       {
                           "zulia":  3,
@@ -504,7 +504,7 @@
                           "cagua":  371,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  20,
-                          "bolivar":  2
+                          "bolivar":  1
                       },
                       {
                           "zulia":  0,
@@ -517,7 +517,7 @@
                           "cagua":  306,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  27,
-                          "bolivar":  7
+                          "bolivar":  6
                       },
                       {
                           "zulia":  53,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 11:50:46",
+    "ultima_actualizacion":  "09/11/2026 12:00:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6655,5 +6655,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56505
+    "total_general_cajas":  56500
 };
