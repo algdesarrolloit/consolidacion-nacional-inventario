@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2944
+                          "cajas":  2943
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1910
+                          "cajas":  1872
                       }
                   ],
     "total_general_kg":  98222.9,
@@ -218,7 +218,7 @@
                           "cagua":  2191,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  41,
-                          "bolivar":  60
+                          "bolivar":  58
                       },
                       {
                           "zulia":  47,
@@ -231,7 +231,7 @@
                           "cagua":  1340,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  30,
-                          "bolivar":  60
+                          "bolivar":  50
                       },
                       {
                           "zulia":  6,
@@ -328,14 +328,14 @@
                           "zulia":  148,
                           "codigo":  "4MKE004",
                           "um":  "CJ",
-                          "andes":  256,
+                          "andes":  255,
                           "margarita":  174,
                           "capital":  94,
                           "barcelona":  114,
                           "cagua":  2244,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  108,
-                          "bolivar":  237
+                          "bolivar":  231
                       },
                       {
                           "zulia":  12,
@@ -738,7 +738,7 @@
                           "cagua":  2130,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  86,
-                          "bolivar":  60
+                          "bolivar":  52
                       },
                       {
                           "zulia":  0,
@@ -803,7 +803,7 @@
                           "cagua":  1771,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  28,
-                          "bolivar":  62
+                          "bolivar":  61
                       },
                       {
                           "zulia":  32,
@@ -829,20 +829,7 @@
                           "cagua":  0,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  0,
-                          "bolivar":  1
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "4MTO048",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "SALSA PARA PIZZAS 24 X 190 GRS",
-                          "barquisimeto":  0,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  0,
@@ -855,7 +842,7 @@
                           "cagua":  9,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  11,
@@ -868,7 +855,7 @@
                           "cagua":  78,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  10,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  13,
@@ -881,7 +868,7 @@
                           "cagua":  48,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  5,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  9,
@@ -894,7 +881,7 @@
                           "cagua":  73,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  10,
-                          "bolivar":  1
+                          "bolivar":  0
                       },
                       {
                           "zulia":  58,
@@ -920,7 +907,7 @@
                           "cagua":  1655,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  69,
-                          "bolivar":  72
+                          "bolivar":  67
                       },
                       {
                           "zulia":  9,
@@ -975,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 11:30:47",
+    "ultima_actualizacion":  "09/11/2026 11:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2139,7 +2126,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  46,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "09-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-090926",
@@ -6668,5 +6655,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56667
+    "total_general_cajas":  56628
 };
