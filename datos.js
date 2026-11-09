@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1328
+                          "cajas":  1296
                       },
                       {
                           "almacen":  "CAGUA",
@@ -204,7 +204,7 @@
                           "barcelona":  32,
                           "cagua":  565,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  25,
+                          "barquisimeto":  5,
                           "bolivar":  30
                       },
                       {
@@ -230,7 +230,7 @@
                           "barcelona":  23,
                           "cagua":  1450,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  12,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 08:30:46",
+    "ultima_actualizacion":  "09/11/2026 08:40:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1389,7 +1389,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  133,
+                      "cantidad":  130,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -3029,7 +3029,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-201026",
@@ -3239,7 +3239,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  30,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-281026",
@@ -3299,7 +3299,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  17,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-231026",
@@ -5988,5 +5988,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56704
+    "total_general_cajas":  56672
 };
