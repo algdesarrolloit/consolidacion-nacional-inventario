@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1745
+                          "cajas":  1744
                       }
                   ],
     "total_general_kg":  98222.9,
@@ -335,7 +335,7 @@
                           "cagua":  2244,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  108,
-                          "bolivar":  225
+                          "bolivar":  224
                       },
                       {
                           "zulia":  12,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 12:00:46",
+    "ultima_actualizacion":  "09/11/2026 12:10:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2016,7 +2016,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  54,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-300926",
@@ -6655,5 +6655,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  56500
+    "total_general_cajas":  56499
 };
