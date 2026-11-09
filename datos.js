@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  41022.9,
-                                                              "bidones":  683.72
+                                                              "kg":  35322.9,
+                                                              "bidones":  588.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  103922.9,
+                          "kg":  98222.9,
                           "cajas":  43277
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1910
                       }
                   ],
-    "total_general_kg":  103922.9,
+    "total_general_kg":  98222.9,
     "productos":  [
                       {
                           "zulia":  29,
@@ -943,7 +943,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  41022.9,
+                          "cagua":  35322.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -975,7 +975,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 10:10:46",
+    "ultima_actualizacion":  "09/11/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
