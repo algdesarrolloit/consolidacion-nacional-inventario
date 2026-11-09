@@ -14,8 +14,10 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <!-- FontAwesome para Íconos -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- SheetJS (Excel Export) -->
-    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    
+    <!-- SheetJS con Soporte de Estilos y Colores (xlsx-js-style) -->
+    <script src="https://cdn.jsdelivr.net/npm/xlsx-js-style@1.2.0/dist/xlsx.bundle.js"></script>
+    
     <!-- jsPDF & AutoTable (PDF Export) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.31/jspdf.plugin.autotable.min.js"></script>
@@ -418,25 +420,21 @@
         };
 
         // ==========================================
-        // SOLUCIÓN 1: PARSER DE FECHAS CORRECTO
+        // PARSER DE FECHAS CORRECTO
         // ==========================================
         function parsearFecha(valorFecha) {
             if (!valorFecha || valorFecha === 'N/A') return null;
             const str = String(valorFecha).trim();
             
-            // Extraer estrictamente componentes YYYY-MM-DD del formato de base de datos
             const matchIso = str.match(/^(\d{4})[-\/](\d{1,2})[-\/](\d{1,2})/);
             if (matchIso) {
                 const anio = parseInt(matchIso[1], 10);
                 const mes = parseInt(matchIso[2], 10) - 1;
                 const dia = parseInt(matchIso[3], 10);
                 const fechaObj = new Date(anio, mes, dia);
-                if (!isNaN(fechaObj.getTime())) {
-                    return fechaObj;
-                }
+                if (!isNaN(fechaObj.getTime())) return fechaObj;
             }
 
-            // Fallback para otros formatos si existieran
             const partes = str.split(/[-/]/);
             if (partes.length === 3) {
                 let anio, mes, dia;
@@ -450,9 +448,7 @@
                     anio = parseInt(partes[2], 10);
                 }
                 const fechaObj = new Date(anio, mes, dia);
-                if (!isNaN(fechaObj.getTime())) {
-                    return fechaObj;
-                }
+                if (!isNaN(fechaObj.getTime())) return fechaObj;
             }
             const fallback = new Date(valorFecha);
             return isNaN(fallback.getTime()) ? null : fallback;
@@ -468,7 +464,6 @@
             return `${dd}/${mm}/${yyyy}`;
         }
 
-        // Función auxiliar para calcular días por vencer de forma unificada
         function calcularDiasPorVencer(fVencRaw) {
             if (!fVencRaw || fVencRaw === 'N/A') return null;
             const fechaV = parsearFecha(fVencRaw);
@@ -853,7 +848,6 @@
             document.getElementById('modal-total-cajas').innerText = Number(totalCajasFinal).toLocaleString('es-VE');
         }
 
-        // Renderizado de lotes ordenados cronológicamente por F. Vencimiento ascendente
         function renderizarDesgloseLotes(lotesData) {
             const tbody = document.getElementById('tabla-lotes-body');
             if (!tbody) return;
@@ -1117,6 +1111,9 @@
             });
         }
 
+        // ==========================================
+        // EXPORTACIÓN EXCEL GENERAL CON ESTILOS Y DRILL-DOWN (ESQUEMA)
+        // ==========================================
         function exportarExcel() {
             if (typeof XLSX === 'undefined' || typeof DATA_INVENTARIO === 'undefined') return;
 
@@ -1180,8 +1177,56 @@
             wsResumen['!rows'] = rowProperties;
             wsResumen['!cols'] = [{ wch: 18 }, { wch: 48 }, { wch: 24 }, { wch: 24 }];
 
+            // Aplicar estilos visuales y bordes
+            const rangeR = XLSX.utils.decode_range(wsResumen['!ref']);
+            const thinBorder = {
+                top: { style: "thin", color: { rgb: "D1D5DB" } },
+                bottom: { style: "thin", color: { rgb: "D1D5DB" } },
+                left: { style: "thin", color: { rgb: "D1D5DB" } },
+                right: { style: "thin", color: { rgb: "D1D5DB" } }
+            };
+
+            for (let R = rangeR.s.r; R <= rangeR.e.r; ++R) {
+                for (let C = rangeR.s.c; C <= rangeR.e.c; ++C) {
+                    const addr = XLSX.utils.encode_cell({ r: R, c: C });
+                    if (!wsResumen[addr]) continue;
+
+                    wsResumen[addr].s = {
+                        font: { name: "Calibri", sz: 11 },
+                        alignment: { vertical: "center" },
+                        border: thinBorder
+                    };
+
+                    if (R === 0 || R === 1) {
+                        wsResumen[addr].s.fill = { fgColor: { rgb: "533F6B" } };
+                        wsResumen[addr].s.font = { name: "Calibri", sz: R === 0 ? 12 : 10, bold: true, color: { rgb: "FFFFFF" } };
+                        wsResumen[addr].s.alignment = { horizontal: "center", vertical: "center" };
+                    } 
+                    else if (R === 3) {
+                        wsResumen[addr].s.fill = { fgColor: { rgb: "E4DFEC" } };
+                        wsResumen[addr].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "1F2937" } };
+                        wsResumen[addr].s.alignment = { horizontal: C >= 2 ? "right" : "left", vertical: "center" };
+                    } 
+                    else if (R === rangeR.e.r) {
+                        wsResumen[addr].s.fill = { fgColor: { rgb: "E4DFEC" } };
+                        wsResumen[addr].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "1F2937" } };
+                        if (C >= 2) {
+                            wsResumen[addr].s.alignment = { horizontal: "right", vertical: "center" };
+                            wsResumen[addr].z = "#,##0";
+                        }
+                    } 
+                    else if (R > 3 && R < rangeR.e.r - 1) {
+                        if (C >= 2) {
+                            wsResumen[addr].s.alignment = { horizontal: "right", vertical: "center" };
+                            wsResumen[addr].z = C === 3 ? "#,##0.0" : "#,##0";
+                        }
+                    }
+                }
+            }
+
             XLSX.utils.book_append_sheet(wb, wsResumen, "Resumen Sucursales");
 
+            // Pestaña Línea Verde (si existe)
             if (data.linea_verde) {
                 const lvRows = [
                     ["ALIMENTOS LA GIRALDA - REPORTE LÍNEA VERDE (A GRANEL)", "", "", "", "", "", "", ""],
@@ -1233,6 +1278,35 @@
                     { wch: 20 }, { wch: 4 }, { wch: 26 }, { wch: 28 }
                 ];
 
+                const rangeLV = XLSX.utils.decode_range(wsLV['!ref']);
+                for (let R = rangeLV.s.r; R <= rangeLV.e.r; ++R) {
+                    for (let C = rangeLV.s.c; C <= rangeLV.e.c; ++C) {
+                        const addr = XLSX.utils.encode_cell({ r: R, c: C });
+                        if (!wsLV[addr]) continue;
+
+                        wsLV[addr].s = {
+                            font: { name: "Calibri", sz: 11 },
+                            alignment: { vertical: "center" },
+                            border: thinBorder
+                        };
+
+                        if (R === 0 || R === 1) {
+                            wsLV[addr].s.fill = { fgColor: { rgb: "533F6B" } };
+                            wsLV[addr].s.font = { name: "Calibri", sz: R === 0 ? 12 : 10, bold: true, color: { rgb: "FFFFFF" } };
+                            wsLV[addr].s.alignment = { horizontal: "center", vertical: "center" };
+                        } else if (R === 3) {
+                            wsLV[addr].s.fill = { fgColor: { rgb: "E8E3ED" } };
+                            wsLV[addr].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "1F2937" } };
+                            wsLV[addr].s.alignment = { horizontal: C === 3 || C === 4 || C === 6 || C === 7 ? "right" : "left", vertical: "center" };
+                        } else if (R > 3) {
+                            if (C === 3 || C === 4 || C === 6 || C === 7) {
+                                wsLV[addr].s.alignment = { horizontal: "right", vertical: "center" };
+                                wsLV[addr].z = "#,##0.0";
+                            }
+                        }
+                    }
+                }
+
                 XLSX.utils.book_append_sheet(wb, wsLV, "Línea Verde (Bidones-KG)");
             }
 
@@ -1240,7 +1314,7 @@
         }
 
         // ==========================================
-        // EXCEL DE LOTES: ORDENADO POR VENCIMIENTO, CON DÍAS PENDIENTES EN COLUMNA G Y PINTADO DE CELDAS POR LOTES
+        // EXPORTACIÓN EXCEL DE LOTES CON FORMATO Y COLORES CONDICIONALES
         // ==========================================
         function exportarExcelLotes() {
             if (typeof XLSX === 'undefined' || typeof DATA_INVENTARIO === 'undefined') return;
@@ -1300,29 +1374,50 @@
                 { s: { r: 1, c: 0 }, e: { r: 1, c: 8 } }
             ];
 
+            ws['!cols'] = [
+                { wch: 22 }, { wch: 18 }, { wch: 18 }, { wch: 48 }, 
+                { wch: 18 }, { wch: 18 }, { wch: 16 }, { wch: 20 }, { wch: 12 }
+            ];
+
             const range = XLSX.utils.decode_range(ws['!ref']);
+            const thinBorder = {
+                top: { style: "thin", color: { rgb: "D1D5DB" } },
+                bottom: { style: "thin", color: { rgb: "D1D5DB" } },
+                left: { style: "thin", color: { rgb: "D1D5DB" } },
+                right: { style: "thin", color: { rgb: "D1D5DB" } }
+            };
+
             for (let R = range.s.r; R <= range.e.r; ++R) {
                 for (let C = range.s.c; C <= range.e.c; ++C) {
                     const cellAddress = XLSX.utils.encode_cell({ r: R, c: C });
                     if (!ws[cellAddress]) continue;
-                    if (!ws[cellAddress].s) ws[cellAddress].s = {};
-                    
-                    if (R >= 3 && C !== 3) {
-                        ws[cellAddress].s.alignment = { horizontal: "center", vertical: "center" };
-                    } else if (R >= 3 && C === 3) {
-                        ws[cellAddress].s.alignment = { horizontal: "left", vertical: "center" };
-                    }
+
+                    ws[cellAddress].s = {
+                        font: { name: "Calibri", sz: 11 },
+                        alignment: { vertical: "center" },
+                        border: thinBorder
+                    };
 
                     if (R === 0 || R === 1) {
-                        ws[cellAddress].s.font = { bold: true, sz: 12, color: { rgb: "FFFFFF" } };
-                        ws[cellAddress].s.fill = { fgColor: { rgb: "1B2A4A" } };
+                        ws[cellAddress].s.fill = { fgColor: { rgb: "533F6B" } };
+                        ws[cellAddress].s.font = { name: "Calibri", sz: R === 0 ? 12 : 10, bold: true, color: { rgb: "FFFFFF" } };
                         ws[cellAddress].s.alignment = { horizontal: "center", vertical: "center" };
-                    } else if (R === 3) {
-                        ws[cellAddress].s.font = { bold: true, color: { rgb: "FFFFFF" } };
-                        ws[cellAddress].s.fill = { fgColor: { rgb: "4D82BC" } };
-                        ws[cellAddress].s.alignment = { horizontal: "center", vertical: "center" };
-                    } else if (R > 3) {
-                        // Pintar filas según condición de vencimiento (Columna F: Fecha Vencimiento o Columna G: Días por Vencer)
+                    } 
+                    else if (R === 3) {
+                        ws[cellAddress].s.fill = { fgColor: { rgb: "E8E3ED" } };
+                        ws[cellAddress].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "1F2937" } };
+                        ws[cellAddress].s.alignment = { horizontal: C === 3 ? "left" : (C === 7 ? "right" : "center"), vertical: "center" };
+                    } 
+                    else if (R > 3) {
+                        if (C === 3) {
+                            ws[cellAddress].s.alignment = { horizontal: "left", vertical: "center" };
+                        } else if (C === 7) {
+                            ws[cellAddress].s.alignment = { horizontal: "right", vertical: "center" };
+                            ws[cellAddress].z = "#,##0";
+                        } else {
+                            ws[cellAddress].s.alignment = { horizontal: "center", vertical: "center" };
+                        }
+
                         const itemLote = lotesOrdenados[R - 4];
                         if (itemLote) {
                             const fVencRaw = itemLote.fecha_vencimiento || itemLote.vencimiento || 'N/A';
@@ -1331,30 +1426,22 @@
                                 diasVenc = calcularDiasPorVencer(fVencRaw);
                             }
 
-                            if (diasVenc !== null && !isNaN(diasVenc)) {
+                            if (C === 6 && diasVenc !== null && !isNaN(diasVenc)) {
                                 if (diasVenc < 0) {
-                                    // Vencido: Fondo rojo suave, texto rojo oscuro
-                                    ws[cellAddress].s.fill = { fgColor: { rgb: "FFE4E6" } }; // Rosé 100
-                                    ws[cellAddress].s.font = { color: { rgb: "9F1239" }, bold: (C === 5 || C === 6) };
+                                    ws[cellAddress].s.fill = { fgColor: { rgb: "FADBD8" } };
+                                    ws[cellAddress].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "900C3F" } };
                                 } else if (diasVenc <= 60) {
-                                    // Próximo a vencer (<= 60 días): Fondo ámbar suave, texto ámbar oscuro
-                                    ws[cellAddress].s.fill = { fgColor: { rgb: "FEF3C7" } }; // Amber 100
-                                    ws[cellAddress].s.font = { color: { rgb: "B45309" }, bold: (C === 5 || C === 6) };
+                                    ws[cellAddress].s.fill = { fgColor: { rgb: "FCF3CF" } };
+                                    ws[cellAddress].s.font = { name: "Calibri", sz: 11, bold: true, color: { rgb: "9A7D0A" } };
                                 } else {
-                                    // Vigente (> 60 días): Fondo esmeralda suave
-                                    ws[cellAddress].s.fill = { fgColor: { rgb: "D1FAE5" } }; // Emerald 100
-                                    ws[cellAddress].s.font = { color: { rgb: "065F46" } };
+                                    ws[cellAddress].s.fill = { fgColor: { rgb: "D4EFDF" } };
+                                    ws[cellAddress].s.font = { name: "Calibri", sz: 11, color: { rgb: "196F3D" } };
                                 }
                             }
                         }
                     }
                 }
             }
-
-            ws['!cols'] = [
-                { wch: 22 }, { wch: 18 }, { wch: 18 }, { wch: 45 }, 
-                { wch: 18 }, { wch: 18 }, { wch: 16 }, { wch: 20 }, { wch: 12 }
-            ];
 
             XLSX.utils.book_append_sheet(wb, ws, "Trazabilidad Lotes");
             XLSX.writeFile(wb, `Reporte_Lotes_Vencimientos_LaGiralda_${new Date().toISOString().slice(0,10)}.xlsx`);
@@ -1562,9 +1649,6 @@
             doc.save(`Reporte_Inventario_LaGiralda_${new Date().toISOString().slice(0,10)}.pdf`);
         }
 
-        // ==========================================
-        // SOLUCIÓN 2: PDF DE LOTES AGRUPADO POR SUCURSAL Y ORDENADO POR VENCIMIENTO
-        // ==========================================
         async function exportarPDFLotes() {
             if (typeof jspdf === 'undefined' || typeof DATA_INVENTARIO === 'undefined') return;
 
@@ -1585,7 +1669,6 @@
                 return fechaA - fechaB;
             });
 
-            // Agrupación estricta por Sucursal / Ubicación
             const sucursalesOrden = ["CAGUA", "BARCELONA", "BOLIVAR", "CAPITAL", "MARGARITA", "ZULIA", "BARQUISIMETO", "ANDES"];
             const gruposPorSucursal = {};
 
