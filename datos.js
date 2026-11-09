@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "09/11/2026 16:50:47",
+    "ultima_actualizacion":  "09/11/2026 17:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1043,6 +1043,16 @@
                       "descripcion":  "ALCAPARRAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "19-07-2029"
+                  },
+                  {
+                      "codigo":  "4BOL001",
+                      "cantidad":  14000,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "ME 091126-001",
+                      "descripcion":  "BOLSA PARA PAN DE JAMON ALG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4CNA016",
