@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1799
+                          "cajas":  1776
                       },
                       {
                           "almacen":  "ANDES",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  20,
-                          "capital":  30,
+                          "capital":  17,
                           "barcelona":  10,
                           "cagua":  163,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  19,
-                          "capital":  23,
+                          "capital":  13,
                           "barcelona":  2,
                           "cagua":  173,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/11/2026 16:20:46",
+    "ultima_actualizacion":  "10/11/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1446,7 +1446,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  30,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2746,7 +2746,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-29092026",
@@ -2856,7 +2856,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  97,
+                      "cantidad":  96,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -2946,7 +2946,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  23,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3046,7 +3046,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  56,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3136,7 +3136,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  119,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -3296,7 +3296,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  19,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3376,7 +3376,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  20,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-281026",
@@ -3436,7 +3436,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  120,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3516,7 +3516,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  79,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-271026",
@@ -3856,7 +3856,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  20,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-291026",
@@ -4116,7 +4116,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -4286,7 +4286,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-01092026",
@@ -4426,17 +4426,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "27-07-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0727-27072026",
-                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-07-2027"
-                  },
-                  {
-                      "codigo":  "4MSA017",
-                      "cantidad":  45,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-08092026",
@@ -4716,7 +4706,7 @@
                   },
                   {
                       "codigo":  "4MSU014",
-                      "cantidad":  80,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-061026",
@@ -4856,7 +4846,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-22092026",
@@ -5256,7 +5246,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  30,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-061126",
@@ -6086,7 +6076,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  30,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -6366,7 +6356,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
@@ -6375,5 +6365,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  57583
+    "total_general_cajas":  57560
 };
