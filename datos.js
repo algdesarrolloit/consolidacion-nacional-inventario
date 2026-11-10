@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1776
+                          "cajas":  1755
                       },
                       {
                           "almacen":  "ANDES",
@@ -356,7 +356,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  16,
+                          "capital":  12,
                           "barcelona":  7,
                           "cagua":  228,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
@@ -395,7 +395,7 @@
                           "um":  "CJ",
                           "andes":  3,
                           "margarita":  8,
-                          "capital":  5,
+                          "capital":  0,
                           "barcelona":  4,
                           "cagua":  253,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
@@ -590,7 +590,7 @@
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  9,
-                          "capital":  30,
+                          "capital":  27,
                           "barcelona":  4,
                           "cagua":  460,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -616,7 +616,7 @@
                           "um":  "CJ",
                           "andes":  28,
                           "margarita":  9,
-                          "capital":  78,
+                          "capital":  74,
                           "barcelona":  0,
                           "cagua":  325,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -915,7 +915,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  16,
+                          "capital":  11,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/11/2026 16:50:46",
+    "ultima_actualizacion":  "10/11/2026 17:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2196,7 +2196,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  94,
+                      "cantidad":  90,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -2416,7 +2416,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  16,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "03-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-03082026",
@@ -2676,7 +2676,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  88,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-051026",
@@ -2743,16 +2743,6 @@
                       "descripcion":  "MAYONESA 4 X 3.35 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-03-2027"
-                  },
-                  {
-                      "codigo":  "4MMA011",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0127-29092026",
-                      "descripcion":  "MAYONESA 4 X 3.35 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-01-2027"
                   },
                   {
                       "codigo":  "4MMA011",
@@ -2846,7 +2836,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  61,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -2856,7 +2846,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  96,
+                      "cantidad":  95,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-060726",
@@ -2866,7 +2856,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  50,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-141026",
@@ -2946,7 +2936,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  22,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-081026",
@@ -3046,7 +3036,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  31,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "21-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-21082026",
@@ -3126,23 +3116,13 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  15,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-03112026",
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "03-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "02-11-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1128-021126",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-11-2028"
                   },
                   {
                       "codigo":  "4MNA011",
@@ -3436,7 +3416,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  50,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-231026",
@@ -3516,7 +3496,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  43,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-271026",
@@ -4116,7 +4096,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  15,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -4426,7 +4406,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  44,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-08092026",
@@ -5416,7 +5396,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  17,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-210926",
@@ -5516,7 +5496,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  32,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -5626,7 +5606,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  47,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-15072026",
@@ -6356,7 +6336,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  16,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
@@ -6365,5 +6345,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  57560
+    "total_general_cajas":  57539
 };
