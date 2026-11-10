@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  98222.9,
-                          "cajas":  42126
+                          "cajas":  46464
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -540,7 +540,7 @@
                           "margarita":  26,
                           "capital":  13,
                           "barcelona":  22,
-                          "cagua":  1127,
+                          "cagua":  1340,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  20,
                           "bolivar":  70
@@ -553,7 +553,7 @@
                           "margarita":  23,
                           "capital":  0,
                           "barcelona":  17,
-                          "cagua":  709,
+                          "cagua":  2149,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  20,
                           "bolivar":  31
@@ -644,7 +644,7 @@
                           "margarita":  21,
                           "capital":  26,
                           "barcelona":  13,
-                          "cagua":  501,
+                          "cagua":  616,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  37,
                           "bolivar":  22
@@ -709,7 +709,7 @@
                           "margarita":  34,
                           "capital":  58,
                           "barcelona":  49,
-                          "cagua":  1377,
+                          "cagua":  2375,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  18,
                           "bolivar":  20
@@ -748,7 +748,7 @@
                           "margarita":  12,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  799,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -826,7 +826,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  389,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -865,7 +865,7 @@
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  0,
-                          "cagua":  46,
+                          "cagua":  430,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  5,
                           "bolivar":  0
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/11/2026 07:20:46",
+    "ultima_actualizacion":  "10/11/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3836,7 +3836,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  600,
+                      "cantidad":  813,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-061126",
@@ -3953,6 +3953,16 @@
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "02-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  1440,
+                      "fecha_fabricacion":  "09-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-09112026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-11-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -4766,6 +4776,16 @@
                   },
                   {
                       "codigo":  "4MSU005",
+                      "cantidad":  115,
+                      "fecha_fabricacion":  "30-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-30102026",
+                      "descripcion":  "SALSA BARBECUE 24 X 400 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSU005",
                       "cantidad":  26,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAPITAL",
@@ -5136,6 +5156,16 @@
                   },
                   {
                       "codigo":  "4MTO011",
+                      "cantidad":  998,
+                      "fecha_fabricacion":  "06-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-061126",
+                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-11-2027"
+                  },
+                  {
+                      "codigo":  "4MTO011",
                       "cantidad":  58,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAPITAL",
@@ -5333,6 +5363,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-06-2028"
+                  },
+                  {
+                      "codigo":  "4MTO014",
+                      "cantidad":  799,
+                      "fecha_fabricacion":  "06-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-061126",
+                      "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-11-2028"
                   },
                   {
                       "codigo":  "4MTO014",
@@ -5806,6 +5846,16 @@
                   },
                   {
                       "codigo":  "4MTO046",
+                      "cantidad":  389,
+                      "fecha_fabricacion":  "09-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-09112026",
+                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-11-2028"
+                  },
+                  {
+                      "codigo":  "4MTO046",
                       "cantidad":  11,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "ZULIA",
@@ -5913,6 +5963,16 @@
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO054",
+                      "cantidad":  384,
+                      "fecha_fabricacion":  "09-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-09112026",
+                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-11-2028"
                   },
                   {
                       "codigo":  "4MTO054",
@@ -6425,5 +6485,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  55108
+    "total_general_cajas":  59446
 };
