@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/11/2026 13:50:46",
+    "ultima_actualizacion":  "10/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1273,16 +1273,6 @@
                       "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA018",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "20-05-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0527-200526",
-                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-05-2027"
                   },
                   {
                       "codigo":  "4CNA018",
