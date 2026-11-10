@@ -127,28 +127,28 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1307
+                          "cajas":  1309
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87277.9,
-                          "cajas":  46149
+                          "cajas":  46139
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2333
+                          "cajas":  2343
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2296
+                          "cajas":  2275
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -386,7 +386,7 @@
                           "barcelona":  150,
                           "cagua":  5753,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  252,
+                          "barquisimeto":  251,
                           "bolivar":  282
                       },
                       {
@@ -451,7 +451,7 @@
                           "barcelona":  35,
                           "cagua":  1003,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                          "barquisimeto":  74,
+                          "barquisimeto":  77,
                           "bolivar":  16
                       },
                       {
@@ -811,9 +811,9 @@
                           "um":  "CJ",
                           "andes":  4,
                           "margarita":  12,
-                          "capital":  0,
+                          "capital":  10,
                           "barcelona":  0,
-                          "cagua":  167,
+                          "cagua":  157,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  0,
                           "bolivar":  8
@@ -848,7 +848,7 @@
                           "zulia":  7,
                           "codigo":  "4MTO052",
                           "um":  "CJ",
-                          "andes":  7,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  9,
                           "barcelona":  0,
@@ -861,7 +861,7 @@
                           "zulia":  8,
                           "codigo":  "4MTO054",
                           "um":  "CJ",
-                          "andes":  7,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  0,
@@ -874,7 +874,7 @@
                           "zulia":  5,
                           "codigo":  "4MTO056",
                           "um":  "CJ",
-                          "andes":  7,
+                          "andes":  0,
                           "margarita":  0,
                           "capital":  9,
                           "barcelona":  0,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "10/11/2026 15:20:46",
+    "ultima_actualizacion":  "10/11/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -996,7 +996,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  12760,
+                      "cantidad":  9515,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-040926-219",
@@ -1023,16 +1023,6 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-07-2028"
-                  },
-                  {
-                      "codigo":  "1VEG002",
-                      "cantidad":  7700,
-                      "fecha_fabricacion":  "16-01-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 1127-160126-10",
-                      "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-11-2027"
                   },
                   {
                       "codigo":  "1VEG003",
@@ -2006,7 +1996,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0928-300926",
@@ -2256,7 +2246,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  37,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0728-300726",
@@ -2586,7 +2576,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  252,
+                      "cantidad":  251,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -3003,6 +2993,16 @@
                       "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-02-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "01-01-1900",
+                      "ubicacion":  "BARQUISIMETO",
+                      "lote":  "2026",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4MNA010",
@@ -5596,7 +5596,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  72,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-211026",
@@ -5613,6 +5613,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "21-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0427-211026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-04-2027"
                   },
                   {
                       "codigo":  "4MTO033",
@@ -5698,16 +5708,6 @@
                       "codigo":  "4MTO052",
                       "cantidad":  7,
                       "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO052",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
@@ -5741,16 +5741,6 @@
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-221026",
                       "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
                   },
@@ -5793,16 +5783,6 @@
                       "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO056",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "21-10-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1028-211026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2028"
                   },
                   {
                       "codigo":  "4MTO056",
@@ -6255,5 +6235,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  58156
+    "total_general_cajas":  58137
 };
