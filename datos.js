@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87050.9,
-                          "cajas":  46452
+                          "cajas":  46448
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1752
+                          "cajas":  1740
                       },
                       {
                           "almacen":  "ANDES",
@@ -215,7 +215,7 @@
                           "margarita":  62,
                           "capital":  27,
                           "barcelona":  43,
-                          "cagua":  2042,
+                          "cagua":  2040,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  118,
                           "bolivar":  57
@@ -228,7 +228,7 @@
                           "margarita":  29,
                           "capital":  23,
                           "barcelona":  40,
-                          "cagua":  1186,
+                          "cagua":  1184,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  80,
                           "bolivar":  37
@@ -590,7 +590,7 @@
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  9,
-                          "capital":  27,
+                          "capital":  24,
                           "barcelona":  4,
                           "cagua":  438,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -616,7 +616,7 @@
                           "um":  "CJ",
                           "andes":  28,
                           "margarita":  9,
-                          "capital":  74,
+                          "capital":  70,
                           "barcelona":  0,
                           "cagua":  303,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -915,7 +915,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  11,
+                          "capital":  6,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 13:20:46",
+    "ultima_actualizacion":  "11/11/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1316,7 +1316,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-230526",
@@ -1446,7 +1446,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1186,
+                      "cantidad":  1184,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -6525,5 +6525,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60218
+    "total_general_cajas":  60202
 };
