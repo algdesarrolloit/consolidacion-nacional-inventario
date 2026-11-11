@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87050.9,
-                          "cajas":  46450
+                          "cajas":  46460
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -527,7 +527,7 @@
                           "margarita":  25,
                           "capital":  28,
                           "barcelona":  11,
-                          "cagua":  1313,
+                          "cagua":  1315,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  59,
                           "bolivar":  44
@@ -540,7 +540,7 @@
                           "margarita":  26,
                           "capital":  13,
                           "barcelona":  20,
-                          "cagua":  1315,
+                          "cagua":  1318,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  38,
                           "bolivar":  70
@@ -553,7 +553,7 @@
                           "margarita":  23,
                           "capital":  5,
                           "barcelona":  13,
-                          "cagua":  2239,
+                          "cagua":  2241,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  33,
                           "bolivar":  26
@@ -735,7 +735,7 @@
                           "margarita":  10,
                           "capital":  143,
                           "barcelona":  0,
-                          "cagua":  2089,
+                          "cagua":  2092,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  86,
                           "bolivar":  36
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 11:50:46",
+    "ultima_actualizacion":  "11/11/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3686,7 +3686,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  463,
+                      "cantidad":  465,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-19102026",
@@ -3806,7 +3806,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  482,
+                      "cantidad":  485,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -3916,7 +3916,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  326,
+                      "cantidad":  328,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-291026",
@@ -5276,7 +5276,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  855,
+                      "cantidad":  858,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -6525,5 +6525,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60216
+    "total_general_cajas":  60226
 };
