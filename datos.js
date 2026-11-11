@@ -127,14 +127,14 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2669
+                          "cajas":  2646
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87050.9,
-                          "cajas":  46448
+                          "cajas":  46449
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -230,7 +230,7 @@
                           "barcelona":  40,
                           "cagua":  1184,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  80,
+                          "barquisimeto":  75,
                           "bolivar":  37
                       },
                       {
@@ -425,7 +425,7 @@
                           "barcelona":  13,
                           "cagua":  278,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                          "barquisimeto":  50,
+                          "barquisimeto":  40,
                           "bolivar":  5
                       },
                       {
@@ -490,7 +490,7 @@
                           "barcelona":  16,
                           "cagua":  30,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
-                          "barquisimeto":  20,
+                          "barquisimeto":  16,
                           "bolivar":  14
                       },
                       {
@@ -503,7 +503,7 @@
                           "barcelona":  9,
                           "cagua":  143,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
-                          "barquisimeto":  20,
+                          "barquisimeto":  17,
                           "bolivar":  0
                       },
                       {
@@ -828,7 +828,7 @@
                           "barcelona":  0,
                           "cagua":  339,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
-                          "barquisimeto":  20,
+                          "barquisimeto":  19,
                           "bolivar":  0
                       },
                       {
@@ -917,7 +917,7 @@
                           "margarita":  0,
                           "capital":  6,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  1,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  7,
                           "bolivar":  13
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 13:50:46",
+    "ultima_actualizacion":  "11/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6516,6 +6516,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-141026",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  11,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -6525,5 +6535,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60202
+    "total_general_cajas":  60180
 };
