@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87277.9,
-                          "cajas":  44933
+                          "cajas":  44865
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1111
+                          "cajas":  1110
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -449,7 +449,7 @@
                           "margarita":  52,
                           "capital":  105,
                           "barcelona":  35,
-                          "cagua":  898,
+                          "cagua":  853,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  77,
                           "bolivar":  16
@@ -500,7 +500,7 @@
                           "andes":  0,
                           "margarita":  20,
                           "capital":  17,
-                          "barcelona":  10,
+                          "barcelona":  9,
                           "cagua":  163,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
@@ -514,7 +514,7 @@
                           "margarita":  19,
                           "capital":  13,
                           "barcelona":  2,
-                          "cagua":  173,
+                          "cagua":  150,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  17,
                           "bolivar":  0
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 07:50:46",
+    "ultima_actualizacion":  "11/11/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3026,7 +3026,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  898,
+                      "cantidad":  853,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-161026",
@@ -3396,7 +3396,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-231026",
@@ -3486,7 +3486,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  53,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-06112026 NV",
@@ -6345,5 +6345,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  57539
+    "total_general_cajas":  57470
 };
