@@ -141,14 +141,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1755
+                          "cajas":  1752
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2275
+                          "cajas":  2277
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  184,
                           "margarita":  172,
-                          "capital":  90,
+                          "capital":  88,
                           "barcelona":  78,
                           "cagua":  2033,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -432,7 +432,7 @@
                           "zulia":  40,
                           "codigo":  "4MNA009",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  32,
                           "margarita":  20,
                           "capital":  2,
                           "barcelona":  7,
@@ -564,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  15,
-                          "capital":  11,
+                          "capital":  10,
                           "barcelona":  16,
                           "cagua":  172,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 08:50:46",
+    "ultima_actualizacion":  "11/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2196,7 +2196,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  90,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -2896,7 +2896,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  30,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-08102026",
@@ -3933,16 +3933,6 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "04-11-2028"
-                  },
-                  {
-                      "codigo":  "4MSA008",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "17-12-2025",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1227-17122025",
-                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-12-2027"
                   },
                   {
                       "codigo":  "4MSA008",
@@ -6345,5 +6335,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  57470
+    "total_general_cajas":  57469
 };
