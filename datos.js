@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 15:50:46",
+    "ultima_actualizacion":  "11/11/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4126,7 +4126,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  12,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -4436,7 +4436,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  40,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-08092026",
@@ -6446,7 +6446,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  11,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
