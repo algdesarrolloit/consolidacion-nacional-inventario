@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  87050.9,
-                          "cajas":  46460
+                          "cajas":  46452
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -228,7 +228,7 @@
                           "margarita":  29,
                           "capital":  23,
                           "barcelona":  40,
-                          "cagua":  1194,
+                          "cagua":  1186,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  80,
                           "bolivar":  37
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 12:50:46",
+    "ultima_actualizacion":  "11/11/2026 13:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1446,7 +1446,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  1194,
+                      "cantidad":  1186,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -6525,5 +6525,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60226
+    "total_general_cajas":  60218
 };
