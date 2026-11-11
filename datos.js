@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  35322.9,
-                                                              "bidones":  588.72
+                                                              "kg":  34242.9,
+                                                              "bidones":  570.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  87277.9,
+                          "kg":  86197.9,
                           "cajas":  44865
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1626
                       }
                   ],
-    "total_general_kg":  87277.9,
+    "total_general_kg":  86197.9,
     "productos":  [
                       {
                           "zulia":  62,
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  35322.9,
+                          "cagua":  34242.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -962,11 +962,11 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "11/11/2026 08:20:46",
+    "ultima_actualizacion":  "11/11/2026 08:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  3482.9,
+                      "cantidad":  2402.9,
                       "fecha_fabricacion":  "13-09-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0627-130925-231",
