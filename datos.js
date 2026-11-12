@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  34242.9,
-                                                              "bidones":  570.72
+                                                              "kg":  50442.9,
+                                                              "bidones":  840.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  38830,
-                                                              "bidones":  706
+                                                              "kg":  53680,
+                                                              "bidones":  976
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,8 +133,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  86885.9,
-                          "cajas":  47033
+                          "kg":  117935.9,
+                          "cajas":  47032
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3094
+                          "cajas":  3042
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -179,7 +179,7 @@
                           "cajas":  1626
                       }
                   ],
-    "total_general_kg":  86885.9,
+    "total_general_kg":  117935.9,
     "productos":  [
                       {
                           "zulia":  61,
@@ -403,7 +403,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  9,
+                          "zulia":  0,
                           "codigo":  "4MMA014",
                           "um":  "CJ",
                           "andes":  0,
@@ -442,7 +442,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  69,
+                          "zulia":  25,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  54,
@@ -910,14 +910,14 @@
                           "bolivar":  55
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  1,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  1,
+                          "cagua":  0,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  7,
                           "bolivar":  13
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  34242.9,
+                          "cagua":  50442.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -943,7 +943,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  38830,
+                          "cagua":  53680,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 09:20:47",
+    "ultima_actualizacion":  "12/11/2026 09:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -983,6 +983,16 @@
                       "descripcion":  "ACEITUNAS ENTERAS",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-09-2027"
+                  },
+                  {
+                      "codigo":  "1VEG001",
+                      "cantidad":  16200,
+                      "fecha_fabricacion":  "06-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "MP 0928-060926-284",
+                      "descripcion":  "ACEITUNAS ENTERAS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-09-2028"
                   },
                   {
                       "codigo":  "1VEG001",
@@ -1023,6 +1033,16 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-07-2028"
+                  },
+                  {
+                      "codigo":  "1VEG002",
+                      "cantidad":  14850,
+                      "fecha_fabricacion":  "06-09-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "MP 0928-060926-283",
+                      "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-09-2028"
                   },
                   {
                       "codigo":  "1VEG003",
@@ -6496,16 +6516,6 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "14-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-141026",
-                      "descripcion":  "VINAGRE 4 X 3.785 L",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-10-2028"
-                  },
-                  {
-                      "codigo":  "4MVI006",
                       "cantidad":  11,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -6513,7 +6523,17 @@
                       "descripcion":  "VINAGRE 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "14-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-141026",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  60338
+    "total_general_cajas":  60285
 };
