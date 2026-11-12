@@ -162,14 +162,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3086
+                          "cajas":  2997
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  2387
+                          "cajas":  2371
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -442,7 +442,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  69,
+                          "zulia":  39,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  54,
@@ -494,7 +494,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  7,
+                          "zulia":  0,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  0,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  32,
+                          "zulia":  0,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
@@ -546,7 +546,7 @@
                           "bolivar":  70
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  50,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
@@ -617,7 +617,7 @@
                           "andes":  28,
                           "margarita":  9,
                           "capital":  74,
-                          "barcelona":  20,
+                          "barcelona":  17,
                           "cagua":  278,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
                           "barquisimeto":  39,
@@ -734,7 +734,7 @@
                           "andes":  188,
                           "margarita":  10,
                           "capital":  143,
-                          "barcelona":  60,
+                          "barcelona":  50,
                           "cagua":  2032,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  51,
@@ -747,7 +747,7 @@
                           "andes":  0,
                           "margarita":  12,
                           "capital":  22,
-                          "barcelona":  40,
+                          "barcelona":  39,
                           "cagua":  653,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
                           "barquisimeto":  24,
@@ -793,7 +793,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  170,
+                          "zulia":  160,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  70,
@@ -812,7 +812,7 @@
                           "andes":  4,
                           "margarita":  12,
                           "capital":  9,
-                          "barcelona":  10,
+                          "barcelona":  8,
                           "cagua":  114,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  30,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 10:51:01",
+    "ultima_actualizacion":  "12/11/2026 11:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6705,5 +6705,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  60329
+    "total_general_cajas":  60224
 };
