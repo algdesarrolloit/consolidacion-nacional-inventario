@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  86885.9,
-                          "cajas":  47040
+                          "cajas":  47036
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  53,
                           "capital":  35,
                           "barcelona":  53,
-                          "cagua":  575,
+                          "cagua":  574,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  107,
                           "bolivar":  95
@@ -215,7 +215,7 @@
                           "margarita":  62,
                           "capital":  27,
                           "barcelona":  43,
-                          "cagua":  1865,
+                          "cagua":  1863,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  111,
                           "bolivar":  57
@@ -228,7 +228,7 @@
                           "margarita":  29,
                           "capital":  21,
                           "barcelona":  40,
-                          "cagua":  984,
+                          "cagua":  983,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  67,
                           "bolivar":  37
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 07:50:46",
+    "ultima_actualizacion":  "12/11/2026 08:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6515,5 +6515,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60346
+    "total_general_cajas":  60342
 };
