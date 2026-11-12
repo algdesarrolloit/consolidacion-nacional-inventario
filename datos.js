@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1245
+                          "cajas":  1246
                       },
                       {
                           "almacen":  "ZULIA",
@@ -550,7 +550,7 @@
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  0,
-                          "margarita":  23,
+                          "margarita":  24,
                           "capital":  5,
                           "barcelona":  13,
                           "cagua":  2231,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 06:50:47",
+    "ultima_actualizacion":  "12/11/2026 07:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3946,7 +3946,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  13,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-300926",
@@ -6515,5 +6515,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60345
+    "total_general_cajas":  60346
 };
