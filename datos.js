@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  86885.9,
-                          "cajas":  47036
+                          "cajas":  47033
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1822
+                          "cajas":  1821
                       },
                       {
                           "almacen":  "ANDES",
@@ -395,7 +395,7 @@
                           "um":  "CJ",
                           "andes":  3,
                           "margarita":  8,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  4,
                           "cagua":  233,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
@@ -668,7 +668,7 @@
                           "um":  "CJ",
                           "andes":  35,
                           "margarita":  22,
-                          "capital":  15,
+                          "capital":  16,
                           "barcelona":  3,
                           "cagua":  98,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -681,7 +681,7 @@
                           "um":  "CJ",
                           "andes":  5,
                           "margarita":  3,
-                          "capital":  7,
+                          "capital":  6,
                           "barcelona":  7,
                           "cagua":  183,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
@@ -709,7 +709,7 @@
                           "margarita":  34,
                           "capital":  58,
                           "barcelona":  49,
-                          "cagua":  2342,
+                          "cagua":  2341,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  47,
                           "bolivar":  20
@@ -891,7 +891,7 @@
                           "margarita":  41,
                           "capital":  26,
                           "barcelona":  3,
-                          "cagua":  2125,
+                          "cagua":  2123,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  61,
                           "bolivar":  53
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 08:20:47",
+    "ultima_actualizacion":  "12/11/2026 08:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2736,7 +2736,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "29-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0127-29092026",
@@ -4826,7 +4826,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  15,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1027-301026",
@@ -4916,7 +4916,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  7,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-22092026",
@@ -5106,7 +5106,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  459,
+                      "cantidad":  458,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-12082026",
@@ -6156,7 +6156,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  195,
+                      "cantidad":  193,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-220926",
@@ -6515,5 +6515,5 @@
                       "fecha_vencimiento":  "13-10-2028"
                   }
               ],
-    "total_general_cajas":  60342
+    "total_general_cajas":  60338
 };
