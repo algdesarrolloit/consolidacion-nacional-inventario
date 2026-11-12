@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3042
+                          "cajas":  3086
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -442,7 +442,7 @@
                           "bolivar":  1
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  69,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  54,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 09:50:47",
+    "ultima_actualizacion":  "12/11/2026 10:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2805,16 +2805,6 @@
                       "fecha_vencimiento":  "14-11-2026"
                   },
                   {
-                      "codigo":  "4MMA014",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "ZULIA",
-                      "lote":  "1126-10072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
                       "codigo":  "4MNA008",
                       "cantidad":  54,
                       "fecha_fabricacion":  "15-10-2026",
@@ -3126,7 +3116,17 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  69,
+                      "cantidad":  44,
+                      "fecha_fabricacion":  "07-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-070726",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  25,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-161026",
@@ -6535,5 +6535,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  60285
+    "total_general_cajas":  60329
 };
