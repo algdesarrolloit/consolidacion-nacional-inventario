@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  13813,
-                                                              "bidones":  76.74
+                                                              "kg":  2340,
+                                                              "bidones":  13
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  117935.9,
+                          "kg":  106462.9,
                           "cajas":  46782
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1620
                       }
                   ],
-    "total_general_kg":  117935.9,
+    "total_general_kg":  106462.9,
     "productos":  [
                       {
                           "zulia":  51,
@@ -956,13 +956,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  13813,
+                          "cagua":  2340,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "12/11/2026 16:50:47",
+    "ultima_actualizacion":  "12/11/2026 17:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1046,7 +1046,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  13813,
+                      "cantidad":  2340,
                       "fecha_fabricacion":  "19-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0729-191026-277",
