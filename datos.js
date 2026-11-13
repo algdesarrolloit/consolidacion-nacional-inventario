@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  106462.9,
-                          "cajas":  48328
+                          "cajas":  48213
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1483
+                          "cajas":  1473
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2732
+                          "cajas":  2749
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -293,7 +293,7 @@
                           "margarita":  15,
                           "capital":  69,
                           "barcelona":  41,
-                          "cagua":  931,
+                          "cagua":  922,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  45,
                           "bolivar":  37
@@ -449,7 +449,7 @@
                           "margarita":  52,
                           "capital":  100,
                           "barcelona":  16,
-                          "cagua":  677,
+                          "cagua":  661,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  122,
                           "bolivar":  15
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  157,
                           "margarita":  19,
-                          "capital":  27,
+                          "capital":  22,
                           "barcelona":  147,
                           "cagua":  2131,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -507,14 +507,14 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  17,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  19,
-                          "capital":  27,
+                          "capital":  22,
                           "barcelona":  1,
-                          "cagua":  10,
+                          "cagua":  0,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  34,
                           "bolivar":  0
@@ -527,7 +527,7 @@
                           "margarita":  25,
                           "capital":  5,
                           "barcelona":  14,
-                          "cagua":  1162,
+                          "cagua":  1159,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  49,
                           "bolivar":  44
@@ -540,7 +540,7 @@
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  29,
-                          "cagua":  1165,
+                          "cagua":  1163,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  28,
                           "bolivar":  70
@@ -644,7 +644,7 @@
                           "margarita":  21,
                           "capital":  11,
                           "barcelona":  13,
-                          "cagua":  532,
+                          "cagua":  523,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  26,
                           "bolivar":  21
@@ -670,7 +670,7 @@
                           "margarita":  22,
                           "capital":  10,
                           "barcelona":  13,
-                          "cagua":  1299,
+                          "cagua":  1290,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  22,
                           "bolivar":  0
@@ -709,7 +709,7 @@
                           "margarita":  34,
                           "capital":  55,
                           "barcelona":  49,
-                          "cagua":  2341,
+                          "cagua":  2324,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  47,
                           "bolivar":  20
@@ -735,7 +735,7 @@
                           "margarita":  10,
                           "capital":  143,
                           "barcelona":  1,
-                          "cagua":  2022,
+                          "cagua":  2020,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  51,
                           "bolivar":  35
@@ -774,7 +774,7 @@
                           "margarita":  19,
                           "capital":  1,
                           "barcelona":  21,
-                          "cagua":  1417,
+                          "cagua":  1401,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  32,
                           "bolivar":  29
@@ -800,7 +800,7 @@
                           "margarita":  29,
                           "capital":  126,
                           "barcelona":  12,
-                          "cagua":  1553,
+                          "cagua":  1548,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  57,
                           "bolivar":  61
@@ -891,7 +891,7 @@
                           "margarita":  41,
                           "capital":  16,
                           "barcelona":  50,
-                          "cagua":  2058,
+                          "cagua":  2041,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  61,
                           "bolivar":  53
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 08:50:46",
+    "ultima_actualizacion":  "13/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3663,6 +3663,26 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "06-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-06072026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-07-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  15,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-271026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -6755,5 +6775,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63000
+    "total_general_cajas":  62892
 };
