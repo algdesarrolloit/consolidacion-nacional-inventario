@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2749
+                          "cajas":  2750
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -728,7 +728,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  113,
+                          "zulia":  114,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  188,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 09:20:46",
+    "ultima_actualizacion":  "13/11/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3406,7 +3406,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  7,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3636,7 +3636,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  27,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-271026",
@@ -5436,6 +5436,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "23-06-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0628-230626",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-06-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  113,
                       "fecha_fabricacion":  "30-06-2026",
                       "ubicacion":  "ZULIA",
@@ -6775,5 +6785,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62892
+    "total_general_cajas":  62893
 };
