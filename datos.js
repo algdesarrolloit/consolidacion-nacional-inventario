@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  121582.9,
-                          "cajas":  47310
+                          "cajas":  48534
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -423,7 +423,7 @@
                           "margarita":  20,
                           "capital":  0,
                           "barcelona":  13,
-                          "cagua":  1434,
+                          "cagua":  1879,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  25,
                           "bolivar":  105
@@ -475,7 +475,7 @@
                           "margarita":  22,
                           "capital":  8,
                           "barcelona":  11,
-                          "cagua":  115,
+                          "cagua":  894,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  13,
                           "bolivar":  59
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 14:20:46",
+    "ultima_actualizacion":  "13/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3003,7 +3003,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  819,
+                      "cantidad":  1264,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-111126",
@@ -3490,6 +3490,36 @@
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  172,
+                      "fecha_fabricacion":  "30-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E- 1028-30102026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "28-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E-1028-281026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  606,
+                      "fecha_fabricacion":  "03-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E-1128-03112026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "03-11-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -6872,5 +6902,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62263
+    "total_general_cajas":  63487
 };
