@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  121582.9,
-                          "cajas":  48716
+                          "cajas":  48684
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -228,7 +228,7 @@
                           "margarita":  29,
                           "capital":  21,
                           "barcelona":  40,
-                          "cagua":  996,
+                          "cagua":  984,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  67,
                           "bolivar":  15
@@ -449,7 +449,7 @@
                           "margarita":  20,
                           "capital":  40,
                           "barcelona":  24,
-                          "cagua":  1219,
+                          "cagua":  1209,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  91,
                           "bolivar":  53
@@ -488,7 +488,7 @@
                           "margarita":  20,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  37,
+                          "cagua":  27,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  10,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 15:20:46",
+    "ultima_actualizacion":  "13/11/2026 15:51:00",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1303,16 +1303,6 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "21-05-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0527-210526",
-                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA018",
                       "cantidad":  852,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "CAGUA",
@@ -1423,7 +1413,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  996,
+                      "cantidad":  984,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -3263,16 +3253,6 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "20-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-201026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
                       "cantidad":  2,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAGUA",
@@ -3653,7 +3633,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  37,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-231026",
@@ -7072,5 +7052,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63665
+    "total_general_cajas":  63633
 };
