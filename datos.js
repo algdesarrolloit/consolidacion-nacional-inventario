@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  50442.9,
-                                                              "bidones":  840.72
+                                                              "kg":  43842.9,
+                                                              "bidones":  730.72
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -127,13 +127,13 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2127
+                          "cajas":  2072
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  121582.9,
+                          "kg":  114982.9,
                           "cajas":  48684
                       },
                       {
@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1469
+                          "cajas":  1475
                       },
                       {
                           "almacen":  "ANDES",
@@ -179,7 +179,7 @@
                           "cajas":  1909
                       }
                   ],
-    "total_general_kg":  121582.9,
+    "total_general_kg":  114982.9,
     "productos":  [
                       {
                           "zulia":  51,
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  166,
                           "margarita":  53,
-                          "capital":  35,
+                          "capital":  38,
                           "barcelona":  52,
                           "cagua":  575,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  364,
                           "margarita":  172,
-                          "capital":  71,
+                          "capital":  72,
                           "barcelona":  130,
                           "cagua":  6253,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -464,7 +464,7 @@
                           "barcelona":  147,
                           "cagua":  2081,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
-                          "barquisimeto":  114,
+                          "barquisimeto":  59,
                           "bolivar":  52
                       },
                       {
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  22,
-                          "capital":  8,
+                          "capital":  9,
                           "barcelona":  11,
                           "cagua":  894,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  25,
-                          "capital":  5,
+                          "capital":  6,
                           "barcelona":  14,
                           "cagua":  1166,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -917,7 +917,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  50442.9,
+                          "cagua":  43842.9,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,21 +949,11 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 15:51:00",
+    "ultima_actualizacion":  "13/11/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  2402.9,
-                      "fecha_fabricacion":  "13-09-2025",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 0627-130925-231",
-                      "descripcion":  "ACEITUNAS ENTERAS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-06-2027"
-                  },
-                  {
-                      "codigo":  "1VEG001",
-                      "cantidad":  16000,
+                      "cantidad":  11802.9,
                       "fecha_fabricacion":  "11-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0927-111125-396",
@@ -1123,7 +1113,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  35,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1556,16 +1546,6 @@
                       "cantidad":  29,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0627-090626",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-06-2027"
-                  },
-                  {
-                      "codigo":  "4CNA026",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "09-06-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0627-090626",
                       "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                       "um":  "CJ",
@@ -2220,6 +2200,16 @@
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "13-11-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "07-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1028-071026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -3343,7 +3333,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  114,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0628-180626",
@@ -3593,6 +3583,16 @@
                   },
                   {
                       "codigo":  "4MNA015",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "27-11-2025",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1128-271125 NV",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
                       "cantidad":  22,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "MARGARITA",
@@ -3833,7 +3833,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  5,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-19102026",
@@ -7052,5 +7052,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63633
+    "total_general_cajas":  63584
 };
