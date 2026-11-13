@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2132
+                          "cajas":  2127
                       },
                       {
                           "almacen":  "CAGUA",
@@ -155,7 +155,7 @@
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1246
+                          "cajas":  1235
                       },
                       {
                           "almacen":  "ZULIA",
@@ -334,7 +334,7 @@
                           "barcelona":  130,
                           "cagua":  6239,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  91,
+                          "barquisimeto":  88,
                           "bolivar":  213
                       },
                       {
@@ -386,7 +386,7 @@
                           "barcelona":  253,
                           "cagua":  4512,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                          "barquisimeto":  186,
+                          "barquisimeto":  184,
                           "bolivar":  276
                       },
                       {
@@ -400,19 +400,6 @@
                           "cagua":  213,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  21,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "4MMA014",
-                          "um":  "CJ",
-                          "andes":  0,
-                          "margarita":  11,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  0,
-                          "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -962,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 13:20:46",
+    "ultima_actualizacion":  "13/11/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2156,7 +2143,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  91,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1028-071026",
@@ -2676,7 +2663,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  186,
+                      "cantidad":  184,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0427-061026",
@@ -6935,5 +6922,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62278
+    "total_general_cajas":  62262
 };
