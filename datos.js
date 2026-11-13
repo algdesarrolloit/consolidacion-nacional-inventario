@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  121582.9,
-                          "cajas":  47240
+                          "cajas":  47310
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1978
+                          "cajas":  1908
                       }
                   ],
     "total_general_kg":  121582.9,
@@ -670,10 +670,10 @@
                           "margarita":  22,
                           "capital":  10,
                           "barcelona":  13,
-                          "cagua":  1170,
+                          "cagua":  1230,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  22,
-                          "bolivar":  114
+                          "bolivar":  54
                       },
                       {
                           "zulia":  16,
@@ -683,10 +683,10 @@
                           "margarita":  3,
                           "capital":  6,
                           "barcelona":  27,
-                          "cagua":  128,
+                          "cagua":  138,
                           "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                           "barquisimeto":  21,
-                          "bolivar":  20
+                          "bolivar":  10
                       },
                       {
                           "zulia":  20,
@@ -962,7 +962,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 12:20:46",
+    "ultima_actualizacion":  "13/11/2026 12:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4926,7 +4926,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  64,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1027-301026",
@@ -4936,13 +4936,23 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  56,
+                      "cantidad":  54,
                       "fecha_fabricacion":  "12-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1127-121126",
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-11-2027"
+                  },
+                  {
+                      "codigo":  "4MSU015",
+                      "cantidad":  58,
+                      "fecha_fabricacion":  "30-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-301026",
+                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "30-10-2027"
                   },
                   {
                       "codigo":  "4MSU015",
@@ -4956,7 +4966,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  880,
+                      "cantidad":  882,
                       "fecha_fabricacion":  "12-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1127-121126",
@@ -5056,7 +5066,7 @@
                   },
                   {
                       "codigo":  "4MSU017",
-                      "cantidad":  16,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1027-151026",
@@ -5073,6 +5083,16 @@
                       "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-10-2027"
+                  },
+                  {
+                      "codigo":  "4MSU017",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1027-151026",
+                      "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2027"
                   },
                   {
                       "codigo":  "4MSU017",
