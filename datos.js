@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1908
+                          "cajas":  1909
                       }
                   ],
     "total_general_kg":  121582.9,
@@ -868,7 +868,7 @@
                           "cagua":  9,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  11,
-                          "bolivar":  7
+                          "bolivar":  8
                       },
                       {
                           "zulia":  118,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "13/11/2026 13:50:46",
+    "ultima_actualizacion":  "13/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1103,17 +1103,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  32,
-                      "fecha_fabricacion":  "20-01-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "0127-200126",
-                      "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "20-01-2027"
-                  },
-                  {
-                      "codigo":  "4CNA016",
-                      "cantidad":  63,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0627-150626",
@@ -1203,7 +1193,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  30,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-31052026",
@@ -1303,7 +1293,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  57,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-230526",
@@ -1413,7 +1403,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  37,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-31052026",
@@ -1753,7 +1743,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  37,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-170926",
@@ -2153,7 +2143,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  98,
+                      "cantidad":  93,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-22092026",
@@ -2303,7 +2293,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-300726",
@@ -2673,7 +2663,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  177,
+                      "cantidad":  171,
                       "fecha_fabricacion":  "02-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0427-021026",
@@ -2842,26 +2832,6 @@
                       "fecha_vencimiento":  "29-01-2027"
                   },
                   {
-                      "codigo":  "4MMA014",
-                      "cantidad":  5,
-                      "fecha_fabricacion":  "10-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1126-10072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "10-11-2026"
-                  },
-                  {
-                      "codigo":  "4MMA014",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "14-07-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1126-14072026",
-                      "descripcion":  "PREPARADO DE MAYONESA 4 X 3.44 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "14-11-2026"
-                  },
-                  {
                       "codigo":  "4MNA008",
                       "cantidad":  53,
                       "fecha_fabricacion":  "15-10-2026",
@@ -2893,7 +2863,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  5,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-151026",
@@ -3013,17 +2983,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "08-10-2026",
-                      "ubicacion":  "BOLIVAR",
-                      "lote":  "1028-08102026",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
-                      "cantidad":  117,
+                      "cantidad":  105,
                       "fecha_fabricacion":  "10-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-101126",
@@ -3113,7 +3073,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  66,
+                      "cantidad":  42,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-161026",
@@ -3223,7 +3183,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  25,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-021126",
@@ -3333,7 +3293,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  59,
+                      "cantidad":  53,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0628-180626",
@@ -3503,7 +3463,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  14,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-281026",
@@ -4693,7 +4653,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  20,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0728-280726",
@@ -4793,7 +4753,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  21,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-18092026",
@@ -4906,16 +4866,6 @@
                       "cantidad":  22,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "BARQUISIMETO",
-                      "lote":  "1027-301026",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-10-2027"
-                  },
-                  {
-                      "codigo":  "4MSU015",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "30-10-2026",
-                      "ubicacion":  "BOLIVAR",
                       "lote":  "1027-301026",
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
@@ -5283,7 +5233,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-12082026",
@@ -5433,7 +5383,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  16,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "20-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-20082026",
@@ -5563,7 +5513,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-061126",
@@ -5643,7 +5593,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  13,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-230926",
@@ -5723,7 +5673,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  29,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-210926",
@@ -5813,7 +5763,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  40,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-25082026",
@@ -6163,7 +6113,7 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  20,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-09112026",
@@ -6243,7 +6193,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-091126",
@@ -6313,7 +6263,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  10,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-221026",
@@ -6393,7 +6343,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-09112026",
@@ -6463,7 +6413,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-211026",
@@ -6543,7 +6493,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  15,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-010926",
@@ -6763,7 +6713,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  32,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-110926",
@@ -6893,7 +6843,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  13,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1028-131026",
@@ -6922,5 +6872,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62262
+    "total_general_cajas":  62263
 };
