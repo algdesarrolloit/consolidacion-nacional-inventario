@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3625
+                          "cajas":  3773
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -549,7 +549,7 @@
                           "zulia":  40,
                           "codigo":  "4MSA008",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  137,
                           "margarita":  15,
                           "capital":  5,
                           "barcelona":  31,
@@ -575,7 +575,7 @@
                           "zulia":  48,
                           "codigo":  "4MSA013",
                           "um":  "CJ",
-                          "andes":  34,
+                          "andes":  37,
                           "margarita":  9,
                           "capital":  27,
                           "barcelona":  21,
@@ -588,7 +588,7 @@
                           "zulia":  56,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
-                          "andes":  47,
+                          "andes":  52,
                           "margarita":  8,
                           "capital":  23,
                           "barcelona":  22,
@@ -601,7 +601,7 @@
                           "zulia":  57,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
-                          "andes":  48,
+                          "andes":  53,
                           "margarita":  9,
                           "capital":  74,
                           "barcelona":  17,
@@ -718,7 +718,7 @@
                           "zulia":  114,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
-                          "andes":  188,
+                          "andes":  216,
                           "margarita":  10,
                           "capital":  143,
                           "barcelona":  7,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 17:20:46",
+    "ultima_actualizacion":  "16/11/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3973,6 +3973,16 @@
                   },
                   {
                       "codigo":  "4MSA008",
+                      "cantidad":  107,
+                      "fecha_fabricacion":  "15-07-2025",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0727-150725",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-07-2027"
+                  },
+                  {
+                      "codigo":  "4MSA008",
                       "cantidad":  30,
                       "fecha_fabricacion":  "04-11-2026",
                       "ubicacion":  "ANDES",
@@ -4090,6 +4100,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA013",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "19-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0627-19062026",
+                      "descripcion":  "SALSA INGLESA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-06-2027"
                   },
                   {
                       "codigo":  "4MSA013",
@@ -4263,6 +4283,16 @@
                   },
                   {
                       "codigo":  "4MSA015",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "19-02-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0227-19022026",
+                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-02-2027"
+                  },
+                  {
+                      "codigo":  "4MSA015",
                       "cantidad":  23,
                       "fecha_fabricacion":  "10-09-2026",
                       "ubicacion":  "ANDES",
@@ -4430,6 +4460,26 @@
                       "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-12-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "12-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0627-120626",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-06-2027"
+                  },
+                  {
+                      "codigo":  "4MSA017",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "19-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0627-19062026",
+                      "descripcion":  "SALSA DE AJO 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-06-2027"
                   },
                   {
                       "codigo":  "4MSA017",
@@ -5330,6 +5380,16 @@
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 24 X 190GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "19-05-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  28,
+                      "fecha_fabricacion":  "22-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0628-220626",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-06-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -6902,5 +6962,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  61945
+    "total_general_cajas":  62093
 };
