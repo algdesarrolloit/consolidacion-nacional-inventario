@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1620
+                          "cajas":  1629
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -721,7 +721,7 @@
                           "andes":  188,
                           "margarita":  10,
                           "capital":  143,
-                          "barcelona":  2,
+                          "barcelona":  7,
                           "cagua":  2038,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  0,
@@ -825,7 +825,7 @@
                           "andes":  36,
                           "margarita":  0,
                           "capital":  0,
-                          "barcelona":  6,
+                          "barcelona":  7,
                           "cagua":  272,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  7,
@@ -838,7 +838,7 @@
                           "andes":  16,
                           "margarita":  0,
                           "capital":  9,
-                          "barcelona":  6,
+                          "barcelona":  7,
                           "cagua":  8,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
                           "barquisimeto":  10,
@@ -851,7 +851,7 @@
                           "andes":  16,
                           "margarita":  0,
                           "capital":  9,
-                          "barcelona":  6,
+                          "barcelona":  7,
                           "cagua":  335,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
                           "barquisimeto":  7,
@@ -864,7 +864,7 @@
                           "andes":  16,
                           "margarita":  0,
                           "capital":  9,
-                          "barcelona":  6,
+                          "barcelona":  7,
                           "cagua":  4,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
                           "barquisimeto":  10,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 11:20:46",
+    "ultima_actualizacion":  "16/11/2026 11:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -5393,7 +5393,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  1,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-170926",
@@ -6203,6 +6203,16 @@
                   },
                   {
                       "codigo":  "4MTO050",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "13-08-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0828-130826",
+                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO050",
                       "cantidad":  6,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BARCELONA",
@@ -6273,7 +6283,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  6,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -6343,7 +6353,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  2,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -6423,7 +6433,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  6,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-211026",
@@ -6892,5 +6902,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62556
+    "total_general_cajas":  62565
 };
