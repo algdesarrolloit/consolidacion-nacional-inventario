@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3773
+                          "cajas":  3799
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -588,7 +588,7 @@
                           "zulia":  56,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
-                          "andes":  52,
+                          "andes":  68,
                           "margarita":  8,
                           "capital":  23,
                           "barcelona":  22,
@@ -601,7 +601,7 @@
                           "zulia":  57,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
-                          "andes":  53,
+                          "andes":  63,
                           "margarita":  9,
                           "capital":  74,
                           "barcelona":  17,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 17:50:46",
+    "ultima_actualizacion":  "16/11/2026 18:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4283,7 +4283,17 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  5,
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "14-01-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0127-14012026",
+                      "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "14-01-2027"
+                  },
+                  {
+                      "codigo":  "4MSA015",
+                      "cantidad":  18,
                       "fecha_fabricacion":  "19-02-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0227-19022026",
@@ -4463,7 +4473,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  2,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0627-120626",
@@ -6962,5 +6972,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62093
+    "total_general_cajas":  62119
 };
