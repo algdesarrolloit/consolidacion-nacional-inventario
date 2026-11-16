@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114982.9,
-                          "cajas":  48684
+                          "cajas":  49362
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -449,7 +449,7 @@
                           "margarita":  20,
                           "capital":  40,
                           "barcelona":  24,
-                          "cagua":  1209,
+                          "cagua":  1099,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  91,
                           "bolivar":  53
@@ -488,7 +488,7 @@
                           "margarita":  20,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  27,
+                          "cagua":  743,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  6,
                           "bolivar":  0
@@ -644,7 +644,7 @@
                           "margarita":  0,
                           "capital":  3,
                           "barcelona":  0,
-                          "cagua":  280,
+                          "cagua":  352,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 09:50:46",
+    "ultima_actualizacion":  "16/11/2026 10:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3223,7 +3223,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  135,
+                      "cantidad":  25,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-03112026",
@@ -3630,6 +3630,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  716,
+                      "fecha_fabricacion":  "13-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-131126",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-11-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -4963,7 +4973,7 @@
                   },
                   {
                       "codigo":  "4MSU014",
-                      "cantidad":  280,
+                      "cantidad":  352,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-061026",
@@ -7042,5 +7052,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63007
+    "total_general_cajas":  63685
 };
