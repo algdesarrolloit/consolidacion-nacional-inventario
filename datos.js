@@ -141,14 +141,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1416
+                          "cajas":  1422
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3589
+                          "cajas":  3625
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -341,7 +341,7 @@
                           "zulia":  11,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
-                          "andes":  59,
+                          "andes":  70,
                           "margarita":  6,
                           "capital":  29,
                           "barcelona":  18,
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  20,
-                          "capital":  30,
+                          "capital":  36,
                           "barcelona":  24,
                           "cagua":  1008,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -692,7 +692,7 @@
                           "zulia":  59,
                           "codigo":  "4MTO011",
                           "um":  "CJ",
-                          "andes":  50,
+                          "andes":  57,
                           "margarita":  34,
                           "capital":  55,
                           "barcelona":  49,
@@ -731,7 +731,7 @@
                           "zulia":  30,
                           "codigo":  "4MTO014",
                           "um":  "CJ",
-                          "andes":  60,
+                          "andes":  62,
                           "margarita":  12,
                           "capital":  15,
                           "barcelona":  38,
@@ -757,7 +757,7 @@
                           "zulia":  36,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
-                          "andes":  16,
+                          "andes":  32,
                           "margarita":  19,
                           "capital":  0,
                           "barcelona":  21,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 16:50:46",
+    "ultima_actualizacion":  "16/11/2026 17:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2233,6 +2233,16 @@
                   },
                   {
                       "codigo":  "4MKE009",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "16-01-2025",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0128-160125",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP HOT 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-01-2028"
+                  },
+                  {
+                      "codigo":  "4MKE009",
                       "cantidad":  59,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ANDES",
@@ -3063,7 +3073,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  98,
+                      "cantidad":  92,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-161026",
@@ -3153,7 +3163,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  30,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -5173,6 +5183,16 @@
                   },
                   {
                       "codigo":  "4MTO011",
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "21-01-2025",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0128-210125",
+                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "21-01-2028"
+                  },
+                  {
+                      "codigo":  "4MTO011",
                       "cantidad":  50,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "ANDES",
@@ -5180,6 +5200,16 @@
                       "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO011",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "05-11-2024",
+                      "ubicacion":  "ANDES",
+                      "lote":  "1127-051124",
+                      "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-11-2027"
                   },
                   {
                       "codigo":  "4MTO011",
@@ -5463,6 +5493,16 @@
                   },
                   {
                       "codigo":  "4MTO014",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "17-12-2025",
+                      "ubicacion":  "ANDES",
+                      "lote":  "1228-17122025",
+                      "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-12-2028"
+                  },
+                  {
+                      "codigo":  "4MTO014",
                       "cantidad":  38,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "BARCELONA",
@@ -5613,6 +5653,16 @@
                   },
                   {
                       "codigo":  "4MTO016",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "22-01-2025",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0128-220125",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-01-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
                       "cantidad":  16,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "ANDES",
@@ -5620,6 +5670,16 @@
                       "descripcion":  "SALSA NAPOLITANA 12X490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "21-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO016",
+                      "cantidad":  6,
+                      "fecha_fabricacion":  "16-12-2024",
+                      "ubicacion":  "ANDES",
+                      "lote":  "1227-161224",
+                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-12-2027"
                   },
                   {
                       "codigo":  "4MTO016",
@@ -6842,5 +6902,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  61903
+    "total_general_cajas":  61945
 };
