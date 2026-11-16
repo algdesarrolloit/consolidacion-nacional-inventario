@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1734
+                          "cajas":  1664
                       },
                       {
                           "almacen":  "CAGUA",
@@ -191,7 +191,7 @@
                           "barcelona":  52,
                           "cagua":  575,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  105,
+                          "barquisimeto":  75,
                           "bolivar":  45
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  51,
                           "cagua":  323,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  96,
+                          "barquisimeto":  86,
                           "bolivar":  10
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  42,
                           "cagua":  1861,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  109,
+                          "barquisimeto":  89,
                           "bolivar":  6
                       },
                       {
@@ -230,7 +230,7 @@
                           "barcelona":  40,
                           "cagua":  984,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  67,
+                          "barquisimeto":  57,
                           "bolivar":  15
                       },
                       {
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 13:20:46",
+    "ultima_actualizacion":  "16/11/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6862,5 +6862,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62565
+    "total_general_cajas":  62495
 };
