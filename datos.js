@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1771
+                          "cajas":  1734
                       },
                       {
                           "almacen":  "CAGUA",
@@ -503,7 +503,7 @@
                           "barcelona":  1,
                           "cagua":  4,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  31,
+                          "barquisimeto":  28,
                           "bolivar":  0
                       },
                       {
@@ -516,7 +516,7 @@
                           "barcelona":  14,
                           "cagua":  1166,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                          "barquisimeto":  39,
+                          "barquisimeto":  35,
                           "bolivar":  44
                       },
                       {
@@ -529,7 +529,7 @@
                           "barcelona":  29,
                           "cagua":  1170,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                          "barquisimeto":  28,
+                          "barquisimeto":  27,
                           "bolivar":  70
                       },
                       {
@@ -542,7 +542,7 @@
                           "barcelona":  22,
                           "cagua":  2070,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                          "barquisimeto":  23,
+                          "barquisimeto":  21,
                           "bolivar":  25
                       },
                       {
@@ -568,7 +568,7 @@
                           "barcelona":  0,
                           "cagua":  13,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  3,
+                          "barquisimeto":  0,
                           "bolivar":  0
                       },
                       {
@@ -620,7 +620,7 @@
                           "barcelona":  24,
                           "cagua":  2265,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
-                          "barquisimeto":  62,
+                          "barquisimeto":  60,
                           "bolivar":  19
                       },
                       {
@@ -633,7 +633,7 @@
                           "barcelona":  13,
                           "cagua":  525,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
-                          "barquisimeto":  20,
+                          "barquisimeto":  16,
                           "bolivar":  20
                       },
                       {
@@ -698,7 +698,7 @@
                           "barcelona":  49,
                           "cagua":  2326,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
-                          "barquisimeto":  45,
+                          "barquisimeto":  44,
                           "bolivar":  18
                       },
                       {
@@ -737,7 +737,7 @@
                           "barcelona":  38,
                           "cagua":  529,
                           "descripcion":  "SALSA BOLOGNESA 12 X 490GR",
-                          "barquisimeto":  22,
+                          "barquisimeto":  20,
                           "bolivar":  59
                       },
                       {
@@ -750,7 +750,7 @@
                           "barcelona":  7,
                           "cagua":  164,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                          "barquisimeto":  9,
+                          "barquisimeto":  7,
                           "bolivar":  12
                       },
                       {
@@ -763,7 +763,7 @@
                           "barcelona":  21,
                           "cagua":  1401,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                          "barquisimeto":  30,
+                          "barquisimeto":  28,
                           "bolivar":  28
                       },
                       {
@@ -776,7 +776,7 @@
                           "barcelona":  22,
                           "cagua":  826,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
-                          "barquisimeto":  27,
+                          "barquisimeto":  26,
                           "bolivar":  38
                       },
                       {
@@ -789,7 +789,7 @@
                           "barcelona":  12,
                           "cagua":  1548,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
-                          "barquisimeto":  55,
+                          "barquisimeto":  45,
                           "bolivar":  61
                       },
                       {
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 08:50:46",
+    "ultima_actualizacion":  "16/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -7042,5 +7042,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63044
+    "total_general_cajas":  63007
 };
