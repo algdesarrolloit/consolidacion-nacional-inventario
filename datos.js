@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 13:50:46",
+    "ultima_actualizacion":  "16/11/2026 14:20:57",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1083,7 +1083,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  105,
+                      "cantidad":  75,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0627-150626",
@@ -1173,7 +1173,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  96,
+                      "cantidad":  86,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1263,17 +1263,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  19,
-                      "fecha_fabricacion":  "21-05-2026",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "0527-210526",
-                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-05-2027"
-                  },
-                  {
-                      "codigo":  "4CNA018",
-                      "cantidad":  90,
+                      "cantidad":  89,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-230526",
@@ -1383,7 +1373,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  67,
+                      "cantidad":  57,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
