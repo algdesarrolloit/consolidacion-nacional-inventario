@@ -141,14 +141,14 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1422
+                          "cajas":  1416
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3555
+                          "cajas":  3589
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  52,
-                          "capital":  98,
+                          "capital":  92,
                           "barcelona":  16,
                           "cagua":  552,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -874,7 +874,7 @@
                           "zulia":  118,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
-                          "andes":  83,
+                          "andes":  107,
                           "margarita":  41,
                           "capital":  12,
                           "barcelona":  50,
@@ -900,7 +900,7 @@
                           "zulia":  1,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
-                          "andes":  0,
+                          "andes":  10,
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  0,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "16/11/2026 16:21:04",
+    "ultima_actualizacion":  "16/11/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1203,7 +1203,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  39,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1403,7 +1403,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  21,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2183,17 +2183,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "07-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-071026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-10-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  71,
+                      "cantidad":  68,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -2703,7 +2693,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  11,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-051026",
@@ -3073,7 +3063,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  100,
+                      "cantidad":  98,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-161026",
@@ -3163,7 +3153,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  40,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -3323,7 +3313,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  2,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "02-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021225",
@@ -3573,7 +3563,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  22,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-271026",
@@ -3693,7 +3683,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  6,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-19102026",
@@ -4033,7 +4023,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  7,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "04-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-041126",
@@ -4663,7 +4653,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  12,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-280726",
@@ -5513,7 +5503,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  17,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-061126",
@@ -5593,7 +5583,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  8,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-230926",
@@ -5680,16 +5670,6 @@
                       "descripcion":  "SALSA NAPOLITANA 12X490GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-11-2028"
-                  },
-                  {
-                      "codigo":  "4MTO016",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "21-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-210926",
-                      "descripcion":  "SALSA NAPOLITANA 12X490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "21-09-2028"
                   },
                   {
                       "codigo":  "4MTO016",
@@ -5783,7 +5763,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  22,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -6443,6 +6423,16 @@
                   },
                   {
                       "codigo":  "4MVI002",
+                      "cantidad":  24,
+                      "fecha_fabricacion":  "18-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0628-180626",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-06-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
                       "cantidad":  33,
                       "fecha_fabricacion":  "07-09-2026",
                       "ubicacion":  "ANDES",
@@ -6563,7 +6553,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  16,
+                      "cantidad":  12,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-220926",
@@ -6803,6 +6793,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  10,
+                      "fecha_fabricacion":  "17-06-2026",
+                      "ubicacion":  "ANDES",
+                      "lote":  "0628-17062026",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-06-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  3,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -6842,5 +6842,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  61875
+    "total_general_cajas":  61903
 };
