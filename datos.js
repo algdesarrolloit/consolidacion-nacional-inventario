@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  50132
+                          "cajas":  50134
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2289
+                          "cajas":  2295
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -176,13 +176,13 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1767
+                          "cajas":  1773
                       }
                   ],
     "total_general_kg":  114487.9,
     "productos":  [
                       {
-                          "zulia":  47,
+                          "zulia":  49,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  128,
@@ -195,7 +195,7 @@
                           "bolivar":  45
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  57,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  63,
@@ -413,7 +413,7 @@
                           "cagua":  1192,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  24,
-                          "bolivar":  1
+                          "bolivar":  2
                       },
                       {
                           "zulia":  37,
@@ -439,7 +439,7 @@
                           "cagua":  552,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  124,
-                          "bolivar":  35
+                          "bolivar":  36
                       },
                       {
                           "zulia":  47,
@@ -465,7 +465,7 @@
                           "cagua":  2051,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  55,
-                          "bolivar":  41
+                          "bolivar":  42
                       },
                       {
                           "zulia":  8,
@@ -543,7 +543,7 @@
                           "cagua":  1845,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  18,
-                          "bolivar":  22
+                          "bolivar":  23
                       },
                       {
                           "zulia":  39,
@@ -566,7 +566,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  9,
+                          "cagua":  11,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -676,7 +676,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  20,
+                          "zulia":  23,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  14,
@@ -725,7 +725,7 @@
                           "cagua":  2068,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  31,
-                          "bolivar":  22
+                          "bolivar":  23
                       },
                       {
                           "zulia":  24,
@@ -777,7 +777,7 @@
                           "cagua":  826,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  30,
-                          "bolivar":  35
+                          "bolivar":  36
                       },
                       {
                           "zulia":  58,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/11/2026 16:50:46",
+    "ultima_actualizacion":  "17/11/2026 17:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -7082,5 +7082,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63326
+    "total_general_cajas":  63340
 };
