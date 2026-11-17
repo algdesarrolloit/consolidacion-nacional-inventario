@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  49460
+                          "cajas":  49235
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1796
+                          "cajas":  1760
                       }
                   ],
     "total_general_kg":  114487.9,
@@ -218,7 +218,7 @@
                           "cagua":  1681,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  89,
-                          "bolivar":  4
+                          "bolivar":  3
                       },
                       {
                           "zulia":  60,
@@ -231,7 +231,7 @@
                           "cagua":  874,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  54,
-                          "bolivar":  14
+                          "bolivar":  13
                       },
                       {
                           "zulia":  6,
@@ -296,7 +296,7 @@
                           "cagua":  865,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  35,
-                          "bolivar":  25
+                          "bolivar":  24
                       },
                       {
                           "zulia":  37,
@@ -371,7 +371,7 @@
                           "margarita":  25,
                           "capital":  69,
                           "barcelona":  42,
-                          "cagua":  4,
+                          "cagua":  3,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  103
@@ -410,7 +410,7 @@
                           "margarita":  30,
                           "capital":  173,
                           "barcelona":  6,
-                          "cagua":  1249,
+                          "cagua":  1137,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  24,
                           "bolivar":  0
@@ -426,7 +426,7 @@
                           "cagua":  1772,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
-                          "bolivar":  97
+                          "bolivar":  92
                       },
                       {
                           "zulia":  0,
@@ -452,7 +452,7 @@
                           "cagua":  1908,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  91,
-                          "bolivar":  45
+                          "bolivar":  39
                       },
                       {
                           "zulia":  31,
@@ -465,7 +465,7 @@
                           "cagua":  2051,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  49,
-                          "bolivar":  48
+                          "bolivar":  40
                       },
                       {
                           "zulia":  15,
@@ -478,7 +478,7 @@
                           "cagua":  843,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
-                          "bolivar":  56
+                          "bolivar":  49
                       },
                       {
                           "zulia":  0,
@@ -501,7 +501,7 @@
                           "margarita":  19,
                           "capital":  12,
                           "barcelona":  1,
-                          "cagua":  115,
+                          "cagua":  3,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  8,
                           "bolivar":  0
@@ -517,7 +517,7 @@
                           "cagua":  250,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  35,
-                          "bolivar":  41
+                          "bolivar":  40
                       },
                       {
                           "zulia":  78,
@@ -530,7 +530,7 @@
                           "cagua":  253,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  27,
-                          "bolivar":  68
+                          "bolivar":  67
                       },
                       {
                           "zulia":  37,
@@ -543,7 +543,7 @@
                           "cagua":  1845,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  21,
-                          "bolivar":  23
+                          "bolivar":  22
                       },
                       {
                           "zulia":  39,
@@ -621,7 +621,7 @@
                           "cagua":  2265,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  50,
-                          "bolivar":  18
+                          "bolivar":  17
                       },
                       {
                           "zulia":  78,
@@ -634,7 +634,7 @@
                           "cagua":  523,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  6,
-                          "bolivar":  19
+                          "bolivar":  18
                       },
                       {
                           "zulia":  0,
@@ -660,7 +660,7 @@
                           "cagua":  1237,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                           "barquisimeto":  17,
-                          "bolivar":  45
+                          "bolivar":  43
                       },
                       {
                           "zulia":  16,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/11/2026 11:50:46",
+    "ultima_actualizacion":  "17/11/2026 12:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1113,7 +1113,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1313,7 +1313,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  27,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -2523,7 +2523,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-191026",
@@ -2843,20 +2843,10 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  193,
+                      "cantidad":  85,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "15-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-15102628 NV",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-10-2028"
@@ -3560,16 +3550,6 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "27-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  112,
-                      "fecha_fabricacion":  "17-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-171126",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-11-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -6872,5 +6852,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62763
+    "total_general_cajas":  62502
 };
