@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  51203
+                          "cajas":  48503
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3771
+                          "cajas":  3770
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -211,7 +211,7 @@
                           "zulia":  52,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  187,
+                          "andes":  186,
                           "margarita":  62,
                           "capital":  27,
                           "barcelona":  42,
@@ -514,7 +514,7 @@
                           "margarita":  25,
                           "capital":  3,
                           "barcelona":  14,
-                          "cagua":  1150,
+                          "cagua":  250,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  35,
                           "bolivar":  44
@@ -527,7 +527,7 @@
                           "margarita":  26,
                           "capital":  0,
                           "barcelona":  29,
-                          "cagua":  1153,
+                          "cagua":  253,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  27,
                           "bolivar":  70
@@ -540,7 +540,7 @@
                           "margarita":  24,
                           "capital":  0,
                           "barcelona":  22,
-                          "cagua":  2060,
+                          "cagua":  1160,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  21,
                           "bolivar":  25
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/11/2026 09:20:47",
+    "ultima_actualizacion":  "17/11/2026 09:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3713,17 +3713,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  300,
-                      "fecha_fabricacion":  "19-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-19102026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  850,
+                      "cantidad":  250,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-20102026",
@@ -3833,7 +3823,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  340,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -3843,7 +3833,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  813,
+                      "cantidad":  213,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-061126",
@@ -3933,43 +3923,13 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  147,
-                      "fecha_fabricacion":  "26-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-291026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  271,
-                      "fecha_fabricacion":  "02-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-02112026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-11-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  1440,
+                      "cantidad":  1160,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-09112026",
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "09-11-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  202,
-                      "fecha_fabricacion":  "09-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-091126",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "08-11-2028"
                   },
                   {
                       "codigo":  "4MSA007",
@@ -7012,5 +6972,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  65481
+    "total_general_cajas":  62780
 };
