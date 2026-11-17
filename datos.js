@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  48713
+                          "cajas":  51203
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3799
+                          "cajas":  3771
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -185,7 +185,7 @@
                           "zulia":  51,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
-                          "andes":  138,
+                          "andes":  133,
                           "margarita":  53,
                           "capital":  38,
                           "barcelona":  52,
@@ -198,7 +198,7 @@
                           "zulia":  58,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
-                          "andes":  66,
+                          "andes":  64,
                           "margarita":  19,
                           "capital":  37,
                           "barcelona":  51,
@@ -211,7 +211,7 @@
                           "zulia":  52,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  192,
+                          "andes":  187,
                           "margarita":  62,
                           "capital":  27,
                           "barcelona":  42,
@@ -224,7 +224,7 @@
                           "zulia":  62,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
-                          "andes":  81,
+                          "andes":  79,
                           "margarita":  29,
                           "capital":  19,
                           "barcelona":  40,
@@ -332,7 +332,7 @@
                           "margarita":  172,
                           "capital":  68,
                           "barcelona":  130,
-                          "cagua":  6215,
+                          "cagua":  7564,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  8,
                           "bolivar":  213
@@ -410,7 +410,7 @@
                           "margarita":  30,
                           "capital":  173,
                           "barcelona":  6,
-                          "cagua":  108,
+                          "cagua":  1249,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  24,
                           "bolivar":  0
@@ -432,7 +432,7 @@
                           "zulia":  24,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
-                          "andes":  14,
+                          "andes":  4,
                           "margarita":  52,
                           "capital":  92,
                           "barcelona":  16,
@@ -458,7 +458,7 @@
                           "zulia":  37,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
-                          "andes":  157,
+                          "andes":  155,
                           "margarita":  19,
                           "capital":  21,
                           "barcelona":  147,
@@ -471,7 +471,7 @@
                           "zulia":  21,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
-                          "andes":  30,
+                          "andes":  28,
                           "margarita":  22,
                           "capital":  9,
                           "barcelona":  11,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/11/2026 08:50:47",
+    "ultima_actualizacion":  "17/11/2026 09:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1043,7 +1043,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  18,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "20-01-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0127-200126",
@@ -1153,7 +1153,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  66,
+                      "cantidad":  64,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1233,7 +1233,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  192,
+                      "cantidad":  187,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-200526",
@@ -1353,7 +1353,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  81,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -2183,6 +2183,16 @@
                   },
                   {
                       "codigo":  "4MKE004",
+                      "cantidad":  1349,
+                      "fecha_fabricacion":  "13-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-131126",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-11-2028"
+                  },
+                  {
+                      "codigo":  "4MKE004",
                       "cantidad":  68,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -2853,13 +2863,33 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  108,
+                      "cantidad":  193,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
                       "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "15-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  4,
+                      "fecha_fabricacion":  "15-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-15102628 NV",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "15-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  1052,
+                      "fecha_fabricacion":  "16-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-16112026NV",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-11-2028"
                   },
                   {
                       "codigo":  "4MNA008",
@@ -3013,7 +3043,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  14,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-161026",
@@ -3213,7 +3243,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  157,
+                      "cantidad":  155,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0628-180626",
@@ -3383,7 +3413,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  26,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-281026",
@@ -6982,5 +7012,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63019
+    "total_general_cajas":  65481
 };
