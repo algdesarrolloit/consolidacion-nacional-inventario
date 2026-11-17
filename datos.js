@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2641
+                          "cajas":  2627
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -182,7 +182,7 @@
     "total_general_kg":  114487.9,
     "productos":  [
                       {
-                          "zulia":  49,
+                          "zulia":  47,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  128,
@@ -208,7 +208,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  48,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  181,
@@ -221,7 +221,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  59,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  79,
@@ -442,7 +442,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  57,
+                          "zulia":  52,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  0,
@@ -455,7 +455,7 @@
                           "bolivar":  39
                       },
                       {
-                          "zulia":  31,
+                          "zulia":  29,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  69,
@@ -468,7 +468,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  13,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  0,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "17/11/2026 14:20:47",
+    "ultima_actualizacion":  "17/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1153,7 +1153,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  51,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0627-150626",
@@ -1353,7 +1353,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  50,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-230526",
@@ -1433,7 +1433,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-31052026",
@@ -3283,7 +3283,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  57,
+                      "cantidad":  52,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-03112026",
@@ -3453,7 +3453,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  31,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-180626",
@@ -3563,7 +3563,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  15,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "28-10-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-281026",
@@ -7112,5 +7112,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62845
+    "total_general_cajas":  62831
 };
