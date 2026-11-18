@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  112387.9,
-                          "cajas":  49456
+                          "cajas":  49455
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -358,7 +358,7 @@
                           "margarita":  0,
                           "capital":  15,
                           "barcelona":  7,
-                          "cagua":  265,
+                          "cagua":  264,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 4 X 3.85 KG",
                           "barquisimeto":  11,
                           "bolivar":  20
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/11/2026 15:20:46",
+    "ultima_actualizacion":  "18/11/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2463,7 +2463,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0227-26082026",
@@ -2923,7 +2923,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  30,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-151026",
@@ -3023,7 +3023,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  20,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-08102026",
@@ -3123,7 +3123,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  52,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "20-02-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0228-20022026",
@@ -3223,7 +3223,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  20,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1128-021126",
@@ -3403,7 +3403,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-071025",
@@ -3513,7 +3513,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  22,
+                      "cantidad":  20,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1128-271125 NV",
@@ -3563,7 +3563,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  8,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "14-08-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0828-14082026",
@@ -3633,7 +3633,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  5,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "06-07-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0728-06072026",
@@ -3753,7 +3753,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "14-10-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-14102026",
@@ -3863,7 +3863,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-30092026",
@@ -3973,7 +3973,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  14,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-300926",
@@ -7062,5 +7062,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62935
+    "total_general_cajas":  62934
 };
