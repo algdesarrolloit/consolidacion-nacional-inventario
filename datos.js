@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/11/2026 10:50:46",
+    "ultima_actualizacion":  "18/11/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1890,16 +1890,6 @@
                       "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "25-11-2027"
-                  },
-                  {
-                      "codigo":  "4MES003",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "01-12-2025",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1227-011225",
-                      "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-12-2027"
                   },
                   {
                       "codigo":  "4MES003",
@@ -3113,7 +3103,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  341,
+                      "cantidad":  236,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-161026",
@@ -3573,17 +3563,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "23-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-231026",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  313,
+                      "cantidad":  304,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-131126",
@@ -3653,7 +3633,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  1516,
+                      "cantidad":  1429,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
