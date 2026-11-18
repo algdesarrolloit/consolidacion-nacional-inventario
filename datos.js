@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  51657
+                          "cajas":  51651
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -514,7 +514,7 @@
                           "margarita":  24,
                           "capital":  2,
                           "barcelona":  3,
-                          "cagua":  220,
+                          "cagua":  218,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  43,
                           "bolivar":  40
@@ -527,7 +527,7 @@
                           "margarita":  25,
                           "capital":  0,
                           "barcelona":  7,
-                          "cagua":  1028,
+                          "cagua":  1026,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  39,
                           "bolivar":  67
@@ -540,7 +540,7 @@
                           "margarita":  23,
                           "capital":  0,
                           "barcelona":  10,
-                          "cagua":  1816,
+                          "cagua":  1814,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  18,
                           "bolivar":  22
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/11/2026 13:20:46",
+    "ultima_actualizacion":  "18/11/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -7112,5 +7112,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  65136
+    "total_general_cajas":  65130
 };
