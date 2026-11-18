@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  114487.9,
-                          "cajas":  52018
+                          "cajas":  51816
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1285
+                          "cajas":  1283
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -305,7 +305,7 @@
                           "andes":  12,
                           "margarita":  12,
                           "capital":  2,
-                          "barcelona":  2,
+                          "barcelona":  0,
                           "cagua":  1180,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  27,
@@ -436,7 +436,7 @@
                           "margarita":  45,
                           "capital":  92,
                           "barcelona":  0,
-                          "cagua":  1951,
+                          "cagua":  1846,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  124,
                           "bolivar":  35
@@ -488,7 +488,7 @@
                           "margarita":  14,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  314,
+                          "cagua":  304,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  4,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  12,
                           "barcelona":  0,
-                          "cagua":  1517,
+                          "cagua":  1430,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  21,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "18/11/2026 10:20:46",
+    "ultima_actualizacion":  "18/11/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1733,7 +1733,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  22,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-170926",
@@ -2163,7 +2163,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  53,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-271026",
@@ -2353,7 +2353,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-300726",
@@ -2563,7 +2563,7 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  10,
+                      "cantidad":  9,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-191026",
@@ -3963,7 +3963,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-291026",
@@ -4103,7 +4103,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  31,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "04-11-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-041126",
@@ -7142,5 +7142,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  65499
+    "total_general_cajas":  65295
 };
