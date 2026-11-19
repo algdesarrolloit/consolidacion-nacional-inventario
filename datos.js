@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  4235
+                          "cajas":  4231
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -198,7 +198,7 @@
                           "zulia":  56,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
-                          "andes":  63,
+                          "andes":  61,
                           "margarita":  19,
                           "capital":  37,
                           "barcelona":  45,
@@ -224,7 +224,7 @@
                           "zulia":  60,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
-                          "andes":  79,
+                          "andes":  77,
                           "margarita":  29,
                           "capital":  19,
                           "barcelona":  31,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 13:50:46",
+    "ultima_actualizacion":  "19/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1143,7 +1143,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  63,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1373,7 +1373,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  79,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -7212,5 +7212,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  64795
+    "total_general_cajas":  64791
 };
