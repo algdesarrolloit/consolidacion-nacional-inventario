@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  965
+                          "cajas":  966
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -721,7 +721,7 @@
                           "andes":  215,
                           "margarita":  10,
                           "capital":  143,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  2160,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  30,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 13:20:46",
+    "ultima_actualizacion":  "19/11/2026 13:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1053,7 +1053,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  48,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0627-150626",
@@ -1153,7 +1153,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  48,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-31052026",
@@ -1243,7 +1243,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  21,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-210526",
@@ -1383,7 +1383,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  38,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0527-31052026",
@@ -1753,16 +1753,6 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  21,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0928-170926",
-                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-09-2028"
-                  },
-                  {
-                      "codigo":  "4MES002",
                       "cantidad":  32,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -2013,7 +2003,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  134,
+                      "cantidad":  106,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -2153,23 +2143,13 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  51,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "07-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-071026",
                       "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "07-10-2028"
-                  },
-                  {
-                      "codigo":  "4MKE004",
-                      "cantidad":  50,
-                      "fecha_fabricacion":  "27-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-271026",
-                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-10-2028"
                   },
                   {
                       "codigo":  "4MKE004",
@@ -2353,7 +2333,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  16,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-300726",
@@ -2573,16 +2553,6 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "19-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "0427-191026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
                       "cantidad":  25,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "BARQUISIMETO",
@@ -2703,7 +2673,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  94,
+                      "cantidad":  50,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0427-061026",
@@ -3063,16 +3033,6 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "10-11-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1128-101126",
-                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA009",
                       "cantidad":  5,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3383,7 +3343,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  84,
+                      "cantidad":  79,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-071025",
@@ -3550,16 +3510,6 @@
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "30-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "28-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-281026",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -3833,16 +3783,6 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "19-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-19102026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
                       "cantidad":  28,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -3957,16 +3897,6 @@
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-16102026",
-                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA006",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "16-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-161026",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-10-2028"
@@ -4096,16 +4026,6 @@
                       "cantidad":  34,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "1028-291026",
-                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "25-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA007",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "26-10-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "1028-291026",
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
@@ -4243,7 +4163,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "04-11-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-041126",
@@ -4953,7 +4873,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  19,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-280726",
@@ -5063,7 +4983,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  9,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-18092026",
@@ -5200,16 +5120,6 @@
                       "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-11-2027"
-                  },
-                  {
-                      "codigo":  "4MSU015",
-                      "cantidad":  7,
-                      "fecha_fabricacion":  "30-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1027-301026",
-                      "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-10-2027"
                   },
                   {
                       "codigo":  "4MSU015",
@@ -5563,7 +5473,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  47,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "21-01-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0128-210125",
@@ -5743,6 +5653,16 @@
                   },
                   {
                       "codigo":  "4MTO013",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
                       "cantidad":  30,
                       "fecha_fabricacion":  "01-01-1900",
                       "ubicacion":  "BARQUISIMETO",
@@ -5863,7 +5783,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  37,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-061126",
@@ -5946,16 +5866,6 @@
                       "cantidad":  53,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ANDES",
-                      "lote":  "0928-230926",
-                      "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "23-09-2028"
-                  },
-                  {
-                      "codigo":  "4MTO015",
-                      "cantidad":  4,
-                      "fecha_fabricacion":  "23-09-2026",
-                      "ubicacion":  "BARCELONA",
                       "lote":  "0928-230926",
                       "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                       "um":  "CJ",
@@ -6063,7 +5973,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  20,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -6163,7 +6073,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  20,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0828-25082026",
@@ -6283,7 +6193,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  9,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-170926",
@@ -6533,16 +6443,6 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "09-11-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1128-09112026",
-                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-11-2028"
-                  },
-                  {
-                      "codigo":  "4MTO046",
                       "cantidad":  1,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -6613,7 +6513,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  6,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-091126",
@@ -6683,7 +6583,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  6,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-221026",
@@ -6743,17 +6643,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  2,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "BARCELONA",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
-                      "cantidad":  4,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1128-09112026",
@@ -6823,7 +6713,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  6,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-211026",
@@ -6903,7 +6793,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  39,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-220926",
@@ -7093,7 +6983,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  81,
+                      "cantidad":  73,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-210926",
@@ -7322,5 +7212,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  64794
+    "total_general_cajas":  64795
 };
