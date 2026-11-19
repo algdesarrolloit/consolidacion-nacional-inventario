@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  99257.4,
-                          "cajas":  49427
+                          "cajas":  48244
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -306,7 +306,7 @@
                           "margarita":  12,
                           "capital":  2,
                           "barcelona":  0,
-                          "cagua":  1106,
+                          "cagua":  1044,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  27,
                           "bolivar":  23
@@ -371,7 +371,7 @@
                           "margarita":  25,
                           "capital":  99,
                           "barcelona":  0,
-                          "cagua":  1443,
+                          "cagua":  1107,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  25,
                           "bolivar":  103
@@ -384,7 +384,7 @@
                           "margarita":  172,
                           "capital":  59,
                           "barcelona":  155,
-                          "cagua":  4007,
+                          "cagua":  3757,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  17,
                           "bolivar":  273
@@ -410,7 +410,7 @@
                           "margarita":  24,
                           "capital":  173,
                           "barcelona":  0,
-                          "cagua":  1442,
+                          "cagua":  1417,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  24,
                           "bolivar":  1
@@ -423,7 +423,7 @@
                           "margarita":  14,
                           "capital":  60,
                           "barcelona":  0,
-                          "cagua":  1566,
+                          "cagua":  1526,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  5,
                           "bolivar":  92
@@ -436,7 +436,7 @@
                           "margarita":  45,
                           "capital":  122,
                           "barcelona":  0,
-                          "cagua":  1501,
+                          "cagua":  1411,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  131,
                           "bolivar":  35
@@ -449,7 +449,7 @@
                           "margarita":  13,
                           "capital":  76,
                           "barcelona":  0,
-                          "cagua":  1400,
+                          "cagua":  1270,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  91,
                           "bolivar":  39
@@ -462,7 +462,7 @@
                           "margarita":  16,
                           "capital":  51,
                           "barcelona":  134,
-                          "cagua":  1909,
+                          "cagua":  1849,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  53,
                           "bolivar":  41
@@ -475,7 +475,7 @@
                           "margarita":  19,
                           "capital":  39,
                           "barcelona":  0,
-                          "cagua":  690,
+                          "cagua":  625,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  49
@@ -488,7 +488,7 @@
                           "margarita":  14,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  25,
+                          "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  4,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  52,
                           "barcelona":  0,
-                          "cagua":  855,
+                          "cagua":  775,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  20,
                           "bolivar":  0
@@ -904,7 +904,7 @@
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  153,
+                          "cagua":  133,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  5,
                           "bolivar":  7
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 16:20:46",
+    "ultima_actualizacion":  "19/11/2026 16:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1093,7 +1093,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  383,
+                      "cantidad":  369,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1193,7 +1193,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  323,
+                      "cantidad":  314,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1293,7 +1293,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  303,
+                      "cantidad":  286,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-120626",
@@ -1423,7 +1423,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  784,
+                      "cantidad":  767,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1793,7 +1793,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  272,
+                      "cantidad":  269,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-160926",
@@ -1803,7 +1803,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  38,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -1953,7 +1953,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  528,
+                      "cantidad":  464,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-011225",
@@ -2033,7 +2033,7 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  781,
+                      "cantidad":  766,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-031126",
@@ -2203,7 +2203,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  821,
+                      "cantidad":  779,
                       "fecha_fabricacion":  "29-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-291026",
@@ -2363,7 +2363,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  337,
+                      "cantidad":  333,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0728-300726",
@@ -2573,23 +2573,13 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  1170,
+                      "cantidad":  1107,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-18112026",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "18-05-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
-                      "cantidad":  296,
-                      "fecha_fabricacion":  "18-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1127-181126",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-05-2027"
                   },
                   {
                       "codigo":  "4MMA003",
@@ -2723,17 +2713,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "26-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0427-26102026",
-                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "26-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA006",
-                      "cantidad":  638,
+                      "cantidad":  373,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-27102026",
@@ -2753,7 +2733,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  1427,
+                      "cantidad":  1407,
                       "fecha_fabricacion":  "29-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-291026",
@@ -2913,17 +2893,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  29,
-                      "fecha_fabricacion":  "15-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-151026",
-                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA008",
-                      "cantidad":  1004,
+                      "cantidad":  924,
                       "fecha_fabricacion":  "16-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-16112026NV",
@@ -3043,7 +3013,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  306,
+                      "cantidad":  262,
                       "fecha_fabricacion":  "10-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-101126",
@@ -3153,17 +3123,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "16-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-161026",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "16-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA010",
-                      "cantidad":  1505,
+                      "cantidad":  1411,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3243,7 +3203,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  514,
+                      "cantidad":  370,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-11126",
@@ -3393,7 +3353,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  69,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0628-180626",
@@ -3413,7 +3373,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  798,
+                      "cantidad":  785,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -3513,7 +3473,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  84,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "E- 1028-30102026",
@@ -3613,16 +3573,6 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  36,
-                      "fecha_fabricacion":  "13-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-131126",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
                       "cantidad":  29,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "CAPITAL",
@@ -3693,7 +3643,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  872,
+                      "cantidad":  775,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3793,7 +3743,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  129,
+                      "cantidad":  127,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-20102026",
@@ -3933,7 +3883,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  133,
+                      "cantidad":  131,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-061126",
@@ -4033,7 +3983,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  1042,
+                      "cantidad":  1037,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-09112026",
@@ -4173,7 +4123,7 @@
                   },
                   {
                       "codigo":  "4MSA008",
-                      "cantidad":  48,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "04-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-041126",
@@ -4863,7 +4813,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  1479,
+                      "cantidad":  1475,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-03112026",
@@ -4963,7 +4913,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  296,
+                      "cantidad":  294,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -5113,7 +5063,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  10,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1027-301026",
@@ -5133,7 +5083,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  579,
+                      "cantidad":  577,
                       "fecha_fabricacion":  "12-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1127-121126",
@@ -5643,7 +5593,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  27,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-110926",
@@ -5653,7 +5603,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  784,
+                      "cantidad":  772,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -5773,7 +5723,7 @@
                   },
                   {
                       "codigo":  "4MTO014",
-                      "cantidad":  519,
+                      "cantidad":  518,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-061126",
@@ -5853,7 +5803,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  86,
+                      "cantidad":  84,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -6063,7 +6013,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  292,
+                      "cantidad":  291,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -6203,7 +6153,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  474,
+                      "cantidad":  472,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-18092026",
@@ -6963,7 +6913,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  150,
+                      "cantidad":  148,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-061026",
@@ -7103,7 +7053,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  153,
+                      "cantidad":  133,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-17112026",
@@ -7132,5 +7082,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  64007
+    "total_general_cajas":  62824
 };
