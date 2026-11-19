@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  111302.4,
-                          "cajas":  49561
+                          "cajas":  51423
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -306,7 +306,7 @@
                           "margarita":  12,
                           "capital":  2,
                           "barcelona":  0,
-                          "cagua":  1180,
+                          "cagua":  1158,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  27,
                           "bolivar":  23
@@ -332,7 +332,7 @@
                           "margarita":  172,
                           "capital":  68,
                           "barcelona":  101,
-                          "cagua":  7241,
+                          "cagua":  7221,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  72,
                           "bolivar":  206
@@ -371,7 +371,7 @@
                           "margarita":  25,
                           "capital":  69,
                           "barcelona":  9,
-                          "cagua":  563,
+                          "cagua":  1713,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  25,
                           "bolivar":  103
@@ -384,7 +384,7 @@
                           "margarita":  172,
                           "capital":  9,
                           "barcelona":  199,
-                          "cagua":  4123,
+                          "cagua":  4093,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  22,
                           "bolivar":  273
@@ -410,7 +410,7 @@
                           "margarita":  24,
                           "capital":  173,
                           "barcelona":  0,
-                          "cagua":  1058,
+                          "cagua":  1033,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  24,
                           "bolivar":  1
@@ -449,7 +449,7 @@
                           "margarita":  13,
                           "capital":  36,
                           "barcelona":  0,
-                          "cagua":  1610,
+                          "cagua":  1590,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  91,
                           "bolivar":  39
@@ -475,7 +475,7 @@
                           "margarita":  19,
                           "capital":  9,
                           "barcelona":  7,
-                          "cagua":  775,
+                          "cagua":  750,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  49
@@ -488,7 +488,7 @@
                           "margarita":  14,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  169,
+                          "cagua":  119,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  4,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  12,
                           "barcelona":  0,
-                          "cagua":  1258,
+                          "cagua":  1228,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  21,
                           "bolivar":  0
@@ -514,7 +514,7 @@
                           "margarita":  24,
                           "capital":  2,
                           "barcelona":  3,
-                          "cagua":  149,
+                          "cagua":  979,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  44,
                           "bolivar":  40
@@ -566,7 +566,7 @@
                           "margarita":  9,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  9,
+                          "cagua":  0,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -722,7 +722,7 @@
                           "margarita":  10,
                           "capital":  143,
                           "barcelona":  0,
-                          "cagua":  2018,
+                          "cagua":  2160,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  31,
                           "bolivar":  22
@@ -748,7 +748,7 @@
                           "margarita":  6,
                           "capital":  5,
                           "barcelona":  4,
-                          "cagua":  91,
+                          "cagua":  86,
                           "descripcion":  "SALSA BOLOGNESA 24 X 190GR",
                           "barquisimeto":  40,
                           "bolivar":  9
@@ -761,7 +761,7 @@
                           "margarita":  19,
                           "capital":  0,
                           "barcelona":  20,
-                          "cagua":  1398,
+                          "cagua":  1396,
                           "descripcion":  "SALSA NAPOLITANA 12X490GR",
                           "barquisimeto":  26,
                           "bolivar":  26
@@ -774,7 +774,7 @@
                           "margarita":  23,
                           "capital":  19,
                           "barcelona":  20,
-                          "cagua":  766,
+                          "cagua":  764,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  30,
                           "bolivar":  35
@@ -904,7 +904,7 @@
                           "margarita":  0,
                           "capital":  11,
                           "barcelona":  0,
-                          "cagua":  273,
+                          "cagua":  253,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  5,
                           "bolivar":  7
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 08:50:46",
+    "ultima_actualizacion":  "19/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1963,7 +1963,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  550,
+                      "cantidad":  528,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1227-011225",
@@ -2233,7 +2233,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  841,
+                      "cantidad":  821,
                       "fecha_fabricacion":  "29-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-291026",
@@ -2603,17 +2603,17 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "19-10-2026",
+                      "cantidad":  1170,
+                      "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0427-191026",
+                      "lote":  "0527-18112026",
                       "descripcion":  "MAYONESA 24 X 175GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "19-04-2027"
+                      "fecha_vencimiento":  "18-05-2027"
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  560,
+                      "cantidad":  543,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1127-181126",
@@ -2763,7 +2763,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  718,
+                      "cantidad":  688,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-27102026",
@@ -2913,7 +2913,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  54,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-151026",
@@ -3223,17 +3223,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "02-11-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1128-021126",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
-                      "cantidad":  709,
+                      "cantidad":  690,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-11126",
@@ -3493,7 +3483,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  169,
+                      "cantidad":  144,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "E- 1028-30102026",
@@ -3573,7 +3563,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  169,
+                      "cantidad":  119,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-131126",
@@ -3633,7 +3623,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  1258,
+                      "cantidad":  1228,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3750,6 +3740,16 @@
                       "descripcion":  "SALSA DE AJO 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "20-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  830,
+                      "fecha_fabricacion":  "18-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-18112026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-11-2028"
                   },
                   {
                       "codigo":  "4MSA005",
@@ -4150,16 +4150,6 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "04-11-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  9,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-290926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -5593,7 +5583,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  52,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "11-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-110926",
@@ -5620,6 +5610,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "14-10-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  167,
+                      "fecha_fabricacion":  "17-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-17112026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-11-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -5803,7 +5803,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  91,
+                      "cantidad":  86,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-230926",
@@ -5913,7 +5913,7 @@
                   },
                   {
                       "codigo":  "4MTO016",
-                      "cantidad":  613,
+                      "cantidad":  611,
                       "fecha_fabricacion":  "21-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-210926",
@@ -6003,7 +6003,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  294,
+                      "cantidad":  292,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-25082026",
@@ -7053,7 +7053,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  81,
+                      "cantidad":  61,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -7092,5 +7092,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63064
+    "total_general_cajas":  64926
 };
