@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1864
+                          "cajas":  1863
                       },
                       {
                           "almacen":  "CAGUA",
@@ -503,7 +503,7 @@
                           "barcelona":  0,
                           "cagua":  872,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  21,
+                          "barquisimeto":  20,
                           "bolivar":  0
                       },
                       {
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 15:20:46",
+    "ultima_actualizacion":  "19/11/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3673,7 +3673,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  8,
+                      "cantidad":  7,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "1128-06112026 NV",
@@ -7132,5 +7132,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  64399
+    "total_general_cajas":  64398
 };
