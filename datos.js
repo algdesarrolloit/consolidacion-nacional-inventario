@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  53185,
-                                                              "bidones":  967
+                                                              "kg":  41140,
+                                                              "bidones":  748
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  111302.4,
+                          "kg":  99257.4,
                           "cajas":  51303
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  1767
                       }
                   ],
-    "total_general_kg":  111302.4,
+    "total_general_kg":  99257.4,
     "productos":  [
                       {
                           "zulia":  47,
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  53185,
+                          "cagua":  41140,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "19/11/2026 10:20:46",
+    "ultima_actualizacion":  "19/11/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -983,17 +983,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  9020,
-                      "fecha_fabricacion":  "15-06-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 0628-040926-219",
-                      "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "30-06-2028"
-                  },
-                  {
-                      "codigo":  "1VEG002",
-                      "cantidad":  14520,
+                      "cantidad":  11496,
                       "fecha_fabricacion":  "01-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-050926-221",
@@ -1013,7 +1003,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14850,
+                      "cantidad":  14849,
                       "fecha_fabricacion":  "06-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0928-060926-283",
