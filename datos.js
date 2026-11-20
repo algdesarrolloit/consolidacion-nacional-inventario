@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  98177.4,
-                          "cajas":  50351
+                          "cajas":  50318
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1321
+                          "cajas":  1312
                       },
                       {
                           "almacen":  "ANDES",
@@ -436,7 +436,7 @@
                           "margarita":  45,
                           "capital":  102,
                           "barcelona":  0,
-                          "cagua":  1411,
+                          "cagua":  1400,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  57,
                           "bolivar":  35
@@ -462,7 +462,7 @@
                           "margarita":  16,
                           "capital":  28,
                           "barcelona":  134,
-                          "cagua":  1849,
+                          "cagua":  1838,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  8,
                           "bolivar":  41
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  1,
                           "barcelona":  0,
-                          "cagua":  775,
+                          "cagua":  764,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  6,
                           "bolivar":  0
@@ -577,7 +577,7 @@
                           "um":  "CJ",
                           "andes":  26,
                           "margarita":  9,
-                          "capital":  27,
+                          "capital":  25,
                           "barcelona":  18,
                           "cagua":  389,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -603,7 +603,7 @@
                           "um":  "CJ",
                           "andes":  52,
                           "margarita":  9,
-                          "capital":  74,
+                          "capital":  72,
                           "barcelona":  13,
                           "cagua":  224,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -902,7 +902,7 @@
                           "um":  "CJ",
                           "andes":  100,
                           "margarita":  0,
-                          "capital":  11,
+                          "capital":  6,
                           "barcelona":  0,
                           "cagua":  133,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 11:50:47",
+    "ultima_actualizacion":  "20/11/2026 12:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2203,7 +2203,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  16,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -3063,7 +3063,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1411,
+                      "cantidad":  1400,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3303,7 +3303,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  785,
+                      "cantidad":  774,
                       "fecha_fabricacion":  "12-12-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "1228-12122025",
@@ -3533,7 +3533,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  775,
+                      "cantidad":  764,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -4173,7 +4173,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  12,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -4553,7 +4553,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  40,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-08092026",
@@ -4853,7 +4853,7 @@
                   },
                   {
                       "codigo":  "4MSU014",
-                      "cantidad":  11,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-061026",
@@ -6903,7 +6903,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  11,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "13-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-131026",
@@ -6922,5 +6922,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63670
+    "total_general_cajas":  63628
 };
