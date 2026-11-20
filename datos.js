@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1868
+                          "cajas":  1766
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  128,
                           "margarita":  53,
-                          "capital":  32,
+                          "capital":  29,
                           "barcelona":  45,
                           "cagua":  369,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -200,7 +200,7 @@
                           "um":  "CJ",
                           "andes":  61,
                           "margarita":  19,
-                          "capital":  32,
+                          "capital":  27,
                           "barcelona":  45,
                           "cagua":  314,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  181,
                           "margarita":  62,
-                          "capital":  36,
+                          "capital":  31,
                           "barcelona":  33,
                           "cagua":  1297,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  77,
                           "margarita":  29,
-                          "capital":  9,
+                          "capital":  2,
                           "barcelona":  31,
                           "cagua":  767,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -408,7 +408,7 @@
                           "um":  "CJ",
                           "andes":  42,
                           "margarita":  24,
-                          "capital":  173,
+                          "capital":  161,
                           "barcelona":  0,
                           "cagua":  1417,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -434,7 +434,7 @@
                           "um":  "CJ",
                           "andes":  105,
                           "margarita":  45,
-                          "capital":  122,
+                          "capital":  102,
                           "barcelona":  0,
                           "cagua":  1411,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  117,
                           "margarita":  13,
-                          "capital":  76,
+                          "capital":  71,
                           "barcelona":  0,
                           "cagua":  1270,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -460,7 +460,7 @@
                           "um":  "CJ",
                           "andes":  99,
                           "margarita":  16,
-                          "capital":  51,
+                          "capital":  31,
                           "barcelona":  134,
                           "cagua":  1849,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  14,
-                          "capital":  29,
+                          "capital":  24,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  210,
                           "margarita":  13,
-                          "capital":  52,
+                          "capital":  32,
                           "barcelona":  0,
                           "cagua":  775,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 07:50:46",
+    "ultima_actualizacion":  "20/11/2026 08:20:58",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1103,7 +1103,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  37,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1203,7 +1203,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  37,
+                      "cantidad":  27,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1323,7 +1323,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  26,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "21-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-210526",
@@ -1433,7 +1433,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  19,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2883,7 +2883,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  52,
+                      "cantidad":  40,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -3103,7 +3103,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  122,
+                      "cantidad":  102,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-161026",
@@ -3193,7 +3193,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  36,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -3363,7 +3363,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  50,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -3543,7 +3543,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  29,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-131126",
@@ -3623,17 +3623,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  12,
-                      "fecha_fabricacion":  "27-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-271026",
-                      "descripcion":  "ALCAPARRAS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA027",
-                      "cantidad":  40,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-171126",
@@ -7032,5 +7022,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62746
+    "total_general_cajas":  62644
 };
