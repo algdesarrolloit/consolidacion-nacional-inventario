@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  17460,
-                                                              "bidones":  97
+                                                              "kg":  11340,
+                                                              "bidones":  63
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,15 +133,15 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  98177.4,
-                          "cajas":  50427
+                          "kg":  92057.4,
+                          "cajas":  51136
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1312
+                          "cajas":  1294
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2603
+                          "cajas":  2347
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -179,7 +179,7 @@
                           "cajas":  1767
                       }
                   ],
-    "total_general_kg":  98177.4,
+    "total_general_kg":  92057.4,
     "productos":  [
                       {
                           "zulia":  47,
@@ -286,7 +286,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  30,
+                          "zulia":  23,
                           "codigo":  "4MES002",
                           "um":  "CJ",
                           "andes":  54,
@@ -299,7 +299,7 @@
                           "bolivar":  24
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  7,
                           "codigo":  "4MES003",
                           "um":  "CJ",
                           "andes":  62,
@@ -312,7 +312,7 @@
                           "bolivar":  23
                       },
                       {
-                          "zulia":  18,
+                          "zulia":  0,
                           "codigo":  "4MKE003",
                           "um":  "CJ",
                           "andes":  119,
@@ -351,7 +351,7 @@
                           "bolivar":  33
                       },
                       {
-                          "zulia":  27,
+                          "zulia":  7,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
                           "andes":  10,
@@ -371,13 +371,13 @@
                           "margarita":  25,
                           "capital":  94,
                           "barcelona":  0,
-                          "cagua":  2269,
+                          "cagua":  2978,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  0,
                           "bolivar":  103
                       },
                       {
-                          "zulia":  449,
+                          "zulia":  439,
                           "codigo":  "4MMA006",
                           "um":  "CJ",
                           "andes":  415,
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  14,
-                          "capital":  41,
+                          "capital":  31,
                           "barcelona":  0,
                           "cagua":  1526,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -442,7 +442,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  54,
+                          "zulia":  53,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  66,
@@ -455,7 +455,7 @@
                           "bolivar":  39
                       },
                       {
-                          "zulia":  51,
+                          "zulia":  50,
                           "codigo":  "4MNA014",
                           "um":  "CJ",
                           "andes":  99,
@@ -468,12 +468,12 @@
                           "bolivar":  41
                       },
                       {
-                          "zulia":  44,
+                          "zulia":  43,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  19,
-                          "capital":  28,
+                          "capital":  30,
                           "barcelona":  0,
                           "cagua":  625,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -481,7 +481,7 @@
                           "bolivar":  49
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  9,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  9,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  6,
+                          "zulia":  5,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  92,
@@ -507,7 +507,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  9,
+                          "zulia":  0,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
                           "andes":  80,
@@ -520,7 +520,7 @@
                           "bolivar":  40
                       },
                       {
-                          "zulia":  70,
+                          "zulia":  63,
                           "codigo":  "4MSA006",
                           "um":  "CJ",
                           "andes":  55,
@@ -533,7 +533,7 @@
                           "bolivar":  67
                       },
                       {
-                          "zulia":  23,
+                          "zulia":  14,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
                           "andes":  34,
@@ -572,7 +572,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  43,
+                          "zulia":  28,
                           "codigo":  "4MSA013",
                           "um":  "CJ",
                           "andes":  26,
@@ -585,7 +585,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  26,
                           "codigo":  "4MSA015",
                           "um":  "CJ",
                           "andes":  56,
@@ -611,7 +611,7 @@
                           "bolivar":  24
                       },
                       {
-                          "zulia":  99,
+                          "zulia":  95,
                           "codigo":  "4MSU002",
                           "um":  "CJ",
                           "andes":  107,
@@ -624,7 +624,7 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  71,
+                          "zulia":  70,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  49,
@@ -642,7 +642,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  10,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  312,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
@@ -650,7 +650,7 @@
                           "bolivar":  2
                       },
                       {
-                          "zulia":  97,
+                          "zulia":  69,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  127,
@@ -663,7 +663,7 @@
                           "bolivar":  43
                       },
                       {
-                          "zulia":  14,
+                          "zulia":  0,
                           "codigo":  "4MSU017",
                           "um":  "CJ",
                           "andes":  10,
@@ -676,7 +676,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  15,
+                          "zulia":  10,
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  7,
@@ -715,7 +715,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  95,
+                          "zulia":  92,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  213,
@@ -728,7 +728,7 @@
                           "bolivar":  22
                       },
                       {
-                          "zulia":  24,
+                          "zulia":  23,
                           "codigo":  "4MTO014",
                           "um":  "CJ",
                           "andes":  52,
@@ -741,7 +741,7 @@
                           "bolivar":  58
                       },
                       {
-                          "zulia":  4,
+                          "zulia":  0,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
                           "andes":  53,
@@ -754,7 +754,7 @@
                           "bolivar":  9
                       },
                       {
-                          "zulia":  33,
+                          "zulia":  32,
                           "codigo":  "4MTO016",
                           "um":  "CJ",
                           "andes":  31,
@@ -767,7 +767,7 @@
                           "bolivar":  26
                       },
                       {
-                          "zulia":  42,
+                          "zulia":  36,
                           "codigo":  "4MTO017",
                           "um":  "CJ",
                           "andes":  23,
@@ -832,7 +832,7 @@
                           "bolivar":  17
                       },
                       {
-                          "zulia":  11,
+                          "zulia":  7,
                           "codigo":  "4MTO052",
                           "um":  "CJ",
                           "andes":  3,
@@ -858,7 +858,7 @@
                           "bolivar":  18
                       },
                       {
-                          "zulia":  10,
+                          "zulia":  6,
                           "codigo":  "4MTO056",
                           "um":  "CJ",
                           "andes":  3,
@@ -871,7 +871,7 @@
                           "bolivar":  5
                       },
                       {
-                          "zulia":  84,
+                          "zulia":  69,
                           "codigo":  "4MVI002",
                           "um":  "CJ",
                           "andes":  87,
@@ -884,7 +884,7 @@
                           "bolivar":  42
                       },
                       {
-                          "zulia":  131,
+                          "zulia":  115,
                           "codigo":  "4MVI004",
                           "um":  "CJ",
                           "andes":  110,
@@ -943,13 +943,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  17460,
+                          "cagua":  11340,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 14:20:47",
+    "ultima_actualizacion":  "20/11/2026 14:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2523,6 +2523,16 @@
                   },
                   {
                       "codigo":  "4MMA003",
+                      "cantidad":  709,
+                      "fecha_fabricacion":  "19-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E-0527-191126",
+                      "descripcion":  "MAYONESA 24 X 175GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-05-2027"
+                  },
+                  {
+                      "codigo":  "4MMA003",
                       "cantidad":  4,
                       "fecha_fabricacion":  "08-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -2933,7 +2943,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  41,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "10-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-101126",
@@ -3330,6 +3340,16 @@
                       "descripcion":  "ENCURTIDOS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "03-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "28-10-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1028-281026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-10-2028"
                   },
                   {
                       "codigo":  "4MNA015",
@@ -4696,16 +4716,6 @@
                       "cantidad":  312,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
-                      "lote":  "0427-061026",
-                      "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "06-04-2027"
-                  },
-                  {
-                      "codigo":  "4MSU014",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "06-10-2026",
-                      "ubicacion":  "CAPITAL",
                       "lote":  "0427-061026",
                       "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
                       "um":  "CJ",
@@ -6692,5 +6702,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63323
+    "total_general_cajas":  63758
 };
