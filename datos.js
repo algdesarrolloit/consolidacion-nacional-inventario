@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1863
+                          "cajas":  1851
                       },
                       {
                           "almacen":  "CAGUA",
@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1934
+                          "cajas":  1868
                       },
                       {
                           "almacen":  "ANDES",
@@ -187,7 +187,7 @@
                           "um":  "CJ",
                           "andes":  128,
                           "margarita":  53,
-                          "capital":  37,
+                          "capital":  32,
                           "barcelona":  45,
                           "cagua":  369,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -200,7 +200,7 @@
                           "um":  "CJ",
                           "andes":  61,
                           "margarita":  19,
-                          "capital":  37,
+                          "capital":  32,
                           "barcelona":  45,
                           "cagua":  314,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -213,7 +213,7 @@
                           "um":  "CJ",
                           "andes":  181,
                           "margarita":  62,
-                          "capital":  41,
+                          "capital":  36,
                           "barcelona":  33,
                           "cagua":  1297,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -226,7 +226,7 @@
                           "um":  "CJ",
                           "andes":  77,
                           "margarita":  29,
-                          "capital":  19,
+                          "capital":  9,
                           "barcelona":  31,
                           "cagua":  767,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -256,7 +256,7 @@
                           "barcelona":  1,
                           "cagua":  29,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                          "barquisimeto":  15,
+                          "barquisimeto":  4,
                           "bolivar":  3
                       },
                       {
@@ -269,7 +269,7 @@
                           "barcelona":  1,
                           "cagua":  12,
                           "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                          "barquisimeto":  4,
+                          "barquisimeto":  3,
                           "bolivar":  3
                       },
                       {
@@ -395,7 +395,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  8,
-                          "capital":  14,
+                          "capital":  4,
                           "barcelona":  4,
                           "cagua":  171,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  24,
-                          "capital":  22,
+                          "capital":  17,
                           "barcelona":  0,
                           "cagua":  957,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -564,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
-                          "capital":  11,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  23,
                           "margarita":  23,
-                          "capital":  19,
+                          "capital":  14,
                           "barcelona":  15,
                           "cagua":  763,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -798,7 +798,7 @@
                           "um":  "CJ",
                           "andes":  10,
                           "margarita":  12,
-                          "capital":  19,
+                          "capital":  9,
                           "barcelona":  4,
                           "cagua":  89,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 07:20:47",
+    "ultima_actualizacion":  "20/11/2026 07:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1563,16 +1563,6 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  11,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "2026",
-                      "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
-                  },
-                  {
-                      "codigo":  "4CNA026",
                       "cantidad":  3,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "BOLIVAR",
@@ -1630,16 +1620,6 @@
                       "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
                       "um":  "CJ",
                       "fecha_vencimiento":  "05-06-2027"
-                  },
-                  {
-                      "codigo":  "4CNA057",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "01-01-1900",
-                      "ubicacion":  "BARQUISIMETO",
-                      "lote":  "2026",
-                      "descripcion":  "GALLETA WAFER CHOCOLATE 12x14x30G",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-01-1900"
                   },
                   {
                       "codigo":  "4CNA057",
@@ -2824,16 +2804,6 @@
                   {
                       "codigo":  "4MMA011",
                       "cantidad":  4,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0127-29092026",
-                      "descripcion":  "MAYONESA 4 X 3.35 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-01-2027"
-                  },
-                  {
-                      "codigo":  "4MMA011",
-                      "cantidad":  10,
                       "fecha_fabricacion":  "05-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0327-05112026",
@@ -3773,7 +3743,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  20,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-20102026",
@@ -4160,16 +4130,6 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "04-11-2028"
-                  },
-                  {
-                      "codigo":  "4MSA009",
-                      "cantidad":  11,
-                      "fecha_fabricacion":  "29-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-290926",
-                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "29-09-2028"
                   },
                   {
                       "codigo":  "4MSA009",
@@ -6043,7 +6003,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  19,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -6273,17 +6233,7 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "24-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0327-24092026",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "24-03-2702"
-                  },
-                  {
-                      "codigo":  "4MTO033",
-                      "cantidad":  12,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-211026",
@@ -7082,5 +7032,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62824
+    "total_general_cajas":  62746
 };
