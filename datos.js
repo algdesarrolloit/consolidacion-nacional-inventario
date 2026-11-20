@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1323
+                          "cajas":  1321
                       },
                       {
                           "almacen":  "ANDES",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  330,
                           "margarita":  172,
-                          "capital":  16,
+                          "capital":  15,
                           "barcelona":  19,
                           "cagua":  7129,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -642,7 +642,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  11,
+                          "capital":  10,
                           "barcelona":  0,
                           "cagua":  312,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 11:20:47",
+    "ultima_actualizacion":  "20/11/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6922,5 +6922,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  63672
+    "total_general_cajas":  63670
 };
