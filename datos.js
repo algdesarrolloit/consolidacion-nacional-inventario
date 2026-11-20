@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1620
+                          "cajas":  1407
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2631
+                          "cajas":  2601
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -330,7 +330,7 @@
                           "um":  "CJ",
                           "andes":  331,
                           "margarita":  172,
-                          "capital":  58,
+                          "capital":  26,
                           "barcelona":  19,
                           "cagua":  7179,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
@@ -382,7 +382,7 @@
                           "um":  "CJ",
                           "andes":  416,
                           "margarita":  172,
-                          "capital":  34,
+                          "capital":  0,
                           "barcelona":  155,
                           "cagua":  3757,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
@@ -421,7 +421,7 @@
                           "um":  "CJ",
                           "andes":  120,
                           "margarita":  14,
-                          "capital":  51,
+                          "capital":  41,
                           "barcelona":  0,
                           "cagua":  1526,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -442,12 +442,12 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  84,
+                          "zulia":  54,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  117,
                           "margarita":  13,
-                          "capital":  63,
+                          "capital":  39,
                           "barcelona":  0,
                           "cagua":  1270,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -473,7 +473,7 @@
                           "um":  "CJ",
                           "andes":  30,
                           "margarita":  19,
-                          "capital":  33,
+                          "capital":  28,
                           "barcelona":  0,
                           "cagua":  625,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
@@ -486,7 +486,7 @@
                           "um":  "CJ",
                           "andes":  50,
                           "margarita":  14,
-                          "capital":  11,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -499,7 +499,7 @@
                           "um":  "CJ",
                           "andes":  210,
                           "margarita":  13,
-                          "capital":  32,
+                          "capital":  1,
                           "barcelona":  0,
                           "cagua":  775,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -512,7 +512,7 @@
                           "um":  "CJ",
                           "andes":  80,
                           "margarita":  24,
-                          "capital":  16,
+                          "capital":  9,
                           "barcelona":  0,
                           "cagua":  957,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
@@ -525,7 +525,7 @@
                           "um":  "CJ",
                           "andes":  55,
                           "margarita":  25,
-                          "capital":  9,
+                          "capital":  0,
                           "barcelona":  0,
                           "cagua":  935,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
@@ -629,7 +629,7 @@
                           "um":  "CJ",
                           "andes":  49,
                           "margarita":  21,
-                          "capital":  6,
+                          "capital":  3,
                           "barcelona":  3,
                           "cagua":  409,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
@@ -642,7 +642,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  41,
+                          "capital":  11,
                           "barcelona":  0,
                           "cagua":  312,
                           "descripcion":  "BIPACK KETCHUP 397G  MAYONESA 445G  2  X 6",
@@ -785,7 +785,7 @@
                           "um":  "CJ",
                           "andes":  93,
                           "margarita":  29,
-                          "capital":  123,
+                          "capital":  122,
                           "barcelona":  5,
                           "cagua":  1478,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
@@ -876,7 +876,7 @@
                           "um":  "CJ",
                           "andes":  87,
                           "margarita":  41,
-                          "capital":  6,
+                          "capital":  0,
                           "barcelona":  27,
                           "cagua":  1884,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -889,7 +889,7 @@
                           "um":  "CJ",
                           "andes":  113,
                           "margarita":  30,
-                          "capital":  27,
+                          "capital":  17,
                           "barcelona":  73,
                           "cagua":  1240,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "20/11/2026 09:20:47",
+    "ultima_actualizacion":  "20/11/2026 09:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2233,7 +2233,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  63,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -2723,7 +2723,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  39,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-27102026",
@@ -2993,7 +2993,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  55,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "10-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-101126",
@@ -3183,7 +3183,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  27,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-021126",
@@ -3213,7 +3213,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  34,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1028-03112026",
@@ -3453,27 +3453,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  6,
-                      "fecha_fabricacion":  "28-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-281026",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "28-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "27-11-2025",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1128-271125 NV",
-                      "descripcion":  "ENCURTIDOS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "27-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA015",
-                      "cantidad":  30,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "E- 1028-30102026",
@@ -3530,16 +3510,6 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA025",
-                      "cantidad":  15,
-                      "fecha_fabricacion":  "13-11-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1128-131126",
-                      "descripcion":  "ALCAPARRAS 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "13-11-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -3613,7 +3583,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  32,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-171126",
@@ -3713,17 +3683,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "19-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-19102026",
-                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-10-2028"
-                  },
-                  {
-                      "codigo":  "4MSA005",
-                      "cantidad":  15,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-20102026",
@@ -3843,7 +3803,7 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  11,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "06-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-061126",
@@ -4923,7 +4883,7 @@
                   },
                   {
                       "codigo":  "4MSU014",
-                      "cantidad":  41,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-061026",
@@ -6103,7 +6063,7 @@
                   },
                   {
                       "codigo":  "4MTO018",
-                      "cantidad":  34,
+                      "cantidad":  32,
                       "fecha_fabricacion":  "15-07-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0728-15072026",
@@ -6703,16 +6663,6 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  11,
-                      "fecha_fabricacion":  "22-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-220926",
-                      "descripcion":  "VINAGRE 12 X 1000ML",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-09-2028"
-                  },
-                  {
-                      "codigo":  "4MVI002",
                       "cantidad":  27,
                       "fecha_fabricacion":  "22-07-2026",
                       "ubicacion":  "MARGARITA",
@@ -7002,5 +6952,5 @@
                       "fecha_vencimiento":  "14-10-2028"
                   }
               ],
-    "total_general_cajas":  62498
+    "total_general_cajas":  62255
 };
