@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  39577.4,
-                                                              "bidones":  659.62
+                                                              "kg":  39277.4,
+                                                              "bidones":  654.62
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  41140,
-                                                              "bidones":  748
+                                                              "kg":  40645,
+                                                              "bidones":  739
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  11340,
-                                                              "bidones":  63
+                                                              "kg":  10980,
+                                                              "bidones":  61
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -127,13 +127,13 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  2995
+                          "cajas":  2915
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  92057.4,
+                          "kg":  90902.4,
                           "cajas":  47633
                       },
                       {
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2930
+                          "cajas":  2917
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -179,10 +179,10 @@
                           "cajas":  1767
                       }
                   ],
-    "total_general_kg":  92057.4,
+    "total_general_kg":  90902.4,
     "productos":  [
                       {
-                          "zulia":  47,
+                          "zulia":  45,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  106,
@@ -195,7 +195,7 @@
                           "bolivar":  45
                       },
                       {
-                          "zulia":  56,
+                          "zulia":  55,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
                           "andes":  48,
@@ -208,7 +208,7 @@
                           "bolivar":  10
                       },
                       {
-                          "zulia":  50,
+                          "zulia":  48,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  158,
@@ -221,7 +221,7 @@
                           "bolivar":  3
                       },
                       {
-                          "zulia":  60,
+                          "zulia":  59,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
                           "andes":  64,
@@ -334,7 +334,7 @@
                           "barcelona":  19,
                           "cagua":  6769,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
-                          "barquisimeto":  244,
+                          "barquisimeto":  164,
                           "bolivar":  206
                       },
                       {
@@ -429,7 +429,7 @@
                           "bolivar":  92
                       },
                       {
-                          "zulia":  53,
+                          "zulia":  52,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
                           "andes":  53,
@@ -442,7 +442,7 @@
                           "bolivar":  35
                       },
                       {
-                          "zulia":  108,
+                          "zulia":  103,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
                           "andes":  66,
@@ -494,7 +494,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  58,
+                          "zulia":  57,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
                           "andes":  92,
@@ -917,7 +917,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  39577.4,
+                          "cagua":  39277.4,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  41140,
+                          "cagua":  40645,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -943,13 +943,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  11340,
+                          "cagua":  10980,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/11/2026 11:20:47",
+    "ultima_actualizacion":  "23/11/2026 11:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1013,7 +1013,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  11160,
+                      "cantidad":  10980,
                       "fecha_fabricacion":  "01-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0829-010826-287",
@@ -6902,5 +6902,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62859
+    "total_general_cajas":  62766
 };
