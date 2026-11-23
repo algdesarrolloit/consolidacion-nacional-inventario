@@ -148,7 +148,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2881
+                          "cajas":  2846
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -445,7 +445,7 @@
                           "zulia":  98,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
-                          "andes":  32,
+                          "andes":  0,
                           "margarita":  9,
                           "capital":  39,
                           "barcelona":  3,
@@ -471,7 +471,7 @@
                           "zulia":  21,
                           "codigo":  "4MNA015",
                           "um":  "CJ",
-                          "andes":  25,
+                          "andes":  22,
                           "margarita":  16,
                           "capital":  30,
                           "barcelona":  25,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "23/11/2026 17:20:46",
+    "ultima_actualizacion":  "23/11/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3053,16 +3053,6 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  32,
-                      "fecha_fabricacion":  "11-11-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "1128-11126",
-                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-11-2028"
-                  },
-                  {
-                      "codigo":  "4MNA011",
                       "cantidad":  80,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "BARCELONA",
@@ -3283,7 +3273,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  25,
+                      "cantidad":  22,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "E- 1028-30102026",
@@ -6532,5 +6522,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62198
+    "total_general_cajas":  62163
 };
