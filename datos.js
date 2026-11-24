@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1492
+                          "cajas":  1483
                       },
                       {
                           "almacen":  "ANDES",
@@ -811,7 +811,7 @@
                           "um":  "CJ",
                           "andes":  56,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  2,
                           "barcelona":  5,
                           "cagua":  180,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
@@ -824,7 +824,7 @@
                           "um":  "CJ",
                           "andes":  51,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  2,
                           "barcelona":  12,
                           "cagua":  193,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
@@ -850,7 +850,7 @@
                           "um":  "CJ",
                           "andes":  41,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  2,
                           "barcelona":  12,
                           "cagua":  266,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 15:50:46",
+    "ultima_actualizacion":  "24/11/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6043,7 +6043,7 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-09112026",
@@ -6113,7 +6113,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-091126",
@@ -6203,7 +6203,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  5,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-221026",
@@ -6612,5 +6612,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  59633
+    "total_general_cajas":  59624
 };
