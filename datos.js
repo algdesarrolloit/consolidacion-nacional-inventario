@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  90042.4,
-                          "cajas":  46291
+                          "cajas":  46200
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -189,7 +189,7 @@
                           "margarita":  50,
                           "capital":  21,
                           "barcelona":  45,
-                          "cagua":  293,
+                          "cagua":  285,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  35,
                           "bolivar":  82
@@ -202,7 +202,7 @@
                           "margarita":  16,
                           "capital":  27,
                           "barcelona":  40,
-                          "cagua":  212,
+                          "cagua":  207,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  74,
                           "bolivar":  67
@@ -215,7 +215,7 @@
                           "margarita":  57,
                           "capital":  1,
                           "barcelona":  30,
-                          "cagua":  1124,
+                          "cagua":  1113,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  38,
                           "bolivar":  60
@@ -228,7 +228,7 @@
                           "margarita":  24,
                           "capital":  0,
                           "barcelona":  25,
-                          "cagua":  601,
+                          "cagua":  590,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  43,
                           "bolivar":  60
@@ -332,7 +332,7 @@
                           "margarita":  172,
                           "capital":  13,
                           "barcelona":  18,
-                          "cagua":  2422,
+                          "cagua":  2412,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  6,
                           "bolivar":  197
@@ -371,7 +371,7 @@
                           "margarita":  0,
                           "capital":  94,
                           "barcelona":  3,
-                          "cagua":  2562,
+                          "cagua":  2559,
                           "descripcion":  "MAYONESA 24 X 175GR",
                           "barquisimeto":  17,
                           "bolivar":  99
@@ -384,7 +384,7 @@
                           "margarita":  172,
                           "capital":  88,
                           "barcelona":  125,
-                          "cagua":  6097,
+                          "cagua":  6092,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  264
@@ -514,7 +514,7 @@
                           "margarita":  24,
                           "capital":  37,
                           "barcelona":  5,
-                          "cagua":  745,
+                          "cagua":  744,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
                           "bolivar":  60
@@ -527,7 +527,7 @@
                           "margarita":  25,
                           "capital":  28,
                           "barcelona":  14,
-                          "cagua":  785,
+                          "cagua":  783,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  15,
                           "bolivar":  79
@@ -540,7 +540,7 @@
                           "margarita":  23,
                           "capital":  2,
                           "barcelona":  17,
-                          "cagua":  2332,
+                          "cagua":  2330,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  12,
                           "bolivar":  61
@@ -566,7 +566,7 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1245,
+                          "cagua":  1235,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  120
@@ -722,7 +722,7 @@
                           "margarita":  8,
                           "capital":  143,
                           "barcelona":  3,
-                          "cagua":  1143,
+                          "cagua":  1123,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  41,
                           "bolivar":  66
@@ -787,7 +787,7 @@
                           "margarita":  29,
                           "capital":  122,
                           "barcelona":  34,
-                          "cagua":  1384,
+                          "cagua":  1383,
                           "descripcion":  "SALSA PARA CARNES 79 24 X 380GR",
                           "barquisimeto":  22,
                           "bolivar":  59
@@ -878,7 +878,7 @@
                           "margarita":  41,
                           "capital":  13,
                           "barcelona":  12,
-                          "cagua":  1825,
+                          "cagua":  1823,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  38,
                           "bolivar":  43
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 15:20:46",
+    "ultima_actualizacion":  "24/11/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1083,7 +1083,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  24,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-230526",
@@ -1173,7 +1173,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  19,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -1283,7 +1283,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  33,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-200526",
@@ -1373,7 +1373,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  29,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0527-31052026",
@@ -2503,16 +2503,6 @@
                   },
                   {
                       "codigo":  "4MMA003",
-                      "cantidad":  25,
-                      "fecha_fabricacion":  "19-10-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0427-191026",
-                      "descripcion":  "MAYONESA 24 X 175GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "19-04-2027"
-                  },
-                  {
-                      "codigo":  "4MMA003",
                       "cantidad":  204,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "ZULIA",
@@ -3313,16 +3303,6 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  3,
-                      "fecha_fabricacion":  "07-10-2025",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "1028-071025",
-                      "descripcion":  "ENCURTIDOS 12 X 500GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "07-10-2028"
-                  },
-                  {
-                      "codigo":  "4MNA014",
                       "cantidad":  25,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "ZULIA",
@@ -3413,7 +3393,7 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  19,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "27-11-2025",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1128-271125 NV",
@@ -3433,7 +3413,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  10,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "1028-231026",
@@ -5075,16 +5055,6 @@
                       "codigo":  "4MSU018",
                       "cantidad":  10,
                       "fecha_fabricacion":  "02-11-2026",
-                      "ubicacion":  "MARGARITA",
-                      "lote":  "0827-021126",
-                      "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "02-08-2027"
-                  },
-                  {
-                      "codigo":  "4MSU018",
-                      "cantidad":  10,
-                      "fecha_fabricacion":  "02-11-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0827-021126",
                       "descripcion":  "PREPARADO DE MOSTAZA 4 X 3.785 KG",
@@ -5533,7 +5503,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  6,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "MARGARITA",
                       "lote":  "0928-230926",
@@ -6642,5 +6612,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  59724
+    "total_general_cajas":  59633
 };
