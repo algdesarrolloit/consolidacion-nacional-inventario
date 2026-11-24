@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  90902.4,
-                          "cajas":  49917
+                          "cajas":  49907
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -148,14 +148,14 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2846
+                          "cajas":  2845
                       },
                       {
                           "almacen":  "MARGARITA",
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  1119
+                          "cajas":  1109
                       },
                       {
                           "almacen":  "ZULIA",
@@ -215,7 +215,7 @@
                           "margarita":  57,
                           "capital":  14,
                           "barcelona":  30,
-                          "cagua":  1247,
+                          "cagua":  1242,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  29,
                           "bolivar":  0
@@ -254,7 +254,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  1,
-                          "cagua":  29,
+                          "cagua":  24,
                           "descripcion":  "GALLETAS WAFER RELLENA  FRESA BAUDUCCO 12X14X30GR",
                           "barquisimeto":  4,
                           "bolivar":  3
@@ -536,7 +536,7 @@
                           "zulia":  93,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  15,
+                          "andes":  14,
                           "margarita":  23,
                           "capital":  2,
                           "barcelona":  16,
@@ -680,7 +680,7 @@
                           "codigo":  "4MSU018",
                           "um":  "CJ",
                           "andes":  7,
-                          "margarita":  10,
+                          "margarita":  0,
                           "capital":  9,
                           "barcelona":  8,
                           "cagua":  37,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 08:50:46",
+    "ultima_actualizacion":  "24/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1233,7 +1233,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  236,
+                      "cantidad":  231,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-120626",
@@ -1483,7 +1483,7 @@
                   },
                   {
                       "codigo":  "4CNA026",
-                      "cantidad":  29,
+                      "cantidad":  24,
                       "fecha_fabricacion":  "09-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-090626",
@@ -3653,7 +3653,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  15,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-291026",
@@ -6522,5 +6522,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62133
+    "total_general_cajas":  62112
 };
