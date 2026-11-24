@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1418
+                          "cajas":  1414
                       },
                       {
                           "almacen":  "CAGUA",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1106
+                          "cajas":  1117
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -191,7 +191,7 @@
                           "barcelona":  45,
                           "cagua":  334,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  36,
+                          "barquisimeto":  35,
                           "bolivar":  42
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  40,
                           "cagua":  279,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  75,
+                          "barquisimeto":  74,
                           "bolivar":  7
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  30,
                           "cagua":  1242,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  39,
+                          "barquisimeto":  38,
                           "bolivar":  0
                       },
                       {
@@ -230,7 +230,7 @@
                           "barcelona":  25,
                           "cagua":  717,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  44,
+                          "barquisimeto":  43,
                           "bolivar":  0
                       },
                       {
@@ -292,7 +292,7 @@
                           "andes":  49,
                           "margarita":  15,
                           "capital":  67,
-                          "barcelona":  29,
+                          "barcelona":  30,
                           "cagua":  720,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  40,
@@ -305,7 +305,7 @@
                           "andes":  55,
                           "margarita":  12,
                           "capital":  28,
-                          "barcelona":  7,
+                          "barcelona":  8,
                           "cagua":  954,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
                           "barquisimeto":  8,
@@ -461,7 +461,7 @@
                           "andes":  46,
                           "margarita":  13,
                           "capital":  28,
-                          "barcelona":  130,
+                          "barcelona":  131,
                           "cagua":  1615,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  81,
@@ -513,7 +513,7 @@
                           "andes":  68,
                           "margarita":  24,
                           "capital":  37,
-                          "barcelona":  4,
+                          "barcelona":  5,
                           "cagua":  779,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
@@ -526,7 +526,7 @@
                           "andes":  33,
                           "margarita":  25,
                           "capital":  28,
-                          "barcelona":  13,
+                          "barcelona":  14,
                           "cagua":  819,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  15,
@@ -539,7 +539,7 @@
                           "andes":  14,
                           "margarita":  23,
                           "capital":  2,
-                          "barcelona":  16,
+                          "barcelona":  17,
                           "cagua":  2386,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  12,
@@ -617,7 +617,7 @@
                           "andes":  94,
                           "margarita":  12,
                           "capital":  6,
-                          "barcelona":  7,
+                          "barcelona":  8,
                           "cagua":  2053,
                           "descripcion":  "SALSA BARBECUE 24 X 198 GR",
                           "barquisimeto":  57,
@@ -630,7 +630,7 @@
                           "andes":  29,
                           "margarita":  21,
                           "capital":  31,
-                          "barcelona":  0,
+                          "barcelona":  1,
                           "cagua":  375,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  2,
@@ -721,7 +721,7 @@
                           "andes":  213,
                           "margarita":  8,
                           "capital":  143,
-                          "barcelona":  0,
+                          "barcelona":  3,
                           "cagua":  2003,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  41,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 10:50:46",
+    "ultima_actualizacion":  "24/11/2026 11:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1043,7 +1043,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0627-150626",
@@ -1133,7 +1133,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  75,
+                      "cantidad":  74,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1223,7 +1223,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  39,
+                      "cantidad":  38,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-230526",
@@ -1323,7 +1323,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1653,6 +1653,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  30,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -1793,7 +1803,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  7,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1227-011225",
@@ -3113,7 +3123,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  76,
+                      "cantidad":  77,
                       "fecha_fabricacion":  "07-10-2025",
                       "ubicacion":  "BARCELONA",
                       "lote":  "1028-071025",
@@ -3423,6 +3433,16 @@
                   },
                   {
                       "codigo":  "4MSA005",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "19-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-19102026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "19-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
                       "cantidad":  4,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "BARCELONA",
@@ -3507,6 +3527,16 @@
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-16102026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-161026",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-10-2028"
@@ -3636,6 +3666,16 @@
                       "cantidad":  14,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "ANDES",
+                      "lote":  "1028-291026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "26-10-2026",
+                      "ubicacion":  "BARCELONA",
                       "lote":  "1028-291026",
                       "descripcion":  "SALSA INGLESA 24 X 150 CC",
                       "um":  "CJ",
@@ -4423,7 +4463,7 @@
                   },
                   {
                       "codigo":  "4MSU002",
-                      "cantidad":  7,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "28-07-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0728-280726",
@@ -4516,6 +4556,16 @@
                       "cantidad":  29,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ANDES",
+                      "lote":  "0928-18092026",
+                      "descripcion":  "SALSA BARBECUE 24 X 400 GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSU005",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "18-09-2026",
+                      "ubicacion":  "BARCELONA",
                       "lote":  "0928-18092026",
                       "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                       "um":  "CJ",
@@ -5150,6 +5200,16 @@
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "20-08-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
                   },
                   {
                       "codigo":  "4MTO013",
@@ -6502,5 +6562,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  65994
+    "total_general_cajas":  66001
 };
