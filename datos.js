@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  90902.4,
-                          "cajas":  53546
+                          "cajas":  52401
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1401
+                          "cajas":  2546
                       }
                   ],
     "total_general_kg":  90902.4,
@@ -189,10 +189,10 @@
                           "margarita":  50,
                           "capital":  28,
                           "barcelona":  45,
-                          "cagua":  334,
+                          "cagua":  294,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  35,
-                          "bolivar":  42
+                          "bolivar":  82
                       },
                       {
                           "zulia":  46,
@@ -202,10 +202,10 @@
                           "margarita":  16,
                           "capital":  32,
                           "barcelona":  40,
-                          "cagua":  279,
+                          "cagua":  219,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
                           "barquisimeto":  74,
-                          "bolivar":  7
+                          "bolivar":  67
                       },
                       {
                           "zulia":  22,
@@ -215,10 +215,10 @@
                           "margarita":  57,
                           "capital":  11,
                           "barcelona":  30,
-                          "cagua":  1242,
+                          "cagua":  1182,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  38,
-                          "bolivar":  0
+                          "bolivar":  60
                       },
                       {
                           "zulia":  42,
@@ -228,10 +228,10 @@
                           "margarita":  24,
                           "capital":  6,
                           "barcelona":  25,
-                          "cagua":  717,
+                          "cagua":  657,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  43,
-                          "bolivar":  0
+                          "bolivar":  60
                       },
                       {
                           "zulia":  6,
@@ -293,10 +293,10 @@
                           "margarita":  15,
                           "capital":  67,
                           "barcelona":  30,
-                          "cagua":  720,
+                          "cagua":  680,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                           "barquisimeto":  40,
-                          "bolivar":  1
+                          "bolivar":  41
                       },
                       {
                           "zulia":  45,
@@ -397,10 +397,10 @@
                           "margarita":  8,
                           "capital":  4,
                           "barcelona":  14,
-                          "cagua":  151,
+                          "cagua":  131,
                           "descripcion":  "MAYONESA 4 X 3.35 KG",
                           "barquisimeto":  27,
-                          "bolivar":  0
+                          "bolivar":  20
                       },
                       {
                           "zulia":  95,
@@ -410,10 +410,10 @@
                           "margarita":  24,
                           "capital":  161,
                           "barcelona":  5,
-                          "cagua":  2038,
+                          "cagua":  1933,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  110,
-                          "bolivar":  0
+                          "bolivar":  105
                       },
                       {
                           "zulia":  69,
@@ -423,10 +423,10 @@
                           "margarita":  13,
                           "capital":  31,
                           "barcelona":  5,
-                          "cagua":  1193,
+                          "cagua":  1143,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  95,
-                          "bolivar":  74
+                          "bolivar":  124
                       },
                       {
                           "zulia":  42,
@@ -436,10 +436,10 @@
                           "margarita":  45,
                           "capital":  102,
                           "barcelona":  19,
-                          "cagua":  2960,
+                          "cagua":  2855,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  75,
-                          "bolivar":  0
+                          "bolivar":  105
                       },
                       {
                           "zulia":  98,
@@ -449,10 +449,10 @@
                           "margarita":  9,
                           "capital":  39,
                           "barcelona":  3,
-                          "cagua":  896,
+                          "cagua":  816,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  0,
-                          "bolivar":  21
+                          "bolivar":  101
                       },
                       {
                           "zulia":  25,
@@ -462,10 +462,10 @@
                           "margarita":  13,
                           "capital":  28,
                           "barcelona":  131,
-                          "cagua":  1615,
+                          "cagua":  1575,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  81,
-                          "bolivar":  15
+                          "bolivar":  55
                       },
                       {
                           "zulia":  21,
@@ -475,10 +475,10 @@
                           "margarita":  16,
                           "capital":  30,
                           "barcelona":  25,
-                          "cagua":  473,
+                          "cagua":  433,
                           "descripcion":  "ENCURTIDOS 24 X 200GR",
                           "barquisimeto":  0,
-                          "bolivar":  32
+                          "bolivar":  72
                       },
                       {
                           "zulia":  1,
@@ -501,10 +501,10 @@
                           "margarita":  13,
                           "capital":  47,
                           "barcelona":  0,
-                          "cagua":  386,
+                          "cagua":  306,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  80
                       },
                       {
                           "zulia":  107,
@@ -514,10 +514,10 @@
                           "margarita":  24,
                           "capital":  37,
                           "barcelona":  5,
-                          "cagua":  779,
+                          "cagua":  749,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  0,
-                          "bolivar":  30
+                          "bolivar":  60
                       },
                       {
                           "zulia":  113,
@@ -527,10 +527,10 @@
                           "margarita":  25,
                           "capital":  28,
                           "barcelona":  14,
-                          "cagua":  819,
+                          "cagua":  789,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  15,
-                          "bolivar":  49
+                          "bolivar":  79
                       },
                       {
                           "zulia":  93,
@@ -540,10 +540,10 @@
                           "margarita":  23,
                           "capital":  2,
                           "barcelona":  17,
-                          "cagua":  2386,
+                          "cagua":  2336,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  12,
-                          "bolivar":  11
+                          "bolivar":  61
                       },
                       {
                           "zulia":  36,
@@ -566,10 +566,10 @@
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1560,
+                          "cagua":  1440,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
-                          "bolivar":  0
+                          "bolivar":  120
                       },
                       {
                           "zulia":  26,
@@ -696,10 +696,10 @@
                           "margarita":  34,
                           "capital":  55,
                           "barcelona":  32,
-                          "cagua":  2209,
+                          "cagua":  2179,
                           "descripcion":  "PURE DE TOMATE PASSATA TOMATODO 12 X 490GR",
                           "barquisimeto":  52,
-                          "bolivar":  14
+                          "bolivar":  44
                       },
                       {
                           "zulia":  0,
@@ -722,10 +722,10 @@
                           "margarita":  8,
                           "capital":  143,
                           "barcelona":  3,
-                          "cagua":  2003,
+                          "cagua":  1943,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  41,
-                          "bolivar":  6
+                          "bolivar":  66
                       },
                       {
                           "zulia":  16,
@@ -800,10 +800,10 @@
                           "margarita":  12,
                           "capital":  9,
                           "barcelona":  4,
-                          "cagua":  280,
+                          "cagua":  275,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
                           "barquisimeto":  18,
-                          "bolivar":  5
+                          "bolivar":  10
                       },
                       {
                           "zulia":  7,
@@ -878,10 +878,10 @@
                           "margarita":  41,
                           "capital":  13,
                           "barcelona":  12,
-                          "cagua":  1853,
+                          "cagua":  1833,
                           "descripcion":  "VINAGRE 12 X 1000ML",
                           "barquisimeto":  38,
-                          "bolivar":  23
+                          "bolivar":  43
                       },
                       {
                           "zulia":  109,
@@ -891,10 +891,10 @@
                           "margarita":  30,
                           "capital":  12,
                           "barcelona":  67,
-                          "cagua":  1240,
+                          "cagua":  1220,
                           "descripcion":  "VINAGRE 24 X 500ML",
                           "barquisimeto":  25,
-                          "bolivar":  25
+                          "bolivar":  45
                       },
                       {
                           "zulia":  5,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 11:20:46",
+    "ultima_actualizacion":  "24/11/2026 11:50:58",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1053,7 +1053,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  42,
+                      "cantidad":  82,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0627-150626",
@@ -1063,7 +1063,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  334,
+                      "cantidad":  294,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-150626",
@@ -1143,7 +1143,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  7,
+                      "cantidad":  67,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0527-31052026",
@@ -1153,7 +1153,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  279,
+                      "cantidad":  219,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1233,7 +1233,17 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  231,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "12-06-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0627-120626",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  171,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-120626",
@@ -1333,7 +1343,17 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  717,
+                      "cantidad":  60,
+                      "fecha_fabricacion":  "31-05-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0527-31052026",
+                      "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "31-05-2027"
+                  },
+                  {
+                      "codigo":  "4CNA019",
+                      "cantidad":  657,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1683,6 +1703,16 @@
                   },
                   {
                       "codigo":  "4MES002",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "12-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-120926",
+                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "12-09-2028"
+                  },
+                  {
+                      "codigo":  "4MES002",
                       "cantidad":  1,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BOLIVAR",
@@ -1693,7 +1723,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  134,
+                      "cantidad":  94,
                       "fecha_fabricacion":  "12-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-120926",
@@ -2693,7 +2723,17 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  151,
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "05-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0327-05112026",
+                      "descripcion":  "MAYONESA 4 X 3.35 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "05-03-2027"
+                  },
+                  {
+                      "codigo":  "4MMA011",
+                      "cantidad":  131,
                       "fecha_fabricacion":  "05-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0327-05112026",
@@ -2783,7 +2823,17 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  509,
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "16-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-16112026NV",
+                      "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA008",
+                      "cantidad":  404,
                       "fecha_fabricacion":  "16-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-16112026NV",
@@ -2903,6 +2953,16 @@
                   },
                   {
                       "codigo":  "4MNA009",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "08-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-08102026",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "08-10-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
                       "cantidad":  74,
                       "fecha_fabricacion":  "10-11-2026",
                       "ubicacion":  "BOLIVAR",
@@ -2913,17 +2973,17 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "08-10-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "1028-08102026",
+                      "cantidad":  49,
+                      "fecha_fabricacion":  "11-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-111126",
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "08-10-2028"
+                      "fecha_vencimiento":  "11-11-2028"
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  1192,
+                      "cantidad":  1143,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-111126",
@@ -3003,7 +3063,17 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  1070,
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "17-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-171126",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA010",
+                      "cantidad":  965,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3073,7 +3143,17 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  896,
+                      "cantidad":  80,
+                      "fecha_fabricacion":  "13-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-131126",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA011",
+                      "cantidad":  816,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-131126",
@@ -3163,6 +3243,16 @@
                   },
                   {
                       "codigo":  "4MNA014",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "11-03-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0328-110326",
+                      "descripcion":  "ENCURTIDOS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-03-2028"
+                  },
+                  {
+                      "codigo":  "4MNA014",
                       "cantidad":  16,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "BOLIVAR",
@@ -3183,7 +3273,7 @@
                   },
                   {
                       "codigo":  "4MNA014",
-                      "cantidad":  155,
+                      "cantidad":  115,
                       "fecha_fabricacion":  "11-03-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0328-110326",
@@ -3313,7 +3403,17 @@
                   },
                   {
                       "codigo":  "4MNA015",
-                      "cantidad":  473,
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "03-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "E-1128-03112026",
+                      "descripcion":  "ENCURTIDOS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "03-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA015",
+                      "cantidad":  433,
                       "fecha_fabricacion":  "03-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "E-1128-03112026",
@@ -3383,7 +3483,17 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  386,
+                      "cantidad":  80,
+                      "fecha_fabricacion":  "17-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-171126",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  306,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-171126",
@@ -3463,7 +3573,17 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  779,
+                      "cantidad":  30,
+                      "fecha_fabricacion":  "18-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-18112026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
+                      "cantidad":  749,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-18112026",
@@ -3583,9 +3703,9 @@
                   },
                   {
                       "codigo":  "4MSA006",
-                      "cantidad":  804,
+                      "cantidad":  15,
                       "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAGUA",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "1028-22102026",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
@@ -3595,11 +3715,21 @@
                       "codigo":  "4MSA006",
                       "cantidad":  15,
                       "fecha_fabricacion":  "06-11-2026",
-                      "ubicacion":  "CAGUA",
+                      "ubicacion":  "BOLIVAR",
                       "lote":  "1128-061126",
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  789,
+                      "fecha_fabricacion":  "22-10-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1028-22102026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "22-10-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -3713,7 +3843,17 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  851,
+                      "cantidad":  50,
+                      "fecha_fabricacion":  "09-11-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1128-09112026",
+                      "descripcion":  "SALSA INGLESA 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA007",
+                      "cantidad":  801,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-09112026",
@@ -3903,7 +4043,17 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1560,
+                      "cantidad":  120,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-16102026",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  1440,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -5073,7 +5223,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  14,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0828-12082026",
@@ -5083,7 +5233,7 @@
                   },
                   {
                       "codigo":  "4MTO011",
-                      "cantidad":  326,
+                      "cantidad":  296,
                       "fecha_fabricacion":  "12-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0828-12082026",
@@ -5233,7 +5383,17 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  6,
+                      "cantidad":  22,
+                      "fecha_fabricacion":  "11-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-110926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "11-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  44,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "0928-170926",
@@ -5243,17 +5403,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  22,
-                      "fecha_fabricacion":  "11-09-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "0928-110926",
-                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "11-09-2028"
-                  },
-                  {
-                      "codigo":  "4MTO013",
-                      "cantidad":  632,
+                      "cantidad":  594,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
@@ -5883,7 +6033,17 @@
                   },
                   {
                       "codigo":  "4MTO033",
-                      "cantidad":  89,
+                      "cantidad":  5,
+                      "fecha_fabricacion":  "27-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0427-27102026",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 4 X3.90 KG",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "27-04-2027"
+                  },
+                  {
+                      "codigo":  "4MTO033",
+                      "cantidad":  84,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0427-27102026",
@@ -6253,6 +6413,16 @@
                   },
                   {
                       "codigo":  "4MVI002",
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "24-09-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-240926",
+                      "descripcion":  "VINAGRE 12 X 1000ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MVI002",
                       "cantidad":  1,
                       "fecha_fabricacion":  "22-09-2026",
                       "ubicacion":  "CAGUA",
@@ -6263,7 +6433,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  335,
+                      "cantidad":  315,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0928-240926",
@@ -6423,7 +6593,17 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  148,
+                      "cantidad":  20,
+                      "fecha_fabricacion":  "06-10-2026",
+                      "ubicacion":  "BOLIVAR",
+                      "lote":  "1028-061026",
+                      "descripcion":  "VINAGRE 24 X 500ML",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "06-10-2028"
+                  },
+                  {
+                      "codigo":  "4MVI004",
+                      "cantidad":  128,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-061026",
