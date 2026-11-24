@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  39277.4,
-                                                              "bidones":  654.62
+                                                              "kg":  39037.4,
+                                                              "bidones":  650.62
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  40645,
-                                                              "bidones":  739
+                                                              "kg":  39930,
+                                                              "bidones":  726
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  10980,
-                                                              "bidones":  61
+                                                              "kg":  10620,
+                                                              "bidones":  59
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,22 +133,22 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  90902.4,
-                          "cajas":  52401
+                          "kg":  89587.4,
+                          "cajas":  51801
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1642
+                          "cajas":  1628
                       },
                       {
                           "almacen":  "ANDES",
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  2825
+                          "cajas":  2808
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -179,15 +179,15 @@
                           "cajas":  2546
                       }
                   ],
-    "total_general_kg":  90902.4,
+    "total_general_kg":  89587.4,
     "productos":  [
                       {
                           "zulia":  28,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
-                          "andes":  97,
+                          "andes":  92,
                           "margarita":  50,
-                          "capital":  28,
+                          "capital":  26,
                           "barcelona":  45,
                           "cagua":  294,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -198,7 +198,7 @@
                           "zulia":  46,
                           "codigo":  "4CNA017",
                           "um":  "CJ",
-                          "andes":  46,
+                          "andes":  45,
                           "margarita":  16,
                           "capital":  32,
                           "barcelona":  40,
@@ -211,7 +211,7 @@
                           "zulia":  22,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
-                          "andes":  146,
+                          "andes":  141,
                           "margarita":  57,
                           "capital":  11,
                           "barcelona":  30,
@@ -224,7 +224,7 @@
                           "zulia":  42,
                           "codigo":  "4CNA019",
                           "um":  "CJ",
-                          "andes":  64,
+                          "andes":  63,
                           "margarita":  24,
                           "capital":  6,
                           "barcelona":  25,
@@ -330,9 +330,9 @@
                           "um":  "CJ",
                           "andes":  245,
                           "margarita":  172,
-                          "capital":  15,
+                          "capital":  13,
                           "barcelona":  18,
-                          "cagua":  6729,
+                          "cagua":  6429,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  6,
                           "bolivar":  197
@@ -382,9 +382,9 @@
                           "um":  "CJ",
                           "andes":  263,
                           "margarita":  172,
-                          "capital":  92,
+                          "capital":  88,
                           "barcelona":  125,
-                          "cagua":  6447,
+                          "cagua":  6147,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  0,
                           "bolivar":  264
@@ -447,7 +447,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
-                          "capital":  39,
+                          "capital":  37,
                           "barcelona":  3,
                           "cagua":  816,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -601,7 +601,7 @@
                           "zulia":  49,
                           "codigo":  "4MSA017",
                           "um":  "CJ",
-                          "andes":  50,
+                          "andes":  45,
                           "margarita":  9,
                           "capital":  72,
                           "barcelona":  14,
@@ -655,7 +655,7 @@
                           "um":  "CJ",
                           "andes":  112,
                           "margarita":  22,
-                          "capital":  10,
+                          "capital":  8,
                           "barcelona":  9,
                           "cagua":  854,
                           "descripcion":  "MOSTAZA PREMIUM 24 X 185 GR.",
@@ -889,7 +889,7 @@
                           "um":  "CJ",
                           "andes":  74,
                           "margarita":  30,
-                          "capital":  12,
+                          "capital":  10,
                           "barcelona":  67,
                           "cagua":  1220,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -917,7 +917,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  39277.4,
+                          "cagua":  39037.4,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  40645,
+                          "cagua":  39930,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -943,17 +943,17 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  10980,
+                          "cagua":  10620,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 11:50:58",
+    "ultima_actualizacion":  "24/11/2026 12:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  7238.4,
+                      "cantidad":  7057.4,
                       "fecha_fabricacion":  "11-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0927-111125-396",
@@ -963,7 +963,7 @@
                   },
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  16199,
+                      "cantidad":  16140,
                       "fecha_fabricacion":  "06-09-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0928-060926-284",
@@ -993,7 +993,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  14300,
+                      "cantidad":  13585,
                       "fecha_fabricacion":  "14-07-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0728-141026-270",
@@ -1013,7 +1013,7 @@
                   },
                   {
                       "codigo":  "1VEG003",
-                      "cantidad":  10980,
+                      "cantidad":  10620,
                       "fecha_fabricacion":  "01-08-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0829-010826-287",
@@ -1023,7 +1023,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  97,
+                      "cantidad":  92,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-230526",
@@ -1073,7 +1073,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  28,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1113,7 +1113,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  46,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -1193,7 +1193,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  146,
+                      "cantidad":  141,
                       "fecha_fabricacion":  "20-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-200526",
@@ -1313,7 +1313,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  64,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0527-31052026",
@@ -2163,7 +2163,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  15,
+                      "cantidad":  13,
                       "fecha_fabricacion":  "26-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-26102026",
@@ -2663,7 +2663,7 @@
                   },
                   {
                       "codigo":  "4MMA006",
-                      "cantidad":  92,
+                      "cantidad":  88,
                       "fecha_fabricacion":  "27-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0427-27102026",
@@ -3163,7 +3163,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  39,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-11126",
@@ -4463,7 +4463,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  35,
+                      "cantidad":  30,
                       "fecha_fabricacion":  "05-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1027-051026",
@@ -4913,7 +4913,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  10,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "30-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1027-301026",
@@ -6633,7 +6633,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  12,
+                      "cantidad":  10,
                       "fecha_fabricacion":  "14-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-140926",
@@ -6742,5 +6742,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  66001
+    "total_general_cajas":  65370
 };
