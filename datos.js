@@ -127,21 +127,21 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  1394
+                          "cajas":  1418
                       },
                       {
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  90902.4,
-                          "cajas":  53786
+                          "cajas":  53546
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1643
+                          "cajas":  1642
                       },
                       {
                           "almacen":  "ANDES",
@@ -162,7 +162,7 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  2707
+                          "cajas":  2947
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -191,7 +191,7 @@
                           "barcelona":  45,
                           "cagua":  334,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
-                          "barquisimeto":  26,
+                          "barquisimeto":  36,
                           "bolivar":  42
                       },
                       {
@@ -204,7 +204,7 @@
                           "barcelona":  40,
                           "cagua":  279,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
-                          "barquisimeto":  73,
+                          "barquisimeto":  75,
                           "bolivar":  7
                       },
                       {
@@ -217,7 +217,7 @@
                           "barcelona":  30,
                           "cagua":  1242,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
-                          "barquisimeto":  29,
+                          "barquisimeto":  39,
                           "bolivar":  0
                       },
                       {
@@ -226,11 +226,11 @@
                           "um":  "CJ",
                           "andes":  64,
                           "margarita":  24,
-                          "capital":  7,
+                          "capital":  6,
                           "barcelona":  25,
                           "cagua":  717,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
-                          "barquisimeto":  42,
+                          "barquisimeto":  44,
                           "bolivar":  0
                       },
                       {
@@ -559,14 +559,14 @@
                           "bolivar":  18
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  240,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  1800,
+                          "cagua":  1560,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "24/11/2026 10:20:46",
+    "ultima_actualizacion":  "24/11/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1043,7 +1043,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  26,
+                      "cantidad":  36,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0627-150626",
@@ -1133,7 +1133,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  73,
+                      "cantidad":  75,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -1223,7 +1223,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  29,
+                      "cantidad":  39,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-230526",
@@ -1323,7 +1323,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  42,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "BARQUISIMETO",
                       "lote":  "0527-31052026",
@@ -3863,7 +3863,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  1800,
+                      "cantidad":  1560,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -3880,6 +3880,16 @@
                       "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                       "um":  "CJ",
                       "fecha_vencimiento":  "24-09-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
+                      "cantidad":  240,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "1028-16102026",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
                   },
                   {
                       "codigo":  "4MSA013",
@@ -6492,5 +6502,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  65971
+    "total_general_cajas":  65994
 };
