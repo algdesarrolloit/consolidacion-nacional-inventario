@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  39930,
-                                                              "bidones":  726
+                                                              "kg":  38280,
+                                                              "bidones":  696
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -107,8 +107,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  540,
-                                                              "bidones":  3
+                                                              "kg":  180,
+                                                              "bidones":  1
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  79507.4,
+                          "kg":  77497.4,
                           "cajas":  46681
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  2096
                       }
                   ],
-    "total_general_kg":  79507.4,
+    "total_general_kg":  77497.4,
     "productos":  [
                       {
                           "zulia":  23,
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  39930,
+                          "cagua":  38280,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -943,13 +943,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  540,
+                          "cagua":  180,
                           "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/11/2026 17:50:47",
+    "ultima_actualizacion":  "25/11/2026 18:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -983,7 +983,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  11496,
+                      "cantidad":  9846,
                       "fecha_fabricacion":  "01-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-050926-221",
@@ -1010,16 +1010,6 @@
                       "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                       "um":  "CJ",
                       "fecha_vencimiento":  "06-09-2028"
-                  },
-                  {
-                      "codigo":  "1VEG003",
-                      "cantidad":  360,
-                      "fecha_fabricacion":  "01-08-2026",
-                      "ubicacion":  "CAGUA",
-                      "lote":  "MP 0829-010826-287",
-                      "descripcion":  "ALCAPARRAS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "01-08-2029"
                   },
                   {
                       "codigo":  "4CNA016",
