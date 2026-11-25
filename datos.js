@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  79782.4,
-                          "cajas":  47095
+                          "cajas":  48785
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -488,7 +488,7 @@
                           "margarita":  4,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  0,
+                          "cagua":  468,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -514,7 +514,7 @@
                           "margarita":  24,
                           "capital":  37,
                           "barcelona":  5,
-                          "cagua":  684,
+                          "cagua":  1514,
                           "descripcion":  "SALSA DE AJO 24 X 150 CC",
                           "barquisimeto":  60,
                           "bolivar":  60
@@ -527,7 +527,7 @@
                           "margarita":  25,
                           "capital":  28,
                           "barcelona":  14,
-                          "cagua":  723,
+                          "cagua":  1017,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  75,
                           "bolivar":  79
@@ -540,7 +540,7 @@
                           "margarita":  23,
                           "capital":  32,
                           "barcelona":  17,
-                          "cagua":  2240,
+                          "cagua":  2338,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  72,
                           "bolivar":  61
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/11/2026 10:20:47",
+    "ultima_actualizacion":  "25/11/2026 10:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3583,6 +3583,16 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  468,
+                      "fecha_fabricacion":  "25-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-251126 NV",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  4,
                       "fecha_fabricacion":  "23-10-2026",
                       "ubicacion":  "MARGARITA",
@@ -3733,6 +3743,16 @@
                   },
                   {
                       "codigo":  "4MSA005",
+                      "cantidad":  830,
+                      "fecha_fabricacion":  "24-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-24112026",
+                      "descripcion":  "SALSA DE AJO 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA005",
                       "cantidad":  37,
                       "fecha_fabricacion":  "20-10-2026",
                       "ubicacion":  "CAPITAL",
@@ -3880,6 +3900,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  294,
+                      "fecha_fabricacion":  "24-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-24112026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-11-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -4043,7 +4073,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  408,
+                      "cantidad":  506,
                       "fecha_fabricacion":  "23-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-23112026",
@@ -6882,5 +6912,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63054
+    "total_general_cajas":  64744
 };
