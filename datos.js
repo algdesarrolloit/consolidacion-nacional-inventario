@@ -127,7 +127,7 @@
                           "campo":  "barquisimeto",
                           "codigo":  "BTO",
                           "kg":  0,
-                          "cajas":  3043
+                          "cajas":  2918
                       },
                       {
                           "almacen":  "CAGUA",
@@ -503,7 +503,7 @@
                           "barcelona":  0,
                           "cagua":  123,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
-                          "barquisimeto":  80,
+                          "barquisimeto":  64,
                           "bolivar":  14
                       },
                       {
@@ -568,7 +568,7 @@
                           "barcelona":  40,
                           "cagua":  655,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
-                          "barquisimeto":  360,
+                          "barquisimeto":  251,
                           "bolivar":  43
                       },
                       {
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/11/2026 13:20:47",
+    "ultima_actualizacion":  "25/11/2026 13:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6942,5 +6942,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  64528
+    "total_general_cajas":  64403
 };
