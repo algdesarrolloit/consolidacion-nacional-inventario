@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  79782.4,
-                          "cajas":  48785
+                          "cajas":  48981
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -169,7 +169,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1117
+                          "cajas":  1155
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -488,7 +488,7 @@
                           "margarita":  4,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  468,
+                          "cagua":  702,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -565,8 +565,8 @@
                           "andes":  0,
                           "margarita":  9,
                           "capital":  180,
-                          "barcelona":  0,
-                          "cagua":  695,
+                          "barcelona":  40,
+                          "cagua":  655,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  360,
                           "bolivar":  43
@@ -721,8 +721,8 @@
                           "andes":  213,
                           "margarita":  8,
                           "capital":  143,
-                          "barcelona":  3,
-                          "cagua":  1123,
+                          "barcelona":  1,
+                          "cagua":  1125,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  41,
                           "bolivar":  59
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/11/2026 12:21:16",
+    "ultima_actualizacion":  "25/11/2026 12:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3583,6 +3583,16 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  234,
+                      "fecha_fabricacion":  "25-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-251126",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  468,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAGUA",
@@ -4223,6 +4233,16 @@
                   },
                   {
                       "codigo":  "4MSA009",
+                      "cantidad":  40,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-16102026",
+                      "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA009",
                       "cantidad":  360,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "BARQUISIMETO",
@@ -4243,7 +4263,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  695,
+                      "cantidad":  655,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1028-16102026",
@@ -5533,7 +5553,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  3,
+                      "cantidad":  1,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-170926",
@@ -5576,6 +5596,16 @@
                       "cantidad":  44,
                       "fecha_fabricacion":  "17-09-2026",
                       "ubicacion":  "BOLIVAR",
+                      "lote":  "0928-170926",
+                      "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-09-2028"
+                  },
+                  {
+                      "codigo":  "4MTO013",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "17-09-2026",
+                      "ubicacion":  "CAGUA",
                       "lote":  "0928-170926",
                       "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                       "um":  "CJ",
@@ -6912,5 +6942,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  64294
+    "total_general_cajas":  64528
 };
