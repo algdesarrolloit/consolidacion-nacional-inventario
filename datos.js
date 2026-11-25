@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  39930,
-                                                              "bidones":  726
+                                                              "kg":  38280,
+                                                              "bidones":  696
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,7 +133,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  79507.4,
+                          "kg":  77857.4,
                           "cajas":  46681
                       },
                       {
@@ -179,7 +179,7 @@
                           "cajas":  2096
                       }
                   ],
-    "total_general_kg":  79507.4,
+    "total_general_kg":  77857.4,
     "productos":  [
                       {
                           "zulia":  23,
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  39930,
+                          "cagua":  38280,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "25/11/2026 16:50:47",
+    "ultima_actualizacion":  "25/11/2026 17:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
