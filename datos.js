@@ -176,7 +176,7 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  2084
+                          "cajas":  2102
                       }
                   ],
     "total_general_kg":  77497.4,
@@ -413,7 +413,7 @@
                           "cagua":  1765,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  97,
-                          "bolivar":  53
+                          "bolivar":  54
                       },
                       {
                           "zulia":  55,
@@ -439,7 +439,7 @@
                           "cagua":  3718,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  53,
-                          "bolivar":  80
+                          "bolivar":  81
                       },
                       {
                           "zulia":  44,
@@ -452,7 +452,7 @@
                           "cagua":  406,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
                           "barquisimeto":  93,
-                          "bolivar":  64
+                          "bolivar":  76
                       },
                       {
                           "zulia":  0,
@@ -465,7 +465,7 @@
                           "cagua":  1325,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  182,
-                          "bolivar":  49
+                          "bolivar":  50
                       },
                       {
                           "zulia":  0,
@@ -543,7 +543,7 @@
                           "cagua":  2312,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  66,
-                          "bolivar":  52
+                          "bolivar":  53
                       },
                       {
                           "zulia":  28,
@@ -725,7 +725,7 @@
                           "cagua":  1103,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  34,
-                          "bolivar":  59
+                          "bolivar":  60
                       },
                       {
                           "zulia":  1,
@@ -777,7 +777,7 @@
                           "cagua":  722,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  17,
-                          "bolivar":  29
+                          "bolivar":  30
                       },
                       {
                           "zulia":  0,
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 12:20:46",
+    "ultima_actualizacion":  "26/11/2026 12:50:58",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -6612,5 +6612,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63080
+    "total_general_cajas":  63098
 };
