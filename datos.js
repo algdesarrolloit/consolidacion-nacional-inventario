@@ -141,7 +141,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2274
+                          "cajas":  2259
                       },
                       {
                           "almacen":  "ANDES",
@@ -564,7 +564,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
-                          "capital":  111,
+                          "capital":  96,
                           "barcelona":  35,
                           "cagua":  553,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 10:20:46",
+    "ultima_actualizacion":  "26/11/2026 10:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4103,7 +4103,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  111,
+                      "cantidad":  96,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-16102026",
@@ -6632,5 +6632,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63428
+    "total_general_cajas":  63413
 };
