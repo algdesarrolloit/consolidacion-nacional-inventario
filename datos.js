@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  38610,
-                                                              "bidones":  702
+                                                              "kg":  31790,
+                                                              "bidones":  578
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,7 +93,7 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  77647.4,
+                          "kg":  70827.4,
                           "cajas":  49186
                       },
                       {
@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2108
+                          "cajas":  2105
                       },
                       {
                           "almacen":  "ANDES",
@@ -139,7 +139,7 @@
                           "cajas":  2084
                       }
                   ],
-    "total_general_kg":  77647.4,
+    "total_general_kg":  70827.4,
     "productos":  [
                       {
                           "zulia":  23,
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  4,
-                          "capital":  117,
+                          "capital":  114,
                           "barcelona":  40,
                           "cagua":  936,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -890,13 +890,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  38610,
+                          "cagua":  31790,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 15:50:46",
+    "ultima_actualizacion":  "26/11/2026 16:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -930,7 +930,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  9846,
+                      "cantidad":  3026,
                       "fecha_fabricacion":  "01-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-050926-221",
@@ -3400,7 +3400,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  117,
+                      "cantidad":  114,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-251126 NV",
@@ -6579,5 +6579,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63022
+    "total_general_cajas":  63019
 };
