@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  38280,
-                                                              "bidones":  696
+                                                              "kg":  38335,
+                                                              "bidones":  697
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,8 +133,8 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  77497.4,
-                          "cajas":  49414
+                          "kg":  77552.4,
+                          "cajas":  49364
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -179,7 +179,7 @@
                           "cajas":  2084
                       }
                   ],
-    "total_general_kg":  77497.4,
+    "total_general_kg":  77552.4,
     "productos":  [
                       {
                           "zulia":  23,
@@ -228,7 +228,7 @@
                           "margarita":  24,
                           "capital":  6,
                           "barcelona":  25,
-                          "cagua":  503,
+                          "cagua":  499,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  59,
                           "bolivar":  57
@@ -488,7 +488,7 @@
                           "margarita":  4,
                           "capital":  0,
                           "barcelona":  40,
-                          "cagua":  1099,
+                          "cagua":  1053,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -930,7 +930,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  38280,
+                          "cagua":  38335,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 13:51:04",
+    "ultima_actualizacion":  "26/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1353,7 +1353,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  503,
+                      "cantidad":  499,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -3433,7 +3433,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  168,
+                      "cantidad":  122,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-251126 NV",
@@ -6612,5 +6612,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63064
+    "total_general_cajas":  63014
 };
