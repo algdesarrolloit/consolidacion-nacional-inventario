@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1756
+                          "cajas":  1736
                       },
                       {
                           "almacen":  "ANDES",
@@ -147,7 +147,7 @@
                           "um":  "CJ",
                           "andes":  92,
                           "margarita":  50,
-                          "capital":  51,
+                          "capital":  49,
                           "barcelona":  45,
                           "cagua":  203,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
@@ -160,7 +160,7 @@
                           "um":  "CJ",
                           "andes":  45,
                           "margarita":  16,
-                          "capital":  56,
+                          "capital":  55,
                           "barcelona":  40,
                           "cagua":  121,
                           "descripcion":  "PANETTONE FRUTAS BAUDUCCO 18 X 400GR",
@@ -173,7 +173,7 @@
                           "um":  "CJ",
                           "andes":  141,
                           "margarita":  57,
-                          "capital":  31,
+                          "capital":  29,
                           "barcelona":  30,
                           "cagua":  1028,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  24,
-                          "capital":  46,
+                          "capital":  44,
                           "barcelona":  25,
                           "cagua":  459,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -251,7 +251,7 @@
                           "um":  "CJ",
                           "andes":  49,
                           "margarita":  15,
-                          "capital":  58,
+                          "capital":  56,
                           "barcelona":  23,
                           "cagua":  620,
                           "descripcion":  "ADOBO COMPLETO 24 X 200GR",
@@ -264,7 +264,7 @@
                           "um":  "CJ",
                           "andes":  55,
                           "margarita":  12,
-                          "capital":  19,
+                          "capital":  17,
                           "barcelona":  6,
                           "cagua":  927,
                           "descripcion":  "ONOTO EN GRANOS  24 X 70GR",
@@ -368,7 +368,7 @@
                           "um":  "CJ",
                           "andes":  26,
                           "margarita":  24,
-                          "capital":  139,
+                          "capital":  135,
                           "barcelona":  107,
                           "cagua":  1763,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
@@ -381,7 +381,7 @@
                           "um":  "CJ",
                           "andes":  68,
                           "margarita":  13,
-                          "capital":  12,
+                          "capital":  11,
                           "barcelona":  117,
                           "cagua":  814,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
@@ -394,7 +394,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  45,
-                          "capital":  36,
+                          "capital":  35,
                           "barcelona":  112,
                           "cagua":  3466,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
@@ -407,7 +407,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  9,
-                          "capital":  102,
+                          "capital":  101,
                           "barcelona":  30,
                           "cagua":  403,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 24 X 200GR",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  4,
-                          "capital":  9,
+                          "capital":  8,
                           "barcelona":  40,
                           "cagua":  936,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  13,
-                          "capital":  122,
+                          "capital":  121,
                           "barcelona":  40,
                           "cagua":  913,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 17:20:46",
+    "ultima_actualizacion":  "26/11/2026 17:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1010,7 +1010,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  51,
+                      "cantidad":  49,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-150626",
@@ -1100,7 +1100,7 @@
                   },
                   {
                       "codigo":  "4CNA017",
-                      "cantidad":  56,
+                      "cantidad":  55,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1220,7 +1220,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  31,
+                      "cantidad":  29,
                       "fecha_fabricacion":  "12-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0627-120626",
@@ -1310,7 +1310,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  46,
+                      "cantidad":  44,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -1690,17 +1690,7 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "15-09-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "0928-150926",
-                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "15-09-2028"
-                  },
-                  {
-                      "codigo":  "4MES002",
-                      "cantidad":  57,
+                      "cantidad":  56,
                       "fecha_fabricacion":  "19-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-190926",
@@ -1810,7 +1800,7 @@
                   },
                   {
                       "codigo":  "4MES003",
-                      "cantidad":  19,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "01-12-2025",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1227-011225",
@@ -2750,7 +2740,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  18,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "18-06-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0628-180626",
@@ -2870,7 +2860,7 @@
                   },
                   {
                       "codigo":  "4MNA009",
-                      "cantidad":  12,
+                      "cantidad":  11,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-111126",
@@ -2980,7 +2970,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  36,
+                      "cantidad":  35,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-161026",
@@ -3040,7 +3030,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  22,
+                      "cantidad":  21,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-11126",
@@ -3380,7 +3370,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  9,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-251126 NV",
@@ -3450,7 +3440,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  17,
+                      "cantidad":  16,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-171126",
@@ -6499,5 +6489,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62670
+    "total_general_cajas":  62650
 };
