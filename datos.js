@@ -67,48 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  38335,
-                                                              "bidones":  697
-                                                          },
-                                                "barquisimeto":  {
-                                                                     "kg":  0,
-                                                                     "bidones":  0
-                                                                 },
-                                                "bolivar":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            }
-                                            }
-                        },
-                        {
-                            "factor_bidon":  180,
-                            "descripcion":  "ALCAPARRAS",
-                            "codigo":  "1VEG003",
-                            "um":  "KG",
-                            "existencias":  {
-                                                "zulia":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "capital":  {
-                                                                "kg":  0,
-                                                                "bidones":  0
-                                                            },
-                                                "andes":  {
-                                                              "kg":  0,
-                                                              "bidones":  0
-                                                          },
-                                                "margarita":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "barcelona":  {
-                                                                  "kg":  0,
-                                                                  "bidones":  0
-                                                              },
-                                                "cagua":  {
-                                                              "kg":  180,
-                                                              "bidones":  1
+                                                              "kg":  38610,
+                                                              "bidones":  702
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -133,15 +93,15 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  77552.4,
-                          "cajas":  48451
+                          "kg":  77647.4,
+                          "cajas":  49186
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2113
+                          "cajas":  2108
                       },
                       {
                           "almacen":  "ANDES",
@@ -179,7 +139,7 @@
                           "cajas":  2084
                       }
                   ],
-    "total_general_kg":  77552.4,
+    "total_general_kg":  77647.4,
     "productos":  [
                       {
                           "zulia":  23,
@@ -384,7 +344,7 @@
                           "margarita":  172,
                           "capital":  163,
                           "barcelona":  311,
-                          "cagua":  5508,
+                          "cagua":  6072,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  78,
                           "bolivar":  240
@@ -811,7 +771,7 @@
                           "um":  "CJ",
                           "andes":  56,
                           "margarita":  0,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  5,
                           "cagua":  178,
                           "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
@@ -824,7 +784,7 @@
                           "um":  "CJ",
                           "andes":  51,
                           "margarita":  0,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  12,
                           "cagua":  191,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
@@ -837,7 +797,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 24 X 190 GRS",
@@ -850,7 +810,7 @@
                           "um":  "CJ",
                           "andes":  41,
                           "margarita":  0,
-                          "capital":  1,
+                          "capital":  0,
                           "barcelona":  12,
                           "cagua":  264,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
@@ -863,7 +823,7 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  0,
                           "descripcion":  "SALSA DE TOMATE CON ALBAHACA 24 X 190 GRS",
@@ -904,7 +864,7 @@
                           "margarita":  0,
                           "capital":  6,
                           "barcelona":  1,
-                          "cagua":  45,
+                          "cagua":  216,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  3
@@ -930,26 +890,13 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  38335,
+                          "cagua":  38610,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
-                          "barquisimeto":  0,
-                          "bolivar":  0
-                      },
-                      {
-                          "zulia":  0,
-                          "codigo":  "1VEG003",
-                          "um":  "KG",
-                          "andes":  0,
-                          "margarita":  0,
-                          "capital":  0,
-                          "barcelona":  0,
-                          "cagua":  180,
-                          "descripcion":  "ALCAPARRAS",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 15:20:46",
+    "ultima_actualizacion":  "26/11/2026 15:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2587,6 +2534,26 @@
                       "fecha_fabricacion":  "23-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-23112026 NV",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "23-05-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  375,
+                      "fecha_fabricacion":  "20-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E-0527-201126",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "20-05-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
+                      "cantidad":  189,
+                      "fecha_fabricacion":  "23-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "E-0527-231126",
                       "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "23-05-2027"
@@ -6083,16 +6050,6 @@
                   },
                   {
                       "codigo":  "4MTO046",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "09-11-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1128-09112026",
-                      "descripcion":  "SALSA PARA PIZZAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-11-2028"
-                  },
-                  {
-                      "codigo":  "4MTO046",
                       "cantidad":  6,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "ZULIA",
@@ -6153,16 +6110,6 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "09-11-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1128-091126",
-                      "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "09-11-2028"
-                  },
-                  {
-                      "codigo":  "4MTO050",
                       "cantidad":  11,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "ZULIA",
@@ -6183,7 +6130,7 @@
                   },
                   {
                       "codigo":  "4MTO052",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-221026",
@@ -6243,16 +6190,6 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  1,
-                      "fecha_fabricacion":  "22-10-2026",
-                      "ubicacion":  "CAPITAL",
-                      "lote":  "1028-221026",
-                      "descripcion":  "SALSA DE TOMATE CON ALBAHACA 12 X 490 GRS",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "22-10-2028"
-                  },
-                  {
-                      "codigo":  "4MTO054",
                       "cantidad":  8,
                       "fecha_fabricacion":  "22-10-2026",
                       "ubicacion":  "ZULIA",
@@ -6273,7 +6210,7 @@
                   },
                   {
                       "codigo":  "4MTO056",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "21-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-211026",
@@ -6613,6 +6550,26 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  96,
+                      "fecha_fabricacion":  "18-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-181126",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "18-11-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
+                      "cantidad":  75,
+                      "fecha_fabricacion":  "26-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-261126",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-11-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  6,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
@@ -6622,5 +6579,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62292
+    "total_general_cajas":  63022
 };
