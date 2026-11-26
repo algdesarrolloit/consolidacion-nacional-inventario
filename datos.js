@@ -134,14 +134,14 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  77552.4,
-                          "cajas":  49364
+                          "cajas":  48951
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1922
+                          "cajas":  2182
                       },
                       {
                           "almacen":  "ANDES",
@@ -226,9 +226,9 @@
                           "um":  "CJ",
                           "andes":  63,
                           "margarita":  24,
-                          "capital":  6,
+                          "capital":  46,
                           "barcelona":  25,
-                          "cagua":  499,
+                          "cagua":  459,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
                           "barquisimeto":  59,
                           "bolivar":  57
@@ -330,9 +330,9 @@
                           "um":  "CJ",
                           "andes":  245,
                           "margarita":  172,
-                          "capital":  68,
+                          "capital":  67,
                           "barcelona":  0,
-                          "cagua":  5468,
+                          "cagua":  5467,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 397GR",
                           "barquisimeto":  0,
                           "bolivar":  184
@@ -486,9 +486,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  4,
-                          "capital":  0,
+                          "capital":  117,
                           "barcelona":  40,
-                          "cagua":  1053,
+                          "cagua":  936,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -499,9 +499,9 @@
                           "um":  "CJ",
                           "andes":  0,
                           "margarita":  13,
-                          "capital":  19,
+                          "capital":  124,
                           "barcelona":  40,
-                          "cagua":  1268,
+                          "cagua":  1163,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  14
@@ -566,7 +566,7 @@
                           "margarita":  9,
                           "capital":  10,
                           "barcelona":  35,
-                          "cagua":  553,
+                          "cagua":  453,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  113,
                           "bolivar":  43
@@ -631,7 +631,7 @@
                           "margarita":  21,
                           "capital":  29,
                           "barcelona":  0,
-                          "cagua":  349,
+                          "cagua":  299,
                           "descripcion":  "SALSA BARBECUE 24 X 400 GR",
                           "barquisimeto":  0,
                           "bolivar":  16
@@ -772,7 +772,7 @@
                           "um":  "CJ",
                           "andes":  20,
                           "margarita":  23,
-                          "capital":  44,
+                          "capital":  43,
                           "barcelona":  9,
                           "cagua":  722,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 14:20:46",
+    "ultima_actualizacion":  "26/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1353,7 +1353,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  499,
+                      "cantidad":  459,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0527-31052026",
@@ -1363,7 +1363,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  6,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -2143,7 +2143,7 @@
                   },
                   {
                       "codigo":  "4MKE004",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "29-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-291026",
@@ -3433,9 +3433,19 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  122,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAGUA",
+                      "lote":  "1128-251126 NV",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  117,
+                      "fecha_fabricacion":  "25-11-2026",
+                      "ubicacion":  "CAPITAL",
                       "lote":  "1128-251126 NV",
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
@@ -3493,7 +3503,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  1245,
+                      "cantidad":  1140,
                       "fecha_fabricacion":  "24-11-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "1128-24112026",
@@ -3510,6 +3520,16 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  105,
+                      "fecha_fabricacion":  "24-11-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "1128-24112026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-11-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -5753,7 +5773,7 @@
                   },
                   {
                       "codigo":  "4MTO017",
-                      "cantidad":  44,
+                      "cantidad":  43,
                       "fecha_fabricacion":  "25-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0828-25082026",
@@ -6612,5 +6632,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  63014
+    "total_general_cajas":  62861
 };
