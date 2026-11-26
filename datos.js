@@ -134,7 +134,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  77497.4,
-                          "cajas":  46681
+                          "cajas":  49466
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -488,7 +488,7 @@
                           "margarita":  4,
                           "capital":  0,
                           "barcelona":  40,
-                          "cagua":  397,
+                          "cagua":  1099,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -501,7 +501,7 @@
                           "margarita":  13,
                           "capital":  20,
                           "barcelona":  40,
-                          "cagua":  23,
+                          "cagua":  1268,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  0,
                           "bolivar":  14
@@ -553,7 +553,7 @@
                           "margarita":  13,
                           "capital":  25,
                           "barcelona":  24,
-                          "cagua":  29,
+                          "cagua":  835,
                           "descripcion":  "SALSA PICANTE 24 X 150 CC",
                           "barquisimeto":  34,
                           "bolivar":  16
@@ -904,7 +904,7 @@
                           "margarita":  0,
                           "capital":  10,
                           "barcelona":  1,
-                          "cagua":  13,
+                          "cagua":  45,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
                           "barquisimeto":  0,
                           "bolivar":  3
@@ -949,7 +949,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "26/11/2026 08:50:46",
+    "ultima_actualizacion":  "26/11/2026 09:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -3433,6 +3433,16 @@
                   },
                   {
                       "codigo":  "4MNA025",
+                      "cantidad":  702,
+                      "fecha_fabricacion":  "25-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-25112026",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
                       "cantidad":  229,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAGUA",
@@ -3500,6 +3510,16 @@
                       "descripcion":  "ALCAPARRAS 12 X 500GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA027",
+                      "cantidad":  1245,
+                      "fecha_fabricacion":  "24-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-24112026",
+                      "descripcion":  "ALCAPARRAS 12 X 500GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "24-11-2028"
                   },
                   {
                       "codigo":  "4MNA027",
@@ -4000,6 +4020,16 @@
                       "descripcion":  "SALSA PICANTE 24 X 150 CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "04-11-2028"
+                  },
+                  {
+                      "codigo":  "4MSA008",
+                      "cantidad":  806,
+                      "fecha_fabricacion":  "25-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-25112026",
+                      "descripcion":  "SALSA PICANTE 24 X 150 CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "25-11-2028"
                   },
                   {
                       "codigo":  "4MSA008",
@@ -6583,6 +6613,16 @@
                   },
                   {
                       "codigo":  "4MVI006",
+                      "cantidad":  32,
+                      "fecha_fabricacion":  "17-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-171126",
+                      "descripcion":  "VINAGRE 4 X 3.785 L",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "17-11-2028"
+                  },
+                  {
+                      "codigo":  "4MVI006",
                       "cantidad":  10,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
@@ -6592,5 +6632,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  60764
+    "total_general_cajas":  63549
 };
