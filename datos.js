@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  70827.4,
-                          "cajas":  50418
+                          "cajas":  50218
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -108,7 +108,7 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3128
+                          "cajas":  3080
                       },
                       {
                           "almacen":  "MARGARITA",
@@ -129,7 +129,7 @@
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1563
+                          "cajas":  1589
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -148,7 +148,7 @@
                           "andes":  84,
                           "margarita":  36,
                           "capital":  49,
-                          "barcelona":  45,
+                          "barcelona":  47,
                           "cagua":  203,
                           "descripcion":  "MINI PANETTONE FRUTAS BAUDUCCO 24 X 80GR",
                           "barquisimeto":  50,
@@ -278,7 +278,7 @@
                           "andes":  119,
                           "margarita":  28,
                           "capital":  35,
-                          "barcelona":  91,
+                          "barcelona":  112,
                           "cagua":  529,
                           "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
                           "barquisimeto":  80,
@@ -382,7 +382,7 @@
                           "andes":  121,
                           "margarita":  7,
                           "capital":  11,
-                          "barcelona":  83,
+                          "barcelona":  84,
                           "cagua":  754,
                           "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                           "barquisimeto":  72,
@@ -448,7 +448,7 @@
                           "margarita":  0,
                           "capital":  8,
                           "barcelona":  0,
-                          "cagua":  2198,
+                          "cagua":  2148,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -486,7 +486,7 @@
                           "andes":  60,
                           "margarita":  17,
                           "capital":  10,
-                          "barcelona":  7,
+                          "barcelona":  9,
                           "cagua":  938,
                           "descripcion":  "SALSA DE SOYA 24 X 150CC",
                           "barquisimeto":  66,
@@ -522,11 +522,11 @@
                           "zulia":  0,
                           "codigo":  "4MSA009",
                           "um":  "CJ",
-                          "andes":  55,
+                          "andes":  14,
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  183,
+                          "cagua":  33,
                           "descripcion":  "TRIPACK SALSA DE INGREDIENTES 150CC X 3 X 8",
                           "barquisimeto":  87,
                           "bolivar":  0
@@ -782,7 +782,7 @@
                           "zulia":  9,
                           "codigo":  "4MTO050",
                           "um":  "CJ",
-                          "andes":  48,
+                          "andes":  45,
                           "margarita":  10,
                           "capital":  0,
                           "barcelona":  11,
@@ -808,7 +808,7 @@
                           "zulia":  5,
                           "codigo":  "4MTO054",
                           "um":  "CJ",
-                          "andes":  38,
+                          "andes":  34,
                           "margarita":  10,
                           "capital":  0,
                           "barcelona":  11,
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/11/2026 14:20:46",
+    "ultima_actualizacion":  "27/11/2026 14:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -980,7 +980,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  45,
+                      "cantidad":  47,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0627-150626",
@@ -1860,7 +1860,17 @@
                   },
                   {
                       "codigo":  "4MKE003",
-                      "cantidad":  91,
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "28-07-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "0728-28072026",
+                      "descripcion":  "SALSA DE TOMATE KETCHUP 24 X 198GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "28-07-2028"
+                  },
+                  {
+                      "codigo":  "4MKE003",
+                      "cantidad":  111,
                       "fecha_fabricacion":  "30-09-2026",
                       "ubicacion":  "BARCELONA",
                       "lote":  "0928-300926",
@@ -2740,7 +2750,7 @@
                   },
                   {
                       "codigo":  "4MNA008",
-                      "cantidad":  53,
+                      "cantidad":  48,
                       "fecha_fabricacion":  "16-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-16112026NV",
@@ -2857,6 +2867,16 @@
                       "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "11-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA009",
+                      "cantidad":  1,
+                      "fecha_fabricacion":  "10-11-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1128-101126",
+                      "descripcion":  "ACEITUNAS ENTERAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "09-11-2028"
                   },
                   {
                       "codigo":  "4MNA009",
@@ -3490,7 +3510,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  14,
+                      "cantidad":  2,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "BOLIVAR",
                       "lote":  "1128-171126",
@@ -3687,6 +3707,16 @@
                       "descripcion":  "SALSA DE SOYA 24 X 150CC",
                       "um":  "CJ",
                       "fecha_vencimiento":  "22-10-2028"
+                  },
+                  {
+                      "codigo":  "4MSA006",
+                      "cantidad":  2,
+                      "fecha_fabricacion":  "16-10-2026",
+                      "ubicacion":  "BARCELONA",
+                      "lote":  "1028-161026",
+                      "descripcion":  "SALSA DE SOYA 24 X 150CC",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "16-10-2028"
                   },
                   {
                       "codigo":  "4MSA006",
@@ -4080,7 +4110,7 @@
                   },
                   {
                       "codigo":  "4MSA009",
-                      "cantidad":  55,
+                      "cantidad":  14,
                       "fecha_fabricacion":  "16-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-16102026",
@@ -6100,7 +6130,7 @@
                   },
                   {
                       "codigo":  "4MTO050",
-                      "cantidad":  48,
+                      "cantidad":  45,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-091126",
@@ -6190,7 +6220,7 @@
                   },
                   {
                       "codigo":  "4MTO054",
-                      "cantidad":  38,
+                      "cantidad":  34,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-09112026",
@@ -6639,5 +6669,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62516
+    "total_general_cajas":  62294
 };
