@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  70827.4,
-                          "cajas":  49182
+                          "cajas":  52883
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -344,7 +344,7 @@
                           "margarita":  172,
                           "capital":  73,
                           "barcelona":  311,
-                          "cagua":  6072,
+                          "cagua":  8277,
                           "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
                           "barquisimeto":  78,
                           "bolivar":  240
@@ -448,7 +448,7 @@
                           "margarita":  4,
                           "capital":  8,
                           "barcelona":  40,
-                          "cagua":  936,
+                          "cagua":  2432,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/11/2026 07:50:46",
+    "ultima_actualizacion":  "27/11/2026 08:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -2520,6 +2520,16 @@
                   },
                   {
                       "codigo":  "4MMA006",
+                      "cantidad":  2205,
+                      "fecha_fabricacion":  "26-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "0527-26112026",
+                      "descripcion":  "MAYONESA VIDRIO 12 X 445GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-05-2027"
+                  },
+                  {
+                      "codigo":  "4MMA006",
                       "cantidad":  375,
                       "fecha_fabricacion":  "20-11-2026",
                       "ubicacion":  "CAGUA",
@@ -3367,6 +3377,16 @@
                       "descripcion":  "ALCAPARRAS 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "25-11-2028"
+                  },
+                  {
+                      "codigo":  "4MNA025",
+                      "cantidad":  1496,
+                      "fecha_fabricacion":  "26-11-2026",
+                      "ubicacion":  "CAGUA",
+                      "lote":  "1128-26112026 NV",
+                      "descripcion":  "ALCAPARRAS 24 X 200GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "26-11-2028"
                   },
                   {
                       "codigo":  "4MNA025",
@@ -6489,5 +6509,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62646
+    "total_general_cajas":  66347
 };
