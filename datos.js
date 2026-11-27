@@ -108,21 +108,21 @@
                           "campo":  "andes",
                           "codigo":  "AND",
                           "kg":  0,
-                          "cajas":  3453
+                          "cajas":  3128
                       },
                       {
                           "almacen":  "MARGARITA",
                           "campo":  "margarita",
                           "codigo":  "MAR",
                           "kg":  0,
-                          "cajas":  868
+                          "cajas":  865
                       },
                       {
                           "almacen":  "ZULIA",
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  1372
+                          "cajas":  1349
                       },
                       {
                           "almacen":  "BARCELONA",
@@ -136,13 +136,13 @@
                           "campo":  "bolivar",
                           "codigo":  "BOL",
                           "kg":  0,
-                          "cajas":  1676
+                          "cajas":  1682
                       }
                   ],
     "total_general_kg":  70827.4,
     "productos":  [
                       {
-                          "zulia":  22,
+                          "zulia":  19,
                           "codigo":  "4CNA016",
                           "um":  "CJ",
                           "andes":  84,
@@ -168,7 +168,7 @@
                           "bolivar":  67
                       },
                       {
-                          "zulia":  11,
+                          "zulia":  8,
                           "codigo":  "4CNA018",
                           "um":  "CJ",
                           "andes":  128,
@@ -249,8 +249,8 @@
                           "zulia":  57,
                           "codigo":  "4MES002",
                           "um":  "CJ",
-                          "andes":  73,
-                          "margarita":  25,
+                          "andes":  58,
+                          "margarita":  22,
                           "capital":  56,
                           "barcelona":  20,
                           "cagua":  520,
@@ -298,7 +298,7 @@
                           "bolivar":  178
                       },
                       {
-                          "zulia":  25,
+                          "zulia":  23,
                           "codigo":  "4MKE009",
                           "um":  "CJ",
                           "andes":  62,
@@ -314,7 +314,7 @@
                           "zulia":  27,
                           "codigo":  "4MKE011",
                           "um":  "CJ",
-                          "andes":  27,
+                          "andes":  17,
                           "margarita":  0,
                           "capital":  15,
                           "barcelona":  7,
@@ -353,7 +353,7 @@
                           "zulia":  22,
                           "codigo":  "4MMA011",
                           "um":  "CJ",
-                          "andes":  26,
+                          "andes":  6,
                           "margarita":  8,
                           "capital":  8,
                           "barcelona":  14,
@@ -373,7 +373,7 @@
                           "cagua":  1658,
                           "descripcion":  "ACEITUNAS ENTERAS 12 X 500GR",
                           "barquisimeto":  92,
-                          "bolivar":  41
+                          "bolivar":  42
                       },
                       {
                           "zulia":  48,
@@ -389,23 +389,23 @@
                           "bolivar":  83
                       },
                       {
-                          "zulia":  0,
+                          "zulia":  3,
                           "codigo":  "4MNA010",
                           "um":  "CJ",
-                          "andes":  167,
+                          "andes":  62,
                           "margarita":  45,
                           "capital":  35,
                           "barcelona":  102,
                           "cagua":  3256,
                           "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
                           "barquisimeto":  42,
-                          "bolivar":  64
+                          "bolivar":  65
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  28,
                           "codigo":  "4MNA011",
                           "um":  "CJ",
-                          "andes":  46,
+                          "andes":  18,
                           "margarita":  9,
                           "capital":  101,
                           "barcelona":  0,
@@ -425,7 +425,7 @@
                           "cagua":  1305,
                           "descripcion":  "ENCURTIDOS 12 X 500GR",
                           "barquisimeto":  182,
-                          "bolivar":  45
+                          "bolivar":  46
                       },
                       {
                           "zulia":  0,
@@ -444,7 +444,7 @@
                           "zulia":  0,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
-                          "andes":  151,
+                          "andes":  71,
                           "margarita":  0,
                           "capital":  8,
                           "barcelona":  0,
@@ -457,7 +457,7 @@
                           "zulia":  0,
                           "codigo":  "4MNA027",
                           "um":  "CJ",
-                          "andes":  63,
+                          "andes":  41,
                           "margarita":  13,
                           "capital":  121,
                           "barcelona":  24,
@@ -470,7 +470,7 @@
                           "zulia":  57,
                           "codigo":  "4MSA005",
                           "um":  "CJ",
-                          "andes":  41,
+                          "andes":  31,
                           "margarita":  0,
                           "capital":  8,
                           "barcelona":  0,
@@ -496,14 +496,14 @@
                           "zulia":  20,
                           "codigo":  "4MSA007",
                           "um":  "CJ",
-                          "andes":  104,
+                          "andes":  94,
                           "margarita":  15,
                           "capital":  0,
                           "barcelona":  13,
                           "cagua":  2194,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
                           "barquisimeto":  63,
-                          "bolivar":  52
+                          "bolivar":  53
                       },
                       {
                           "zulia":  26,
@@ -584,7 +584,7 @@
                           "bolivar":  14
                       },
                       {
-                          "zulia":  29,
+                          "zulia":  26,
                           "codigo":  "4MSU005",
                           "um":  "CJ",
                           "andes":  24,
@@ -613,7 +613,7 @@
                           "zulia":  0,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
-                          "andes":  93,
+                          "andes":  83,
                           "margarita":  17,
                           "capital":  30,
                           "barcelona":  4,
@@ -675,7 +675,7 @@
                           "bolivar":  0
                       },
                       {
-                          "zulia":  38,
+                          "zulia":  33,
                           "codigo":  "4MTO013",
                           "um":  "CJ",
                           "andes":  174,
@@ -685,7 +685,7 @@
                           "cagua":  1013,
                           "descripcion":  "SALSA A BASE DE TOMATES LA HACIENDA 24 X 380GR",
                           "barquisimeto":  17,
-                          "bolivar":  29
+                          "bolivar":  30
                       },
                       {
                           "zulia":  0,
@@ -704,7 +704,7 @@
                           "zulia":  11,
                           "codigo":  "4MTO015",
                           "um":  "CJ",
-                          "andes":  51,
+                          "andes":  46,
                           "margarita":  3,
                           "capital":  9,
                           "barcelona":  11,
@@ -737,7 +737,7 @@
                           "cagua":  722,
                           "descripcion":  "SALSA NAPOLITANA 24 X 190GR",
                           "barquisimeto":  14,
-                          "bolivar":  29
+                          "bolivar":  30
                       },
                       {
                           "zulia":  0,
@@ -860,7 +860,7 @@
                           "zulia":  0,
                           "codigo":  "4MVI006",
                           "um":  "CJ",
-                          "andes":  28,
+                          "andes":  18,
                           "margarita":  0,
                           "capital":  6,
                           "barcelona":  0,
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/11/2026 13:51:04",
+    "ultima_actualizacion":  "27/11/2026 14:20:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1050,7 +1050,7 @@
                   },
                   {
                       "codigo":  "4CNA016",
-                      "cantidad":  22,
+                      "cantidad":  19,
                       "fecha_fabricacion":  "15-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0627-150626",
@@ -1260,7 +1260,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  11,
+                      "cantidad":  8,
                       "fecha_fabricacion":  "23-05-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0527-230526",
@@ -1620,23 +1620,13 @@
                   },
                   {
                       "codigo":  "4MES002",
-                      "cantidad":  60,
+                      "cantidad":  58,
                       "fecha_fabricacion":  "16-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-160926",
                       "descripcion":  "ADOBO COMPLETO 24 X 200GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "16-09-2028"
-                  },
-                  {
-                      "codigo":  "4MES002",
-                      "cantidad":  13,
-                      "fecha_fabricacion":  "17-09-2026",
-                      "ubicacion":  "ANDES",
-                      "lote":  "0928-170926",
-                      "descripcion":  "ADOBO COMPLETO 24 X 200GR",
-                      "um":  "CJ",
-                      "fecha_vencimiento":  "17-09-2028"
                   },
                   {
                       "codigo":  "4MES002",
@@ -2180,7 +2170,7 @@
                   },
                   {
                       "codigo":  "4MKE009",
-                      "cantidad":  25,
+                      "cantidad":  23,
                       "fecha_fabricacion":  "30-07-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0728-300726",
@@ -2190,7 +2180,7 @@
                   },
                   {
                       "codigo":  "4MKE011",
-                      "cantidad":  27,
+                      "cantidad":  17,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-01092026",
@@ -2590,7 +2580,7 @@
                   },
                   {
                       "codigo":  "4MMA011",
-                      "cantidad":  26,
+                      "cantidad":  6,
                       "fecha_fabricacion":  "05-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0327-05112026",
@@ -2950,7 +2940,7 @@
                   },
                   {
                       "codigo":  "4MNA010",
-                      "cantidad":  167,
+                      "cantidad":  62,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-171126",
@@ -3059,8 +3049,18 @@
                       "fecha_vencimiento":  "20-02-2028"
                   },
                   {
+                      "codigo":  "4MNA010",
+                      "cantidad":  3,
+                      "fecha_fabricacion":  "07-07-2026",
+                      "ubicacion":  "ZULIA",
+                      "lote":  "0728-070726",
+                      "descripcion":  "ACEITUNAS RELLENAS C/PIMIENTO 12 X 490GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "07-07-2028"
+                  },
+                  {
                       "codigo":  "4MNA011",
-                      "cantidad":  46,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "13-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-131126",
@@ -3130,7 +3130,7 @@
                   },
                   {
                       "codigo":  "4MNA011",
-                      "cantidad":  38,
+                      "cantidad":  28,
                       "fecha_fabricacion":  "11-11-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "1128-11126",
@@ -3420,7 +3420,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  151,
+                      "cantidad":  71,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-251126",
@@ -3470,7 +3470,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  63,
+                      "cantidad":  41,
                       "fecha_fabricacion":  "24-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-24112026",
@@ -3540,7 +3540,7 @@
                   },
                   {
                       "codigo":  "4MSA005",
-                      "cantidad":  41,
+                      "cantidad":  31,
                       "fecha_fabricacion":  "19-10-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1028-19102026",
@@ -3840,7 +3840,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  104,
+                      "cantidad":  94,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-09112026",
@@ -4790,7 +4790,7 @@
                   },
                   {
                       "codigo":  "4MSU005",
-                      "cantidad":  29,
+                      "cantidad":  26,
                       "fecha_fabricacion":  "18-09-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0928-18092026",
@@ -4820,7 +4820,7 @@
                   },
                   {
                       "codigo":  "4MSU015",
-                      "cantidad":  93,
+                      "cantidad":  83,
                       "fecha_fabricacion":  "12-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1127-121126",
@@ -5420,7 +5420,7 @@
                   },
                   {
                       "codigo":  "4MTO013",
-                      "cantidad":  38,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "30-06-2026",
                       "ubicacion":  "ZULIA",
                       "lote":  "0628-300626",
@@ -5500,7 +5500,7 @@
                   },
                   {
                       "codigo":  "4MTO015",
-                      "cantidad":  51,
+                      "cantidad":  46,
                       "fecha_fabricacion":  "23-09-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "0928-230926",
@@ -6550,7 +6550,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  28,
+                      "cantidad":  18,
                       "fecha_fabricacion":  "18-11-2026",
                       "ubicacion":  "ANDES",
                       "lote":  "1128-181126",
@@ -6639,5 +6639,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  62861
+    "total_general_cajas":  62516
 };
