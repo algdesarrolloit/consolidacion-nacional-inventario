@@ -94,7 +94,7 @@
                           "campo":  "cagua",
                           "codigo":  "CAG",
                           "kg":  70827.4,
-                          "cajas":  52833
+                          "cajas":  52832
                       },
                       {
                           "almacen":  "CAPITAL",
@@ -786,7 +786,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  12,
-                          "cagua":  191,
+                          "cagua":  190,
                           "descripcion":  "SALSA DE TOMATE CON ACEITUNAS 12 X 490 GRS",
                           "barquisimeto":  1,
                           "bolivar":  16
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "27/11/2026 09:20:46",
+    "ultima_actualizacion":  "27/11/2026 09:50:46",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -4911,12 +4911,12 @@
                   {
                       "codigo":  "4MSU017",
                       "cantidad":  14,
-                      "fecha_fabricacion":  "21-10-2026",
+                      "fecha_fabricacion":  "15-10-2026",
                       "ubicacion":  "ZULIA",
-                      "lote":  "1027-21102026",
+                      "lote":  "1027-151026",
                       "descripcion":  "MOSTAZA PREMIUM 4 X 3.79 KG",
                       "um":  "CJ",
-                      "fecha_vencimiento":  "21-10-2027"
+                      "fecha_vencimiento":  "15-10-2027"
                   },
                   {
                       "codigo":  "4MSU018",
@@ -6469,5 +6469,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  65935
+    "total_general_cajas":  65934
 };
