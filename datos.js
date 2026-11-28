@@ -27,8 +27,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  39037.4,
-                                                              "bidones":  650.62
+                                                              "kg":  38917.4,
+                                                              "bidones":  648.62
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -67,8 +67,8 @@
                                                                   "bidones":  0
                                                               },
                                                 "cagua":  {
-                                                              "kg":  31570,
-                                                              "bidones":  574
+                                                              "kg":  30800,
+                                                              "bidones":  560
                                                           },
                                                 "barquisimeto":  {
                                                                      "kg":  0,
@@ -93,15 +93,15 @@
                           "almacen":  "CAGUA",
                           "campo":  "cagua",
                           "codigo":  "CAG",
-                          "kg":  70607.4,
-                          "cajas":  46579
+                          "kg":  69717.4,
+                          "cajas":  46568
                       },
                       {
                           "almacen":  "CAPITAL",
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  2031
+                          "cajas":  2033
                       },
                       {
                           "almacen":  "ANDES",
@@ -122,14 +122,14 @@
                           "campo":  "zulia",
                           "codigo":  "ZUL",
                           "kg":  0,
-                          "cajas":  3005
+                          "cajas":  2930
                       },
                       {
                           "almacen":  "BARCELONA",
                           "campo":  "barcelona",
                           "codigo":  "BAR",
                           "kg":  0,
-                          "cajas":  1588
+                          "cajas":  1583
                       },
                       {
                           "almacen":  "BOLIVAR",
@@ -139,7 +139,7 @@
                           "cajas":  1682
                       }
                   ],
-    "total_general_kg":  70607.4,
+    "total_general_kg":  69717.4,
     "productos":  [
                       {
                           "zulia":  39,
@@ -173,9 +173,9 @@
                           "um":  "CJ",
                           "andes":  128,
                           "margarita":  39,
-                          "capital":  24,
+                          "capital":  35,
                           "barcelona":  30,
-                          "cagua":  997,
+                          "cagua":  986,
                           "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                           "barquisimeto":  49,
                           "bolivar":  52
@@ -441,7 +441,7 @@
                           "bolivar":  54
                       },
                       {
-                          "zulia":  234,
+                          "zulia":  188,
                           "codigo":  "4MNA025",
                           "um":  "CJ",
                           "andes":  71,
@@ -460,7 +460,7 @@
                           "andes":  41,
                           "margarita":  13,
                           "capital":  88,
-                          "barcelona":  24,
+                          "barcelona":  19,
                           "cagua":  583,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
                           "barquisimeto":  105,
@@ -498,7 +498,7 @@
                           "um":  "CJ",
                           "andes":  94,
                           "margarita":  15,
-                          "capital":  60,
+                          "capital":  59,
                           "barcelona":  13,
                           "cagua":  2124,
                           "descripcion":  "SALSA INGLESA 24 X 150 CC",
@@ -597,7 +597,7 @@
                           "bolivar":  15
                       },
                       {
-                          "zulia":  160,
+                          "zulia":  146,
                           "codigo":  "4MSU015",
                           "um":  "CJ",
                           "andes":  83,
@@ -727,7 +727,7 @@
                           "bolivar":  30
                       },
                       {
-                          "zulia":  240,
+                          "zulia":  225,
                           "codigo":  "4MTO018",
                           "um":  "CJ",
                           "andes":  56,
@@ -823,7 +823,7 @@
                           "um":  "CJ",
                           "andes":  16,
                           "margarita":  26,
-                          "capital":  80,
+                          "capital":  73,
                           "barcelona":  0,
                           "cagua":  1531,
                           "descripcion":  "VINAGRE 12 X 1000ML",
@@ -836,7 +836,7 @@
                           "um":  "CJ",
                           "andes":  36,
                           "margarita":  25,
-                          "capital":  64,
+                          "capital":  63,
                           "barcelona":  57,
                           "cagua":  1066,
                           "descripcion":  "VINAGRE 24 X 500ML",
@@ -864,7 +864,7 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  39037.4,
+                          "cagua":  38917.4,
                           "descripcion":  "ACEITUNAS ENTERAS",
                           "barquisimeto":  0,
                           "bolivar":  0
@@ -877,17 +877,17 @@
                           "margarita":  0,
                           "capital":  0,
                           "barcelona":  0,
-                          "cagua":  31570,
+                          "cagua":  30800,
                           "descripcion":  "ACEITUNAS RELLENA CON PIMIENTO",
                           "barquisimeto":  0,
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/11/2026 10:50:47",
+    "ultima_actualizacion":  "28/11/2026 11:20:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
-                      "cantidad":  7057.4,
+                      "cantidad":  6937.4,
                       "fecha_fabricacion":  "11-11-2025",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0927-111125-396",
@@ -917,7 +917,7 @@
                   },
                   {
                       "codigo":  "1VEG002",
-                      "cantidad":  3026,
+                      "cantidad":  2256,
                       "fecha_fabricacion":  "01-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "MP 0628-050926-221",
@@ -1187,7 +1187,7 @@
                   },
                   {
                       "codigo":  "4CNA018",
-                      "cantidad":  782,
+                      "cantidad":  771,
                       "fecha_fabricacion":  "13-06-2026",
                       "ubicacion":  "CAGUA",
                       "lote":  "0627-130626",
@@ -1214,6 +1214,16 @@
                       "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
                       "um":  "CJ",
                       "fecha_vencimiento":  "12-06-2027"
+                  },
+                  {
+                      "codigo":  "4CNA018",
+                      "cantidad":  11,
+                      "fecha_fabricacion":  "13-06-2026",
+                      "ubicacion":  "CAPITAL",
+                      "lote":  "0627-130626",
+                      "descripcion":  "MINI PANETTONE BAUDUCCO  GOTAS CHOCOLATE 24 X 80GR",
+                      "um":  "CJ",
+                      "fecha_vencimiento":  "13-06-2027"
                   },
                   {
                       "codigo":  "4CNA018",
@@ -3967,7 +3977,7 @@
                   },
                   {
                       "codigo":  "4MSA007",
-                      "cantidad":  60,
+                      "cantidad":  59,
                       "fecha_fabricacion":  "09-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-09112026",
@@ -6417,7 +6427,7 @@
                   },
                   {
                       "codigo":  "4MVI002",
-                      "cantidad":  80,
+                      "cantidad":  78,
                       "fecha_fabricacion":  "24-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0928-240926",
@@ -6537,7 +6547,7 @@
                   },
                   {
                       "codigo":  "4MVI004",
-                      "cantidad":  64,
+                      "cantidad":  63,
                       "fecha_fabricacion":  "06-10-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1028-061026",
@@ -6696,5 +6706,5 @@
                       "fecha_vencimiento":  "18-11-2028"
                   }
               ],
-    "total_general_cajas":  62105
+    "total_general_cajas":  62016
 };
