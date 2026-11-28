@@ -101,7 +101,7 @@
                           "campo":  "capital",
                           "codigo":  "CAP",
                           "kg":  0,
-                          "cajas":  1470
+                          "cajas":  1453
                       },
                       {
                           "almacen":  "ANDES",
@@ -186,7 +186,7 @@
                           "um":  "CJ",
                           "andes":  56,
                           "margarita":  2,
-                          "capital":  38,
+                          "capital":  37,
                           "barcelona":  23,
                           "cagua":  456,
                           "descripcion":  "PANETTONE BAUDUCCO  GOTAS CHOCOLATE 18 X 400GR",
@@ -446,7 +446,7 @@
                           "um":  "CJ",
                           "andes":  71,
                           "margarita":  0,
-                          "capital":  5,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  2148,
                           "descripcion":  "ALCAPARRAS 24 X 200GR",
@@ -459,7 +459,7 @@
                           "um":  "CJ",
                           "andes":  41,
                           "margarita":  13,
-                          "capital":  90,
+                          "capital":  89,
                           "barcelona":  24,
                           "cagua":  808,
                           "descripcion":  "ALCAPARRAS 12 X 500GR",
@@ -537,7 +537,7 @@
                           "um":  "CJ",
                           "andes":  14,
                           "margarita":  9,
-                          "capital":  24,
+                          "capital":  20,
                           "barcelona":  9,
                           "cagua":  309,
                           "descripcion":  "SALSA INGLESA 4 X 3.785 L",
@@ -550,7 +550,7 @@
                           "um":  "CJ",
                           "andes":  32,
                           "margarita":  8,
-                          "capital":  22,
+                          "capital":  18,
                           "barcelona":  9,
                           "cagua":  207,
                           "descripcion":  "SALSA DE SOYA 4 X 3.785 L",
@@ -563,7 +563,7 @@
                           "um":  "CJ",
                           "andes":  43,
                           "margarita":  4,
-                          "capital":  71,
+                          "capital":  67,
                           "barcelona":  4,
                           "cagua":  79,
                           "descripcion":  "SALSA DE AJO 4 X 3.785 L",
@@ -862,7 +862,7 @@
                           "um":  "CJ",
                           "andes":  18,
                           "margarita":  0,
-                          "capital":  6,
+                          "capital":  4,
                           "barcelona":  0,
                           "cagua":  137,
                           "descripcion":  "VINAGRE 4 X 3.785 L",
@@ -896,7 +896,7 @@
                           "bolivar":  0
                       }
                   ],
-    "ultima_actualizacion":  "28/11/2026 08:20:47",
+    "ultima_actualizacion":  "28/11/2026 08:50:47",
     "lotes":  [
                   {
                       "codigo":  "1VEG001",
@@ -1320,7 +1320,7 @@
                   },
                   {
                       "codigo":  "4CNA019",
-                      "cantidad":  38,
+                      "cantidad":  37,
                       "fecha_fabricacion":  "31-05-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0527-31052026",
@@ -3370,7 +3370,7 @@
                   },
                   {
                       "codigo":  "4MNA025",
-                      "cantidad":  5,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "25-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-251126 NV",
@@ -3420,7 +3420,7 @@
                   },
                   {
                       "codigo":  "4MNA027",
-                      "cantidad":  90,
+                      "cantidad":  89,
                       "fecha_fabricacion":  "24-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-24112026",
@@ -4110,7 +4110,7 @@
                   },
                   {
                       "codigo":  "4MSA013",
-                      "cantidad":  9,
+                      "cantidad":  5,
                       "fecha_fabricacion":  "26-08-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0827-26082026",
@@ -4260,7 +4260,7 @@
                   },
                   {
                       "codigo":  "4MSA015",
-                      "cantidad":  7,
+                      "cantidad":  3,
                       "fecha_fabricacion":  "01-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-01092026",
@@ -4400,7 +4400,7 @@
                   },
                   {
                       "codigo":  "4MSA017",
-                      "cantidad":  37,
+                      "cantidad":  33,
                       "fecha_fabricacion":  "08-09-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "0927-08092026",
@@ -6360,7 +6360,7 @@
                   },
                   {
                       "codigo":  "4MVI006",
-                      "cantidad":  6,
+                      "cantidad":  4,
                       "fecha_fabricacion":  "17-11-2026",
                       "ubicacion":  "CAPITAL",
                       "lote":  "1128-17112026",
@@ -6389,5 +6389,5 @@
                       "fecha_vencimiento":  "17-11-2028"
                   }
               ],
-    "total_general_cajas":  61936
+    "total_general_cajas":  61919
 };
